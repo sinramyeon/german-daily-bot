@@ -142,7 +142,7 @@ func selectDailySentence() WiseSentences {
 func formatMessage(words []Word, sentence WiseSentences) string {
     msg := "🇩🇪 *Today's German Study* 🇩🇪\n\n"
     for i, word := range words {
-        msg += fmt.Sprintf("[%s] *%d. %s*\n", word.Level, i+1, word.German)
+        msg += fmt.Sprintf("(%s) *%d. %s*\n", word.Level, i+1, word.German)
         msg += fmt.Sprintf("📖 %s\n\n", word.English)
         for _, ex := range word.Examples {
             msg += fmt.Sprintf("💬 %s\n\n", ex)

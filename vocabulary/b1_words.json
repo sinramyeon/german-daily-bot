@@ -4212,7 +4212,1789 @@
                         ],
                         "synonyms": ["schwierig", "komplex"],
                         "antonyms": ["einfach", "leicht"]
-                      }
-                    ]
+                      },
+                        {
+                          "german": "freundlich",
+                          "english": "friendly",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Er ist sehr freundlich zu allen.",
+                            "Freundliche Menschen werden geschätzt.",
+                            "Sie begrüßte uns freundlich."
+                          ],
+                          "synonyms": ["nett", "sympathisch"],
+                          "antonyms": ["unfreundlich", "streng"]
+                        },
+                        {
+                          "german": "unfreundlich",
+                          "english": "unfriendly",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Er war unfreundlich zu mir.",
+                            "Unfreundliche Menschen wirken abweisend.",
+                            "Sie sprach unfreundlich."
+                          ],
+                          "synonyms": ["streng", "herb"],
+                          "antonyms": ["freundlich", "nett"]
+                        },
+                        {
+                          "german": "nett",
+                          "english": "nice / kind",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Das war nett von dir.",
+                            "Nette Menschen helfen gerne.",
+                            "Er ist immer nett zu den Kollegen."
+                          ],
+                          "synonyms": ["freundlich", "sympathisch"],
+                          "antonyms": ["unfreundlich", "gemein"]
+                        },
+                        {
+                          "german": "sympathisch",
+                          "english": "likeable / pleasant",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Sie ist sehr sympathisch.",
+                            "Sympathische Menschen findet man angenehm.",
+                            "Er wirkt sympathisch und freundlich."
+                          ],
+                          "synonyms": ["nett", "freundlich"],
+                          "antonyms": ["unsympathisch", "unangenehm"]
+                        },
+                        {
+                          "german": "unsympathisch",
+                          "english": "unpleasant / unlikeable",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Er wirkt unsympathisch.",
+                            "Unsympathische Menschen werden gemieden.",
+                            "Sie ist unsympathisch."
+                          ],
+                          "synonyms": ["unangenehm", "unfreundlich"],
+                          "antonyms": ["sympathisch", "freundlich"]
+                        },
+                        {
+                          "german": "gemein",
+                          "english": "mean / nasty",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Er war gemein zu ihr.",
+                            "Gemeine Kommentare verletzen Menschen.",
+                            "Sie ist manchmal gemein."
+                          ],
+                          "synonyms": ["boshaft", "unfreundlich"],
+                          "antonyms": ["nett", "freundlich"]
+                        },
+                        {
+                          "german": "boshaft",
+                          "english": "malicious / spiteful",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Er machte einen boshaften Witz.",
+                            "Boshafte Menschen wollen verletzen.",
+                            "Sie ist boshaft zu ihren Kollegen."
+                          ],
+                          "synonyms": ["gemein", "hinterlistig"],
+                          "antonyms": ["freundlich", "nett"]
+                        },
+                        {
+                          "german": "hinterlistig",
+                          "english": "sneaky / deceitful",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Er ist hinterlistig.",
+                            "Hinterlistige Menschen täuschen andere.",
+                            "Sie verhält sich hinterlistig."
+                          ],
+                          "synonyms": ["boshaft", "falsch"],
+                          "antonyms": ["ehrlich", "aufrecht"]
+                        },
+                        {
+                          "german": "ehrlich",
+                          "english": "honest",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Er ist immer ehrlich.",
+                            "Ehrliche Menschen werden geschätzt.",
+                            "Sie sprach ehrlich über das Problem."
+                          ],
+                          "synonyms": ["aufrichtig", "vertrauenswürdig"],
+                          "antonyms": ["hinterlistig", "falsch"]
+                        },
+                        {
+                          "german": "aufrichtig",
+                          "english": "sincere",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Er ist aufrichtig in seinen Worten.",
+                            "Aufrichtige Menschen lügen nicht.",
+                            "Sie zeigte aufrichtiges Mitgefühl."
+                          ],
+                          "synonyms": ["ehrlich", "integriert"],
+                          "antonyms": ["falsch", "hinterlistig"]
+                        },
+                        {
+                          "german": "falsch",
+                          "english": "false / wrong",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Die Antwort ist falsch.",
+                            "Falsche Informationen verbreiten sich schnell.",
+                            "Er gab eine falsche Auskunft."
+                          ],
+                          "synonyms": ["inkorrekt", "hinterlistig"],
+                          "antonyms": ["richtig", "ehrlich"]
+                        },
+                        {
+                          "german": "richtig",
+                          "english": "correct / right",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Die Antwort ist richtig.",
+                            "Richtige Entscheidungen sind wichtig.",
+                            "Er handelt richtig."
+                          ],
+                          "synonyms": ["korrekt", "wahr"],
+                          "antonyms": ["falsch", "inkorrekt"]
+                        },
+                        {
+                          "german": "korrekt",
+                          "english": "correct / proper",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Die Angaben sind korrekt.",
+                            "Korrekte Antworten erhalten Punkte.",
+                            "Er verhielt sich korrekt."
+                          ],
+                          "synonyms": ["richtig", "ordentlich"],
+                          "antonyms": ["falsch", "inkorrekt"]
+                        },
+                        {
+                          "german": "wahr",
+                          "english": "true / real",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Das ist wahr.",
+                            "Wahre Freunde helfen dir.",
+                            "Er erzählte die wahre Geschichte."
+                          ],
+                          "synonyms": ["echt", "richtig"],
+                          "antonyms": ["falsch", "unwahr"]
+                        },
+                        {
+                          "german": "echt",
+                          "english": "genuine / real",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Das ist ein echtes Problem.",
+                            "Echte Freunde unterstützen dich.",
+                            "Er trägt echte Kleidung aus Leder."
+                          ],
+                          "synonyms": ["wahr", "authentisch"],
+                          "antonyms": ["falsch", "künstlich"]
+                        },
+                        {
+                          "german": "authentisch",
+                          "english": "authentic",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Sein Verhalten ist authentisch.",
+                            "Authentische Menschen wirken glaubwürdig.",
+                            "Die Geschichte ist authentisch."
+                          ],
+                          "synonyms": ["echt", "wahr"],
+                          "antonyms": ["falsch", "künstlich"]
+                        },
+                        {
+                          "german": "künstlich",
+                          "english": "artificial / fake",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Die Blumen sind künstlich.",
+                            "Künstliche Materialien wirken oft billig.",
+                            "Er zeigt ein künstliches Lächeln."
+                          ],
+                          "synonyms": ["unecht", "falsch"],
+                          "antonyms": ["natürlich", "echt"]
+                        },
+                        {
+                          "german": "natürlich",
+                          "english": "natural",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Das ist ein natürlicher Prozess.",
+                            "Natürliche Produkte sind beliebt.",
+                            "Sie verhält sich natürlich."
+                          ],
+                          "synonyms": ["echt", "authentisch"],
+                          "antonyms": ["künstlich", "falsch"]
+                        },
+                        {
+                          "german": "ruhig",
+                          "english": "calm / quiet",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Er ist ruhig in schwierigen Situationen.",
+                            "Ruhige Menschen wirken angenehm.",
+                            "Sie sprach ruhig."
+                          ],
+                          "synonyms": ["gelassen", "entspannt"],
+                          "antonyms": ["aufgeregt", "nervös"]
+                        },
+                        {
+                          "german": "gelassen",
+                          "english": "composed / relaxed",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Er blieb gelassen trotz der Probleme.",
+                            "Gelassene Menschen stressen sich nicht.",
+                            "Sie wirkte gelassen."
+                          ],
+                          "synonyms": ["ruhig", "entspannt"],
+                          "antonyms": ["angespannt", "nervös"]
+                        },
+                        {
+                          "german": "offen",
+                          "english": "open / open-minded",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Er ist offen für neue Ideen.",
+                            "Offene Menschen kommunizieren gut.",
+                            "Sie ist offen und ehrlich."
+                          ],
+                          "synonyms": ["aufgeschlossen", "ehrlich"],
+                          "antonyms": ["verschlossen", "geschlossen"]
+                        },
+                        {
+                          "german": "verschlossen",
+                          "english": "closed / reserved",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Er ist verschlossen und spricht wenig.",
+                            "Verschlossene Menschen zeigen selten Gefühle.",
+                            "Sie ist verschlossen gegenüber Fremden."
+                          ],
+                          "synonyms": ["reserviert", "introvertiert"],
+                          "antonyms": ["offen", "aufgeschlossen"]
+                        },
+                        {
+                          "german": "aufgeschlossen",
+                          "english": "open-minded / receptive",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Sie ist aufgeschlossen gegenüber neuen Ideen.",
+                            "Aufgeschlossene Menschen lernen schnell.",
+                            "Er ist aufgeschlossen und freundlich."
+                          ],
+                          "synonyms": ["offen", "freundlich"],
+                          "antonyms": ["verschlossen", "introvertiert"]
+                        },
+                        {
+                          "german": "introvertiert",
+                          "english": "introverted",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Er ist introvertiert und ruhig.",
+                            "Introvertierte Menschen sprechen selten.",
+                            "Sie wirkt introvertiert."
+                          ],
+                          "synonyms": ["verschlossen", "ruhig"],
+                          "antonyms": ["extrovertiert", "aufgeschlossen"]
+                        },
+                        {
+                          "german": "extrovertiert",
+                          "english": "extroverted / outgoing",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Er ist extrovertiert und gesellig.",
+                            "Extrovertierte Menschen reden viel.",
+                            "Sie wirkt extrovertiert und freundlich."
+                          ],
+                          "synonyms": ["aufgeschlossen", "gesellig"],
+                          "antonyms": ["introvertiert", "verschlossen"]
+                        },
+                        {
+                          "german": "gesellig",
+                          "english": "sociable",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Er ist gesellig und freundlich.",
+                            "Gesellige Menschen genießen Treffen.",
+                            "Sie ist sehr gesellig."
+                          ],
+                          "synonyms": ["kontaktfreudig", "freundlich"],
+                          "antonyms": ["einsam", "verschlossen"]
+                        },
+                        {
+                          "german": "einsam",
+                          "english": "lonely",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Er fühlt sich einsam.",
+                            "Einsame Menschen brauchen Gesellschaft.",
+                            "Sie lebt einsam."
+                          ],
+                          "synonyms": ["allein", "isoliert"],
+                          "antonyms": ["gesellig", "freundlich"]
+                        },
+                        {
+                          "german": "allein",
+                          "english": "alone",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Er ist allein zu Hause.",
+                            "Allein zu sein kann entspannend sein.",
+                            "Sie fühlt sich allein."
+                          ],
+                          "synonyms": ["einsam", "isoliert"],
+                          "antonyms": ["zusammen", "gesellig"]
+                        },
+                        {
+                          "german": "isoliert",
+                          "english": "isolated",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Die Region ist isoliert.",
+                            "Isolierte Menschen haben wenig Kontakt.",
+                            "Sie lebt isoliert."
+                          ],
+                          "synonyms": ["abgeschieden", "allein"],
+                          "antonyms": ["verbunden", "gesellig"]
+                        },
+                        {
+                          "german": "abgeschieden",
+                          "english": "remote / secluded",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Das Haus liegt abgeschieden.",
+                            "Abgeschiedene Orte sind ruhig.",
+                            "Sie lebt abgeschieden."
+                          ],
+                          "synonyms": ["isoliert", "einsam"],
+                          "antonyms": ["zentral", "belebt"]
+                        },
+                        {
+                          "german": "zentral",
+                          "english": "central",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Das Büro liegt zentral.",
+                            "Zentrale Lage ist praktisch.",
+                            "Die Stadt ist zentral gelegen."
+                          ],
+                          "synonyms": ["mittig", "hauptsächlich"],
+                          "antonyms": ["abgeschieden", "randständig"]
+                        },
+                        {
+                          "german": "randständig",
+                          "english": "marginal / remote",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Das Dorf liegt randständig.",
+                            "Randständige Orte sind schwer erreichbar.",
+                            "Er lebt randständig."
+                          ],
+                          "synonyms": ["isoliert", "abgelegen"],
+                          "antonyms": ["zentral", "mittig"]
+                        },
+                        {
+                          "german": "abgelegen",
+                          "english": "remote / outlying",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Das Haus liegt abgelegen.",
+                            "Abgelegene Orte sind ruhig.",
+                            "Sie lebt abgelegen."
+                          ],
+                          "synonyms": ["isoliert", "entlegen"],
+                          "antonyms": ["zentral", "nah"]
+                        },
+                        {
+                          "german": "entlegen",
+                          "english": "remote / distant",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Die Region ist entlegen.",
+                            "Entlegene Orte haben wenig Infrastruktur.",
+                            "Er reist in entlegene Gegenden."
+                          ],
+                          "synonyms": ["abgelegen", "isoliert"],
+                          "antonyms": ["zentral", "nah"]
+                        },
+                        {
+                          "german": "nah",
+                          "english": "near / close",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Die Schule ist nah.",
+                            "Er wohnt nah bei der Arbeit.",
+                            "Wir sind uns nah."
+                          ],
+                          "synonyms": ["in der Nähe", "benachbart"],
+                          "antonyms": ["fern", "entlegen"]
+                        },
+                        {
+                          "german": "fern",
+                          "english": "far / distant",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Die Stadt ist fern.",
+                            "Ferne Länder sind interessant.",
+                            "Er lebt fern von der Familie."
+                          ],
+                          "synonyms": ["weit", "entfernt"],
+                          "antonyms": ["nah", "in der Nähe"]
+                        },
+                        {
+                          "german": "weit",
+                          "english": "wide / far",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Das Feld ist weit.",
+                            "Weite Landschaften sind schön.",
+                            "Der Weg ist weit."
+                          ],
+                          "synonyms": ["fern", "groß"],
+                          "antonyms": ["nah", "eng"]
+                        },
+                        {
+                          "german": "eng",
+                          "english": "narrow / tight",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Die Straße ist eng.",
+                            "Enge Räume wirken beengt.",
+                            "Die Beziehung ist eng."
+                          ],
+                          "synonyms": ["schmal", "dicht"],
+                          "antonyms": ["weit", "locker"]
+                        },
+                        {
+                          "german": "schmal",
+                          "english": "narrow / slim",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Die Gasse ist schmal.",
+                            "Schmale Kleidung passt eng.",
+                            "Der Pfad ist schmal."
+                          ],
+                          "synonyms": ["eng", "dünn"],
+                          "antonyms": ["breit", "weit"]
+                        },
+                        {
+                          "german": "dünn",
+                          "english": "thin",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Das Papier ist dünn.",
+                            "Dünne Kleidung schützt nicht vor Kälte.",
+                            "Er ist dünn und sportlich."
+                          ],
+                          "synonyms": ["schmal", "leicht"],
+                          "antonyms": ["dick", "breit"]
+                        },
+                        {
+                          "german": "dick",
+                          "english": "thick / fat",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Das Buch ist dick.",
+                            "Dickes Brot ist sättigend.",
+                            "Er ist dick und gesund."
+                          ],
+                          "synonyms": ["fett", "breit"],
+                          "antonyms": ["dünn", "schmal"]
+                        },
+                        {
+                          "german": "breit",
+                          "english": "broad / wide",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Die Straße ist breit.",
+                            "Breite Schultern sind stark.",
+                            "Der Fluss ist breit."
+                          ],
+                          "synonyms": ["weit", "umfangreich"],
+                          "antonyms": ["schmal", "eng"]
+                        },
+                        {
+                          "german": "umfangreich",
+                          "english": "extensive / comprehensive",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Die Sammlung ist umfangreich.",
+                            "Umfangreiche Studien sind hilfreich.",
+                            "Er hat umfangreich recherchiert."
+                          ],
+                          "synonyms": ["breit", "detailliert"],
+                          "antonyms": ["klein", "begrenz"]
+                        },
+                        {
+                          "german": "detailliert",
+                          "english": "detailed",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Der Bericht ist detailliert.",
+                            "Detaillierte Informationen helfen beim Verständnis.",
+                            "Sie erklärte das Problem detailliert."
+                          ],
+                          "synonyms": ["umfassend", "ausführlich"],
+                          "antonyms": ["oberflächlich", "kurz"]
+                        },
+                        {
+                          "german": "kurz",
+                          "english": "short",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Der Film war kurz.",
+                            "Kurze Pausen sind wichtig.",
+                            "Sie machte einen kurzen Kommentar."
+                          ],
+                          "synonyms": ["knapp", "gering"],
+                          "antonyms": ["lang", "umfangreich"]
+                        },
+                        {
+                          "german": "lang",
+                          "english": "long",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Der Fluss ist lang.",
+                            "Langes Warten ist anstrengend.",
+                            "Die Straße ist lang."
+                          ],
+                          "synonyms": ["ausgedehnt", "weit"],
+                          "antonyms": ["kurz", "knapp"]
+                        },
+                        {
+                          "german": "ausgedehnt",
+                          "english": "extensive / sprawling",
+                          "gender": "Neutral",
+                          "level": "B1",
+                          "examples": [
+                            "Das Land ist ausgedehnt.",
+                            "Ausgedehnte Reisen sind aufregend.",
+                            "Er hat ausgedehnt recherchiert."
+                          ],
+                          "synonyms": ["weit", "umfangreich"],
+                          "antonyms": ["klein", "kurz"]
+                        },
+                          {
+                            "german": "überrascht",
+                            "english": "surprised",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Ich war überrascht über die Nachricht.",
+                              "Er machte mich überrascht.",
+                              "Sie sah überrascht aus."
+                            ],
+                            "synonyms": ["erstaunt", "verblüfft"],
+                            "antonyms": ["gleichgültig", "erwartet"]
+                          },
+                          {
+                            "german": "erstaunt",
+                            "english": "astonished / amazed",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Ich bin erstaunt über deine Leistung.",
+                              "Erstaunte Gesichter sah man überall.",
+                              "Sie war erstaunt über das Ergebnis."
+                            ],
+                            "synonyms": ["überrascht", "verblüfft"],
+                            "antonyms": ["gleichgültig", "unerwartet"]
+                          },
+                          {
+                            "german": "verblüfft",
+                            "english": "astounded / amazed",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er war verblüfft über die Situation.",
+                              "Die Zuschauer waren verblüfft.",
+                              "Sie stand verblüfft da."
+                            ],
+                            "synonyms": ["erstaunt", "überrascht"],
+                            "antonyms": ["ruhig", "gelassen"]
+                          },
+                          {
+                            "german": "glücklich",
+                            "english": "happy",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Ich bin glücklich mit meinem Leben.",
+                              "Glückliche Menschen lachen oft.",
+                              "Sie war glücklich über die Neuigkeiten."
+                            ],
+                            "synonyms": ["zufrieden", "fröhlich"],
+                            "antonyms": ["unglücklich", "traurig"]
+                          },
+                          {
+                            "german": "zufrieden",
+                            "english": "satisfied",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Ich bin zufrieden mit der Arbeit.",
+                              "Zufriedene Kunden kommen wieder.",
+                              "Sie fühlte sich zufrieden."
+                            ],
+                            "synonyms": ["glücklich", "erfreut"],
+                            "antonyms": ["unzufrieden", "unglücklich"]
+                          },
+                          {
+                            "german": "unglücklich",
+                            "english": "unhappy / unfortunate",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er war unglücklich in der Beziehung.",
+                              "Unglückliche Menschen wirken traurig.",
+                              "Die Situation war unglücklich."
+                            ],
+                            "synonyms": ["traurig", "unzufrieden"],
+                            "antonyms": ["glücklich", "zufrieden"]
+                          },
+                          {
+                            "german": "traurig",
+                            "english": "sad",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Ich bin traurig über die Nachricht.",
+                              "Traurige Geschichten bewegen die Menschen.",
+                              "Sie wirkte traurig."
+                            ],
+                            "synonyms": ["unglücklich", "bedrückt"],
+                            "antonyms": ["glücklich", "fröhlich"]
+                          },
+                          {
+                            "german": "fröhlich",
+                            "english": "cheerful / merry",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er ist immer fröhlich.",
+                              "Fröhliche Menschen verbreiten gute Laune.",
+                              "Sie sang fröhlich."
+                            ],
+                            "synonyms": ["glücklich", "heiter"],
+                            "antonyms": ["traurig", "bedrückt"]
+                          },
+                          {
+                            "german": "heiter",
+                            "english": "cheerful / serene",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Das Wetter ist heiter.",
+                              "Heitere Menschen wirken angenehm.",
+                              "Er blieb heiter trotz der Probleme."
+                            ],
+                            "synonyms": ["fröhlich", "gelassen"],
+                            "antonyms": ["traurig", "niedergeschlagen"]
+                          },
+                          {
+                            "german": "niedergeschlagen",
+                            "english": "depressed / down",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er war niedergeschlagen nach dem Verlust.",
+                              "Niedergeschlagene Stimmung verbreitet sich leicht.",
+                              "Sie wirkte niedergeschlagen."
+                            ],
+                            "synonyms": ["deprimiert", "traurig"],
+                            "antonyms": ["fröhlich", "glücklich"]
+                          },
+                          {
+                            "german": "deprimiert",
+                            "english": "depressed",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er ist deprimiert wegen der Arbeit.",
+                              "Deprimierte Menschen brauchen Hilfe.",
+                              "Sie fühlt sich deprimiert."
+                            ],
+                            "synonyms": ["niedergeschlagen", "traurig"],
+                            "antonyms": ["glücklich", "zufrieden"]
+                          },
+                          {
+                            "german": "ängstlich",
+                            "english": "anxious / fearful",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er ist ängstlich vor dem Test.",
+                              "Ängstliche Menschen vermeiden Risiken.",
+                              "Sie wirkte ängstlich."
+                            ],
+                            "synonyms": ["besorgt", "furchtsam"],
+                            "antonyms": ["mutig", "gelassen"]
+                          },
+                          {
+                            "german": "besorgt",
+                            "english": "worried / concerned",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Ich bin besorgt um ihn.",
+                              "Besorgte Eltern fragen oft nach.",
+                              "Sie war besorgt wegen der Ergebnisse."
+                            ],
+                            "synonyms": ["ängstlich", "beunruhigt"],
+                            "antonyms": ["gelassen", "ruhig"]
+                          },
+                          {
+                            "german": "beunruhigt",
+                            "english": "disturbed / uneasy",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Ich bin beunruhigt über die Situation.",
+                              "Beunruhigte Menschen schlafen schlecht.",
+                              "Sie fühlte sich beunruhigt."
+                            ],
+                            "synonyms": ["besorgt", "ängstlich"],
+                            "antonyms": ["ruhig", "gelassen"]
+                          },
+                          {
+                            "german": "mutig",
+                            "english": "brave / courageous",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er ist mutig und riskiert viel.",
+                              "Mutige Menschen stehen für sich ein.",
+                              "Sie zeigte mutiges Verhalten."
+                            ],
+                            "synonyms": ["tapfer", "kühn"],
+                            "antonyms": ["ängstlich", "feige"]
+                          },
+                          {
+                            "german": "tapfer",
+                            "english": "valiant / brave",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Der Soldat war tapfer.",
+                              "Tapfere Menschen kämpfen für Gerechtigkeit.",
+                              "Sie reagierte tapfer."
+                            ],
+                            "synonyms": ["mutig", "kühn"],
+                            "antonyms": ["feige", "ängstlich"]
+                          },
+                          {
+                            "german": "kühn",
+                            "english": "bold / daring",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er ist kühn und abenteuerlustig.",
+                              "Kühne Ideen werden oft belächelt.",
+                              "Sie zeigte kühnes Verhalten."
+                            ],
+                            "synonyms": ["mutig", "tapfer"],
+                            "antonyms": ["ängstlich", "vorsichtig"]
+                          },
+                          {
+                            "german": "vorsichtig",
+                            "english": "careful / cautious",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Sei vorsichtig beim Überqueren.",
+                              "Vorsichtige Menschen planen alles genau.",
+                              "Sie handelte vorsichtig."
+                            ],
+                            "synonyms": ["achtsam", "bedacht"],
+                            "antonyms": ["kühn", "leichtsinnig"]
+                          },
+                          {
+                            "german": "leichtsinnig",
+                            "english": "reckless / careless",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er handelt leichtsinnig.",
+                              "Leichtsinnige Entscheidungen führen zu Problemen.",
+                              "Sie ist leichtsinnig beim Autofahren."
+                            ],
+                            "synonyms": ["unvorsichtig", "risikofreudig"],
+                            "antonyms": ["vorsichtig", "bedacht"]
+                          },
+                          {
+                            "german": "achtsam",
+                            "english": "mindful / attentive",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Sei achtsam mit deiner Umgebung.",
+                              "Achtsame Menschen hören gut zu.",
+                              "Sie ist achtsam im Umgang mit anderen."
+                            ],
+                            "synonyms": ["vorsichtig", "bedacht"],
+                            "antonyms": ["leichtsinnig", "unvorsichtig"]
+                          },
+                          {
+                            "german": "bedacht",
+                            "english": "considerate / thoughtful",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er handelt bedacht.",
+                              "Bedachte Entscheidungen sind oft besser.",
+                              "Sie sprach bedacht."
+                            ],
+                            "synonyms": ["vorsichtig", "achtsam"],
+                            "antonyms": ["leichtsinnig", "impulsiv"]
+                          },
+                          {
+                            "german": "impulsiv",
+                            "english": "impulsive",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er ist impulsiv und handelt schnell.",
+                              "Impulsive Menschen denken selten nach.",
+                              "Sie reagierte impulsiv."
+                            ],
+                            "synonyms": ["unüberlegt", "spontan"],
+                            "antonyms": ["bedacht", "vorsichtig"]
+                          },
+                          {
+                            "german": "spontan",
+                            "english": "spontaneous",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Wir haben einen spontanen Ausflug gemacht.",
+                              "Spontane Ideen sind oft kreativ.",
+                              "Sie reagierte spontan."
+                            ],
+                            "synonyms": ["unüberlegt", "impulsiv"],
+                            "antonyms": ["geplant", "überlegt"]
+                          },
+                          {
+                            "german": "geplant",
+                            "english": "planned",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Die Veranstaltung war gut geplant.",
+                              "Geplante Aktivitäten laufen reibungslos.",
+                              "Er hat alles geplant."
+                            ],
+                            "synonyms": ["organisiert", "vorbereitet"],
+                            "antonyms": ["spontan", "ungeplant"]
+                          },
+                          {
+                            "german": "organisiert",
+                            "english": "organized",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Sie ist sehr organisiert.",
+                              "Organisierte Menschen arbeiten effizient.",
+                              "Das Projekt ist gut organisiert."
+                            ],
+                            "synonyms": ["geplant", "strukturiert"],
+                            "antonyms": ["chaotisch", "unorganisiert"]
+                          },
+                          {
+                            "german": "chaotisch",
+                            "english": "chaotic / messy",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Der Raum ist chaotisch.",
+                              "Chaotische Menschen haben Schwierigkeiten.",
+                              "Die Situation ist chaotisch."
+                            ],
+                            "synonyms": ["unorganisiert", "durcheinander"],
+                            "antonyms": ["geordnet", "organisiert"]
+                          },
+                          {
+                            "german": "geordnet",
+                            "english": "orderly / organized",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Alles ist geordnet.",
+                              "Geordnete Abläufe sind effizient.",
+                              "Der Schrank ist geordnet."
+                            ],
+                            "synonyms": ["strukturiert", "organisiert"],
+                            "antonyms": ["chaotisch", "durcheinander"]
+                          },
+                          {
+                            "german": "strukturiert",
+                            "english": "structured",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er arbeitet strukturiert.",
+                              "Strukturierte Pläne helfen beim Erfolg.",
+                              "Die Aufgaben sind strukturiert."
+                            ],
+                            "synonyms": ["geordnet", "organisiert"],
+                            "antonyms": ["chaotisch", "unstrukturiert"]
+                          },
+                          {
+                            "german": "unstrukturiert",
+                            "english": "unstructured",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Der Text ist unstrukturiert.",
+                              "Unstrukturierte Meetings dauern länger.",
+                              "Sie arbeitet unstrukturiert."
+                            ],
+                            "synonyms": ["chaotisch", "durcheinander"],
+                            "antonyms": ["strukturiert", "geordnet"]
+                          },
+                          {
+                            "german": "durcheinander",
+                            "english": "confused / in disorder",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er war durcheinander nach dem Unfall.",
+                              "Alles liegt durcheinander.",
+                              "Sie ist innerlich durcheinander."
+                            ],
+                            "synonyms": ["chaotisch", "unstrukturiert"],
+                            "antonyms": ["geordnet", "klar"]
+                          },
+                          {
+                            "german": "klar",
+                            "english": "clear / obvious",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Die Regeln sind klar.",
+                              "Es ist klar, dass er gewinnt.",
+                              "Sie erklärte die Situation klar."
+                            ],
+                            "synonyms": ["verständlich", "deutlich"],
+                            "antonyms": ["unklar", "verwirrend"]
+                          },
+                          {
+                            "german": "unklar",
+                            "english": "unclear / vague",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Die Anweisungen sind unklar.",
+                              "Unklare Informationen führen zu Fehlern.",
+                              "Er ist unklar in seinen Aussagen."
+                            ],
+                            "synonyms": ["verwirrend", "undeutlich"],
+                            "antonyms": ["klar", "verständlich"]
+                          },
+                          {
+                            "german": "verwirrend",
+                            "english": "confusing",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Die Erklärung war verwirrend.",
+                              "Verwirrende Informationen machen unsicher.",
+                              "Der Text ist verwirrend."
+                            ],
+                            "synonyms": ["unklar", "kompliziert"],
+                            "antonyms": ["klar", "verständlich"]
+                          },
+                          {
+                            "german": "kompliziert",
+                            "english": "complicated",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Die Aufgabe ist kompliziert.",
+                              "Komplizierte Regeln erschweren das Spiel.",
+                              "Die Situation ist kompliziert."
+                            ],
+                            "synonyms": ["schwierig", "verwickelt"],
+                            "antonyms": ["einfach", "klar"]
+                          },
+                          {
+                            "german": "schwierig",
+                            "english": "difficult",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Die Prüfung war schwierig.",
+                              "Schwierige Probleme erfordern Geduld.",
+                              "Er hat eine schwierige Aufgabe gelöst."
+                            ],
+                            "synonyms": ["kompliziert", "anspruchsvoll"],
+                            "antonyms": ["einfach", "leicht"]
+                          },
+                          {
+                            "german": "anspruchsvoll",
+                            "english": "demanding / challenging",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Der Job ist anspruchsvoll.",
+                              "Anspruchsvolle Aufgaben erfordern Konzentration.",
+                              "Sie liebt anspruchsvolle Projekte."
+                            ],
+                            "synonyms": ["schwierig", "komplex"],
+                            "antonyms": ["leicht", "einfach"]
+                          },
+                          {
+                            "german": "komplex",
+                            "english": "complex",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Das System ist komplex.",
+                              "Komplexe Probleme brauchen Zeit.",
+                              "Die Situation ist komplex."
+                            ],
+                            "synonyms": ["anspruchsvoll", "kompliziert"],
+                            "antonyms": ["einfach", "klar"]
+                          },
+                          {
+                            "german": "einfach",
+                            "english": "simple / easy",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Die Aufgabe ist einfach.",
+                              "Einfache Lösungen sind oft die besten.",
+                              "Er lebt ein einfaches Leben."
+                            ],
+                            "synonyms": ["leicht", "simpel"],
+                            "antonyms": ["kompliziert", "schwierig"]
+                          },
+                          {
+                            "german": "leicht",
+                            "english": "light / easy",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Das Paket ist leicht.",
+                              "Leichte Aufgaben sind schnell erledigt.",
+                              "Er hat leicht gelernt."
+                            ],
+                            "synonyms": ["einfach", "simpel"],
+                            "antonyms": ["schwer", "kompliziert"]
+                          },
+                          {
+                            "german": "schwer",
+                            "english": "heavy / difficult",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Der Koffer ist schwer.",
+                              "Schwere Aufgaben erfordern Geduld.",
+                              "Er hat schwer gearbeitet."
+                            ],
+                            "synonyms": ["kompliziert", "anspruchsvoll"],
+                            "antonyms": ["leicht", "einfach"]
+                          },
+                          {
+                            "german": "simpel",
+                            "english": "simple / basic",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Die Lösung ist simpel.",
+                              "Simpel zu verstehen, aber effektiv.",
+                              "Simpel und klar erklärt."
+                            ],
+                            "synonyms": ["einfach", "leicht"],
+                            "antonyms": ["kompliziert", "anspruchsvoll"]
+                          },
+                          {
+                            "german": "wichtig",
+                            "english": "important",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Dieses Thema ist sehr wichtig.",
+                              "Wichtige Informationen sollten beachtet werden.",
+                              "Es ist wichtig, pünktlich zu sein."
+                            ],
+                            "synonyms": ["bedeutsam", "essentiell"],
+                            "antonyms": ["unwichtig", "nebensächlich"]
+                          },
+                          {
+                            "german": "bedeutsam",
+                            "english": "significant / meaningful",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Das Ereignis war bedeutsam für die Stadt.",
+                              "Bedeutsame Entscheidungen treffen wir gemeinsam.",
+                              "Seine Worte waren bedeutsam."
+                            ],
+                            "synonyms": ["wichtig", "wesentlich"],
+                            "antonyms": ["unbedeutend", "nebensächlich"]
+                          },
+                          {
+                            "german": "essentiell",
+                            "english": "essential",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Essen ist essentiell zum Leben.",
+                              "Essentielle Fähigkeiten sind für den Job wichtig.",
+                              "Dies ist ein essentieller Punkt."
+                            ],
+                            "synonyms": ["wichtig", "notwendig"],
+                            "antonyms": ["unwichtig", "überflüssig"]
+                          },
+                          {
+                            "german": "unwichtig",
+                            "english": "unimportant",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Die Details sind unwichtig.",
+                              "Unwichtige Dinge lenken ab.",
+                              "Es ist unwichtig, wann es passiert."
+                            ],
+                            "synonyms": ["nebensächlich", "unbedeutend"],
+                            "antonyms": ["wichtig", "bedeutsam"]
+                          },
+                          {
+                            "german": "nebensächlich",
+                            "english": "secondary / trivial",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Das Problem ist nebensächlich.",
+                              "Nebensächliche Fragen wurden ignoriert.",
+                              "Es ist eine nebensächliche Angelegenheit."
+                            ],
+                            "synonyms": ["unwichtig", "geringfügig"],
+                            "antonyms": ["wichtig", "bedeutsam"]
+                          },
+                          {
+                            "german": "unbedeutend",
+                            "english": "insignificant / trivial",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Der Fehler war unbedeutend.",
+                              "Unbedeutende Details wurden nicht erwähnt.",
+                              "Die Angelegenheit ist unbedeutend."
+                            ],
+                            "synonyms": ["unwichtig", "geringfügig"],
+                            "antonyms": ["bedeutsam", "wichtig"]
+                          },
+                          {
+                            "german": "wesentlich",
+                            "english": "essential / fundamental",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Die wesentlichen Punkte sind hervorgehoben.",
+                              "Wesentliche Unterschiede gibt es zwischen den Produkten.",
+                              "Es ist wesentlich, dass du pünktlich bist."
+                            ],
+                            "synonyms": ["bedeutsam", "essentiell"],
+                            "antonyms": ["unwichtig", "nebensächlich"]
+                          },
+                          {
+                            "german": "notwendig",
+                            "english": "necessary",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Es ist notwendig, die Regeln zu beachten.",
+                              "Notwendige Maßnahmen wurden ergriffen.",
+                              "Er hielt den Kurs für notwendig."
+                            ],
+                            "synonyms": ["essentiell", "erforderlich"],
+                            "antonyms": ["überflüssig", "unnötig"]
+                          },
+                          {
+                            "german": "erforderlich",
+                            "english": "required / necessary",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Die erforderlichen Unterlagen müssen abgegeben werden.",
+                              "Erforderliche Schritte wurden durchgeführt.",
+                              "Es ist erforderlich, pünktlich zu sein."
+                            ],
+                            "synonyms": ["notwendig", "essentiell"],
+                            "antonyms": ["unnötig", "überflüssig"]
+                          },
+                          {
+                            "german": "überflüssig",
+                            "english": "superfluous / unnecessary",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Diese Information ist überflüssig.",
+                              "Überflüssige Kommentare wurden gelöscht.",
+                              "Es ist überflüssig, das noch einmal zu wiederholen."
+                            ],
+                            "synonyms": ["unnötig", "entbehrlich"],
+                            "antonyms": ["notwendig", "essentiell"]
+                          },
+                          {
+                            "german": "unnötig",
+                            "english": "unnecessary",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Es ist unnötig, sich zu sorgen.",
+                              "Unnötige Risiken sollte man vermeiden.",
+                              "Die Kosten sind unnötig hoch."
+                            ],
+                            "synonyms": ["überflüssig", "entbehrlich"],
+                            "antonyms": ["notwendig", "erforderlich"]
+                          },
+                          {
+                            "german": "entbehrlich",
+                            "english": "dispensable / unnecessary",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Dieses Zubehör ist entbehrlich.",
+                              "Entbehrliche Dinge wurden entfernt.",
+                              "Die Zusatzinformationen sind entbehrlich."
+                            ],
+                            "synonyms": ["unnötig", "überflüssig"],
+                            "antonyms": ["wesentlich", "notwendig"]
+                          },
+                          {
+                            "german": "klarstellen",
+                            "english": "to clarify",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Ich möchte das Missverständnis klarstellen.",
+                              "Der Lehrer stellte die Regeln klar.",
+                              "Wir müssen die Situation klarstellen."
+                            ],
+                            "synonyms": ["erklären", "verdeutlichen"],
+                            "antonyms": ["verwirren", "verschleiern"]
+                          },
+                          {
+                            "german": "verdeutlichen",
+                            "english": "to make clear / illustrate",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Das Beispiel verdeutlicht das Problem.",
+                              "Er versuchte, die Idee zu verdeutlichen.",
+                              "Die Grafik verdeutlicht den Sachverhalt."
+                            ],
+                            "synonyms": ["erklären", "klarstellen"],
+                            "antonyms": ["verwirren", "verschleiern"]
+                          },
+                          {
+                            "german": "erklären",
+                            "english": "to explain",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Der Lehrer erklärt die Grammatik.",
+                              "Er erklärte mir den Weg.",
+                              "Sie erklärte die Situation verständlich."
+                            ],
+                            "synonyms": ["darlegen", "verdeutlichen"],
+                            "antonyms": ["verschweigen", "verwirren"]
+                          },
+                          {
+                            "german": "darlegen",
+                            "english": "to present / lay out",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er legte seine Argumente dar.",
+                              "Die Fakten wurden klar dargelegt.",
+                              "Sie legte den Plan dar."
+                            ],
+                            "synonyms": ["erklären", "aufzeigen"],
+                            "antonyms": ["verschweigen", "verbergen"]
+                          },
+                          {
+                            "german": "aufzeigen",
+                            "english": "to point out / illustrate",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Der Lehrer zeigte die Probleme auf.",
+                              "Die Grafik zeigt die Unterschiede auf.",
+                              "Er zeigte die Chancen auf."
+                            ],
+                            "synonyms": ["darlegen", "verdeutlichen"],
+                            "antonyms": ["verschweigen", "verbergen"]
+                          },
+                          {
+                            "german": "verschweigen",
+                            "english": "to conceal / keep secret",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er verschweigt wichtige Informationen.",
+                              "Wichtige Details wurden verschwiegen.",
+                              "Sie verschweigt ihre Pläne."
+                            ],
+                            "synonyms": ["verheimlichen", "verbergen"],
+                            "antonyms": ["erklären", "darlegen"]
+                          },
+                          {
+                            "german": "verbergen",
+                            "english": "to hide / conceal",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er verbirgt seine Gefühle.",
+                              "Die Wahrheit wurde verborgen.",
+                              "Sie versuchte, das Problem zu verbergen."
+                            ],
+                            "synonyms": ["verschweigen", "verheimlichen"],
+                            "antonyms": ["zeigen", "darlegen"]
+                          },
+                          {
+                            "german": "verheimlichen",
+                            "english": "to keep secret / hide",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Sie verheimlichte ihre Sorgen.",
+                              "Er verheimlicht die Fakten.",
+                              "Wichtige Informationen wurden verheimlicht."
+                            ],
+                            "synonyms": ["verschweigen", "verbergen"],
+                            "antonyms": ["offenbaren", "darlegen"]
+                          },
+                          {
+                            "german": "offenbaren",
+                            "english": "to reveal / disclose",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Sie offenbarte ihr Geheimnis.",
+                              "Die Wahrheit wurde offenbart.",
+                              "Er offenbarte seine Gefühle."
+                            ],
+                            "synonyms": ["zeigen", "darlegen"],
+                            "antonyms": ["verbergen", "verschweigen"]
+                          },
+                          {
+                            "german": "zeigen",
+                            "english": "to show / demonstrate",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er zeigt seine Arbeit.",
+                              "Die Grafik zeigt die Entwicklung.",
+                              "Sie zeigte ihre Ergebnisse."
+                            ],
+                            "synonyms": ["darstellen", "offenbaren"],
+                            "antonyms": ["verbergen", "verschweigen"]
+                          },
+                          {
+                            "german": "darstellen",
+                            "english": "to represent / depict",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Das Gemälde stellt eine Landschaft dar.",
+                              "Der Film stellt das Leben der Menschen dar.",
+                              "Die Grafik stellt die Daten dar."
+                            ],
+                            "synonyms": ["zeigen", "veranschaulichen"],
+                            "antonyms": ["verbergen", "verschweigen"]
+                          },
+                          {
+                            "german": "veranschaulichen",
+                            "english": "to illustrate / exemplify",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Die Grafik veranschaulicht die Ergebnisse.",
+                              "Das Beispiel veranschaulicht den Sachverhalt.",
+                              "Er veranschaulichte die Theorie mit Bildern."
+                            ],
+                            "synonyms": ["darstellen", "zeigen"],
+                            "antonyms": ["verbergen", "verschleiern"]
+                          },
+                          {
+                            "german": "verschleiern",
+                            "english": "to veil / obscure",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er verschleiert die Wahrheit.",
+                              "Die Tatsachen wurden verschleiert.",
+                              "Sie verschleierte ihre Absichten."
+                            ],
+                            "synonyms": ["verbergen", "verschweigen"],
+                            "antonyms": ["offenbaren", "darlegen"]
+                          },
+                          {
+                            "german": "verwirren",
+                            "english": "to confuse",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Die Erklärung verwirrte mich.",
+                              "Seine Worte verwirrten die Zuhörer.",
+                              "Das komplexe Problem verwirrt viele."
+                            ],
+                            "synonyms": ["irritieren", "durcheinanderbringen"],
+                            "antonyms": ["klarstellen", "verdeutlichen"]
+                          },
+                          {
+                            "german": "irritieren",
+                            "english": "to irritate / confuse",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Die Fragen irritierten ihn.",
+                              "Sein Verhalten irritiert mich.",
+                              "Die Situation kann leicht irritieren."
+                            ],
+                            "synonyms": ["verwirren", "stören"],
+                            "antonyms": ["beruhigen", "klarstellen"]
+                          },
+                          {
+                            "german": "stören",
+                            "english": "to disturb / bother",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Lärm stört beim Arbeiten.",
+                              "Seine Unterbrechung störte die Besprechung.",
+                              "Stören Sie bitte nicht!"
+                            ],
+                            "synonyms": ["belästigen", "unterbrechen"],
+                            "antonyms": ["helfen", "unterstützen"]
+                          },
+                          {
+                            "german": "belästigen",
+                            "english": "to harass / bother",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er belästigt andere ständig.",
+                              "Die Werbung belästigt mich.",
+                              "Man darf niemanden belästigen."
+                            ],
+                            "synonyms": ["stören", "nerven"],
+                            "antonyms": ["respektieren", "unterstützen"]
+                          },
+                          {
+                            "german": "nerven",
+                            "english": "to annoy / get on someone's nerves",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Sein Verhalten nervt mich.",
+                              "Die ständige Musik nervt alle.",
+                              "Es nervt, dass er immer zu spät kommt."
+                            ],
+                            "synonyms": ["ärgern", "belästigen"],
+                            "antonyms": ["beruhigen", "zufriedenstellen"]
+                          },
+                          {
+                            "german": "ärgern",
+                            "english": "to anger / annoy",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er ärgert sich über das Wetter.",
+                              "Die Kritik ärgerte ihn.",
+                              "Sie ärgert ihren Bruder ständig."
+                            ],
+                            "synonyms": ["nerven", "stören"],
+                            "antonyms": ["beruhigen", "freuen"]
+                          },
+                          {
+                            "german": "beruhigen",
+                            "english": "to calm / reassure",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Der Lehrer beruhigt die Schüler.",
+                              "Beruhige dich bitte.",
+                              "Die Nachricht beruhigte alle."
+                            ],
+                            "synonyms": ["trösten", "entspannen"],
+                            "antonyms": ["ärgern", "verunsichern"]
+                          },
+                          {
+                            "german": "trösten",
+                            "english": "to comfort",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Sie tröstet ihr Kind.",
+                              "Er wurde von Freunden getröstet.",
+                              "Tröste dich, es wird besser."
+                            ],
+                            "synonyms": ["beruhigen", "aufmuntern"],
+                            "antonyms": ["verletzen", "ärgern"]
+                          },
+                          {
+                            "german": "aufmuntern",
+                            "english": "to cheer up / encourage",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Ich möchte dich aufmuntern.",
+                              "Seine Worte munterten sie auf.",
+                              "Musik kann die Stimmung aufmuntern."
+                            ],
+                            "synonyms": ["trösten", "ermutigen"],
+                            "antonyms": ["entmutigen", "deprimieren"]
+                          },
+                          {
+                            "german": "ermutigen",
+                            "english": "to encourage",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Die Lehrerin ermutigt ihre Schüler.",
+                              "Er wurde ermutigt, weiterzumachen.",
+                              "Wir sollten einander ermutigen."
+                            ],
+                            "synonyms": ["aufmuntern", "bestärken"],
+                            "antonyms": ["entmutigen", "abschrecken"]
+                          },
+                          {
+                            "german": "bestärken",
+                            "english": "to reinforce / strengthen",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Das Lob bestärkte sie in ihrer Entscheidung.",
+                              "Er wird in seinen Ansichten bestärkt.",
+                              "Wir sollten positive Handlungen bestärken."
+                            ],
+                            "synonyms": ["ermutigen", "unterstützen"],
+                            "antonyms": ["entmutigen", "schwächen"]
+                          },
+                          {
+                            "german": "unterstützen",
+                            "english": "to support",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Ich unterstütze dich bei der Arbeit.",
+                              "Die Organisation unterstützt Bedürftige.",
+                              "Wir sollten einander unterstützen."
+                            ],
+                            "synonyms": ["helfen", "bestärken"],
+                            "antonyms": ["behindern", "ignorieren"]
+                          },
+                          {
+                            "german": "helfen",
+                            "english": "to help",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Kannst du mir helfen?",
+                              "Er hilft seinen Freunden.",
+                              "Hilfe wird immer geschätzt."
+                            ],
+                            "synonyms": ["unterstützen", "beistehen"],
+                            "antonyms": ["behindern", "ignorieren"]
+                          },
+                          {
+                            "german": "beistehen",
+                            "english": "to stand by / support",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Sie steht ihrem Freund bei.",
+                              "Ich werde dir beistehen.",
+                              "Wir stehen einander bei."
+                            ],
+                            "synonyms": ["helfen", "unterstützen"],
+                            "antonyms": ["verlassen", "im Stich lassen"]
+                          },
+                          {
+                            "german": "verlassen",
+                            "english": "to leave / abandon",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er hat das Haus verlassen.",
+                              "Sie wurde von ihrem Freund verlassen.",
+                              "Wir dürfen niemanden im Stich lassen."
+                            ],
+                            "synonyms": ["weggehen", "aufgeben"],
+                            "antonyms": ["beistehen", "unterstützen"]
+                          },
+                          {
+                            "german": "aufgeben",
+                            "english": "to give up / abandon",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er gab seine Hoffnung nicht auf.",
+                              "Sie wollte das Projekt nicht aufgeben.",
+                              "Aufgeben ist keine Option."
+                            ],
+                            "synonyms": ["verlassen", "kapitulieren"],
+                            "antonyms": ["durchhalten", "fortfahren"]
+                          },
+                          {
+                            "german": "kapitulieren",
+                            "english": "to surrender / capitulate",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Die Mannschaft kapitulierte spät im Spiel.",
+                              "Er kapitulierte vor dem Druck.",
+                              "Niemand will einfach kapitulieren."
+                            ],
+                            "synonyms": ["aufgeben", "nachgeben"],
+                            "antonyms": ["durchhalten", "kämpfen"]
+                          },
+                          {
+                            "german": "nachgeben",
+                            "english": "to give in / yield",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Sie gab dem Druck nach.",
+                              "Ich werde nicht nachgeben.",
+                              "Es ist schwer, nachzugeben."
+                            ],
+                            "synonyms": ["kapitulieren", "sich fügen"],
+                            "antonyms": ["widerstehen", "durchhalten"]
+                          },
+                          {
+                            "german": "sich fügen",
+                            "english": "to comply / submit",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er fügte sich den Regeln.",
+                              "Sie fügte sich den Anweisungen.",
+                              "Manchmal muss man sich fügen."
+                            ],
+                            "synonyms": ["nachgeben", "akzeptieren"],
+                            "antonyms": ["widerstehen", "rebellieren"]
+                          },
+                          {
+                            "german": "akzeptieren",
+                            "english": "to accept",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Ich akzeptiere deine Entscheidung.",
+                              "Akzeptiere die Realität.",
+                              "Wir sollten Unterschiede akzeptieren."
+                            ],
+                            "synonyms": ["anerkennen", "hinnehmen"],
+                            "antonyms": ["ablehnen", "verweigern"]
+                          },
+                          {
+                            "german": "anerkennen",
+                            "english": "to acknowledge / recognize",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Man muss seine Leistungen anerkennen.",
+                              "Sie erkannte seine Mühe an.",
+                              "Anerkennung ist wichtig für Motivation."
+                            ],
+                            "synonyms": ["respektieren", "würdigen"],
+                            "antonyms": ["ignorieren", "ablehnen"]
+                          },
+                          {
+                            "german": "würdigen",
+                            "english": "to appreciate / value",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Wir sollten die Kunstwerke würdigen.",
+                              "Er würdigte ihre Bemühungen.",
+                              "Würdigung motiviert Menschen."
+                            ],
+                            "synonyms": ["anerkennen", "respektieren"],
+                            "antonyms": ["ignorieren", "verachten"]
+                          },
+                          {
+                            "german": "respektieren",
+                            "english": "to respect",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Man sollte die Meinung anderer respektieren.",
+                              "Respektiere die Regeln.",
+                              "Er respektiert seine Eltern."
+                            ],
+                            "synonyms": ["anerkennen", "würdigen"],
+                            "antonyms": ["missachten", "ignorieren"]
+                          },
+                          {
+                            "german": "missachten",
+                            "english": "to disregard / ignore",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Die Regeln wurden missachtet.",
+                              "Er missachtete die Warnungen.",
+                              "Man sollte Sicherheit nicht missachten."
+                            ],
+                            "synonyms": ["ignorieren", "verletzen"],
+                            "antonyms": ["respektieren", "beachten"]
+                          }          
+                        ]
+                        
                     
         
