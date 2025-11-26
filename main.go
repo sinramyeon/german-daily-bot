@@ -5,7 +5,7 @@ import (
     "fmt"
     "math/rand"
     "net/http"
-    "net/url"
+   // "net/url"
     "os"
     "os/exec"
     "time"
@@ -86,6 +86,7 @@ func loadChatIDs() []string {
     json.Unmarshal(data, &ids)
     return ids
 }
+
 func mergeChatIDs(newIDs []string) {
     ids := loadChatIDs()
     idMap := make(map[string]bool)
@@ -102,11 +103,21 @@ func mergeChatIDs(newIDs []string) {
     os.WriteFile(chatIDFile, data, 0644)
 
     // ------------------ Repo에 자동 커밋 & push ------------------
-    exec.Command("git", "config", "user.email", "github-actions[bot]@users.noreply.github.com").Run()
-    exec.Command("git", "config", "user.name", "github-actions[bot]").Run()
-    exec.Command("git", "add", chatIDFile).Run()
-    exec.Command("git", "commit", "-m", "Update chat_ids.json [skip ci]").Run()
-    exec.Command("git", "push").Run()
+    
+    cmd := exec.Command("git", "add", chatIDFile)
+    if err := cmd.Run(); err != nil {
+        fmt.Println("git add failed:", err)
+    }
+
+    cmd = exec.Command("git", "commit", "-m", "Update chat_ids.json [skip ci]")
+    if err := cmd.Run(); err != nil {
+        fmt.Println("git commit failed:", err)
+    }
+
+    cmd = exec.Command("git", "push")
+    if err := cmd.Run(); err != nil {
+        fmt.Println("git push failed:", err)
+    }
 }
 
 // ---------------- 단어/명언 선택 ----------------
@@ -161,10 +172,10 @@ func formatMessage(words []Word, sentence WiseSentences) string {
 
 // ---------------- 텔레그램 전송 ----------------
 func sendToTelegram(botToken, chatID, message string) {
-    apiURL := fmt.Sprintf("https://api.telegram.org/bot%s/sendMessage", botToken)
-    data := url.Values{}
-    data.Set("chat_id", chatID)
-    data.Set("text", message)
-    data.Set("parse_mode", "Markdown")
-    http.PostForm(apiURL, data)
+    // apiURL := fmt.Sprintf("https://api.telegram.org/bot%s/sendMessage", botToken)
+    // data := url.Values{}
+    // data.Set("chat_id", chatID)
+    // data.Set("text", message)
+    // data.Set("parse_mode", "Markdown")
+    // http.PostForm(apiURL, data)
 }

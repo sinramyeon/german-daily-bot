@@ -1053,5 +1053,838 @@
           ],
           "synonyms": ["das Erlebnis", "die Praxis"],
           "antonyms": ["die Unwissenheit"]
-        }
-    ]
+        },
+          {
+            "german": "die Erfahrung",
+            "english": "experience",
+            "gender": "Feminin",
+            "level": "B1",
+            "examples": [
+              "Ich habe viel Erfahrung in diesem Bereich.",
+              "Diese Reise war eine wichtige Erfahrung für mich.",
+              "Mit mehr Erfahrung wirst du sicherer."
+            ],
+            "synonyms": ["das Erlebnis", "die Kenntnis"],
+            "antonyms": ["die Unwissenheit"]
+          },
+          {
+            "german": "der Eindruck",
+            "english": "impression",
+            "gender": "Maskullin",
+            "level": "B1",
+            "examples": [
+              "Er hat einen guten Eindruck gemacht.",
+              "Mein erster Eindruck war positiv.",
+              "Ich hatte den Eindruck, dass etwas nicht stimmt."
+            ],
+            "synonyms": ["die Wirkung", "das Bild"],
+            "antonyms": ["die Gleichgültigkeit"]
+          },
+          {
+            "german": "die Umwelt",
+            "english": "environment",
+            "gender": "Feminin",
+            "level": "B1",
+            "examples": [
+              "Wir müssen die Umwelt schützen.",
+              "Die Umweltverschmutzung nimmt zu.",
+              "Umweltfreundliche Produkte sind wichtig."
+            ],
+            "synonyms": ["die Natur", "die Umgebung"],
+            "antonyms": ["die Verschmutzung"]
+          },
+          {
+            "german": "sich erinnern",
+            "english": "to remember",
+            "gender": "Neutral",
+            "level": "B1",
+            "examples": [
+              "Ich kann mich gut an ihn erinnern.",
+              "Erinnerst du dich an unsere Reise?",
+              "Ich erinnere mich kaum daran."
+            ],
+            "synonyms": ["merken", "behalten"],
+            "antonyms": ["vergessen"]
+          },
+          {
+            "german": "die Verantwortung",
+            "english": "responsibility",
+            "gender": "Feminin",
+            "level": "B1",
+            "examples": [
+              "Er trägt große Verantwortung.",
+              "Verantwortung zu übernehmen ist wichtig.",
+              "Ich habe keine Verantwortung dafür."
+            ],
+            "synonyms": ["die Pflicht", "die Aufgabe"],
+            "antonyms": ["die Schuldlosigkeit"]
+          },
+          {
+            "german": "der Vorschlag",
+            "english": "suggestion",
+            "gender": "Maskullin",
+            "level": "B1",
+            "examples": [
+              "Das ist ein guter Vorschlag.",
+              "Ich habe einen anderen Vorschlag.",
+              "Dein Vorschlag wurde angenommen."
+            ],
+            "synonyms": ["die Empfehlung", "die Idee"],
+            "antonyms": ["die Ablehnung"]
+          },
+          {
+            "german": "die Beziehung",
+            "english": "relationship",
+            "gender": "Feminin",
+            "level": "B1",
+            "examples": [
+              "Wir haben eine gute Beziehung.",
+              "Die Beziehung ist schwierig geworden.",
+              "Beziehungen brauchen Zeit und Arbeit."
+            ],
+            "synonyms": ["das Verhältnis", "die Verbindung"],
+            "antonyms": ["die Trennung"]
+          },
+          {
+            "german": "enttäuscht",
+            "english": "disappointed",
+            "gender": "Neutral",
+            "level": "B1",
+            "examples": [
+              "Ich bin sehr enttäuscht.",
+              "Seine Antwort hat mich enttäuscht.",
+              "Sie war enttäuscht über das Ergebnis."
+            ],
+            "synonyms": ["frustriert", "verärgert"],
+            "antonyms": ["zufrieden"]
+          },
+          {
+            "german": "die Erinnerung",
+            "english": "memory",
+            "gender": "Feminin",
+            "level": "B1",
+            "examples": [
+              "Ich habe schöne Erinnerungen an meine Kindheit.",
+              "Die Erinnerung ist noch frisch.",
+              "Er hat die Erinnerung verloren."
+            ],
+            "synonyms": ["das Gedächtnis", "das Andenken"],
+            "antonyms": ["das Vergessen"]
+          },
+          {
+            "german": "vermeiden",
+            "english": "to avoid",
+            "gender": "Neutral",
+            "level": "B1",
+            "examples": [
+              "Wir sollten Streit vermeiden.",
+              "Ich versuche, Fehler zu vermeiden.",
+              "Er vermeidet es, darüber zu sprechen."
+            ],
+            "synonyms": ["abwenden", "unterlassen"],
+            "antonyms": ["zulassen"]
+          },
+          {
+            "german": "die Werbung",
+            "english": "advertising",
+            "gender": "Feminin",
+            "level": "B1",
+            "examples": [
+              "Die Werbung beeinflusst viele Menschen.",
+              "Ich mag aggressive Werbung nicht.",
+              "In der Werbung sieht alles perfekt aus."
+            ],
+            "synonyms": ["die Reklame", "die Promotion"],
+            "antonyms": ["die Realität"]
+          },
+          {
+            "german": "die Regierung",
+            "english": "government",
+            "gender": "Feminin",
+            "level": "B1",
+            "examples": [
+              "Die Regierung plant neue Regeln.",
+              "Ich vertraue der Regierung nicht.",
+              "Die Regierung hat beschlossen, die Steuern zu erhöhen."
+            ],
+            "synonyms": ["der Staat", "die Verwaltung"],
+            "antonyms": ["die Opposition"]
+          },
+          {
+            "german": "beeinflussen",
+            "english": "to influence",
+            "gender": "Neutral",
+            "level": "B1",
+            "examples": [
+              "Musik beeinflusst meine Stimmung.",
+              "Er lässt sich leicht beeinflussen.",
+              "Die Medien beeinflussen die Meinung der Menschen."
+            ],
+            "synonyms": ["prägen", "formen"],
+            "antonyms": ["ignorieren"]
+          },
+          {
+            "german": "die Stimmung",
+            "english": "mood",
+            "gender": "Feminin",
+            "level": "B1",
+            "examples": [
+              "Die Stimmung war schlecht.",
+              "Musik verbessert meine Stimmung.",
+              "Ihre Stimmung hat sich verändert."
+            ],
+            "synonyms": ["die Laune", "das Gefühl"],
+            "antonyms": ["die Neutralität"]
+          },
+          {
+            "german": "sich bewerben",
+            "english": "to apply",
+            "gender": "Neutral",
+            "level": "B1",
+            "examples": [
+              "Ich bewerbe mich um eine Stelle.",
+              "Er hat sich an der Uni beworben.",
+              "Sie bewirbt sich für ein Stipendium."
+            ],
+            "synonyms": ["anfragen", "anmelden"],
+            "antonyms": ["ablehnen"]
+          },
+          {
+            "german": "die Möglichkeit",
+            "english": "possibility",
+            "gender": "Feminin",
+            "level": "B1",
+            "examples": [
+              "Es gibt viele Möglichkeiten.",
+              "Ich habe keine andere Möglichkeit.",
+              "Die Möglichkeit besteht noch."
+            ],
+            "synonyms": ["die Chance", "die Option"],
+            "antonyms": ["die Unmöglichkeit"]
+          },
+          {
+            "german": "der Vorteil",
+            "english": "advantage",
+            "gender": "Maskullin",
+            "level": "B1",
+            "examples": [
+              "Das ist ein großer Vorteil.",
+              "Jede Technologie hat Vorteile und Nachteile.",
+              "Der Vorteil liegt auf unserer Seite."
+            ],
+            "synonyms": ["der Nutzen", "der Gewinn"],
+            "antonyms": ["der Nachteil"]
+          },
+          {
+            "german": "der Nachteil",
+            "english": "disadvantage",
+            "gender": "Maskullin",
+            "level": "B1",
+            "examples": [
+              "Das hat viele Nachteile.",
+              "Ein großer Nachteil ist der Preis.",
+              "Jede Entscheidung hat Nachteile."
+            ],
+            "synonyms": ["der Minuspunkt", "die Schwäche"],
+            "antonyms": ["der Vorteil"]
+          },
+          {
+            "german": "sich verhalten",
+            "english": "to behave",
+            "gender": "Neutral",
+            "level": "B1",
+            "examples": [
+              "Er verhält sich komisch.",
+              "Bitte verhalte dich ruhig.",
+              "Sie hat sich sehr höflich verhalten."
+            ],
+            "synonyms": ["agieren", "handeln"],
+            "antonyms": ["ignorieren"]
+          },
+          {
+            "german": "die Herausforderung",
+            "english": "challenge",
+            "gender": "Feminin",
+            "level": "B1",
+            "examples": [
+              "Das ist eine große Herausforderung.",
+              "Ich liebe neue Herausforderungen.",
+              "Diese Aufgabe war eine Herausforderung."
+            ],
+            "synonyms": ["die Aufgabe", "das Problem"],
+            "antonyms": ["die Leichtigkeit"]
+          },
+          {
+            "german": "der Erfolg",
+            "english": "success",
+            "gender": "Maskullin",
+            "level": "B1",
+            "examples": [
+              "Er hat großen Erfolg.",
+              "Der Erfolg kommt nicht über Nacht.",
+              "Sie feierten ihren Erfolg."
+            ],
+            "synonyms": ["der Triumph", "die Leistung"],
+            "antonyms": ["der Misserfolg"]
+          },
+          {
+            "german": "die Ausbildung",
+            "english": "education / training",
+            "gender": "Feminin",
+            "level": "B1",
+            "examples": [
+              "Ich mache eine Ausbildung als Koch.",
+              "Eine gute Ausbildung ist wichtig.",
+              "Sie hat ihre Ausbildung abgeschlossen."
+            ],
+            "synonyms": ["das Training", "die Schulung"],
+            "antonyms": ["die Unbildung"]
+          },
+          {
+            "german": "der Vergleich",
+            "english": "comparison",
+            "gender": "Maskullin",
+            "level": "B1",
+            "examples": [
+              "Im Vergleich zu früher ist es besser.",
+              "Ein direkter Vergleich ist schwer.",
+              "Der Vergleich zeigt klare Unterschiede."
+            ],
+            "synonyms": ["die Gegenüberstellung", "die Relation"],
+            "antonyms": ["die Einzigartigkeit"]
+          },
+          {
+            "german": "der Zustand",
+            "english": "condition / state",
+            "gender": "Maskullin",
+            "level": "B1",
+            "examples": [
+              "Der Zustand des Autos ist gut.",
+              "Ich bin nicht im besten Zustand.",
+              "Der Zustand hat sich verbessert."
+            ],
+            "synonyms": ["die Lage", "die Situation"],
+            "antonyms": ["die Veränderung"]
+          },
+          {
+            "german": "die Lösung",
+            "english": "solution",
+            "gender": "Feminin",
+            "level": "B1",
+            "examples": [
+              "Wir müssen eine Lösung finden.",
+              "Die Lösung ist nicht einfach.",
+              "Hast du eine Lösung für das Problem?"
+            ],
+            "synonyms": ["die Antwort", "der Ausweg"],
+            "antonyms": ["das Problem"]
+          },
+          {
+            "german": "die Entwicklung",
+            "english": "development",
+            "gender": "Feminin",
+            "level": "B1",
+            "examples": [
+              "Die Entwicklung war positiv.",
+              "Kinder machen schnell Fortschritte in ihrer Entwicklung.",
+              "Die wirtschaftliche Entwicklung ist wichtig."
+            ],
+            "synonyms": ["der Fortschritt", "das Wachstum"],
+            "antonyms": ["der Rückschritt"]
+          },
+          {
+            "german": "der Einfluss",
+            "english": "influence",
+            "gender": "Maskullin",
+            "level": "B1",
+            "examples": [
+              "Er hat großen Einfluss auf mich.",
+              "Der Einfluss der Medien ist stark.",
+              "Musik hat Einfluss auf meine Laune."
+            ],
+            "synonyms": ["die Wirkung", "die Macht"],
+            "antonyms": ["die Wirkungslosigkeit"]
+          },
+          {
+            "german": "die Gelegenheit",
+            "english": "opportunity",
+            "gender": "Feminin",
+            "level": "B1",
+            "examples": [
+              "Das ist eine gute Gelegenheit.",
+              "Ich hatte keine Gelegenheit dazu.",
+              "Nutze jede Gelegenheit!"
+            ],
+            "synonyms": ["die Chance", "die Möglichkeit"],
+            "antonyms": ["der Verlust"]
+          },
+          {
+            "german": "darstellen",
+            "english": "to represent / depict",
+            "gender": "Neutral",
+            "level": "B1",
+            "examples": [
+              "Das Bild stellt eine Landschaft dar.",
+              "Der Film stellt das Leben der Menschen dar.",
+              "Er stellt die Ergebnisse vor."
+            ],
+            "synonyms": ["zeigen", "repräsentieren"],
+            "antonyms": ["verbergen"]
+          },
+          {
+            "german": "erkennen",
+            "english": "to recognize",
+            "gender": "Neutral",
+            "level": "B1",
+            "examples": [
+              "Ich habe ihn sofort erkannt.",
+              "Sie konnte das Problem schnell erkennen.",
+              "Man erkennt deutlich die Unterschiede."
+            ],
+            "synonyms": ["identifizieren", "sehen"],
+            "antonyms": ["verwechseln"]
+          },
+            {
+              "german": "die Meinung",
+              "english": "opinion",
+              "gender": "Feminin",
+              "level": "B1",
+              "examples": [
+                "Jeder hat seine eigene Meinung.",
+                "Ich bin anderer Meinung.",
+                "Die Meinung der Experten ist wichtig."
+              ],
+              "synonyms": ["die Ansicht", "die Überzeugung"],
+              "antonyms": ["die Gleichgültigkeit"]
+            },
+            {
+              "german": "der Fehler",
+              "english": "mistake / error",
+              "gender": "Maskullin",
+              "level": "B1",
+              "examples": [
+                "Ich habe einen Fehler gemacht.",
+                "Jeder macht mal Fehler.",
+                "Aus Fehlern lernt man."
+              ],
+              "synonyms": ["das Versehen", "der Irrtum"],
+              "antonyms": ["die Richtigkeit"]
+            },
+            {
+              "german": "die Gesundheit",
+              "english": "health",
+              "gender": "Feminin",
+              "level": "B1",
+              "examples": [
+                "Gesundheit ist das Wichtigste.",
+                "Ich achte auf meine Gesundheit.",
+                "Sport fördert die Gesundheit."
+              ],
+              "synonyms": ["das Wohlbefinden", "die Fitness"],
+              "antonyms": ["die Krankheit"]
+            },
+            {
+              "german": "das Gefühl",
+              "english": "feeling",
+              "gender": "Neutral",
+              "level": "B1",
+              "examples": [
+                "Ich habe ein gutes Gefühl dabei.",
+                "Sein Gefühl hat ihn nicht getäuscht.",
+                "Gefühle sollte man ernst nehmen."
+              ],
+              "synonyms": ["die Empfindung", "die Stimmung"],
+              "antonyms": ["die Gleichgültigkeit"]
+            },
+            {
+              "german": "die Entscheidung",
+              "english": "decision",
+              "gender": "Feminin",
+              "level": "B1",
+              "examples": [
+                "Die Entscheidung fällt morgen.",
+                "Ich habe eine schwere Entscheidung getroffen.",
+                "Entscheidungen müssen gut überlegt sein."
+              ],
+              "synonyms": ["der Entschluss", "die Wahl"],
+              "antonyms": ["die Unentschlossenheit"]
+            },
+            {
+              "german": "der Grund",
+              "english": "reason",
+              "gender": "Maskullin",
+              "level": "B1",
+              "examples": [
+                "Was ist der Grund für dein Fehlen?",
+                "Es gibt viele Gründe, glücklich zu sein.",
+                "Der Grund war einfach zu verstehen."
+              ],
+              "synonyms": ["die Ursache", "die Motivation"],
+              "antonyms": ["die Willkür"]
+            },
+            {
+              "german": "der Wunsch",
+              "english": "wish / desire",
+              "gender": "Maskullin",
+              "level": "B1",
+              "examples": [
+                "Ich habe einen Wunsch.",
+                "Sein größter Wunsch ist Frieden.",
+                "Sie erfüllte ihm seinen Wunsch."
+              ],
+              "synonyms": ["das Verlangen", "die Sehnsucht"],
+              "antonyms": ["die Ablehnung"]
+            },
+            {
+              "german": "die Freude",
+              "english": "joy",
+              "gender": "Feminin",
+              "level": "B1",
+              "examples": [
+                "Die Kinder haben viel Freude.",
+                "Es macht mir große Freude, dir zu helfen.",
+                "Freude teilen macht glücklich."
+              ],
+              "synonyms": ["das Vergnügen", "das Glück"],
+              "antonyms": ["die Traurigkeit"]
+            },
+            {
+              "german": "die Angst",
+              "english": "fear",
+              "gender": "Feminin",
+              "level": "B1",
+              "examples": [
+                "Ich habe Angst vor Spinnen.",
+                "Die Angst lähmt ihn.",
+                "Mut hilft gegen die Angst."
+              ],
+              "synonyms": ["die Furcht", "die Besorgnis"],
+              "antonyms": ["der Mut"]
+            },
+            {
+              "german": "die Hoffnung",
+              "english": "hope",
+              "gender": "Feminin",
+              "level": "B1",
+              "examples": [
+                "Ich habe die Hoffnung nicht aufgegeben.",
+                "Hoffnung gibt Kraft.",
+                "Wir sollten die Hoffnung nicht verlieren."
+              ],
+              "synonyms": ["die Erwartung", "der Optimismus"],
+              "antonyms": ["die Verzweiflung"]
+            },
+            {
+              "german": "die Liebe",
+              "english": "love",
+              "gender": "Feminin",
+              "level": "B1",
+              "examples": [
+                "Liebe ist wichtig im Leben.",
+                "Ich liebe meine Familie.",
+                "Liebe macht glücklich."
+              ],
+              "synonyms": ["die Zuneigung", "das Gefühl"],
+              "antonyms": ["der Hass"]
+            },
+            {
+              "german": "der Streit",
+              "english": "argument / quarrel",
+              "gender": "Maskullin",
+              "level": "B1",
+              "examples": [
+                "Wir hatten einen Streit.",
+                "Streit löst nichts.",
+                "Nach dem Streit haben sie sich versöhnt."
+              ],
+              "synonyms": ["die Auseinandersetzung", "der Konflikt"],
+              "antonyms": ["die Einigung"]
+            },
+            {
+              "german": "die Chance",
+              "english": "chance / opportunity",
+              "gender": "Feminin",
+              "level": "B1",
+              "examples": [
+                "Er hat eine große Chance.",
+                "Man sollte jede Chance nutzen.",
+                "Die Chance kommt nicht oft."
+              ],
+              "synonyms": ["die Möglichkeit", "die Gelegenheit"],
+              "antonyms": ["der Verlust"]
+            },
+            {
+              "german": "der Traum",
+              "english": "dream",
+              "gender": "Maskullin",
+              "level": "B1",
+              "examples": [
+                "Mein Traum ist es, Musiker zu werden.",
+                "Sie hatte einen seltsamen Traum.",
+                "Träume können motivieren."
+              ],
+              "synonyms": ["die Vision", "die Vorstellung"],
+              "antonyms": ["der Albtraum"]
+            },
+            {
+              "german": "der Sieg",
+              "english": "victory",
+              "gender": "Maskullin",
+              "level": "B1",
+              "examples": [
+                "Unser Team feierte den Sieg.",
+                "Der Sieg war knapp.",
+                "Jeder träumt vom Sieg."
+              ],
+              "synonyms": ["der Triumph", "der Erfolg"],
+              "antonyms": ["die Niederlage"]
+            },
+            {
+              "german": "die Niederlage",
+              "english": "defeat",
+              "gender": "Feminin",
+              "level": "B1",
+              "examples": [
+                "Die Niederlage war hart.",
+                "Aus Niederlagen lernt man.",
+                "Niemand mag Niederlagen."
+              ],
+              "synonyms": ["der Verlust", "das Scheitern"],
+              "antonyms": ["der Sieg"]
+            },
+            {
+              "german": "die Ruhe",
+              "english": "calm / peace",
+              "gender": "Feminin",
+              "level": "B1",
+              "examples": [
+                "Ich brauche Ruhe.",
+                "Die Ruhe nach dem Sturm ist schön.",
+                "In der Ruhe liegt die Kraft."
+              ],
+              "synonyms": ["die Stille", "die Gelassenheit"],
+              "antonyms": ["der Lärm"]
+            },
+            {
+              "german": "der Lärm",
+              "english": "noise",
+              "gender": "Maskullin",
+              "level": "B1",
+              "examples": [
+                "Der Lärm stört mich.",
+                "Zu viel Lärm ist ungesund.",
+                "Die Stadt ist voller Lärm."
+              ],
+              "synonyms": ["der Krach", "die Geräusche"],
+              "antonyms": ["die Ruhe"]
+            },
+            {
+              "german": "die Pflicht",
+              "english": "duty / obligation",
+              "gender": "Feminin",
+              "level": "B1",
+              "examples": [
+                "Es ist meine Pflicht, zu helfen.",
+                "Pflichtbewusstsein ist wichtig.",
+                "Jeder hat Pflichten."
+              ],
+              "synonyms": ["die Verantwortung", "die Aufgabe"],
+              "antonyms": ["die Freiheit"]
+            },
+            {
+              "german": "die Freiheit",
+              "english": "freedom",
+              "gender": "Feminin",
+              "level": "B1",
+              "examples": [
+                "Freiheit ist ein hohes Gut.",
+                "Wir genießen unsere Freiheit.",
+                "Ohne Freiheit ist das Leben schwer."
+              ],
+              "synonyms": ["die Unabhängigkeit", "die Selbstständigkeit"],
+              "antonyms": ["die Pflicht"]
+            },
+            {
+              "german": "der Staat",
+              "english": "state / country",
+              "gender": "Maskullin",
+              "level": "B1",
+              "examples": [
+                "Der Staat sorgt für die Bürger.",
+                "Der Staat erhebt Steuern.",
+                "Der Staat schützt die Umwelt."
+              ],
+              "synonyms": ["die Regierung", "die Nation"],
+              "antonyms": ["die Anarchie"]
+            },
+            {
+              "german": "die Gesellschaft",
+              "english": "society",
+              "gender": "Feminin",
+              "level": "B1",
+              "examples": [
+                "Die Gesellschaft verändert sich.",
+                "In unserer Gesellschaft gibt es Regeln.",
+                "Die Gesellschaft profitiert von Bildung."
+              ],
+              "synonyms": ["die Community", "die Gemeinschaft"],
+              "antonyms": ["die Isolation"]
+            },
+            {
+              "german": "die Bildung",
+              "english": "education",
+              "gender": "Feminin",
+              "level": "B1",
+              "examples": [
+                "Bildung ist wichtig für die Zukunft.",
+                "Er investiert in seine Bildung.",
+                "Bildung öffnet viele Türen."
+              ],
+              "synonyms": ["die Ausbildung", "das Lernen"],
+              "antonyms": ["die Unbildung"]
+            },
+            {
+              "german": "lernen",
+              "english": "to learn",
+              "gender": "Neutral",
+              "level": "B1",
+              "examples": [
+                "Ich lerne Deutsch.",
+                "Kinder lernen schnell.",
+                "Man lernt nie aus."
+              ],
+              "synonyms": ["studieren", "erlernen"],
+              "antonyms": ["vergessen"]
+            },
+            {
+              "german": "verstehen",
+              "english": "to understand",
+              "gender": "Neutral",
+              "level": "B1",
+              "examples": [
+                "Ich verstehe dich.",
+                "Kannst du das verstehen?",
+                "Er versteht die Regeln gut."
+              ],
+              "synonyms": ["begreifen", "kapieren"],
+              "antonyms": ["missverstehen"]
+            },
+            {
+              "german": "wissen",
+              "english": "to know / knowledge",
+              "gender": "Neutral",
+              "level": "B1",
+              "examples": [
+                "Ich weiß es nicht.",
+                "Er weiß viel über Geschichte.",
+                "Man muss das wissen."
+              ],
+              "synonyms": ["kennen", "die Kenntnis"],
+              "antonyms": ["nicht wissen"]
+            },
+            {
+              "german": "kennen",
+              "english": "to be familiar with / know",
+              "gender": "Neutral",
+              "level": "B1",
+              "examples": [
+                "Ich kenne ihn schon lange.",
+                "Kennst du dieses Buch?",
+                "Sie kennt die Stadt gut."
+              ],
+              "synonyms": ["wissen", "vertraut sein"],
+              "antonyms": ["nicht kennen"]
+            },
+            {
+              "german": "beginnen",
+              "english": "to begin / start",
+              "gender": "Neutral",
+              "level": "B1",
+              "examples": [
+                "Wir beginnen jetzt.",
+                "Der Kurs beginnt um 9 Uhr.",
+                "Es ist Zeit zu beginnen."
+              ],
+              "synonyms": ["anfangen", "starten"],
+              "antonyms": ["aufhören"]
+            },
+            {
+              "german": "aufhören",
+              "english": "to stop / quit",
+              "gender": "Neutral",
+              "level": "B1",
+              "examples": [
+                "Hör bitte auf!",
+                "Die Musik hört auf zu spielen.",
+                "Wann hörst du mit der Arbeit auf?"
+              ],
+              "synonyms": ["beenden", "stoppen"],
+              "antonyms": ["beginnen"]
+            },
+            {
+              "german": "brauchen",
+              "english": "to need",
+              "gender": "Neutral",
+              "level": "B1",
+              "examples": [
+                "Ich brauche Hilfe.",
+                "Wir brauchen mehr Zeit.",
+                "Sie braucht das Buch."
+              ],
+              "synonyms": ["benötigen", "erfordern"],
+              "antonyms": ["entbehren"]
+            },
+            {
+              "german": "benutzen",
+              "english": "to use",
+              "gender": "Neutral",
+              "level": "B1",
+              "examples": [
+                "Ich benutze mein Handy.",
+                "Kann ich deinen Stift benutzen?",
+                "Wir benutzen die neuen Werkzeuge."
+              ],
+              "synonyms": ["verwenden", "anwenden"],
+              "antonyms": ["ignorieren"]
+            },
+            {
+              "german": "erklären",
+              "english": "to explain",
+              "gender": "Neutral",
+              "level": "B1",
+              "examples": [
+                "Kannst du mir das erklären?",
+                "Er erklärt die Regeln.",
+                "Ich erkläre es dir noch einmal."
+              ],
+              "synonyms": ["darlegen", "verdeutlichen"],
+              "antonyms": ["verschweigen"]
+            },
+            {
+              "german": "fragen",
+              "english": "to ask",
+              "gender": "Neutral",
+              "level": "B1",
+              "examples": [
+                "Ich frage dich etwas.",
+                "Er fragt nach dem Weg.",
+                "Sie fragt immer viele Fragen."
+              ],
+              "synonyms": ["anfragen", "nachfragen"],
+              "antonyms": ["antworten"]
+            },
+            {
+              "german": "antworten",
+              "english": "to answer",
+              "gender": "Neutral",
+              "level": "B1",
+              "examples": [
+                "Bitte antworte mir.",
+                "Er antwortet schnell.",
+                "Sie antwortet nicht."
+              ],
+              "synonyms": ["reagieren", "zurückmelden"],
+              "antonyms": ["fragen"]
+            }
+          ]
+          
