@@ -5,7 +5,6 @@ import (
     "fmt"
     "math/rand"
     "net/http"
-   // "net/url"
     "os"
     "os/exec"
     "time"
@@ -75,7 +74,7 @@ func fetchNewChatIDs(botToken string) []string {
         }
     }
 
-    if newIDs != nil {
+    if len(newIDs) > 0 {
         fmt.Printf("Fetched %d new chat IDs from /start commands.\n", len(newIDs))
     }
 
@@ -111,33 +110,29 @@ func mergeChatIDs(newIDs []string) {
     // ------------------ Repo에 자동 커밋 & push ------------------
     fmt.Println("Committing updated chat_ids.json to git repository...")
 
-    cmd := exec.Command("git", "diff", "--quiet")
-if err := cmd.Run(); err != nil {
-    // 변경 사항 있음 → commit & push
-  
-    cmd := exec.Command("git", "add", chatIDFile)
-    if err := cmd.Run(); err != nil {
-        fmt.Println("git add failed:", err)
-    }
-
-    cmd = exec.Command("git", "commit", "-m", "Update chat_ids.json [skip ci]")
-    if err := cmd.Run(); err != nil {
-        fmt.Println("git commit failed (maybe no changes):", err)
-    } else {
-        fmt.Println("git commit successful")
-        cmd = exec.Command("git", "push")
-        if err := cmd.Run(); err != nil {
-            fmt.Println("git push failed:", err)
-        } else {
-            fmt.Println("chat_ids.json committed and pushed successfully.")
+    diffCmd := exec.Command("git", "diff", "--quiet")
+    if err := diffCmd.Run(); err != nil {
+        // 변경 사항 있음 → commit & push
+        addCmd := exec.Command("git", "add", chatIDFile)
+        if err := addCmd.Run(); err != nil {
+            fmt.Println("git add failed:", err)
         }
+
+        commitCmd := exec.Command("git", "commit", "-m", "Update chat_ids.json [skip ci]")
+        if err := commitCmd.Run(); err != nil {
+            fmt.Println("git commit failed :", err)
+        } else {
+            fmt.Println("git commit successful")
+            pushCmd := exec.Command("git", "push")
+            if err := pushCmd.Run(); err != nil {
+                fmt.Println("git push failed:", err)
+            } else {
+                fmt.Println("chat_ids.json committed and pushed successfully.")
+            }
+        }
+    } else {
+        fmt.Println("No changes to commit")
     }
-} else {
-    fmt.Println("No changes to commit")
-}
-
-
-
 }
 
 // ---------------- 단어/명언 선택 ----------------
@@ -151,7 +146,7 @@ func selectDailyWords() []Word {
     json.Unmarshal(a2File, &a2Words)
     json.Unmarshal(b1File, &b1Words)
 
-    fmt.Println("A1 : " , len(a1Words),"A2 : " , len(a2Words),"B1 : " , len(b1Words), "words loaded.")
+    fmt.Printf("A1: %d, A2: %d, B1: %d words loaded.\n", len(a1Words), len(a2Words), len(b1Words))
 
     rand.Seed(time.Now().UnixNano())
     rand.Shuffle(len(a1Words), func(i, j int) { a1Words[i], a1Words[j] = a1Words[j], a1Words[i] })
@@ -194,6 +189,7 @@ func formatMessage(words []Word, sentence WiseSentences) string {
 
 // ---------------- 텔레그램 전송 ----------------
 func sendToTelegram(botToken, chatID, message string) {
+    // 실제 전송 코드 주석 처리
     // apiURL := fmt.Sprintf("https://api.telegram.org/bot%s/sendMessage", botToken)
     // data := url.Values{}
     // data.Set("chat_id", chatID)

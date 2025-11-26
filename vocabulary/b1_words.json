@@ -2730,6 +2730,540 @@
                   ],
                   "synonyms": ["die Finsternis", "die Nacht"],
                   "antonyms": ["das Licht"]
-                }
-              ]
+                },
+                  {
+                    "german": "der Freund",
+                    "english": "friend",
+                    "gender": "Maskullin",
+                    "level": "B1",
+                    "examples": [
+                      "Mein Freund wohnt in Berlin.",
+                      "Ich treffe mich mit meinem Freund.",
+                      "Er ist ein guter Freund."
+                    ],
+                    "synonyms": ["der Kumpel", "der Bekannte"],
+                    "antonyms": ["der Feind"]
+                  },
+                  {
+                    "german": "die Freundin",
+                    "english": "female friend / girlfriend",
+                    "gender": "Feminin",
+                    "level": "B1",
+                    "examples": [
+                      "Meine Freundin kommt aus Spanien.",
+                      "Ich gehe mit meiner Freundin ins Kino.",
+                      "Sie ist meine beste Freundin."
+                    ],
+                    "synonyms": ["die Bekannte", "die Kameradin"],
+                    "antonyms": ["die Feindin"]
+                  },
+                  {
+                    "german": "die Familie",
+                    "english": "family",
+                    "gender": "Feminin",
+                    "level": "B1",
+                    "examples": [
+                      "Meine Familie ist groß.",
+                      "Wir feiern Weihnachten mit der Familie.",
+                      "Die Familie unterstützt sich gegenseitig."
+                    ],
+                    "synonyms": ["die Verwandtschaft", "der Haushalt"],
+                    "antonyms": ["die Einsamkeit"]
+                  },
+                  {
+                    "german": "der Vater",
+                    "english": "father",
+                    "gender": "Maskullin",
+                    "level": "B1",
+                    "examples": [
+                      "Mein Vater arbeitet viel.",
+                      "Er hilft mir, wie mein Vater es tut.",
+                      "Der Vater ist stolz auf seine Kinder."
+                    ],
+                    "synonyms": ["Papa", "Erzeuger"],
+                    "antonyms": ["die Mutter"]
+                  },
+                  {
+                    "german": "die Mutter",
+                    "english": "mother",
+                    "gender": "Feminin",
+                    "level": "B1",
+                    "examples": [
+                      "Meine Mutter kocht gut.",
+                      "Sie kümmert sich um die Familie.",
+                      "Die Mutter liebt ihre Kinder."
+                    ],
+                    "synonyms": ["Mama", "Erzieherin"],
+                    "antonyms": ["der Vater"]
+                  },
+                  {
+                    "german": "das Kind",
+                    "english": "child",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Das Kind spielt draußen.",
+                      "Die Kinder gehen zur Schule.",
+                      "Jedes Kind braucht Liebe."
+                    ],
+                    "synonyms": ["der Sprössling", "der Nachwuchs"],
+                    "antonyms": ["der Erwachsene"]
+                  },
+                  {
+                    "german": "die Kinder",
+                    "english": "children",
+                    "gender": "Feminin",
+                    "level": "B1",
+                    "examples": [
+                      "Die Kinder spielen zusammen.",
+                      "Wir kümmern uns um die Kinder.",
+                      "Die Kinder lernen schnell."
+                    ],
+                    "synonyms": ["der Nachwuchs", "die Sprösslinge"],
+                    "antonyms": ["die Erwachsenen"]
+                  },
+                  {
+                    "german": "der Erwachsene",
+                    "english": "adult",
+                    "gender": "Maskullin",
+                    "level": "B1",
+                    "examples": [
+                      "Ein Erwachsener muss Verantwortung übernehmen.",
+                      "Die Erwachsenen gehen arbeiten.",
+                      "Er ist jetzt ein Erwachsener."
+                    ],
+                    "synonyms": ["die volljährige Person", "die Person"],
+                    "antonyms": ["das Kind"]
+                  },
+                  {
+                    "german": "das Baby",
+                    "english": "baby",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Das Baby schläft.",
+                      "Wir haben ein neues Baby in der Familie.",
+                      "Das Baby weint oft."
+                    ],
+                    "synonyms": ["das Neugeborene", "der Säugling"],
+                    "antonyms": ["der Erwachsene"]
+                  },
+                  {
+                    "german": "heiraten",
+                    "english": "to marry",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Sie wollen nächstes Jahr heiraten.",
+                      "Er hat sie geheiratet.",
+                      "Wir heiraten im Sommer."
+                    ],
+                    "synonyms": ["vermählen", "trauen"],
+                    "antonyms": ["scheiden"]
+                  },
+                  {
+                    "german": "scheiden",
+                    "english": "to divorce / separate",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Sie haben sich scheiden lassen.",
+                      "Nach zehn Jahren haben sie sich scheiden lassen.",
+                      "Ein Paar kann sich scheiden lassen."
+                    ],
+                    "synonyms": ["trennen", "auflösen"],
+                    "antonyms": ["heiraten"]
+                  },
+                  {
+                    "german": "verheiratet",
+                    "english": "married",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Er ist verheiratet.",
+                      "Sie sind seit zehn Jahren verheiratet.",
+                      "Verheiratete Paare leben oft zusammen."
+                    ],
+                    "synonyms": ["getraut", "vermählt"],
+                    "antonyms": ["ledig"]
+                  },
+                  {
+                    "german": "ledig",
+                    "english": "single / unmarried",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Ich bin ledig.",
+                      "Viele junge Leute sind ledig.",
+                      "Sie bleibt ledig."
+                    ],
+                    "synonyms": ["unverheiratet", "alleinstehend"],
+                    "antonyms": ["verheiratet"]
+                  },
+                  {
+                    "german": "die Hochzeit",
+                    "english": "wedding / marriage",
+                    "gender": "Feminin",
+                    "level": "B1",
+                    "examples": [
+                      "Die Hochzeit war schön.",
+                      "Wir feiern die Hochzeit am Samstag.",
+                      "Die Hochzeit findet in der Kirche statt."
+                    ],
+                    "synonyms": ["die Eheschließung", "die Trauung"],
+                    "antonyms": ["die Scheidung"]
+                  },
+                  {
+                    "german": "die Scheidung",
+                    "english": "divorce",
+                    "gender": "Feminin",
+                    "level": "B1",
+                    "examples": [
+                      "Die Scheidung war schwierig.",
+                      "Sie haben eine Scheidung beantragt.",
+                      "Nach der Scheidung leben sie getrennt."
+                    ],
+                    "synonyms": ["Trennung", "Auflösung der Ehe"],
+                    "antonyms": ["die Hochzeit"]
+                  },
+                  {
+                    "german": "lieben",
+                    "english": "to love",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Ich liebe meine Familie.",
+                      "Sie liebt ihn sehr.",
+                      "Wir lieben das Leben."
+                    ],
+                    "synonyms": ["mögen", "verehren"],
+                    "antonyms": ["hassen"]
+                  },
+                  {
+                    "german": "mögen",
+                    "english": "to like",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Ich mag Schokolade.",
+                      "Sie mögen Musik.",
+                      "Wir mögen den Film."
+                    ],
+                    "synonyms": ["lieben", "gern haben"],
+                    "antonyms": ["nicht mögen", "hassen"]
+                  },
+                  {
+                    "german": "hassen",
+                    "english": "to hate",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Ich hasse Lügen.",
+                      "Er hasst den Winter.",
+                      "Wir hassen Gewalt."
+                    ],
+                    "synonyms": ["verabscheuen", "nicht mögen"],
+                    "antonyms": ["lieben", "mögen"]
+                  },
+                  {
+                    "german": "freuen",
+                    "english": "to be happy / pleased",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Ich freue mich auf das Wochenende.",
+                      "Sie freut sich über das Geschenk.",
+                      "Wir freuen uns, euch zu sehen."
+                    ],
+                    "synonyms": ["glücklich sein", "erfreut sein"],
+                    "antonyms": ["traurig sein"]
+                  },
+                  {
+                    "german": "glücklich",
+                    "english": "happy / lucky",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Ich bin glücklich.",
+                      "Sie sind glücklich verheiratet.",
+                      "Wir fühlen uns glücklich."
+                    ],
+                    "synonyms": ["froh", "zufrieden"],
+                    "antonyms": ["unglücklich", "traurig"]
+                  },
+                  {
+                    "german": "traurig",
+                    "english": "sad",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Ich bin traurig.",
+                      "Sie ist traurig über die Nachricht.",
+                      "Er fühlt sich traurig."
+                    ],
+                    "synonyms": ["unglücklich", "bedrückt"],
+                    "antonyms": ["glücklich"]
+                  },
+                  {
+                    "german": "wütend",
+                    "english": "angry",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Er ist wütend.",
+                      "Ich war wütend über die Entscheidung.",
+                      "Sie sind wütend auf ihn."
+                    ],
+                    "synonyms": ["verärgert", "zornig"],
+                    "antonyms": ["ruhig", "zufrieden"]
+                  },
+                  {
+                    "german": "ängstlich",
+                    "english": "fearful / anxious",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Das Kind ist ängstlich.",
+                      "Ich bin ängstlich vor der Prüfung.",
+                      "Sie wirkt ängstlich."
+                    ],
+                    "synonyms": ["furchtsam", "besorgt"],
+                    "antonyms": ["mutig", "ruhig"]
+                  },
+                  {
+                    "german": "mutig",
+                    "english": "brave / courageous",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Er ist sehr mutig.",
+                      "Sie zeigt mutiges Verhalten.",
+                      "Mutige Menschen probieren Neues."
+                    ],
+                    "synonyms": ["tapfer", "kühn"],
+                    "antonyms": ["ängstlich", "feige"]
+                  },
+                  {
+                    "german": "feige",
+                    "english": "cowardly",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Er ist feige.",
+                      "Feige Menschen weichen Konflikten aus.",
+                      "Sie verhält sich feige."
+                    ],
+                    "synonyms": ["ängstlich", "schwach"],
+                    "antonyms": ["mutig", "tapfer"]
+                  },
+                  {
+                    "german": "stark",
+                    "english": "strong",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Er ist stark.",
+                      "Das Gebäude ist stark gebaut.",
+                      "Sie ist körperlich stark."
+                    ],
+                    "synonyms": ["kräftig", "robust"],
+                    "antonyms": ["schwach"]
+                  },
+                  {
+                    "german": "schwach",
+                    "english": "weak",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Er fühlt sich schwach.",
+                      "Die Brücke ist schwach.",
+                      "Sie ist körperlich schwach."
+                    ],
+                    "synonyms": ["kraftlos", "gebrechlich"],
+                    "antonyms": ["stark"]
+                  },
+                  {
+                    "german": "gesund",
+                    "english": "healthy",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Ich bin gesund.",
+                      "Gesunde Ernährung ist wichtig.",
+                      "Das Kind ist gesund aufgewachsen."
+                    ],
+                    "synonyms": ["fit", "wohlauf"],
+                    "antonyms": ["krank"]
+                  },
+                  {
+                    "german": "krank",
+                    "english": "sick / ill",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Er ist krank.",
+                      "Die Krankheit ist ernst.",
+                      "Sie bleibt zu Hause, weil sie krank ist."
+                    ],
+                    "synonyms": ["leidend", "erkrankt"],
+                    "antonyms": ["gesund"]
+                  },
+                  {
+                    "german": "müde",
+                    "english": "tired",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Ich bin müde.",
+                      "Nach der Arbeit bin ich müde.",
+                      "Sie sieht müde aus."
+                    ],
+                    "synonyms": ["erschöpft", "schlapp"],
+                    "antonyms": ["wach", "fit"]
+                  },
+                  {
+                    "german": "wach",
+                    "english": "awake",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Ich bin wach.",
+                      "Er bleibt die ganze Nacht wach.",
+                      "Das Baby ist wach."
+                    ],
+                    "synonyms": ["aufmerksam", "lebendig"],
+                    "antonyms": ["müde", "schläfrig"]
+                  },
+                  {
+                    "german": "schlafen",
+                    "english": "to sleep",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Ich schlafe acht Stunden.",
+                      "Das Kind schläft tief.",
+                      "Wir schlafen früh."
+                    ],
+                    "synonyms": ["ruhen", "pennen"],
+                    "antonyms": ["wach sein"]
+                  },
+                  {
+                    "german": "träumen",
+                    "english": "to dream",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Ich träume von einem Haus am Meer.",
+                      "Sie träumt oft nachts.",
+                      "Wir träumen von Reisen."
+                    ],
+                    "synonyms": ["fantasieren", "vorstellen"],
+                    "antonyms": ["wachen"]
+                  },
+                  {
+                    "german": "lachen",
+                    "english": "to laugh",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Wir lachen viel.",
+                      "Er lacht über den Witz.",
+                      "Sie lachen zusammen."
+                    ],
+                    "synonyms": ["kichern", "schmunzeln"],
+                    "antonyms": ["weinen"]
+                  },
+                  {
+                    "german": "weinen",
+                    "english": "to cry",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Das Kind weint.",
+                      "Er weint vor Freude.",
+                      "Sie weint über die Trauer."
+                    ],
+                    "synonyms": ["jammern", "tränenergießen"],
+                    "antonyms": ["lachen"]
+                  },
+                  {
+                    "german": "frech",
+                    "english": "naughty / cheeky",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Das Kind ist frech.",
+                      "Er ist frech zu den Lehrern.",
+                      "Freche Kommentare sind oft lustig."
+                    ],
+                    "synonyms": ["unartig", "vorlaut"],
+                    "antonyms": ["brav"]
+                  },
+                  {
+                    "german": "brav",
+                    "english": "well-behaved",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Die Kinder sind brav.",
+                      "Sie war brav in der Schule.",
+                      "Braves Verhalten wird belohnt."
+                    ],
+                    "synonyms": ["artig", "gehorsam"],
+                    "antonyms": ["frech"]
+                  },
+                  {
+                    "german": "freundlich",
+                    "english": "friendly",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Der Lehrer ist freundlich.",
+                      "Sie ist sehr freundlich zu den Gästen.",
+                      "Freundliche Menschen haben viele Freunde."
+                    ],
+                    "synonyms": ["nett", "sympathisch"],
+                    "antonyms": ["unfreundlich"]
+                  },
+                  {
+                    "german": "unfreundlich",
+                    "english": "unfriendly",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Er ist unfreundlich.",
+                      "Die Verkäuferin war unfreundlich.",
+                      "Unfreundliche Menschen haben weniger Freunde."
+                    ],
+                    "synonyms": ["gemein", "rüde"],
+                    "antonyms": ["freundlich"]
+                  },
+                  {
+                    "german": "hilfsbereit",
+                    "english": "helpful",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Die Nachbarn sind hilfsbereit.",
+                      "Er ist immer hilfsbereit.",
+                      "Hilfsbereite Menschen sind beliebt."
+                    ],
+                    "synonyms": ["unterstützend", "freundlich"],
+                    "antonyms": ["egoistisch"]
+                  },
+                  {
+                    "german": "egoistisch",
+                    "english": "selfish",
+                    "gender": "Neutral",
+                    "level": "B1",
+                    "examples": [
+                      "Er ist egoistisch.",
+                      "Egoistische Menschen denken nur an sich.",
+                      "Sie verhält sich egoistisch."
+                    ],
+                    "synonyms": ["selbstsüchtig", "ichbezogen"],
+                    "antonyms": ["hilfsbereit"]
+                  }
+                ]
+                
               
