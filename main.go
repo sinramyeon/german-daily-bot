@@ -109,7 +109,7 @@ func mergeChatIDs(newIDs []string) {
     os.WriteFile(chatIDFile, data, 0644)
 
     // ------------------ Repo에 자동 커밋 & push ------------------
-    fmt..Println("Committing updated chat_ids.json to git repository...")
+    fmt.Println("Committing updated chat_ids.json to git repository...")
 
     cmd := exec.Command("git", "add", chatIDFile)
     if err := cmd.Run(); err != nil {
@@ -117,20 +117,18 @@ func mergeChatIDs(newIDs []string) {
     }
 
     cmd = exec.Command("git", "commit", "-m", "Update chat_ids.json [skip ci]")
-    err := cmd.Run()
-    if err != nil {
-        fmt.Println("git commit failed:", err)
+    if err := cmd.Run(); err != nil {
+        fmt.Println("git commit failed (maybe no changes):", err)
+    } else {
+        fmt.Println("git commit successful")
+        cmd = exec.Command("git", "push")
+        if err := cmd.Run(); err != nil {
+            fmt.Println("git push failed:", err)
+        } else {
+            fmt.Println("chat_ids.json committed and pushed successfully.")
+        }
     }
 
-    cmd = exec.Command("git", "push")
-     err := cmd.Run()
-     if err != nil {
-        fmt.Println("git push failed:", err)
-    }
-
-    if err != nil {
-    fmt.Println("chat_ids.json committed and pushed successfully.")
-    }
 }
 
 // ---------------- 단어/명언 선택 ----------------
