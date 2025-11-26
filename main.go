@@ -105,10 +105,10 @@ func formatMessage(words []Word, sentence WiseSentences) string {
         }
         
         if len(word.Synonyms) > 0 {
-            msg += fmt.Sprintf("🔄 Synonyms: %v\n", word.Synonyms[])
+            msg += fmt.Sprintf("🔄 Synonyms: %v\n", word.Synonyms)
         }
         if len(word.Antonyms) > 0 {
-            msg += fmt.Sprintf("🔀 Antonyms: %v\n", word.Antonyms[])
+            msg += fmt.Sprintf("🔀 Antonyms: %v\n", word.Antonyms)
         }
         msg += "\n---\n\n"
     }
