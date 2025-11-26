@@ -37,8 +37,8 @@ func main() {
     botToken := os.Getenv("TELEGRAM_BOT_TOKEN")
     chatID := os.Getenv("TELEGRAM_CHAT_ID")
     
-    // 1. 단어 5개 랜덤 선택
-    words := selectDailyWords(5)
+    // 1. 단어 랜덤 선택
+    words := selectDailyWords()
 
 	// 2. 오늘의 명언 선택
 	wiseSentence := selectDailySentence()
@@ -50,7 +50,7 @@ func main() {
     sendToTelegram(botToken, chatID, message)
 }
 
-func selectDailyWords(count int) []Word {
+func selectDailyWords() []Word {
     a1File, err := os.ReadFile("vocabulary/a1_words.json")
     if err != nil {
         panic(err)
@@ -89,7 +89,7 @@ func selectDailyWords(count int) []Word {
     allWords = append(allWords, a2Words[:3]...)
     allWords = append(allWords, b1Words[:4]...)
 
-    return allWords[:count]
+    return allWords
 }
 
 func selectDailySentence() WiseSentences {

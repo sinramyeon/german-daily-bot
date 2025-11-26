@@ -1350,6 +1350,293 @@
                       ],
                       "synonyms": ["unwohl", "gesundheitlich angeschlagen"],
                       "antonyms": ["gesund"]
-                    }
-                ]
+                    },
+                        {
+                          "german": "freundlich",
+                          "english": "friendly",
+                          "gender": "Neutral",
+                          "level": "A2",
+                          "examples": [
+                            "Die Verkäuferin ist sehr freundlich.",
+                            "Sei freundlich zu deinen Kollegen.",
+                            "Ein freundliches Lächeln ist wichtig."
+                          ],
+                          "synonyms": ["nett", "liebenswürdig"],
+                          "antonyms": ["unfreundlich"]
+                        },
+                        {
+                          "german": "unfreundlich",
+                          "english": "unfriendly",
+                          "gender": "Neutral",
+                          "level": "A2",
+                          "examples": [
+                            "Der Mann war unfreundlich.",
+                            "Sie reagierte unfreundlich.",
+                            "Unfreundliche Menschen machen keinen Spaß."
+                          ],
+                          "synonyms": ["gemein", "abweisend"],
+                          "antonyms": ["freundlich"]
+                        },
+                        {
+                          "german": "teuer",
+                          "english": "expensive",
+                          "gender": "Neutral",
+                          "level": "A2",
+                          "examples": [
+                            "Dieses Auto ist teuer.",
+                            "Die Schuhe sind sehr teuer.",
+                            "Teures Essen kann lecker sein."
+                          ],
+                          "synonyms": ["kostspielig", "hochpreisig"],
+                          "antonyms": ["billig"]
+                        },
+                        {
+                          "german": "billig",
+                          "english": "cheap",
+                          "gender": "Neutral",
+                          "level": "A2",
+                          "examples": [
+                            "Das Kleid ist billig.",
+                            "Billige Produkte sind oft von schlechter Qualität.",
+                            "Wir haben billig eingekauft."
+                          ],
+                          "synonyms": ["günstig", "preiswert"],
+                          "antonyms": ["teuer"]
+                        },
+                        {
+                          "german": "schnell",
+                          "english": "fast / quick",
+                          "gender": "Neutral",
+                          "level": "A2",
+                          "examples": [
+                            "Der Zug ist schnell.",
+                            "Ich esse schnell.",
+                            "Schnelles Handeln ist wichtig."
+                          ],
+                          "synonyms": ["rasch", "flink"],
+                          "antonyms": ["langsam"]
+                        },
+                        {
+                          "german": "langsam",
+                          "english": "slow",
+                          "gender": "Neutral",
+                          "level": "A2",
+                          "examples": [
+                            "Das Auto fährt langsam.",
+                            "Sprich bitte langsam.",
+                            "Langsames Lernen ist manchmal besser."
+                          ],
+                          "synonyms": ["träge", "gemächlich"],
+                          "antonyms": ["schnell"]
+                        },
+                        {
+                          "german": "sauber",
+                          "english": "clean",
+                          "gender": "Neutral",
+                          "level": "A2",
+                          "examples": [
+                            "Das Zimmer ist sauber.",
+                            "Ich putze mein Auto sauber.",
+                            "Sauberes Wasser ist wichtig."
+                          ],
+                          "synonyms": ["rein", "ordentlich"],
+                          "antonyms": ["schmutzig"]
+                        },
+                        {
+                          "german": "schmutzig",
+                          "english": "dirty",
+                          "gender": "Neutral",
+                          "level": "A2",
+                          "examples": [
+                            "Der Boden ist schmutzig.",
+                            "Die Wäsche ist schmutzig.",
+                            "Schmutzige Hände bitte waschen."
+                          ],
+                          "synonyms": ["dreckig", "unsauber"],
+                          "antonyms": ["sauber"]
+                        },
+                        {
+                          "german": "hell",
+                          "english": "bright / light",
+                          "gender": "Neutral",
+                          "level": "A2",
+                          "examples": [
+                            "Das Zimmer ist hell.",
+                            "Helles Licht ist angenehm.",
+                            "Der Morgen ist hell."
+                          ],
+                          "synonyms": ["leuchtend", "licht"],
+                          "antonyms": ["dunkel"]
+                        },
+                        {
+                          "german": "dunkel",
+                          "english": "dark",
+                          "gender": "Neutral",
+                          "level": "A2",
+                          "examples": [
+                            "Es ist dunkel draußen.",
+                            "Die Höhle ist dunkel.",
+                            "Dunkle Farben wirken elegant."
+                          ],
+                          "synonyms": ["finster", "schattig"],
+                          "antonyms": ["hell"]
+                        },
+                        {
+                          "german": "stark",
+                          "english": "strong",
+                          "gender": "Neutral",
+                          "level": "A2",
+                          "examples": [
+                            "Er ist stark.",
+                            "Starker Kaffee schmeckt gut.",
+                            "Der Wind ist stark."
+                          ],
+                          "synonyms": ["kräftig", "robust"],
+                          "antonyms": ["schwach"]
+                        },
+                        {
+                          "german": "schwach",
+                          "english": "weak",
+                          "gender": "Neutral",
+                          "level": "A2",
+                          "examples": [
+                            "Ich fühle mich schwach.",
+                            "Der schwache Regen hört auf.",
+                            "Schwache Argumente überzeugen nicht."
+                          ],
+                          "synonyms": ["kraftlos", "mangelhaft"],
+                          "antonyms": ["stark"]
+                        },
+                        {
+                          "german": "jung",
+                          "english": "young",
+                          "gender": "Neutral",
+                          "level": "A2",
+                          "examples": [
+                            "Mein Bruder ist jung.",
+                            "Junge Menschen lernen schnell.",
+                            "Die Pflanze ist noch jung."
+                          ],
+                          "synonyms": ["neu", "frisch"],
+                          "antonyms": ["alt"]
+                        },
+                        {
+                          "german": "alt",
+                          "english": "old",
+                          "gender": "Neutral",
+                          "level": "A2",
+                          "examples": [
+                            "Das Gebäude ist alt.",
+                            "Alte Leute brauchen Hilfe.",
+                            "Wir haben alte Bücher."
+                          ],
+                          "synonyms": ["betagt", "antik"],
+                          "antonyms": ["jung"]
+                        },
+                        {
+                          "german": "schön",
+                          "english": "beautiful / nice",
+                          "gender": "Neutral",
+                          "level": "A2",
+                          "examples": [
+                            "Der Garten ist schön.",
+                            "Schönes Wetter heute.",
+                            "Sie hat ein schönes Kleid."
+                          ],
+                          "synonyms": ["hübsch", "attraktiv"],
+                          "antonyms": ["hässlich"]
+                        },
+                        {
+                          "german": "hässlich",
+                          "english": "ugly",
+                          "gender": "Neutral",
+                          "level": "A2",
+                          "examples": [
+                            "Das Gebäude ist hässlich.",
+                            "Er findet den Film hässlich.",
+                            "Hässliche Farben gefallen mir nicht."
+                          ],
+                          "synonyms": ["unattraktiv", "unschön"],
+                          "antonyms": ["schön"]
+                        },
+                        {
+                          "german": "nah",
+                          "english": "near / close",
+                          "gender": "Neutral",
+                          "level": "A2",
+                          "examples": [
+                            "Die Schule ist nah.",
+                            "Ich wohne nah am Park.",
+                            "Nah und fern sind relativ."
+                          ],
+                          "synonyms": ["in der Nähe", "nahebei"],
+                          "antonyms": ["fern"]
+                        },
+                        {
+                          "german": "fern",
+                          "english": "far / distant",
+                          "gender": "Neutral",
+                          "level": "A2",
+                          "examples": [
+                            "Der Berg ist fern.",
+                            "Ich wohne weit und fern.",
+                            "Fern von zu Hause fühlt man sich fremd."
+                          ],
+                          "synonyms": ["weit", "entfernt"],
+                          "antonyms": ["nah"]
+                        },
+                        {
+                          "german": "leicht",
+                          "english": "light / easy",
+                          "gender": "Neutral",
+                          "level": "A2",
+                          "examples": [
+                            "Der Koffer ist leicht.",
+                            "Leicht zu verstehen.",
+                            "Eine leichte Aufgabe lösen."
+                          ],
+                          "synonyms": ["einfach", "locker"],
+                          "antonyms": ["schwer"]
+                        },
+                        {
+                          "german": "schwer",
+                          "english": "heavy / difficult",
+                          "gender": "Neutral",
+                          "level": "A2",
+                          "examples": [
+                            "Der Stein ist schwer.",
+                            "Schwere Arbeit macht müde.",
+                            "Das ist eine schwere Entscheidung."
+                          ],
+                          "synonyms": ["hart", "anspruchsvoll"],
+                          "antonyms": ["leicht"]
+                        },
+                        {
+                          "german": "warm",
+                          "english": "warm",
+                          "gender": "Neutral",
+                          "level": "A2",
+                          "examples": [
+                            "Es ist warm draußen.",
+                            "Ich trinke warmen Tee.",
+                            "Die warme Decke ist angenehm."
+                          ],
+                          "synonyms": ["heiß", "temperiert"],
+                          "antonyms": ["kalt"]
+                        },
+                        {
+                          "german": "kühl",
+                          "english": "cool",
+                          "gender": "Neutral",
+                          "level": "A2",
+                          "examples": [
+                            "Das Wasser ist kühl.",
+                            "Es ist ein kühler Tag.",
+                            "Ich mag kühle Getränke."
+                          ],
+                          "synonyms": ["frisch", "temperiert"],
+                          "antonyms": ["warm"]
+                        }
+                    ]
+                    
                 
