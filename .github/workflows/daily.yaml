@@ -27,3 +27,15 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         run: go run main.go
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add chat_ids.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update chat_ids.json [skip ci]"
+            git push
+          else
+            echo "No changes to commit"

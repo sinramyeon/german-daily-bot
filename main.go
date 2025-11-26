@@ -6,7 +6,6 @@ import (
     "math/rand"
     "net/http"
     "os"
-    "os/exec"
     "time"
 )
 
@@ -106,34 +105,9 @@ func mergeChatIDs(newIDs []string) {
 
     data, _ := json.Marshal(ids)
     os.WriteFile(chatIDFile, data, 0644)
-
-    // ------------------ Repo에 자동 커밋 & push ------------------
-    fmt.Println("Committing updated chat_ids.json to git repository...")
-
-    diffCmd := exec.Command("git", "diff", "--quiet")
-    if err := diffCmd.Run(); err != nil {
-        // 변경 사항 있음 → commit & push
-        addCmd := exec.Command("git", "add", chatIDFile)
-        if err := addCmd.Run(); err != nil {
-            fmt.Println("git add failed:", err)
-        }
-
-        commitCmd := exec.Command("git", "commit", "-m", "Update chat_ids.json [skip ci]")
-        if err := commitCmd.Run(); err != nil {
-            fmt.Println("git commit failed :", err)
-        } else {
-            fmt.Println("git commit successful")
-            pushCmd := exec.Command("git", "push")
-            if err := pushCmd.Run(); err != nil {
-                fmt.Println("git push failed:", err)
-            } else {
-                fmt.Println("chat_ids.json committed and pushed successfully.")
-            }
-        }
-    } else {
-        fmt.Println("No changes to commit")
-    }
+    fmt.Println("chat_ids.json updated locally")
 }
+
 
 // ---------------- 단어/명언 선택 ----------------
 func selectDailyWords() []Word {

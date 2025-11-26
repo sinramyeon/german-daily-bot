@@ -3263,7 +3263,502 @@
                     ],
                     "synonyms": ["selbstsüchtig", "ichbezogen"],
                     "antonyms": ["hilfsbereit"]
-                  }
-                ]
+                  },
+                    {
+                      "german": "ehrlich",
+                      "english": "honest",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Er ist immer ehrlich.",
+                        "Sei ehrlich zu dir selbst.",
+                        "Ehrliche Menschen werden geschätzt."
+                      ],
+                      "synonyms": ["aufrichtig", "redlich"],
+                      "antonyms": ["unehrlich", "falsch"]
+                    },
+                    {
+                      "german": "unehrlich",
+                      "english": "dishonest",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Er ist unehrlich.",
+                        "Unehrliche Menschen verlieren Vertrauen.",
+                        "Sie war unehrlich in der Antwort."
+                      ],
+                      "synonyms": ["falsch", "betrügerisch"],
+                      "antonyms": ["ehrlich", "aufrichtig"]
+                    },
+                    {
+                      "german": "pünktlich",
+                      "english": "punctual",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Er ist immer pünktlich.",
+                        "Sei pünktlich zur Besprechung.",
+                        "Pünktliche Menschen sind zuverlässig."
+                      ],
+                      "synonyms": ["rechtzeitig", "termingerecht"],
+                      "antonyms": ["unpünktlich", "verspätet"]
+                    },
+                    {
+                      "german": "unpünktlich",
+                      "english": "late / unpunctual",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Er ist oft unpünktlich.",
+                        "Unpünktliche Personen stören den Ablauf.",
+                        "Sie kam unpünktlich zur Arbeit."
+                      ],
+                      "synonyms": ["verspätet", "zu spät"],
+                      "antonyms": ["pünktlich"]
+                    },
+                    {
+                      "german": "fleißig",
+                      "english": "hardworking / diligent",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Er ist sehr fleißig.",
+                        "Fleißige Schüler lernen schnell.",
+                        "Sie arbeitet fleißig an ihrem Projekt."
+                      ],
+                      "synonyms": ["arbeitsam", "gründlich"],
+                      "antonyms": ["faul"]
+                    },
+                    {
+                      "german": "faul",
+                      "english": "lazy",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Er ist faul.",
+                        "Faule Menschen erledigen wenig.",
+                        "Sie fühlt sich manchmal faul."
+                      ],
+                      "synonyms": ["träge", "untätig"],
+                      "antonyms": ["fleißig", "arbeitsam"]
+                    },
+                    {
+                      "german": "freundschaftlich",
+                      "english": "friendly / amicable",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Wir haben eine freundschaftliche Beziehung.",
+                        "Sie sprachen freundlich miteinander.",
+                        "Freundschaftliche Gespräche sind angenehm."
+                      ],
+                      "synonyms": ["freundlich", "sympathisch"],
+                      "antonyms": ["feindlich"]
+                    },
+                    {
+                      "german": "feindlich",
+                      "english": "hostile / unfriendly",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Die Stimmung war feindlich.",
+                        "Er reagierte feindlich auf die Kritik.",
+                        "Feindliche Menschen meiden andere."
+                      ],
+                      "synonyms": ["aggressiv", "unfreundlich"],
+                      "antonyms": ["freundlich", "freundschaftlich"]
+                    },
+                    {
+                      "german": "intelligent",
+                      "english": "intelligent / smart",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Sie ist sehr intelligent.",
+                        "Intelligente Menschen lernen schnell.",
+                        "Er hat eine intelligente Idee."
+                      ],
+                      "synonyms": ["klug", "schlau"],
+                      "antonyms": ["dumm"]
+                    },
+                    {
+                      "german": "dumm",
+                      "english": "stupid",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Das war eine dumme Entscheidung.",
+                        "Er ist nicht dumm, nur unerfahren.",
+                        "Manchmal machen dumme Fehler."
+                      ],
+                      "synonyms": ["töricht", "unklug"],
+                      "antonyms": ["intelligent", "klug"]
+                    },
+                    {
+                      "german": "sportlich",
+                      "english": "athletic / sporty",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Er ist sportlich.",
+                        "Sportliche Menschen sind fit.",
+                        "Sie hat einen sportlichen Lebensstil."
+                      ],
+                      "synonyms": ["fit", "athletisch"],
+                      "antonyms": ["unsportlich"]
+                    },
+                    {
+                      "german": "unsportlich",
+                      "english": "unathletic",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Ich bin unsportlich.",
+                        "Unsportliche Menschen meiden Sport.",
+                        "Er fühlt sich unsportlich."
+                      ],
+                      "synonyms": ["träge", "bewegungsarm"],
+                      "antonyms": ["sportlich", "fit"]
+                    },
+                    {
+                      "german": "ruhig",
+                      "english": "calm / quiet",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Die Kinder sind ruhig.",
+                        "Er bleibt ruhig in schwierigen Situationen.",
+                        "Eine ruhige Umgebung hilft beim Lernen."
+                      ],
+                      "synonyms": ["gelassen", "still"],
+                      "antonyms": ["laut", "aufgeregt"]
+                    },
+                    {
+                      "german": "laut",
+                      "english": "loud / noisy",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Die Musik ist zu laut.",
+                        "Kinder spielen laut.",
+                        "Der Raum war laut."
+                      ],
+                      "synonyms": ["geräuschvoll", "lärmend"],
+                      "antonyms": ["ruhig", "leise"]
+                    },
+                    {
+                      "german": "leise",
+                      "english": "quiet / soft",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Sprich leise.",
+                        "Das Radio ist leise.",
+                        "Die Nacht war leise."
+                      ],
+                      "synonyms": ["still", "ruhig"],
+                      "antonyms": ["laut"]
+                    },
+                    {
+                      "german": "glücklich",
+                      "english": "happy / fortunate",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Ich fühle mich glücklich.",
+                        "Wir sind glücklich verheiratet.",
+                        "Glückliche Menschen lachen oft."
+                      ],
+                      "synonyms": ["zufrieden", "froh"],
+                      "antonyms": ["unglücklich", "traurig"]
+                    },
+                    {
+                      "german": "zufrieden",
+                      "english": "satisfied / content",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Ich bin zufrieden mit meiner Arbeit.",
+                        "Sie war mit dem Ergebnis zufrieden.",
+                        "Zufriedene Menschen sind entspannt."
+                      ],
+                      "synonyms": ["glücklich", "erfüllt"],
+                      "antonyms": ["unzufrieden"]
+                    },
+                    {
+                      "german": "unzufrieden",
+                      "english": "unsatisfied / discontent",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Ich bin unzufrieden mit dem Service.",
+                        "Er war unzufrieden über die Entscheidung.",
+                        "Unzufriedene Menschen klagen oft."
+                      ],
+                      "synonyms": ["kritisch", "nörglerisch"],
+                      "antonyms": ["zufrieden", "glücklich"]
+                    },
+                    {
+                      "german": "aktiv",
+                      "english": "active",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Er ist aktiv im Sportverein.",
+                        "Aktive Menschen leben länger.",
+                        "Sie führt ein aktives Leben."
+                      ],
+                      "synonyms": ["tätig", "fit"],
+                      "antonyms": ["passiv"]
+                    },
+                    {
+                      "german": "passiv",
+                      "english": "passive",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Er ist passiv bei der Arbeit.",
+                        "Passive Menschen handeln selten.",
+                        "Sie bleiben passiv."
+                      ],
+                      "synonyms": ["untätig", "inaktiv"],
+                      "antonyms": ["aktiv"]
+                    },
+                    {
+                      "german": "optimistisch",
+                      "english": "optimistic",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Ich bin optimistisch für die Zukunft.",
+                        "Optimistische Menschen lachen viel.",
+                        "Sie bleibt optimistisch."
+                      ],
+                      "synonyms": ["zuversichtlich", "hoffnungsvoll"],
+                      "antonyms": ["pessimistisch"]
+                    },
+                    {
+                      "german": "pessimistisch",
+                      "english": "pessimistic",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Er ist pessimistisch.",
+                        "Pessimistische Menschen sehen Probleme zuerst.",
+                        "Sie denkt pessimistisch über die Lage."
+                      ],
+                      "synonyms": ["negativ", "skeptisch"],
+                      "antonyms": ["optimistisch"]
+                    },
+                    {
+                      "german": "froh",
+                      "english": "happy / glad",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Ich bin froh, dich zu sehen.",
+                        "Wir sind froh über die Nachricht.",
+                        "Frohe Menschen lachen oft."
+                      ],
+                      "synonyms": ["glücklich", "zufrieden"],
+                      "antonyms": ["traurig", "unglücklich"]
+                    },
+                    {
+                      "german": "traurig",
+                      "english": "sad",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Ich bin traurig über die Nachricht.",
+                        "Sie sieht traurig aus.",
+                        "Traurige Menschen weinen oft."
+                      ],
+                      "synonyms": ["unglücklich", "bedrückt"],
+                      "antonyms": ["glücklich", "froh"]
+                    },
+                    {
+                      "german": "interessant",
+                      "english": "interesting",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Das Buch ist interessant.",
+                        "Sie erzählte eine interessante Geschichte.",
+                        "Interessante Themen regen zum Nachdenken an."
+                      ],
+                      "synonyms": ["spannend", "faszinierend"],
+                      "antonyms": ["langweilig"]
+                    },
+                    {
+                      "german": "langweilig",
+                      "english": "boring",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Der Film war langweilig.",
+                        "Langweilige Aufgaben ermüden.",
+                        "Er fand das Gespräch langweilig."
+                      ],
+                      "synonyms": ["eintönig", "monoton"],
+                      "antonyms": ["interessant", "spannend"]
+                    },
+                    {
+                      "german": "spannend",
+                      "english": "exciting / thrilling",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Das Spiel war spannend.",
+                        "Spannende Filme gefallen mir.",
+                        "Ein spannendes Abenteuer wartet."
+                      ],
+                      "synonyms": ["interessant", "aufregend"],
+                      "antonyms": ["langweilig"]
+                    },
+                    {
+                      "german": "aufregend",
+                      "english": "exciting / thrilling",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Die Reise war aufregend.",
+                        "Aufregende Momente bleiben im Gedächtnis.",
+                        "Er erlebt aufregende Situationen."
+                      ],
+                      "synonyms": ["spannend", "interessant"],
+                      "antonyms": ["langweilig", "ruhig"]
+                    },
+                    {
+                      "german": "wichtig",
+                      "english": "important",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Das ist wichtig für mich.",
+                        "Wichtige Entscheidungen müssen bedacht werden.",
+                        "Es ist wichtig, pünktlich zu sein."
+                      ],
+                      "synonyms": ["bedeutend", "essentiell"],
+                      "antonyms": ["unwichtig"]
+                    },
+                    {
+                      "german": "unwichtig",
+                      "english": "unimportant",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Das ist unwichtig.",
+                        "Unwichtige Details kann man ignorieren.",
+                        "Für die Prüfung ist das unwichtig."
+                      ],
+                      "synonyms": ["nebensächlich", "belanglos"],
+                      "antonyms": ["wichtig"]
+                    },
+                    {
+                      "german": "interessiert",
+                      "english": "interested",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Ich bin interessiert an Kunst.",
+                        "Er ist interessiert an dem Thema.",
+                        "Interessierte Menschen stellen viele Fragen."
+                      ],
+                      "synonyms": ["neugierig", "fasziniert"],
+                      "antonyms": ["desinteressiert"]
+                    },
+                    {
+                      "german": "desinteressiert",
+                      "english": "uninterested",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Er ist desinteressiert an Politik.",
+                        "Desinteressierte Menschen hören selten zu.",
+                        "Sie wirkt desinteressiert."
+                      ],
+                      "synonyms": ["gleichgültig", "teilnahmslos"],
+                      "antonyms": ["interessiert"]
+                    },
+                    {
+                      "german": "neugierig",
+                      "english": "curious",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Das Kind ist neugierig.",
+                        "Neugierige Menschen lernen schnell.",
+                        "Ich bin neugierig auf die Zukunft."
+                      ],
+                      "synonyms": ["interessiert", "wissbegierig"],
+                      "antonyms": ["gleichgültig"]
+                    },
+                    {
+                      "german": "gleichgültig",
+                      "english": "indifferent",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Er ist gleichgültig gegenüber dem Problem.",
+                        "Gleichgültige Menschen reagieren selten.",
+                        "Sie bleibt gleichgültig."
+                      ],
+                      "synonyms": ["desinteressiert", "teilnahmslos"],
+                      "antonyms": ["neugierig", "interessiert"]
+                    },
+                    {
+                      "german": "mutig",
+                      "english": "brave / courageous",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Er ist mutig.",
+                        "Mutige Menschen probieren Neues.",
+                        "Sie zeigte mutiges Verhalten."
+                      ],
+                      "synonyms": ["tapfer", "kühn"],
+                      "antonyms": ["ängstlich", "feige"]
+                    },
+                    {
+                      "german": "ängstlich",
+                      "english": "fearful / anxious",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Das Kind ist ängstlich.",
+                        "Sie wirkt ängstlich vor der Prüfung.",
+                        "Er fühlt sich ängstlich."
+                      ],
+                      "synonyms": ["furchtsam", "besorgt"],
+                      "antonyms": ["mutig"]
+                    },
+                    {
+                      "german": "besorgt",
+                      "english": "worried / concerned",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Ich bin besorgt um ihn.",
+                        "Besorgte Eltern fragen nach dem Wohl ihrer Kinder.",
+                        "Sie wirkt besorgt."
+                      ],
+                      "synonyms": ["ängstlich", "beunruhigt"],
+                      "antonyms": ["gelassen", "ruhig"]
+                    },
+                    {
+                      "german": "gelassen",
+                      "english": "calm / composed",
+                      "gender": "Neutral",
+                      "level": "B1",
+                      "examples": [
+                        "Er bleibt gelassen in Stresssituationen.",
+                        "Gelassene Menschen wirken entspannt.",
+                        "Sie ist gelassen und ruhig."
+                      ],
+                      "synonyms": ["ruhig", "souverän"],
+                      "antonyms": ["besorgt", "aufgeregt"]
+                    }
+                  ]
+                  
                 
               
