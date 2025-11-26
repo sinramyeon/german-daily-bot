@@ -3757,8 +3757,462 @@
                       ],
                       "synonyms": ["ruhig", "souverän"],
                       "antonyms": ["besorgt", "aufgeregt"]
-                    }
-                  ]
-                  
-                
-              
+                    },
+                      {
+                        "german": "aufgeregt",
+                        "english": "excited / agitated",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Die Kinder sind aufgeregt vor dem Ausflug.",
+                          "Er war aufgeregt vor dem Vorstellungsgespräch.",
+                          "Aufgeregte Menschen sprechen schnell."
+                        ],
+                        "synonyms": ["nervös", "begeistert"],
+                        "antonyms": ["ruhig", "gelassen"]
+                      },
+                      {
+                        "german": "nervös",
+                        "english": "nervous",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Ich bin nervös vor der Prüfung.",
+                          "Sie war nervös wegen des Termins.",
+                          "Nervöse Menschen reden oft schnell."
+                        ],
+                        "synonyms": ["aufgeregt", "angespannt"],
+                        "antonyms": ["ruhig", "gelassen"]
+                      },
+                      {
+                        "german": "entspannt",
+                        "english": "relaxed",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Nach dem Urlaub bin ich entspannt.",
+                          "Entspannte Menschen wirken freundlich.",
+                          "Sie fühlte sich entspannt am Strand."
+                        ],
+                        "synonyms": ["locker", "gelassen"],
+                        "antonyms": ["angespannt", "nervös"]
+                      },
+                      {
+                        "german": "angespannt",
+                        "english": "tense / stressed",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Die Atmosphäre war angespannt.",
+                          "Er ist angespannt vor der Präsentation.",
+                          "Angespannte Menschen wirken unruhig."
+                        ],
+                        "synonyms": ["nervös", "gestresst"],
+                        "antonyms": ["entspannt", "locker"]
+                      },
+                      {
+                        "german": "gestresst",
+                        "english": "stressed",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Ich bin gestresst wegen der Arbeit.",
+                          "Gestresste Menschen schlafen schlecht.",
+                          "Sie wirkt gestresst."
+                        ],
+                        "synonyms": ["angespannt", "überfordert"],
+                        "antonyms": ["entspannt", "locker"]
+                      },
+                      {
+                        "german": "überfordert",
+                        "english": "overwhelmed",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Ich bin mit der Aufgabe überfordert.",
+                          "Überforderte Menschen brauchen Hilfe.",
+                          "Sie fühlt sich überfordert."
+                        ],
+                        "synonyms": ["gestresst", "überlastet"],
+                        "antonyms": ["fähig", "kompetent"]
+                      },
+                      {
+                        "german": "fähig",
+                        "english": "capable / competent",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Er ist fähig, die Arbeit zu erledigen.",
+                          "Fähige Menschen übernehmen Verantwortung.",
+                          "Sie fühlt sich fähig für die Aufgabe."
+                        ],
+                        "synonyms": ["kompetent", "tüchtig"],
+                        "antonyms": ["unfähig"]
+                      },
+                      {
+                        "german": "unfähig",
+                        "english": "incapable / incompetent",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Er ist unfähig, die Aufgabe zu lösen.",
+                          "Unfähige Menschen machen oft Fehler.",
+                          "Sie fühlte sich unfähig."
+                        ],
+                        "synonyms": ["inkompetent", "untüchtig"],
+                        "antonyms": ["fähig", "kompetent"]
+                      },
+                      {
+                        "german": "kompetent",
+                        "english": "competent",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Er ist kompetent in seinem Job.",
+                          "Kompetente Lehrer erklären gut.",
+                          "Sie fühlt sich kompetent."
+                        ],
+                        "synonyms": ["fähig", "tüchtig"],
+                        "antonyms": ["inkompetent", "unfähig"]
+                      },
+                      {
+                        "german": "tüchtig",
+                        "english": "capable / efficient",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Er ist ein tüchtiger Arbeiter.",
+                          "Tüchtige Menschen erledigen Aufgaben schnell.",
+                          "Sie ist tüchtig und zuverlässig."
+                        ],
+                        "synonyms": ["fähig", "kompetent"],
+                        "antonyms": ["untüchtig", "unfähig"]
+                      },
+                      {
+                        "german": "verlässlich",
+                        "english": "reliable",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Er ist ein verlässlicher Freund.",
+                          "Verlässliche Menschen halten Versprechen.",
+                          "Sie ist verlässlich und pünktlich."
+                        ],
+                        "synonyms": ["zuverlässig", "vertrauenswürdig"],
+                        "antonyms": ["unzuverlässig"]
+                      },
+                      {
+                        "german": "unzuverlässig",
+                        "english": "unreliable",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Er ist unzuverlässig.",
+                          "Unzuverlässige Menschen kommen oft zu spät.",
+                          "Sie ist unzuverlässig bei Terminen."
+                        ],
+                        "synonyms": ["unbeständig", "nicht vertrauenswürdig"],
+                        "antonyms": ["verlässlich", "zuverlässig"]
+                      },
+                      {
+                        "german": "zuverlässig",
+                        "english": "reliable / trustworthy",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Er ist zuverlässig.",
+                          "Zuverlässige Menschen halten ihre Versprechen.",
+                          "Sie ist zuverlässig und genau."
+                        ],
+                        "synonyms": ["verlässlich", "vertrauenswürdig"],
+                        "antonyms": ["unzuverlässig"]
+                      },
+                      {
+                        "german": "vertrauenswürdig",
+                        "english": "trustworthy",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Er ist vertrauenswürdig.",
+                          "Vertrauenswürdige Menschen werden geschätzt.",
+                          "Sie ist sehr vertrauenswürdig."
+                        ],
+                        "synonyms": ["zuverlässig", "verlässlich"],
+                        "antonyms": ["unzuverlässig", "betrügerisch"]
+                      },
+                      {
+                        "german": "ehrgeizig",
+                        "english": "ambitious",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Er ist ehrgeizig.",
+                          "Ehrgeizige Menschen streben nach Erfolg.",
+                          "Sie ist ehrgeizig in ihrer Karriere."
+                        ],
+                        "synonyms": ["ambitioniert", "zielstrebig"],
+                        "antonyms": ["faul", "träge"]
+                      },
+                      {
+                        "german": "zielstrebig",
+                        "english": "determined / goal-oriented",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Er arbeitet zielstrebig.",
+                          "Zielstrebige Menschen erreichen ihre Ziele.",
+                          "Sie ist zielstrebig und fokussiert."
+                        ],
+                        "synonyms": ["ehrgeizig", "konsequent"],
+                        "antonyms": ["träge", "unentschlossen"]
+                      },
+                      {
+                        "german": "konsequent",
+                        "english": "consistent / determined",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Er handelt konsequent.",
+                          "Konsequente Menschen halten Regeln ein.",
+                          "Sie ist konsequent in ihrer Arbeit."
+                        ],
+                        "synonyms": ["zielstrebig", "beharrlich"],
+                        "antonyms": ["inkonsequent", "unentschlossen"]
+                      },
+                      {
+                        "german": "inkonsequent",
+                        "english": "inconsistent",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Er ist inkonsequent.",
+                          "Inkonsequente Menschen ändern oft ihre Meinung.",
+                          "Sie wirkt inkonsequent."
+                        ],
+                        "synonyms": ["wankelmütig", "wechselhaft"],
+                        "antonyms": ["konsequent", "zielstrebig"]
+                      },
+                      {
+                        "german": "beharrlich",
+                        "english": "persistent / persevering",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Er ist beharrlich beim Lernen.",
+                          "Beharrliche Menschen geben nicht auf.",
+                          "Sie bleibt beharrlich trotz Schwierigkeiten."
+                        ],
+                        "synonyms": ["ausdauernd", "konsequent"],
+                        "antonyms": ["aufgebend", "nachlässig"]
+                      },
+                      {
+                        "german": "ausdauernd",
+                        "english": "enduring / persistent",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Sie ist ausdauernd im Sport.",
+                          "Ausdauernde Menschen erreichen Ziele.",
+                          "Er trainiert ausdauernd."
+                        ],
+                        "synonyms": ["beharrlich", "durchhaltend"],
+                        "antonyms": ["aufgebend", "nachlässig"]
+                      },
+                      {
+                        "german": "durchhaltend",
+                        "english": "persevering",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Er ist durchhaltend in schwierigen Situationen.",
+                          "Durchhaltende Menschen geben nicht auf.",
+                          "Sie bleibt durchhaltend bei Projekten."
+                        ],
+                        "synonyms": ["beharrlich", "ausdauernd"],
+                        "antonyms": ["aufgebend"]
+                      },
+                      {
+                        "german": "aufgebend",
+                        "english": "giving up",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Er ist aufgebend.",
+                          "Aufgebende Menschen erreichen selten ihre Ziele.",
+                          "Sie warf aufgebend die Hände hoch."
+                        ],
+                        "synonyms": ["resigniert", "kapituliert"],
+                        "antonyms": ["beharrlich", "durchhaltend"]
+                      },
+                      {
+                        "german": "nachlässig",
+                        "english": "negligent / careless",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Er ist nachlässig bei der Arbeit.",
+                          "Nachlässige Menschen machen Fehler.",
+                          "Sie ist nachlässig im Umgang mit Terminen."
+                        ],
+                        "synonyms": ["lässig", "sorglos"],
+                        "antonyms": ["sorgfältig", "aufmerksam"]
+                      },
+                      {
+                        "german": "sorgfältig",
+                        "english": "careful / thorough",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Er arbeitet sorgfältig.",
+                          "Sorgfältige Menschen machen weniger Fehler.",
+                          "Sie prüft sorgfältig ihre Arbeit."
+                        ],
+                        "synonyms": ["gründlich", "achtsam"],
+                        "antonyms": ["nachlässig"]
+                      },
+                      {
+                        "german": "gründlich",
+                        "english": "thorough / meticulous",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Er untersucht das Problem gründlich.",
+                          "Gründliche Menschen analysieren genau.",
+                          "Sie prüfte gründlich die Unterlagen."
+                        ],
+                        "synonyms": ["sorgfältig", "ausführlich"],
+                        "antonyms": ["oberflächlich", "nachlässig"]
+                      },
+                      {
+                        "german": "oberflächlich",
+                        "english": "superficial",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Die Analyse war oberflächlich.",
+                          "Oberflächliche Menschen verstehen wenig.",
+                          "Er wirkt oberflächlich."
+                        ],
+                        "synonyms": ["flach", "leichtfertig"],
+                        "antonyms": ["gründlich", "tiefgehend"]
+                      },
+                      {
+                        "german": "tiefgehend",
+                        "english": "profound / deep",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Das Gespräch war tiefgehend.",
+                          "Tiefgehende Analysen sind wichtig.",
+                          "Sie denkt tiefgehend über Probleme nach."
+                        ],
+                        "synonyms": ["gründlich", "intensiv"],
+                        "antonyms": ["oberflächlich", "leichtfertig"]
+                      },
+                      {
+                        "german": "intensiv",
+                        "english": "intense / intensive",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Das Training ist intensiv.",
+                          "Intensive Gespräche fördern Verständnis.",
+                          "Er arbeitet intensiv an seinem Projekt."
+                        ],
+                        "synonyms": ["stark", "tiefgehend"],
+                        "antonyms": ["leicht", "oberflächlich"]
+                      },
+                      {
+                        "german": "leicht",
+                        "english": "light / easy",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Die Aufgabe ist leicht.",
+                          "Leichte Übungen sind gut für Anfänger.",
+                          "Er fühlte sich leicht und glücklich."
+                        ],
+                        "synonyms": ["einfach", "locker"],
+                        "antonyms": ["schwer", "intensiv"]
+                      },
+                      {
+                        "german": "schwer",
+                        "english": "heavy / difficult",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Die Kiste ist schwer.",
+                          "Schwere Aufgaben erfordern Geduld.",
+                          "Es war ein schwerer Tag."
+                        ],
+                        "synonyms": ["hart", "anspruchsvoll"],
+                        "antonyms": ["leicht", "einfach"]
+                      },
+                      {
+                        "german": "anspruchsvoll",
+                        "english": "demanding / challenging",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Der Job ist anspruchsvoll.",
+                          "Anspruchsvolle Aufgaben fordern Fähigkeiten.",
+                          "Sie arbeitet an einem anspruchsvollen Projekt."
+                        ],
+                        "synonyms": ["schwierig", "komplex"],
+                        "antonyms": ["einfach", "leicht"]
+                      },
+                      {
+                        "german": "komplex",
+                        "english": "complex",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Das Problem ist komplex.",
+                          "Komplexe Themen brauchen Zeit.",
+                          "Sie analysiert komplexe Zusammenhänge."
+                        ],
+                        "synonyms": ["anspruchsvoll", "vielschichtig"],
+                        "antonyms": ["einfach", "leicht"]
+                      },
+                      {
+                        "german": "vielschichtig",
+                        "english": "multifaceted / layered",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Die Persönlichkeit ist vielschichtig.",
+                          "Vielschichtige Probleme brauchen Geduld.",
+                          "Er hat vielschichtige Interessen."
+                        ],
+                        "synonyms": ["komplex", "mehrschichtig"],
+                        "antonyms": ["einfach", "oberflächlich"]
+                      },
+                      {
+                        "german": "mehrschichtig",
+                        "english": "multilayered",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Die Präsentation ist mehrschichtig aufgebaut.",
+                          "Mehrschichtige Probleme sind schwer zu lösen.",
+                          "Das Thema ist mehrschichtig."
+                        ],
+                        "synonyms": ["vielschichtig", "komplex"],
+                        "antonyms": ["einfach", "oberflächlich"]
+                      },
+                      {
+                        "german": "kompliziert",
+                        "english": "complicated",
+                        "gender": "Neutral",
+                        "level": "B1",
+                        "examples": [
+                          "Die Situation ist kompliziert.",
+                          "Komplizierte Aufgaben brauchen Zeit.",
+                          "Er versteht komplizierte Zusammenhänge."
+                        ],
+                        "synonyms": ["schwierig", "komplex"],
+                        "antonyms": ["einfach", "leicht"]
+                      }
+                    ]
+                    
+        
