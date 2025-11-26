@@ -100,15 +100,15 @@ func formatMessage(words []Word, sentence WiseSentences) string {
         msg += fmt.Sprintf("📖 %s\n\n", word.English)
         
         // 예문 3개
-        for j, example := range word.Examples {
+        for _, example := range word.Examples {
             msg += fmt.Sprintf("💬 %s\n", example)
         }
         
         if len(word.Synonyms) > 0 {
-            msg += fmt.Sprintf("🔄 Synonyms: %v\n", word.Synonyms[:2])
+            msg += fmt.Sprintf("🔄 Synonyms: %v\n", word.Synonyms[])
         }
         if len(word.Antonyms) > 0 {
-            msg += fmt.Sprintf("🔀 Antonyms: %v\n", word.Antonyms[:2])
+            msg += fmt.Sprintf("🔀 Antonyms: %v\n", word.Antonyms[])
         }
         msg += "\n---\n\n"
     }
