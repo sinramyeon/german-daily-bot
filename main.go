@@ -111,6 +111,10 @@ func mergeChatIDs(newIDs []string) {
     // ------------------ Repo에 자동 커밋 & push ------------------
     fmt.Println("Committing updated chat_ids.json to git repository...")
 
+    cmd := exec.Command("git", "diff", "--quiet")
+if err := cmd.Run(); err != nil {
+    // 변경 사항 있음 → commit & push
+  
     cmd := exec.Command("git", "add", chatIDFile)
     if err := cmd.Run(); err != nil {
         fmt.Println("git add failed:", err)
@@ -128,6 +132,11 @@ func mergeChatIDs(newIDs []string) {
             fmt.Println("chat_ids.json committed and pushed successfully.")
         }
     }
+} else {
+    fmt.Println("No changes to commit")
+}
+
+
 
 }
 

@@ -2301,6 +2301,435 @@
                 ],
                 "synonyms": ["gedenken", "sich ins Gedächtnis rufen"],
                 "antonyms": ["vergessen"]
-              }
-            ]
-            
+              },
+                {
+                  "german": "arbeiten",
+                  "english": "to work",
+                  "gender": "Neutral",
+                  "level": "B1",
+                  "examples": [
+                    "Ich arbeite jeden Tag.",
+                    "Wir arbeiten an einem Projekt.",
+                    "Sie arbeitet in einem Büro."
+                  ],
+                  "synonyms": ["tätig sein", "beschäftigen"],
+                  "antonyms": ["faulenzen"]
+                },
+                {
+                  "german": "die Arbeit",
+                  "english": "work / job",
+                  "gender": "Feminin",
+                  "level": "B1",
+                  "examples": [
+                    "Meine Arbeit macht mir Spaß.",
+                    "Er sucht neue Arbeit.",
+                    "Die Arbeit ist schwierig."
+                  ],
+                  "synonyms": ["der Job", "die Tätigkeit"],
+                  "antonyms": ["die Freizeit"]
+                },
+                {
+                  "german": "der Beruf",
+                  "english": "profession / occupation",
+                  "gender": "Maskullin",
+                  "level": "B1",
+                  "examples": [
+                    "Mein Beruf ist Lehrer.",
+                    "Sie wechselt den Beruf.",
+                    "Er übt seinen Beruf aus."
+                  ],
+                  "synonyms": ["die Arbeit", "die Tätigkeit"],
+                  "antonyms": ["die Arbeitslosigkeit"]
+                },
+                {
+                  "german": "die Freizeit",
+                  "english": "free time / leisure",
+                  "gender": "Feminin",
+                  "level": "B1",
+                  "examples": [
+                    "In meiner Freizeit lese ich gern.",
+                    "Freizeitaktivitäten sind wichtig.",
+                    "Er verbringt die Freizeit draußen."
+                  ],
+                  "synonyms": ["die Erholung", "das Hobby"],
+                  "antonyms": ["die Arbeit"]
+                },
+                {
+                  "german": "reisen",
+                  "english": "to travel",
+                  "gender": "Neutral",
+                  "level": "B1",
+                  "examples": [
+                    "Ich reise gern nach Europa.",
+                    "Wir reisen im Sommer.",
+                    "Er reist beruflich viel."
+                  ],
+                  "synonyms": ["fahren", "unterwegs sein"],
+                  "antonyms": ["bleiben"]
+                },
+                {
+                  "german": "der Urlaub",
+                  "english": "vacation / holiday",
+                  "gender": "Maskullin",
+                  "level": "B1",
+                  "examples": [
+                    "Ich habe im Juli Urlaub.",
+                    "Der Urlaub war erholsam.",
+                    "Wir planen den nächsten Urlaub."
+                  ],
+                  "synonyms": ["die Ferien", "die Erholung"],
+                  "antonyms": ["die Arbeit"]
+                },
+                {
+                  "german": "die Reise",
+                  "english": "journey / trip",
+                  "gender": "Feminin",
+                  "level": "B1",
+                  "examples": [
+                    "Die Reise nach Italien war schön.",
+                    "Wir planen eine lange Reise.",
+                    "Die Reise dauert drei Wochen."
+                  ],
+                  "synonyms": ["die Fahrt", "die Tour"],
+                  "antonyms": ["der Aufenthalt"]
+                },
+                {
+                  "german": "die Stadt",
+                  "english": "city / town",
+                  "gender": "Feminin",
+                  "level": "B1",
+                  "examples": [
+                    "Die Stadt ist groß.",
+                    "Wir wohnen in der Stadt.",
+                    "Die Stadt hat viele Sehenswürdigkeiten."
+                  ],
+                  "synonyms": ["die Gemeinde", "der Ort"],
+                  "antonyms": ["das Dorf"]
+                },
+                {
+                  "german": "das Dorf",
+                  "english": "village",
+                  "gender": "Neutral",
+                  "level": "B1",
+                  "examples": [
+                    "Er lebt in einem kleinen Dorf.",
+                    "Das Dorf ist ruhig.",
+                    "Die Dorfbewohner kennen sich alle."
+                  ],
+                  "synonyms": ["die Ortschaft", "die Gemeinde"],
+                  "antonyms": ["die Stadt"]
+                },
+                {
+                  "german": "das Land",
+                  "english": "country / land",
+                  "gender": "Neutral",
+                  "level": "B1",
+                  "examples": [
+                    "Deutschland ist ein schönes Land.",
+                    "Er reist gern durch das Land.",
+                    "Das Land hat viele Wälder."
+                  ],
+                  "synonyms": ["der Staat", "die Nation"],
+                  "antonyms": ["die Stadt"]
+                },
+                {
+                  "german": "die Straße",
+                  "english": "street / road",
+                  "gender": "Feminin",
+                  "level": "B1",
+                  "examples": [
+                    "Die Straße ist lang.",
+                    "Wir wohnen in dieser Straße.",
+                    "Die Straße ist stark befahren."
+                  ],
+                  "synonyms": ["der Weg", "die Allee"],
+                  "antonyms": ["der Feldweg"]
+                },
+                {
+                  "german": "der Weg",
+                  "english": "path / way",
+                  "gender": "Maskullin",
+                  "level": "B1",
+                  "examples": [
+                    "Der Weg zum Bahnhof ist kurz.",
+                    "Wir gehen einen neuen Weg.",
+                    "Der Weg ist steinig."
+                  ],
+                  "synonyms": ["die Straße", "der Pfad"],
+                  "antonyms": ["die Sackgasse"]
+                },
+                {
+                  "german": "das Haus",
+                  "english": "house / building",
+                  "gender": "Neutral",
+                  "level": "B1",
+                  "examples": [
+                    "Das Haus ist alt.",
+                    "Wir bauen ein neues Haus.",
+                    "Ich wohne in einem Haus."
+                  ],
+                  "synonyms": ["die Wohnung", "das Gebäude"],
+                  "antonyms": ["die Ruine"]
+                },
+                {
+                  "german": "die Wohnung",
+                  "english": "apartment / flat",
+                  "gender": "Feminin",
+                  "level": "B1",
+                  "examples": [
+                    "Ich habe eine schöne Wohnung.",
+                    "Die Wohnung ist groß.",
+                    "Wir suchen eine neue Wohnung."
+                  ],
+                  "synonyms": ["das Appartement", "das Heim"],
+                  "antonyms": ["das Haus"]
+                },
+                {
+                  "german": "wohnen",
+                  "english": "to live / reside",
+                  "gender": "Neutral",
+                  "level": "B1",
+                  "examples": [
+                    "Ich wohne in Berlin.",
+                    "Wir wohnen zusammen.",
+                    "Sie wohnt seit 5 Jahren hier."
+                  ],
+                  "synonyms": ["leben", "residieren"],
+                  "antonyms": ["umziehen"]
+                },
+                {
+                  "german": "umziehen",
+                  "english": "to move / change residence",
+                  "gender": "Neutral",
+                  "level": "B1",
+                  "examples": [
+                    "Wir ziehen nächste Woche um.",
+                    "Er muss umziehen.",
+                    "Ich ziehe in eine neue Wohnung."
+                  ],
+                  "synonyms": ["wechseln", "verlegen"],
+                  "antonyms": ["wohnen"]
+                },
+                {
+                  "german": "die Nachbarn",
+                  "english": "neighbors",
+                  "gender": "Maskullin",
+                  "level": "B1",
+                  "examples": [
+                    "Die Nachbarn sind freundlich.",
+                    "Wir haben nette Nachbarn.",
+                    "Ich kenne meine Nachbarn gut."
+                  ],
+                  "synonyms": ["die Anwohner", "die Mitbewohner"],
+                  "antonyms": ["die Fremden"]
+                },
+                {
+                  "german": "die Küche",
+                  "english": "kitchen",
+                  "gender": "Feminin",
+                  "level": "B1",
+                  "examples": [
+                    "Die Küche ist groß.",
+                    "Ich koche in der Küche.",
+                    "Die Küche ist modern eingerichtet."
+                  ],
+                  "synonyms": ["der Kochbereich", "das Küchenzimmer"],
+                  "antonyms": ["das Wohnzimmer"]
+                },
+                {
+                  "german": "das Badezimmer",
+                  "english": "bathroom",
+                  "gender": "Neutral",
+                  "level": "B1",
+                  "examples": [
+                    "Das Badezimmer ist sauber.",
+                    "Ich dusche im Badezimmer.",
+                    "Das Badezimmer hat eine Badewanne."
+                  ],
+                  "synonyms": ["die Toilette", "das Bad"],
+                  "antonyms": ["die Küche"]
+                },
+                {
+                  "german": "das Wohnzimmer",
+                  "english": "living room",
+                  "gender": "Neutral",
+                  "level": "B1",
+                  "examples": [
+                    "Das Wohnzimmer ist hell.",
+                    "Wir sitzen im Wohnzimmer.",
+                    "Das Wohnzimmer hat ein großes Sofa."
+                  ],
+                  "synonyms": ["der Salon", "der Aufenthaltsraum"],
+                  "antonyms": ["die Küche"]
+                },
+                {
+                  "german": "das Schlafzimmer",
+                  "english": "bedroom",
+                  "gender": "Neutral",
+                  "level": "B1",
+                  "examples": [
+                    "Das Schlafzimmer ist gemütlich.",
+                    "Ich schlafe im Schlafzimmer.",
+                    "Das Schlafzimmer hat ein großes Bett."
+                  ],
+                  "synonyms": ["das Zimmer", "die Schlafkammer"],
+                  "antonyms": ["das Wohnzimmer"]
+                },
+                {
+                  "german": "die Möbel",
+                  "english": "furniture",
+                  "gender": "Feminin",
+                  "level": "B1",
+                  "examples": [
+                    "Die Möbel sind neu.",
+                    "Wir kaufen neue Möbel.",
+                    "Die Möbel passen gut ins Zimmer."
+                  ],
+                  "synonyms": ["die Einrichtung", "das Mobiliar"],
+                  "antonyms": ["die Leere"]
+                },
+                {
+                  "german": "der Tisch",
+                  "english": "table",
+                  "gender": "Maskullin",
+                  "level": "B1",
+                  "examples": [
+                    "Der Tisch ist groß.",
+                    "Wir essen am Tisch.",
+                    "Der Tisch steht im Wohnzimmer."
+                  ],
+                  "synonyms": ["die Tafel", "das Möbelstück"],
+                  "antonyms": ["der Stuhl"]
+                },
+                {
+                  "german": "der Stuhl",
+                  "english": "chair",
+                  "gender": "Maskullin",
+                  "level": "B1",
+                  "examples": [
+                    "Der Stuhl ist bequem.",
+                    "Setz dich auf den Stuhl.",
+                    "Die Stühle stehen im Kreis."
+                  ],
+                  "synonyms": ["der Sitz", "der Hocker"],
+                  "antonyms": ["der Tisch"]
+                },
+                {
+                  "german": "das Bett",
+                  "english": "bed",
+                  "gender": "Neutral",
+                  "level": "B1",
+                  "examples": [
+                    "Das Bett ist groß.",
+                    "Ich gehe ins Bett.",
+                    "Das Bett ist bequem."
+                  ],
+                  "synonyms": ["die Schlafstelle", "die Koje"],
+                  "antonyms": ["der Stuhl"]
+                },
+                {
+                  "german": "der Schrank",
+                  "english": "cupboard / closet",
+                  "gender": "Maskullin",
+                  "level": "B1",
+                  "examples": [
+                    "Der Schrank ist voll.",
+                    "Wir kaufen einen neuen Schrank.",
+                    "Der Schrank steht im Schlafzimmer."
+                  ],
+                  "synonyms": ["die Kommode", "die Vitrine"],
+                  "antonyms": ["die Leere"]
+                },
+                {
+                  "german": "das Fenster",
+                  "english": "window",
+                  "gender": "Neutral",
+                  "level": "B1",
+                  "examples": [
+                    "Das Fenster ist offen.",
+                    "Ich öffne das Fenster.",
+                    "Die Aussicht aus dem Fenster ist schön."
+                  ],
+                  "synonyms": ["die Scheibe", "das Glas"],
+                  "antonyms": ["die Wand"]
+                },
+                {
+                  "german": "die Tür",
+                  "english": "door",
+                  "gender": "Feminin",
+                  "level": "B1",
+                  "examples": [
+                    "Die Tür ist geschlossen.",
+                    "Bitte öffne die Tür.",
+                    "Die Tür führt ins Wohnzimmer."
+                  ],
+                  "synonyms": ["der Eingang", "das Tor"],
+                  "antonyms": ["das Fenster"]
+                },
+                {
+                  "german": "der Boden",
+                  "english": "floor / ground",
+                  "gender": "Maskullin",
+                  "level": "B1",
+                  "examples": [
+                    "Der Boden ist sauber.",
+                    "Wir wischen den Boden.",
+                    "Der Boden ist aus Holz."
+                  ],
+                  "synonyms": ["der Fußboden", "die Fläche"],
+                  "antonyms": ["die Decke"]
+                },
+                {
+                  "german": "die Decke",
+                  "english": "ceiling / blanket",
+                  "gender": "Feminin",
+                  "level": "B1",
+                  "examples": [
+                    "Die Decke ist hoch.",
+                    "Ich ziehe mir eine Decke über.",
+                    "Die Decke ist weiß gestrichen."
+                  ],
+                  "synonyms": ["das Dach", "die Bettdecke"],
+                  "antonyms": ["der Boden"]
+                },
+                {
+                  "german": "die Lampe",
+                  "english": "lamp / light",
+                  "gender": "Feminin",
+                  "level": "B1",
+                  "examples": [
+                    "Die Lampe ist hell.",
+                    "Ich schalte die Lampe an.",
+                    "Die Lampe hängt an der Decke."
+                  ],
+                  "synonyms": ["das Licht", "die Beleuchtung"],
+                  "antonyms": ["die Dunkelheit"]
+                },
+                {
+                  "german": "das Licht",
+                  "english": "light",
+                  "gender": "Neutral",
+                  "level": "B1",
+                  "examples": [
+                    "Das Licht ist angenehm.",
+                    "Wir brauchen mehr Licht.",
+                    "Das Licht geht automatisch an."
+                  ],
+                  "synonyms": ["die Lampe", "die Beleuchtung"],
+                  "antonyms": ["die Dunkelheit"]
+                },
+                {
+                  "german": "die Dunkelheit",
+                  "english": "darkness",
+                  "gender": "Feminin",
+                  "level": "B1",
+                  "examples": [
+                    "Die Dunkelheit macht Angst.",
+                    "In der Dunkelheit sieht man nichts.",
+                    "Die Dunkelheit ist tief."
+                  ],
+                  "synonyms": ["die Finsternis", "die Nacht"],
+                  "antonyms": ["das Licht"]
+                }
+              ]
+              
