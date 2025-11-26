@@ -51,7 +51,7 @@ func main() {
 }
 
 func selectDailyWords(count int) []Word {
-    file, err := os.ReadFile("vocabulary/b1_test.json")
+    file, err := os.ReadFile("vocabulary/words.json")
     if err != nil {
         panic(err)
     }
@@ -77,7 +77,7 @@ func selectDailyWords(count int) []Word {
 }
 
 func selectDailySentence() WiseSentences {
-    file, err := os.ReadFile("wisdom_sentences/sentences.json")
+    file, err := os.ReadFile("vocabulary/sentences.json")
     if err != nil {
         panic(err)
     }
