@@ -2,8 +2,8 @@ name: Daily German Bot
 
 on:
   schedule:
-    - cron: '0 7 * * *'  # 매일 아침8시 (독일)
-    - cron: '0 19 * * *'  # 매일 저녁 8시 (독일)
+    - cron: "0 7 * * *"  # 독일 아침 8시
+    - cron: "0 19 * * *"  # 독일 저녁 8시
   workflow_dispatch:
 
 jobs:
@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true
 
       - name: Set up Go
         uses: actions/setup-go@v4
