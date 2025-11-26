@@ -780,7 +780,278 @@
         ],
         "synonyms": ["identifizieren", "sehen"],
         "antonyms": ["verwechseln"]
-      }
-  ]
-  
-  
+      },
+        {
+          "german": "die Meinung",
+          "english": "opinion",
+          "gender": "Feminin",
+          "level": "B1",
+          "examples": [
+            "Jeder hat seine eigene Meinung.",
+            "Ich bin anderer Meinung.",
+            "Die Meinung der Experten ist wichtig."
+          ],
+          "synonyms": ["die Ansicht", "die Überzeugung"],
+          "antonyms": ["die Gleichgültigkeit"]
+        },
+        {
+          "german": "die Nachricht",
+          "english": "news / message",
+          "gender": "Feminin",
+          "level": "B1",
+          "examples": [
+            "Hast du die Nachrichten gesehen?",
+            "Ich habe eine wichtige Nachricht für dich.",
+            "Die Nachrichten sind oft negativ."
+          ],
+          "synonyms": ["die Mitteilung", "die Information"],
+          "antonyms": ["das Schweigen"]
+        },
+        {
+          "german": "die Erfahrung",
+          "english": "experience",
+          "gender": "Feminin",
+          "level": "B1",
+          "examples": [
+            "Er hat viel Erfahrung im Beruf.",
+            "Diese Erfahrung war lehrreich.",
+            "Mit Erfahrung kann man besser handeln."
+          ],
+          "synonyms": ["das Erlebnis", "die Praxis"],
+          "antonyms": ["die Unwissenheit"]
+        },
+        {
+          "german": "der Fehler",
+          "english": "mistake / error",
+          "gender": "Maskullin",
+          "level": "B1",
+          "examples": [
+            "Ich habe einen Fehler gemacht.",
+            "Jeder macht mal Fehler.",
+            "Aus Fehlern lernt man."
+          ],
+          "synonyms": ["das Versehen", "die Irrtum"],
+          "antonyms": ["die Richtigkeit"]
+        },
+        {
+          "german": "die Verantwortung",
+          "english": "responsibility",
+          "gender": "Feminin",
+          "level": "B1",
+          "examples": [
+            "Er trägt große Verantwortung.",
+            "Verantwortung zu übernehmen ist wichtig.",
+            "Ich habe keine Verantwortung dafür."
+          ],
+          "synonyms": ["die Pflicht", "die Aufgabe"],
+          "antonyms": ["die Schuldlosigkeit"]
+        },
+        {
+          "german": "die Arbeit",
+          "english": "work / job",
+          "gender": "Feminin",
+          "level": "B1",
+          "examples": [
+            "Ich habe viel Arbeit heute.",
+            "Die Arbeit macht mir Spaß.",
+            "Er sucht eine neue Arbeit."
+          ],
+          "synonyms": ["der Job", "die Beschäftigung"],
+          "antonyms": ["die Freizeit"]
+        },
+        {
+          "german": "der Erfolg",
+          "english": "success",
+          "gender": "Maskullin",
+          "level": "B1",
+          "examples": [
+            "Er hat großen Erfolg.",
+            "Der Erfolg kommt nicht über Nacht.",
+            "Sie feierten ihren Erfolg."
+          ],
+          "synonyms": ["der Triumph", "die Leistung"],
+          "antonyms": ["der Misserfolg"]
+        },
+        {
+          "german": "die Lösung",
+          "english": "solution",
+          "gender": "Feminin",
+          "level": "B1",
+          "examples": [
+            "Wir müssen eine Lösung finden.",
+            "Die Lösung ist nicht einfach.",
+            "Hast du eine Lösung für das Problem?"
+          ],
+          "synonyms": ["die Antwort", "der Ausweg"],
+          "antonyms": ["das Problem"]
+        },
+        {
+          "german": "die Entscheidung",
+          "english": "decision",
+          "gender": "Feminin",
+          "level": "B1",
+          "examples": [
+            "Die Entscheidung fällt morgen.",
+            "Ich habe eine schwere Entscheidung getroffen.",
+            "Entscheidungen müssen gut überlegt sein."
+          ],
+          "synonyms": ["der Entschluss", "die Wahl"],
+          "antonyms": ["die Unentschlossenheit"]
+        },
+        {
+          "german": "der Grund",
+          "english": "reason",
+          "gender": "Maskullin",
+          "level": "B1",
+          "examples": [
+            "Was ist der Grund für dein Fehlen?",
+            "Es gibt viele Gründe, glücklich zu sein.",
+            "Der Grund war einfach zu verstehen."
+          ],
+          "synonyms": ["die Ursache", "die Motivation"],
+          "antonyms": ["die Willkür"]
+        },
+        {
+          "german": "die Meinung",
+          "english": "opinion",
+          "gender": "Feminin",
+          "level": "B1",
+          "examples": [
+            "Jeder hat seine eigene Meinung.",
+            "Ich bin anderer Meinung.",
+            "Die Meinung der Experten ist wichtig."
+          ],
+          "synonyms": ["die Ansicht", "die Überzeugung"],
+          "antonyms": ["die Gleichgültigkeit"]
+        },
+        {
+          "german": "die Erfahrung",
+          "english": "experience",
+          "gender": "Feminin",
+          "level": "B1",
+          "examples": [
+            "Er hat viel Erfahrung im Beruf.",
+            "Diese Erfahrung war lehrreich.",
+            "Mit Erfahrung kann man besser handeln."
+          ],
+          "synonyms": ["das Erlebnis", "die Praxis"],
+          "antonyms": ["die Unwissenheit"]
+        },
+        {
+          "german": "die Gesundheit",
+          "english": "health",
+          "gender": "Feminin",
+          "level": "B1",
+          "examples": [
+            "Gesundheit ist das Wichtigste.",
+            "Ich achte auf meine Gesundheit.",
+            "Sport fördert die Gesundheit."
+          ],
+          "synonyms": ["das Wohlbefinden", "die Fitness"],
+          "antonyms": ["die Krankheit"]
+        },
+        {
+          "german": "das Gefühl",
+          "english": "feeling",
+          "gender": "Neutral",
+          "level": "B1",
+          "examples": [
+            "Ich habe ein gutes Gefühl dabei.",
+            "Sein Gefühl hat ihn nicht getäuscht.",
+            "Gefühle sollte man ernst nehmen."
+          ],
+          "synonyms": ["die Empfindung", "die Stimmung"],
+          "antonyms": ["die Gleichgültigkeit"]
+        },
+        {
+          "german": "die Möglichkeit",
+          "english": "possibility",
+          "gender": "Feminin",
+          "level": "B1",
+          "examples": [
+            "Es gibt viele Möglichkeiten.",
+            "Ich habe keine andere Möglichkeit.",
+            "Die Möglichkeit besteht noch."
+          ],
+          "synonyms": ["die Chance", "die Option"],
+          "antonyms": ["die Unmöglichkeit"]
+        },
+        {
+          "german": "die Aufgabe",
+          "english": "task / assignment",
+          "gender": "Feminin",
+          "level": "B1",
+          "examples": [
+            "Ich habe viele Aufgaben zu erledigen.",
+            "Diese Aufgabe ist schwer.",
+            "Die Aufgabe erfordert viel Konzentration."
+          ],
+          "synonyms": ["die Pflicht", "die Arbeit"],
+          "antonyms": ["die Freizeit"]
+        },
+        {
+          "german": "die Zukunft",
+          "english": "future",
+          "gender": "Feminin",
+          "level": "B1",
+          "examples": [
+            "Die Zukunft ist ungewiss.",
+            "Ich plane meine Zukunft sorgfältig.",
+            "Die Zukunft gehört den Mutigen."
+          ],
+          "synonyms": ["das Morgen", "die Perspektive"],
+          "antonyms": ["die Vergangenheit"]
+        },
+        {
+          "german": "die Vergangenheit",
+          "english": "past",
+          "gender": "Feminin",
+          "level": "B1",
+          "examples": [
+            "Die Vergangenheit darf man nicht vergessen.",
+            "Wir lernen aus der Vergangenheit.",
+            "Er denkt oft an die Vergangenheit."
+          ],
+          "synonyms": ["das Vergangene", "die Historie"],
+          "antonyms": ["die Zukunft"]
+        },
+        {
+          "german": "die Meinung",
+          "english": "opinion",
+          "gender": "Feminin",
+          "level": "B1",
+          "examples": [
+            "Jeder hat seine eigene Meinung.",
+            "Ich bin anderer Meinung.",
+            "Die Meinung der Experten ist wichtig."
+          ],
+          "synonyms": ["die Ansicht", "die Überzeugung"],
+          "antonyms": ["die Gleichgültigkeit"]
+        },
+        {
+          "german": "der Wunsch",
+          "english": "wish / desire",
+          "gender": "Maskullin",
+          "level": "B1",
+          "examples": [
+            "Ich habe einen Wunsch.",
+            "Sein größter Wunsch ist Frieden.",
+            "Sie erfüllte ihm seinen Wunsch."
+          ],
+          "synonyms": ["das Verlangen", "die Sehnsucht"],
+          "antonyms": ["die Ablehnung"]
+        },
+        {
+          "german": "die Erfahrung",
+          "english": "experience",
+          "gender": "Feminin",
+          "level": "B1",
+          "examples": [
+            "Er hat viel Erfahrung im Beruf.",
+            "Diese Erfahrung war lehrreich.",
+            "Mit Erfahrung kann man besser handeln."
+          ],
+          "synonyms": ["das Erlebnis", "die Praxis"],
+          "antonyms": ["die Unwissenheit"]
+        }
+    ]
