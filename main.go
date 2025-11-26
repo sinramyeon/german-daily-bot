@@ -51,27 +51,43 @@ func main() {
 }
 
 func selectDailyWords(count int) []Word {
-    file, err := os.ReadFile("vocabulary/words.json")
+    a1File, err := os.ReadFile("vocabulary/a1_words.json")
+    if err != nil {
+        panic(err)
+    }
+
+    a2File, err := os.ReadFile("vocabulary/a2_words.json")
+    if err != nil {
+        panic(err)
+    }
+
+    b1File, err := os.ReadFile("vocabulary/b1_words.json")
     if err != nil {
         panic(err)
     }
 
     var allWords []Word
-    if err := json.Unmarshal(file, &allWords); err != nil {
+    var a1Words, a2Words, b1Words []Word
+
+    if err := json.Unmarshal(a1File, &a1Words); err != nil {
         panic(err)
     }
-
+    if err := json.Unmarshal(a2File, &a2Words); err != nil {
+        panic(err)
+    }
+    if err := json.Unmarshal(b1File, &b1Words); err != nil {
+        panic(err)
+    }
+ 
     rand.Seed(time.Now().UnixNano())
 
-    // count보다 짧을 경우 전체 반환
-    if len(allWords) <= count {
-        return allWords
-    }
-
-    // 랜덤 셔플 후 앞 count개 반환
-    rand.Shuffle(len(allWords), func(i, j int) {
-        allWords[i], allWords[j] = allWords[j], allWords[i]
-    })
+    // a1에서 3개, a2에서 3개, b1에서 4개 선택
+    rand.Shuffle(len(a1Words), func(i, j int) { a1Words[i], a1Words[j] = a1Words[j], a1Words[i] })
+    rand.Shuffle(len(a2Words), func(i, j int) { a2Words[i], a2Words[j] = a2Words[j], a2Words[i] })
+    rand.Shuffle(len(b1Words), func(i, j int) { b1Words[i], b1Words[j] = b1Words[j], b1Words[i] })
+    allWords = append(allWords, a1Words[:3]...)
+    allWords = append(allWords, a2Words[:3]...)
+    allWords = append(allWords, b1Words[:4]...)
 
     return allWords[:count]
 }
@@ -96,7 +112,7 @@ func formatMessage(words []Word, sentence WiseSentences) string {
     msg := "🇩🇪 *Today's German Study* 🇩🇪\n\n"
     
     for i, word := range words {
-        msg += fmt.Sprintf("*%d. %s* (%s)\n", i+1, word.German, word.Level)
+        msg += fmt.Sprintf(" [%s] *%d. %s*\n", word.Level, i+1, word.German)
         msg += fmt.Sprintf("📖 %s\n\n", word.English)
         
         // 예문 3개

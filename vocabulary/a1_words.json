@@ -1,0 +1,2226 @@
+[
+    {
+      "german": "das Haus",
+      "english": "house / home",
+      "gender": "Neutrum",
+      "level": "A1",
+      "examples": [
+        "Ich wohne in einem großen Haus.",
+        "Das Haus hat vier Zimmer.",
+        "Wir gehen nach Hause."
+      ],
+      "synonyms": ["die Wohnung", "das Heim"],
+      "antonyms": []
+    },
+    {
+      "german": "gehen",
+      "english": "to go / walk",
+      "gender": "Verb",
+      "level": "A1",
+      "examples": [
+        "Ich gehe jeden Tag spazieren.",
+        "Wir gehen heute ins Kino.",
+        "Gehst du morgen zur Arbeit?"
+      ],
+      "synonyms": ["laufen", "spazieren (gehen)"],
+      "antonyms": []
+    },
+    {
+      "german": "gut",
+      "english": "good / well",
+      "gender": "Adjektiv / Adverb",
+      "level": "A1",
+      "examples": [
+        "Das Essen schmeckt gut.",
+        "Mir geht es gut.",
+        "Das ist eine gute Idee."
+      ],
+      "synonyms": ["prima", "toll", "schön"],
+      "antonyms": ["schlecht"]
+    },
+    {
+      "german": "kommen",
+      "english": "to come",
+      "gender": "Verb",
+      "level": "A1",
+      "examples": [
+        "Kommst du morgen?",
+        "Ich komme aus Deutschland.",
+        "Er kommt spät nach Hause."
+      ],
+      "synonyms": ["ankommen"],
+      "antonyms": []
+    },
+    {
+      "german": "und",
+      "english": "and",
+      "gender": "Konjunktion",
+      "level": "A1",
+      "examples": [
+        "Ich mag Hunde und Katzen.",
+        "Er arbeitet und studiert.",
+        "Wir essen Brot und Käse."
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "german": "der Freund",
+      "english": "friend (male) / boyfriend",
+      "gender": "Maskulin",
+      "level": "A1",
+      "examples": [
+        "Mein Freund heißt Jonas.",
+        "Ich treffe meine Freunde am Wochenende.",
+        "Er ist ein guter Freund."
+      ],
+      "synonyms": ["der Kumpel", "der Bekannte"],
+      "antonyms": []
+    },
+    {
+      "german": "die Freundin",
+      "english": "friend (female) / girlfriend",
+      "gender": "Feminin",
+      "level": "A1",
+      "examples": [
+        "Meine Freundin wohnt in Berlin.",
+        "Ich gehe mit meiner Freundin ins Kino.",
+        "Sie ist eine nette Freundin."
+      ],
+      "synonyms": ["die Bekannte"],
+      "antonyms": []
+    },
+    {
+      "german": "haben",
+      "english": "to have",
+      "gender": "Verb",
+      "level": "A1",
+      "examples": [
+        "Ich habe zwei Katzen.",
+        "Hast du Zeit?",
+        "Wir haben Hunger."
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "german": "sein",
+      "english": "to be",
+      "gender": "Verb",
+      "level": "A1",
+      "examples": [
+        "Ich bin müde.",
+        "Er ist Arzt.",
+        "Wir sind hier."
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "german": "die Zeit",
+      "english": "time",
+      "gender": "Feminin",
+      "level": "A1",
+      "examples": [
+        "Hast du Zeit?",
+        "Die Zeit vergeht schnell.",
+        "Ich habe keine Zeit."
+      ],
+      "synonyms": ["die Uhrzeit"],
+      "antonyms": []
+    },
+    {
+      "german": "frei",
+      "english": "free / available",
+      "gender": "Adjektiv",
+      "level": "A1",
+      "examples": [
+        "Ich bin morgen frei.",
+        "Der Platz ist noch frei.",
+        "Wir haben am Wochenende frei."
+      ],
+      "synonyms": ["verfügbar", "leer"],
+      "antonyms": ["besetzt", "belegt"]
+    },
+    {
+      "german": "das Wasser",
+      "english": "water",
+      "gender": "Neutrum",
+      "level": "A1",
+      "examples": [
+        "Ich trinke Wasser.",
+        "Das Wasser ist kalt.",
+        "Bitte gib mir ein Glas Wasser."
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "german": "arbeiten",
+      "english": "to work",
+      "gender": "Verb",
+      "level": "A1",
+      "examples": [
+        "Ich arbeite in einem Büro.",
+        "Er arbeitet jeden Tag.",
+        "Wir arbeiten zusammen."
+      ],
+      "synonyms": ["jobben", "tätig sein"],
+      "antonyms": ["ruhen", "faulenzen"]
+    },
+    {
+      "german": "sprechen",
+      "english": "to speak / talk",
+      "gender": "Verb",
+      "level": "A1",
+      "examples": [
+        "Ich spreche Deutsch.",
+        "Sprichst du Englisch?",
+        "Wir sprechen morgen darüber."
+      ],
+      "synonyms": ["reden", "plaudern"],
+      "antonyms": []
+    },
+    {
+      "german": "sehen",
+      "english": "to see / watch",
+      "gender": "Verb",
+      "level": "A1",
+      "examples": [
+        "Ich sehe einen Film.",
+        "Kannst du mich sehen?",
+        "Wir sehen uns morgen."
+      ],
+      "synonyms": ["blicken", "schauen"],
+      "antonyms": []
+    },
+    {
+      "german": "das Auto",
+      "english": "car",
+      "gender": "Neutrum",
+      "level": "A1",
+      "examples": [
+        "Das Auto ist neu.",
+        "Ich fahre mit dem Auto zur Arbeit.",
+        "Er hat ein rotes Auto."
+      ],
+      "synonyms": ["der Wagen"],
+      "antonyms": []
+    },
+    {
+      "german": "fahren",
+      "english": "to drive / ride",
+      "gender": "Verb",
+      "level": "A1",
+      "examples": [
+        "Ich fahre nach Berlin.",
+        "Er fährt Fahrrad.",
+        "Wir fahren morgen in den Urlaub."
+      ],
+      "synonyms": ["reisen", "lenken (Auto)"],
+      "antonyms": []
+    },
+    {
+      "german": "essen",
+      "english": "to eat",
+      "gender": "Verb",
+      "level": "A1",
+      "examples": [
+        "Ich esse gern Pizza.",
+        "Wir essen zusammen zu Abend.",
+        "Was isst du zum Frühstück?"
+      ],
+      "synonyms": ["speisen", "verzehren"],
+      "antonyms": []
+    },
+    {
+      "german": "trinken",
+      "english": "to drink",
+      "gender": "Verb",
+      "level": "A1",
+      "examples": [
+        "Ich trinke Wasser.",
+        "Trinkst du Kaffee?",
+        "Wir trinken jeden Morgen Tee."
+      ],
+      "synonyms": ["schlürfen", "saufen (umgangssprachlich)"],
+      "antonyms": []
+    },
+    {
+      "german": "der Tag",
+      "english": "day",
+      "gender": "Maskulin",
+      "level": "A1",
+      "examples": [
+        "Heute ist ein schöner Tag.",
+        "Jeden Tag gehe ich spazieren.",
+        "Der Tag war lang."
+      ],
+      "synonyms": ["der Alltag"],
+      "antonyms": ["die Nacht"]
+    },
+    {
+      "german": "die Nacht",
+      "english": "night",
+      "gender": "Feminin",
+      "level": "A1",
+      "examples": [
+        "Gute Nacht!",
+        "In der Nacht ist es ruhig.",
+        "Er arbeitet nachts."
+      ],
+      "synonyms": ["der Abend"],
+      "antonyms": ["der Tag"]
+    },
+    {
+      "german": "heute",
+      "english": "today",
+      "gender": "Adverb",
+      "level": "A1",
+      "examples": [
+        "Heute ist Montag.",
+        "Was machst du heute?",
+        "Ich habe heute keine Zeit."
+      ],
+      "synonyms": ["am heutigen Tag"],
+      "antonyms": ["gestern", "morgen"]
+    },
+    {
+      "german": "morgen",
+      "english": "tomorrow / morning",
+      "gender": "Adverb / Maskulin",
+      "level": "A1",
+      "examples": [
+        "Morgen gehe ich einkaufen.",
+        "Guten Morgen!",
+        "Wir treffen uns morgen."
+      ],
+      "synonyms": ["am nächsten Tag"],
+      "antonyms": ["gestern"]
+    },
+        {
+          "german": "jetzt",
+          "english": "now",
+          "gender": "Adverb",
+          "level": "A1",
+          "examples": [
+            "Ich mache es jetzt.",
+            "Wir müssen jetzt gehen.",
+            "Jetzt ist es zu spät."
+          ],
+          "synonyms": ["sofort", "gegenwärtig"],
+          "antonyms": ["später", "damals"]
+        },
+        {
+          "german": "gestern",
+          "english": "yesterday",
+          "gender": "Adverb",
+          "level": "A1",
+          "examples": [
+            "Gestern war es kalt.",
+            "Wir haben gestern Fußball gespielt.",
+            "Ich habe dich gestern angerufen."
+          ],
+          "synonyms": ["am Vortag"],
+          "antonyms": ["heute", "morgen"]
+        },
+        {
+          "german": "wohnen",
+          "english": "to live / reside",
+          "gender": "Verb",
+          "level": "A1",
+          "examples": [
+            "Ich wohne in Berlin.",
+            "Wo wohnst du?",
+            "Wir wohnen zusammen."
+          ],
+          "synonyms": ["leben", "residieren"],
+          "antonyms": []
+        },
+        {
+          "german": "die Familie",
+          "english": "family",
+          "gender": "Feminin",
+          "level": "A1",
+          "examples": [
+            "Meine Familie ist groß.",
+            "Wir feiern Weihnachten mit der Familie.",
+            "Ich liebe meine Familie."
+          ],
+          "synonyms": ["der Haushalt"],
+          "antonyms": []
+        },
+        {
+          "german": "der Vater",
+          "english": "father",
+          "gender": "Maskulin",
+          "level": "A1",
+          "examples": [
+            "Mein Vater arbeitet viel.",
+            "Der Vater ist sehr nett.",
+            "Ich besuche meinen Vater am Wochenende."
+          ],
+          "synonyms": ["Papa"],
+          "antonyms": ["die Mutter"]
+        },
+        {
+          "german": "die Mutter",
+          "english": "mother",
+          "gender": "Feminin",
+          "level": "A1",
+          "examples": [
+            "Meine Mutter kocht gern.",
+            "Die Mutter hilft den Kindern.",
+            "Ich liebe meine Mutter."
+          ],
+          "synonyms": ["Mama"],
+          "antonyms": ["der Vater"]
+        },
+        {
+          "german": "das Kind",
+          "english": "child",
+          "gender": "Neutrum",
+          "level": "A1",
+          "examples": [
+            "Das Kind spielt im Garten.",
+            "Ich habe ein Kind.",
+            "Die Kinder sind glücklich."
+          ],
+          "synonyms": ["der Junge", "das Mädchen"],
+          "antonyms": []
+        },
+        {
+          "german": "die Schule",
+          "english": "school",
+          "gender": "Feminin",
+          "level": "A1",
+          "examples": [
+            "Die Kinder gehen zur Schule.",
+            "Ich arbeite in der Schule.",
+            "Die Schule beginnt um acht Uhr."
+          ],
+          "synonyms": ["das Gymnasium", "die Bildungseinrichtung"],
+          "antonyms": []
+        },
+        {
+          "german": "lernen",
+          "english": "to learn / study",
+          "gender": "Verb",
+          "level": "A1",
+          "examples": [
+            "Ich lerne Deutsch.",
+            "Die Schüler lernen jeden Tag.",
+            "Wir lernen zusammen."
+          ],
+          "synonyms": ["studieren", "üben"],
+          "antonyms": ["vergessen"]
+        },
+        {
+          "german": "der Lehrer",
+          "english": "teacher (male)",
+          "gender": "Maskulin",
+          "level": "A1",
+          "examples": [
+            "Der Lehrer erklärt die Aufgabe.",
+            "Mein Lehrer ist freundlich.",
+            "Ich habe einen guten Lehrer."
+          ],
+          "synonyms": ["der Dozent"],
+          "antonyms": ["der Schüler"]
+        },
+        {
+          "german": "die Lehrerin",
+          "english": "teacher (female)",
+          "gender": "Feminin",
+          "level": "A1",
+          "examples": [
+            "Die Lehrerin hilft den Schülern.",
+            "Meine Lehrerin ist nett.",
+            "Ich mag meine Lehrerin."
+          ],
+          "synonyms": ["die Dozentin"],
+          "antonyms": ["die Schülerin"]
+        },
+        {
+          "german": "der Schüler",
+          "english": "student / pupil (male)",
+          "gender": "Maskulin",
+          "level": "A1",
+          "examples": [
+            "Der Schüler lernt fleißig.",
+            "Er ist ein guter Schüler.",
+            "Die Schüler schreiben einen Test."
+          ],
+          "synonyms": ["der Student (für Uni)"],
+          "antonyms": ["der Lehrer"]
+        },
+        {
+          "german": "die Schülerin",
+          "english": "student / pupil (female)",
+          "gender": "Feminin",
+          "level": "A1",
+          "examples": [
+            "Die Schülerin beantwortet die Frage.",
+            "Sie ist eine gute Schülerin.",
+            "Die Schülerinnen machen Hausaufgaben."
+          ],
+          "synonyms": ["die Studentin (für Uni)"],
+          "antonyms": ["die Lehrerin"]
+        },
+        {
+          "german": "die Stadt",
+          "english": "city / town",
+          "gender": "Feminin",
+          "level": "A1",
+          "examples": [
+            "Ich wohne in einer großen Stadt.",
+            "Die Stadt hat viele Sehenswürdigkeiten.",
+            "In der Stadt ist es laut."
+          ],
+          "synonyms": ["die Gemeinde", "die Metropole"],
+          "antonyms": ["das Dorf"]
+        },
+        {
+          "german": "das Dorf",
+          "english": "village",
+          "gender": "Neutrum",
+          "level": "A1",
+          "examples": [
+            "Ich wohne in einem kleinen Dorf.",
+            "Das Dorf liegt im Grünen.",
+            "Die Leute im Dorf sind freundlich."
+          ],
+          "synonyms": ["die Ortschaft"],
+          "antonyms": ["die Stadt"]
+        },
+        {
+          "german": "der Freund",
+          "english": "friend / boyfriend",
+          "gender": "Maskulin",
+          "level": "A1",
+          "examples": [
+            "Mein Freund hilft mir.",
+            "Er ist mein bester Freund.",
+            "Wir gehen mit Freunden ins Kino."
+          ],
+          "synonyms": ["der Kumpel", "Bekannter"],
+          "antonyms": []
+        },
+        {
+          "german": "die Freundin",
+          "english": "friend / girlfriend",
+          "gender": "Feminin",
+          "level": "A1",
+          "examples": [
+            "Meine Freundin wohnt nebenan.",
+            "Ich treffe meine Freundin heute.",
+            "Sie ist meine beste Freundin."
+          ],
+          "synonyms": ["die Bekannte"],
+          "antonyms": []
+        },
+        {
+          "german": "der Mann",
+          "english": "man / husband",
+          "gender": "Maskulin",
+          "level": "A1",
+          "examples": [
+            "Der Mann ist alt.",
+            "Mein Mann arbeitet im Büro.",
+            "Er ist ein netter Mann."
+          ],
+          "synonyms": ["der Herr"],
+          "antonyms": ["die Frau"]
+        },
+        {
+          "german": "die Frau",
+          "english": "woman / wife",
+          "gender": "Feminin",
+          "level": "A1",
+          "examples": [
+            "Die Frau kauft ein.",
+            "Meine Frau ist Lehrerin.",
+            "Sie ist eine freundliche Frau."
+          ],
+          "synonyms": ["die Dame"],
+          "antonyms": ["der Mann"]
+        },
+        {
+          "german": "essen",
+          "english": "food / to eat",
+          "gender": "Neutrum / Verb",
+          "level": "A1",
+          "examples": [
+            "Das Essen schmeckt gut.",
+            "Wir essen zusammen.",
+            "Ich esse gern Obst."
+          ],
+          "synonyms": ["Speise", "verzehren"],
+          "antonyms": []
+        },
+        {
+          "german": "das Brot",
+          "english": "bread",
+          "gender": "Neutrum",
+          "level": "A1",
+          "examples": [
+            "Ich esse Brot zum Frühstück.",
+            "Das Brot ist frisch.",
+            "Wir kaufen Brot beim Bäcker."
+          ],
+          "synonyms": ["das Brötchen"],
+          "antonyms": []
+        },
+        {
+          "german": "die Milch",
+          "english": "milk",
+          "gender": "Feminin",
+          "level": "A1",
+          "examples": [
+            "Ich trinke gern Milch.",
+            "Die Milch ist kalt.",
+            "Wir kaufen Milch im Supermarkt."
+          ],
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "german": "der Apfel",
+          "english": "apple",
+          "gender": "Maskulin",
+          "level": "A1",
+          "examples": [
+            "Ich esse einen Apfel.",
+            "Der Apfel ist rot.",
+            "Äpfel sind gesund."
+          ],
+          "synonyms": ["die Frucht"],
+          "antonyms": []
+        },
+        {
+          "german": "das Obst",
+          "english": "fruit",
+          "gender": "Neutrum",
+          "level": "A1",
+          "examples": [
+            "Ich kaufe Obst im Supermarkt.",
+            "Obst ist gesund.",
+            "Wir essen Obst zum Frühstück."
+          ],
+          "synonyms": ["die Frucht"],
+          "antonyms": []
+        },
+            {
+              "german": "das Fleisch",
+              "english": "meat",
+              "gender": "Neutrum",
+              "level": "A1",
+              "examples": [
+                "Ich esse gern Fleisch.",
+                "Das Fleisch ist frisch.",
+                "Wir kaufen Fleisch im Supermarkt."
+              ],
+              "synonyms": ["das Rindfleisch", "das Schweinefleisch"],
+              "antonyms": ["das Gemüse"]
+            },
+            {
+              "german": "das Gemüse",
+              "english": "vegetables",
+              "gender": "Neutrum",
+              "level": "A1",
+              "examples": [
+                "Ich esse viel Gemüse.",
+                "Gemüse ist gesund.",
+                "Wir kochen Gemüse zum Abendessen."
+              ],
+              "synonyms": ["die Pflanzenkost"],
+              "antonyms": ["das Fleisch"]
+            },
+            {
+              "german": "der Fisch",
+              "english": "fish",
+              "gender": "Maskulin",
+              "level": "A1",
+              "examples": [
+                "Ich esse gern Fisch.",
+                "Der Fisch ist frisch.",
+                "Wir kaufen Fisch im Fischladen."
+              ],
+              "synonyms": ["die Meerestiere"],
+              "antonyms": []
+            },
+            {
+              "german": "das Ei",
+              "english": "egg",
+              "gender": "Neutrum",
+              "level": "A1",
+              "examples": [
+                "Ich esse ein Ei zum Frühstück.",
+                "Das Ei ist frisch.",
+                "Wir kochen Eier."
+              ],
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "german": "die Suppe",
+              "english": "soup",
+              "gender": "Feminin",
+              "level": "A1",
+              "examples": [
+                "Ich koche eine Suppe.",
+                "Die Suppe ist heiß.",
+                "Wir essen Suppe zum Mittagessen."
+              ],
+              "synonyms": ["die Brühe"],
+              "antonyms": []
+            },
+            {
+              "german": "der Kaffee",
+              "english": "coffee",
+              "gender": "Maskulin",
+              "level": "A1",
+              "examples": [
+                "Ich trinke morgens Kaffee.",
+                "Der Kaffee ist heiß.",
+                "Möchtest du Kaffee?"
+              ],
+              "synonyms": ["der Espresso", "der Latte"],
+              "antonyms": ["der Tee"]
+            },
+            {
+              "german": "der Tee",
+              "english": "tea",
+              "gender": "Maskulin",
+              "level": "A1",
+              "examples": [
+                "Ich trinke Tee am Abend.",
+                "Der Tee ist warm.",
+                "Möchtest du Tee?"
+              ],
+              "synonyms": [],
+              "antonyms": ["der Kaffee"]
+            },
+            {
+              "german": "das Frühstück",
+              "english": "breakfast",
+              "gender": "Neutrum",
+              "level": "A1",
+              "examples": [
+                "Ich frühstücke um acht Uhr.",
+                "Das Frühstück ist lecker.",
+                "Wir essen Frühstück zusammen."
+              ],
+              "synonyms": ["das Morgenessen"],
+              "antonyms": ["das Abendessen"]
+            },
+            {
+              "german": "das Mittagessen",
+              "english": "lunch",
+              "gender": "Neutrum",
+              "level": "A1",
+              "examples": [
+                "Wir essen Mittagessen um zwölf Uhr.",
+                "Das Mittagessen ist warm.",
+                "Ich koche Mittagessen."
+              ],
+              "synonyms": ["das Lunch"],
+              "antonyms": ["das Frühstück"]
+            },
+            {
+              "german": "das Abendessen",
+              "english": "dinner / supper",
+              "gender": "Neutrum",
+              "level": "A1",
+              "examples": [
+                "Ich esse Abendessen um sieben Uhr.",
+                "Das Abendessen ist fertig.",
+                "Wir essen Abendessen zusammen."
+              ],
+              "synonyms": ["das Dinner"],
+              "antonyms": ["das Frühstück"]
+            },
+            {
+              "german": "heiß",
+              "english": "hot",
+              "gender": "Adjektiv",
+              "level": "A1",
+              "examples": [
+                "Das Wasser ist heiß.",
+                "Heute ist es sehr heiß.",
+                "Der Kaffee ist heiß."
+              ],
+              "synonyms": ["warm"],
+              "antonyms": ["kalt"]
+            },
+            {
+              "german": "kalt",
+              "english": "cold",
+              "gender": "Adjektiv",
+              "level": "A1",
+              "examples": [
+                "Das Wasser ist kalt.",
+                "Heute ist es kalt.",
+                "Ich mag kein kaltes Wetter."
+              ],
+              "synonyms": ["frisch"],
+              "antonyms": ["heiß"]
+            },
+            {
+              "german": "groß",
+              "english": "big / tall",
+              "gender": "Adjektiv",
+              "level": "A1",
+              "examples": [
+                "Das Haus ist groß.",
+                "Mein Hund ist groß.",
+                "Der Baum ist sehr groß."
+              ],
+              "synonyms": ["riesig", "hoch"],
+              "antonyms": ["klein"]
+            },
+            {
+              "german": "klein",
+              "english": "small / little",
+              "gender": "Adjektiv",
+              "level": "A1",
+              "examples": [
+                "Die Wohnung ist klein.",
+                "Das Kind ist klein.",
+                "Wir wohnen in einem kleinen Haus."
+              ],
+              "synonyms": ["winzig", "gering"],
+              "antonyms": ["groß"]
+            },
+            {
+              "german": "neu",
+              "english": "new",
+              "gender": "Adjektiv",
+              "level": "A1",
+              "examples": [
+                "Ich habe ein neues Auto.",
+                "Das Buch ist neu.",
+                "Wir wohnen in einer neuen Wohnung."
+              ],
+              "synonyms": ["frisch", "modern"],
+              "antonyms": ["alt"]
+            },
+            {
+              "german": "alt",
+              "english": "old",
+              "gender": "Adjektiv",
+              "level": "A1",
+              "examples": [
+                "Das Haus ist alt.",
+                "Mein Hund ist alt.",
+                "Ich lese ein altes Buch."
+              ],
+              "synonyms": ["antik", "betagt"],
+              "antonyms": ["neu"]
+            },
+            {
+              "german": "schön",
+              "english": "beautiful / nice",
+              "gender": "Adjektiv",
+              "level": "A1",
+              "examples": [
+                "Das Wetter ist schön.",
+                "Sie hat ein schönes Kleid.",
+                "Wir machen einen schönen Spaziergang."
+              ],
+              "synonyms": ["hübsch", "toll"],
+              "antonyms": ["hässlich"]
+            },
+            {
+              "german": "hässlich",
+              "english": "ugly",
+              "gender": "Adjektiv",
+              "level": "A1",
+              "examples": [
+                "Die Wand ist hässlich.",
+                "Das Bild ist hässlich.",
+                "Das Wetter ist hässlich."
+              ],
+              "synonyms": ["unschön", "unattraktiv"],
+              "antonyms": ["schön"]
+            },
+            {
+              "german": "schnell",
+              "english": "fast / quick",
+              "gender": "Adjektiv / Adverb",
+              "level": "A1",
+              "examples": [
+                "Das Auto ist schnell.",
+                "Ich muss schnell gehen.",
+                "Der Zug fährt schnell."
+              ],
+              "synonyms": ["rasch", "zügig"],
+              "antonyms": ["langsam"]
+            },
+            {
+              "german": "langsam",
+              "english": "slow / slowly",
+              "gender": "Adjektiv / Adverb",
+              "level": "A1",
+              "examples": [
+                "Der Hund läuft langsam.",
+                "Sprich langsam bitte.",
+                "Das Auto fährt langsam."
+              ],
+              "synonyms": ["träge", "gemächlich"],
+              "antonyms": ["schnell"]
+            },
+            {
+              "german": "heute",
+              "english": "today",
+              "gender": "Adverb",
+              "level": "A1",
+              "examples": [
+                "Heute ist Montag.",
+                "Was machst du heute?",
+                "Wir gehen heute ins Kino."
+              ],
+              "synonyms": ["am heutigen Tag"],
+              "antonyms": ["gestern", "morgen"]
+            },
+            {
+              "german": "morgen",
+              "english": "tomorrow / morning",
+              "gender": "Adverb / Maskulin",
+              "level": "A1",
+              "examples": [
+                "Wir treffen uns morgen.",
+                "Guten Morgen!",
+                "Morgen gehe ich einkaufen."
+              ],
+              "synonyms": ["am nächsten Tag"],
+              "antonyms": ["gestern"]
+            },
+            {
+              "german": "gestern",
+              "english": "yesterday",
+              "gender": "Adverb",
+              "level": "A1",
+              "examples": [
+                "Gestern war ich krank.",
+                "Wir haben gestern Fußball gespielt.",
+                "Ich habe dich gestern angerufen."
+              ],
+              "synonyms": ["am Vortag"],
+              "antonyms": ["heute", "morgen"]
+            },
+            {
+              "german": "viele",
+              "english": "many / a lot",
+              "gender": "Adjektiv",
+              "level": "A1",
+              "examples": [
+                "Ich habe viele Freunde.",
+                "Viele Menschen kommen heute.",
+                "Es gibt viele Bücher hier."
+              ],
+              "synonyms": ["zahlreich", "mehrere"],
+              "antonyms": ["wenige"]
+            },
+            {
+              "german": "wenige",
+              "english": "few / little",
+              "gender": "Adjektiv",
+              "level": "A1",
+              "examples": [
+                "Ich habe wenige Freunde.",
+                "Es gibt nur wenige Plätze.",
+                "Wenige Menschen verstehen das."
+              ],
+              "synonyms": ["kaum", "ein paar"],
+              "antonyms": ["viele"]
+            },
+            {
+              "german": "gut",
+              "english": "good / well",
+              "gender": "Adjektiv / Adverb",
+              "level": "A1",
+              "examples": [
+                "Das Essen schmeckt gut.",
+                "Mir geht es gut.",
+                "Das ist eine gute Idee."
+              ],
+              "synonyms": ["prima", "toll"],
+              "antonyms": ["schlecht"]
+            },
+            {
+              "german": "schlecht",
+              "english": "bad / poorly",
+              "gender": "Adjektiv / Adverb",
+              "level": "A1",
+              "examples": [
+                "Mir geht es schlecht.",
+                "Das Wetter ist schlecht.",
+                "Der Film war schlecht."
+              ],
+              "synonyms": ["mies", "schwach"],
+              "antonyms": ["gut"]
+            },
+            {
+              "german": "kaufen",
+              "english": "to buy",
+              "gender": "Verb",
+              "level": "A1",
+              "examples": [
+                "Ich kaufe Brot.",
+                "Wir kaufen ein neues Auto.",
+                "Sie kauft Blumen."
+              ],
+              "synonyms": ["erwerben", "besorgen"],
+              "antonyms": ["verkaufen"]
+            },
+            {
+              "german": "verkaufen",
+              "english": "to sell",
+              "gender": "Verb",
+              "level": "A1",
+              "examples": [
+                "Ich verkaufe mein altes Auto.",
+                "Die Firma verkauft viele Produkte.",
+                "Er verkauft Obst auf dem Markt."
+              ],
+              "synonyms": ["abgeben", "anbieten"],
+              "antonyms": ["kaufen"]
+            },
+            {
+              "german": "öffnen",
+              "english": "to open",
+              "gender": "Verb",
+              "level": "A1",
+              "examples": [
+                "Ich öffne das Fenster.",
+                "Er öffnet die Tür.",
+                "Bitte öffnen Sie das Buch."
+              ],
+              "synonyms": ["aufmachen"],
+              "antonyms": ["schließen"]
+            },
+            {
+              "german": "schließen",
+              "english": "to close",
+              "gender": "Verb",
+              "level": "A1",
+              "examples": [
+                "Ich schließe das Fenster.",
+                "Bitte schließen Sie die Tür.",
+                "Wir schließen den Laden um 18 Uhr."
+              ],
+              "synonyms": ["zumachen"],
+              "antonyms": ["öffnen"]
+            },
+            {
+              "german": "helfen",
+              "english": "to help",
+              "gender": "Verb",
+              "level": "A1",
+              "examples": [
+                "Kannst du mir helfen?",
+                "Er hilft seiner Mutter.",
+                "Wir helfen den Kindern."
+              ],
+              "synonyms": ["unterstützen", "beistehen"],
+              "antonyms": ["ignorieren"]
+            },
+            {
+              "german": "fragen",
+              "english": "to ask",
+              "gender": "Verb",
+              "level": "A1",
+              "examples": [
+                "Ich frage die Lehrerin.",
+                "Er fragt nach dem Weg.",
+                "Wir fragen den Verkäufer."
+              ],
+              "synonyms": ["bitten um Information", "erkundigen"],
+              "antonyms": ["antworten"]
+            },
+            {
+              "german": "antworten",
+              "english": "to answer",
+              "gender": "Verb",
+              "level": "A1",
+              "examples": [
+                "Ich antworte auf die Frage.",
+                "Er antwortet schnell.",
+                "Bitte antworte mir."
+              ],
+              "synonyms": ["erwidern", "reagieren"],
+              "antonyms": ["fragen"]
+            },
+            {
+              "german": "spielen",
+              "english": "to play",
+              "gender": "Verb",
+              "level": "A1",
+              "examples": [
+                "Die Kinder spielen im Garten.",
+                "Ich spiele Fußball.",
+                "Wir spielen Karten."
+              ],
+              "synonyms": ["tollen", "zocken (umgangssprachlich)"],
+              "antonyms": []
+            },
+            {
+              "german": "laufen",
+              "english": "to run / walk",
+              "gender": "Verb",
+              "level": "A1",
+              "examples": [
+                "Ich laufe jeden Morgen.",
+                "Er läuft schnell.",
+                "Wir laufen zur Schule."
+              ],
+              "synonyms": ["rennen", "gehen"],
+              "antonyms": []
+            },
+            {
+              "german": "lesen",
+              "english": "to read",
+              "gender": "Verb",
+              "level": "A1",
+              "examples": [
+                "Ich lese ein Buch.",
+                "Sie liest die Zeitung.",
+                "Wir lesen zusammen."
+              ],
+              "synonyms": ["studieren", "durchsehen"],
+              "antonyms": []
+            },
+            {
+              "german": "schreiben",
+              "english": "to write",
+              "gender": "Verb",
+              "level": "A1",
+              "examples": [
+                "Ich schreibe einen Brief.",
+                "Sie schreibt eine E-Mail.",
+                "Wir schreiben einen Test."
+              ],
+              "synonyms": ["notieren", "verfassen"],
+              "antonyms": []
+            },
+            {
+              "german": "sehen",
+              "english": "to see / watch",
+              "gender": "Verb",
+              "level": "A1",
+              "examples": [
+                "Ich sehe einen Film.",
+                "Sie sieht die Kinder.",
+                "Wir sehen uns morgen."
+              ],
+              "synonyms": ["blicken", "schauen"],
+              "antonyms": []
+            },
+            {
+              "german": "hören",
+              "english": "to hear / listen",
+              "gender": "Verb",
+              "level": "A1",
+              "examples": [
+                "Ich höre Musik.",
+                "Er hört den Lehrer.",
+                "Wir hören zusammen Radio."
+              ],
+              "synonyms": ["lauschen", "zuhören"],
+              "antonyms": []
+            },
+            {
+              "german": "lieben",
+              "english": "to love",
+              "gender": "Verb",
+              "level": "A1",
+              "examples": [
+                "Ich liebe meine Familie.",
+                "Er liebt seine Freundin.",
+                "Wir lieben das Leben."
+              ],
+              "synonyms": ["mögen", "verehren"],
+              "antonyms": ["hassen"]
+            },
+            {
+              "german": "mögen",
+              "english": "to like",
+              "gender": "Verb",
+              "level": "A1",
+              "examples": [
+                "Ich mag Schokolade.",
+                "Sie mag Musik.",
+                "Wir mögen Fußball."
+              ],
+              "synonyms": ["lieben", "gern haben"],
+              "antonyms": ["nicht mögen", "hassen"]
+            },
+                {
+                  "german": "die Stadt",
+                  "english": "city",
+                  "gender": "Feminin",
+                  "level": "A1",
+                  "examples": [
+                    "Die Stadt ist groß.",
+                    "Ich wohne in einer Stadt.",
+                    "Wir besuchen die Stadt am Wochenende."
+                  ],
+                  "synonyms": ["die Metropole", "die Ortschaft"],
+                  "antonyms": ["das Dorf"]
+                },
+                {
+                  "german": "das Dorf",
+                  "english": "village",
+                  "gender": "Neutrum",
+                  "level": "A1",
+                  "examples": [
+                    "Ich wohne in einem kleinen Dorf.",
+                    "Das Dorf ist ruhig.",
+                    "Wir fahren ins Dorf."
+                  ],
+                  "synonyms": ["die Gemeinde", "die Ortschaft"],
+                  "antonyms": ["die Stadt"]
+                },
+                {
+                  "german": "die Straße",
+                  "english": "street",
+                  "gender": "Feminin",
+                  "level": "A1",
+                  "examples": [
+                    "Die Straße ist lang.",
+                    "Ich gehe die Straße entlang.",
+                    "Die Straße ist sehr belebt."
+                  ],
+                  "synonyms": ["die Gasse", "der Weg"],
+                  "antonyms": []
+                },
+                {
+                  "german": "die Schule",
+                  "english": "school",
+                  "gender": "Feminin",
+                  "level": "A1",
+                  "examples": [
+                    "Ich gehe zur Schule.",
+                    "Die Schule beginnt um acht Uhr.",
+                    "Wir lernen in der Schule."
+                  ],
+                  "synonyms": ["die Bildungseinrichtung", "die Lehranstalt"],
+                  "antonyms": []
+                },
+                {
+                  "german": "der Lehrer",
+                  "english": "teacher",
+                  "gender": "Maskulin",
+                  "level": "A1",
+                  "examples": [
+                    "Der Lehrer erklärt die Aufgabe.",
+                    "Ich habe einen guten Lehrer.",
+                    "Der Lehrer hilft den Schülern."
+                  ],
+                  "synonyms": ["die Lehrkraft", "der Dozent"],
+                  "antonyms": ["der Schüler"]
+                },
+                {
+                  "german": "die Lehrerin",
+                  "english": "female teacher",
+                  "gender": "Feminin",
+                  "level": "A1",
+                  "examples": [
+                    "Die Lehrerin ist nett.",
+                    "Ich mag meine Lehrerin.",
+                    "Die Lehrerin erklärt die Grammatik."
+                  ],
+                  "synonyms": ["die Pädagogin"],
+                  "antonyms": ["der Lehrer", "der Schüler"]
+                },
+                {
+                  "german": "der Schüler",
+                  "english": "student / pupil (male)",
+                  "gender": "Maskulin",
+                  "level": "A1",
+                  "examples": [
+                    "Der Schüler lernt Deutsch.",
+                    "Die Schüler machen ihre Hausaufgaben.",
+                    "Er ist ein fleißiger Schüler."
+                  ],
+                  "synonyms": ["der Lernende", "der Student"],
+                  "antonyms": ["der Lehrer"]
+                },
+                {
+                  "german": "die Schülerin",
+                  "english": "student / pupil (female)",
+                  "gender": "Feminin",
+                  "level": "A1",
+                  "examples": [
+                    "Die Schülerin liest ein Buch.",
+                    "Die Schülerinnen sind im Klassenzimmer.",
+                    "Sie ist eine gute Schülerin."
+                  ],
+                  "synonyms": ["die Lernende", "die Studentin"],
+                  "antonyms": ["die Lehrerin"]
+                },
+                {
+                  "german": "das Haus",
+                  "english": "house",
+                  "gender": "Neutrum",
+                  "level": "A1",
+                  "examples": [
+                    "Ich wohne in einem Haus.",
+                    "Das Haus ist groß.",
+                    "Wir haben ein neues Haus gekauft."
+                  ],
+                  "synonyms": ["die Wohnung", "das Heim"],
+                  "antonyms": []
+                },
+                {
+                  "german": "die Wohnung",
+                  "english": "apartment / flat",
+                  "gender": "Feminin",
+                  "level": "A1",
+                  "examples": [
+                    "Meine Wohnung ist klein.",
+                    "Ich suche eine Wohnung.",
+                    "Wir wohnen in einer schönen Wohnung."
+                  ],
+                  "synonyms": ["das Apartment", "das Heim"],
+                  "antonyms": ["das Haus"]
+                },
+                {
+                  "german": "die Familie",
+                  "english": "family",
+                  "gender": "Feminin",
+                  "level": "A1",
+                  "examples": [
+                    "Meine Familie ist groß.",
+                    "Ich liebe meine Familie.",
+                    "Wir treffen uns mit der Familie."
+                  ],
+                  "synonyms": ["der Haushalt", "die Verwandtschaft"],
+                  "antonyms": []
+                },
+                {
+                  "german": "der Vater",
+                  "english": "father",
+                  "gender": "Maskulin",
+                  "level": "A1",
+                  "examples": [
+                    "Mein Vater arbeitet viel.",
+                    "Der Vater kocht gern.",
+                    "Ich helfe meinem Vater."
+                  ],
+                  "synonyms": ["Papa", "Erzeuger"],
+                  "antonyms": ["die Mutter"]
+                },
+                {
+                  "german": "die Mutter",
+                  "english": "mother",
+                  "gender": "Feminin",
+                  "level": "A1",
+                  "examples": [
+                    "Meine Mutter kocht gut.",
+                    "Die Mutter ist nett.",
+                    "Ich liebe meine Mutter."
+                  ],
+                  "synonyms": ["Mama", "Erzieherin"],
+                  "antonyms": ["der Vater"]
+                },
+                {
+                  "german": "der Bruder",
+                  "english": "brother",
+                  "gender": "Maskulin",
+                  "level": "A1",
+                  "examples": [
+                    "Mein Bruder ist älter.",
+                    "Der Bruder spielt Fußball.",
+                    "Ich helfe meinem Bruder."
+                  ],
+                  "synonyms": ["Geschwister (mask.)"],
+                  "antonyms": ["die Schwester"]
+                },
+                {
+                  "german": "die Schwester",
+                  "english": "sister",
+                  "gender": "Feminin",
+                  "level": "A1",
+                  "examples": [
+                    "Meine Schwester ist jung.",
+                    "Die Schwester spielt Klavier.",
+                    "Ich liebe meine Schwester."
+                  ],
+                  "synonyms": ["Geschwister (fem.)"],
+                  "antonyms": ["der Bruder"]
+                },
+                {
+                  "german": "das Kind",
+                  "english": "child",
+                  "gender": "Neutrum",
+                  "level": "A1",
+                  "examples": [
+                    "Das Kind spielt im Garten.",
+                    "Ich habe ein Kind.",
+                    "Die Kinder lernen in der Schule."
+                  ],
+                  "synonyms": ["der Junge", "das Mädchen"],
+                  "antonyms": ["der Erwachsene"]
+                },
+                {
+                  "german": "der Junge",
+                  "english": "boy",
+                  "gender": "Maskulin",
+                  "level": "A1",
+                  "examples": [
+                    "Der Junge spielt Fußball.",
+                    "Ich kenne den Jungen.",
+                    "Der Junge ist freundlich."
+                  ],
+                  "synonyms": ["Knabe", "Bub"],
+                  "antonyms": ["das Mädchen"]
+                },
+                {
+                  "german": "das Mädchen",
+                  "english": "girl",
+                  "gender": "Neutrum",
+                  "level": "A1",
+                  "examples": [
+                    "Das Mädchen spielt Klavier.",
+                    "Ich kenne das Mädchen.",
+                    "Das Mädchen ist freundlich."
+                  ],
+                  "synonyms": ["Fräulein", "Mädchenkind"],
+                  "antonyms": ["der Junge"]
+                },
+                {
+                  "german": "der Mann",
+                  "english": "man / husband",
+                  "gender": "Maskulin",
+                  "level": "A1",
+                  "examples": [
+                    "Der Mann arbeitet im Büro.",
+                    "Mein Mann ist nett.",
+                    "Der Mann liest die Zeitung."
+                  ],
+                  "synonyms": ["Ehemann", "Herr"],
+                  "antonyms": ["die Frau"]
+                },
+                {
+                  "german": "die Frau",
+                  "english": "woman / wife",
+                  "gender": "Feminin",
+                  "level": "A1",
+                  "examples": [
+                    "Die Frau arbeitet viel.",
+                    "Meine Frau kocht gut.",
+                    "Die Frau liest ein Buch."
+                  ],
+                  "synonyms": ["Ehefrau", "Dame"],
+                  "antonyms": ["der Mann"]
+                },
+                {
+                  "german": "der Freund",
+                  "english": "friend / boyfriend",
+                  "gender": "Maskulin",
+                  "level": "A1",
+                  "examples": [
+                    "Mein Freund heißt Peter.",
+                    "Ich treffe meinen Freund.",
+                    "Der Freund hilft mir."
+                  ],
+                  "synonyms": ["Kumpel", "Bekannter"],
+                  "antonyms": ["der Feind"]
+                },
+                {
+                  "german": "die Freundin",
+                  "english": "friend / girlfriend",
+                  "gender": "Feminin",
+                  "level": "A1",
+                  "examples": [
+                    "Meine Freundin heißt Anna.",
+                    "Ich treffe meine Freundin.",
+                    "Die Freundin hilft mir."
+                  ],
+                  "synonyms": ["Bekannte", "Kumpelin"],
+                  "antonyms": ["die Feindin"]
+                },
+                {
+                  "german": "der Tag",
+                  "english": "day",
+                  "gender": "Maskulin",
+                  "level": "A1",
+                  "examples": [
+                    "Heute ist ein schöner Tag.",
+                    "Der Tag war lang.",
+                    "Ich arbeite jeden Tag."
+                  ],
+                  "synonyms": ["der Kalendertag", "die Tageszeit"],
+                  "antonyms": ["die Nacht"]
+                },
+                {
+                  "german": "die Nacht",
+                  "english": "night",
+                  "gender": "Feminin",
+                  "level": "A1",
+                  "examples": [
+                    "Die Nacht ist dunkel.",
+                    "Ich schlafe in der Nacht.",
+                    "Die Nacht war kalt."
+                  ],
+                  "synonyms": ["Abendzeit", "Dunkelheit"],
+                  "antonyms": ["der Tag"]
+                },
+                {
+                  "german": "der Morgen",
+                  "english": "morning",
+                  "gender": "Maskulin",
+                  "level": "A1",
+                  "examples": [
+                    "Am Morgen trinke ich Kaffee.",
+                    "Der Morgen ist frisch.",
+                    "Wir gehen morgen früh spazieren."
+                  ],
+                  "synonyms": ["Früh"], 
+                  "antonyms": ["der Abend"]
+                },
+                {
+                  "german": "der Abend",
+                  "english": "evening",
+                  "gender": "Maskulin",
+                  "level": "A1",
+                  "examples": [
+                    "Am Abend essen wir.",
+                    "Der Abend ist ruhig.",
+                    "Wir treffen uns am Abend."
+                  ],
+                  "synonyms": ["Abendzeit"], 
+                  "antonyms": ["der Morgen"]
+                },
+                {
+                  "german": "heiß",
+                  "english": "hot",
+                  "gender": "Adjektiv",
+                  "level": "A1",
+                  "examples": [
+                    "Das Wasser ist heiß.",
+                    "Heute ist es heiß.",
+                    "Der Kaffee ist heiß."
+                  ],
+                  "synonyms": ["warm"],
+                  "antonyms": ["kalt"]
+                },
+                    {
+                      "german": "essen",
+                      "english": "to eat",
+                      "gender": "Neutral",
+                      "level": "A1",
+                      "examples": [
+                        "Ich esse gern Pizza.",
+                        "Wir essen zusammen zu Abend.",
+                        "Er isst jeden Morgen ein Brötchen."
+                      ],
+                      "synonyms": ["speisen", "verzehren"],
+                      "antonyms": ["hungern"]
+                    },
+                    {
+                      "german": "trinken",
+                      "english": "to drink",
+                      "gender": "Neutral",
+                      "level": "A1",
+                      "examples": [
+                        "Ich trinke Wasser.",
+                        "Er trinkt jeden Morgen Kaffee.",
+                        "Wir trinken zusammen Tee."
+                      ],
+                      "synonyms": ["saufen", "schlürfen"],
+                      "antonyms": ["dursten"]
+                    },
+                    {
+                      "german": "das Brot",
+                      "english": "bread",
+                      "gender": "Neutrum",
+                      "level": "A1",
+                      "examples": [
+                        "Ich esse Brot zum Frühstück.",
+                        "Das Brot ist frisch.",
+                        "Wir kaufen Brot beim Bäcker."
+                      ],
+                      "synonyms": ["Baguette", "Brötchen"],
+                      "antonyms": []
+                    },
+                    {
+                      "german": "das Wasser",
+                      "english": "water",
+                      "gender": "Neutrum",
+                      "level": "A1",
+                      "examples": [
+                        "Ich trinke Wasser.",
+                        "Das Wasser ist kalt.",
+                        "Wir brauchen Wasser zum Kochen."
+                      ],
+                      "synonyms": ["H2O", "Trinkwasser"],
+                      "antonyms": ["Saft"]
+                    },
+                    {
+                      "german": "der Apfel",
+                      "english": "apple",
+                      "gender": "Maskulin",
+                      "level": "A1",
+                      "examples": [
+                        "Ich esse einen Apfel.",
+                        "Der Apfel ist rot.",
+                        "Äpfel sind gesund."
+                      ],
+                      "synonyms": ["Frucht"],
+                      "antonyms": []
+                    },
+                    {
+                      "german": "die Banane",
+                      "english": "banana",
+                      "gender": "Feminin",
+                      "level": "A1",
+                      "examples": [
+                        "Ich esse eine Banane.",
+                        "Bananen sind gelb.",
+                        "Die Banane ist süß."
+                      ],
+                      "synonyms": ["Frucht"],
+                      "antonyms": []
+                    },
+                    {
+                      "german": "die Milch",
+                      "english": "milk",
+                      "gender": "Feminin",
+                      "level": "A1",
+                      "examples": [
+                        "Ich trinke Milch.",
+                        "Milch ist gesund.",
+                        "Wir kaufen Milch im Supermarkt."
+                      ],
+                      "synonyms": ["Kuhmilch", "Trinkmilch"],
+                      "antonyms": []
+                    },
+                    {
+                      "german": "das Fleisch",
+                      "english": "meat",
+                      "gender": "Neutrum",
+                      "level": "A1",
+                      "examples": [
+                        "Ich esse kein Fleisch.",
+                        "Das Fleisch ist frisch.",
+                        "Wir kaufen Fleisch beim Metzger."
+                      ],
+                      "synonyms": ["Fleischwaren", "Fleischprodukt"],
+                      "antonyms": ["Gemüse"]
+                    },
+                    {
+                      "german": "das Gemüse",
+                      "english": "vegetables",
+                      "gender": "Neutrum",
+                      "level": "A1",
+                      "examples": [
+                        "Ich esse Gemüse.",
+                        "Gemüse ist gesund.",
+                        "Wir kaufen frisches Gemüse."
+                      ],
+                      "synonyms": ["Pflanzenkost", "Grünzeug"],
+                      "antonyms": ["Fleisch"]
+                    },
+                    {
+                      "german": "die Suppe",
+                      "english": "soup",
+                      "gender": "Feminin",
+                      "level": "A1",
+                      "examples": [
+                        "Ich esse eine Suppe.",
+                        "Die Suppe ist heiß.",
+                        "Wir kochen eine Gemüsesuppe."
+                      ],
+                      "synonyms": ["Eintopf", "Bouillon"],
+                      "antonyms": []
+                    },
+                    {
+                      "german": "das Frühstück",
+                      "english": "breakfast",
+                      "gender": "Neutrum",
+                      "level": "A1",
+                      "examples": [
+                        "Ich esse Frühstück um sieben Uhr.",
+                        "Das Frühstück ist lecker.",
+                        "Wir frühstücken zusammen."
+                      ],
+                      "synonyms": ["Morgenspeise", "Mahlzeit"],
+                      "antonyms": ["Abendessen"]
+                    },
+                    {
+                      "german": "das Mittagessen",
+                      "english": "lunch",
+                      "gender": "Neutrum",
+                      "level": "A1",
+                      "examples": [
+                        "Ich esse Mittagessen um zwölf Uhr.",
+                        "Das Mittagessen ist fertig.",
+                        "Wir essen zusammen Mittagessen."
+                      ],
+                      "synonyms": ["Mittagsmahlzeit"],
+                      "antonyms": ["Frühstück"]
+                    },
+                    {
+                      "german": "das Abendessen",
+                      "english": "dinner / supper",
+                      "gender": "Neutrum",
+                      "level": "A1",
+                      "examples": [
+                        "Ich esse Abendessen um 19 Uhr.",
+                        "Das Abendessen schmeckt gut.",
+                        "Wir kochen Abendessen zusammen."
+                      ],
+                      "synonyms": ["Abendmahlzeit"],
+                      "antonyms": ["Frühstück"]
+                    },
+                    {
+                      "german": "der Kaffee",
+                      "english": "coffee",
+                      "gender": "Maskulin",
+                      "level": "A1",
+                      "examples": [
+                        "Ich trinke Kaffee.",
+                        "Der Kaffee ist heiß.",
+                        "Morgens trinke ich Kaffee."
+                      ],
+                      "synonyms": ["Espresso", "Kaffeespezialität"],
+                      "antonyms": ["Tee"]
+                    },
+                    {
+                      "german": "der Tee",
+                      "english": "tea",
+                      "gender": "Maskulin",
+                      "level": "A1",
+                      "examples": [
+                        "Ich trinke Tee.",
+                        "Der Tee ist warm.",
+                        "Wir trinken Tee zusammen."
+                      ],
+                      "synonyms": ["Kräutertee", "Schwarztee"],
+                      "antonyms": ["Kaffee"]
+                    },
+                    {
+                      "german": "das Obst",
+                      "english": "fruit",
+                      "gender": "Neutrum",
+                      "level": "A1",
+                      "examples": [
+                        "Ich esse Obst.",
+                        "Obst ist gesund.",
+                        "Wir kaufen frisches Obst."
+                      ],
+                      "synonyms": ["Früchte"],
+                      "antonyms": ["Gemüse"]
+                    },
+                    {
+                      "german": "das Getränk",
+                      "english": "drink / beverage",
+                      "gender": "Neutrum",
+                      "level": "A1",
+                      "examples": [
+                        "Ich bestelle ein Getränk.",
+                        "Das Getränk ist kalt.",
+                        "Wir trinken viele Getränke."
+                      ],
+                      "synonyms": ["Trank", "Erfrischung"],
+                      "antonyms": []
+                    },
+                    {
+                      "german": "kalt",
+                      "english": "cold",
+                      "gender": "Adjektiv",
+                      "level": "A1",
+                      "examples": [
+                        "Das Wasser ist kalt.",
+                        "Heute ist es kalt.",
+                        "Der Wind ist kalt."
+                      ],
+                      "synonyms": ["kühl"],
+                      "antonyms": ["heiß", "warm"]
+                    },
+                    {
+                      "german": "warm",
+                      "english": "warm",
+                      "gender": "Adjektiv",
+                      "level": "A1",
+                      "examples": [
+                        "Heute ist es warm.",
+                        "Der Tee ist warm.",
+                        "Ich trage warme Kleidung."
+                      ],
+                      "synonyms": ["heiß"],
+                      "antonyms": ["kalt"]
+                    },
+                    {
+                      "german": "gut",
+                      "english": "good",
+                      "gender": "Adjektiv",
+                      "level": "A1",
+                      "examples": [
+                        "Das Essen schmeckt gut.",
+                        "Er ist ein guter Freund.",
+                        "Die Schule ist gut."
+                      ],
+                      "synonyms": ["prima", "toll"],
+                      "antonyms": ["schlecht"]
+                    },
+                    {
+                      "german": "schlecht",
+                      "english": "bad",
+                      "gender": "Adjektiv",
+                      "level": "A1",
+                      "examples": [
+                        "Das Wetter ist schlecht.",
+                        "Er fühlt sich schlecht.",
+                        "Die Note ist schlecht."
+                      ],
+                      "synonyms": ["schlimm", "mies"],
+                      "antonyms": ["gut"]
+                    },
+                    {
+                      "german": "heute",
+                      "english": "today",
+                      "gender": "Adverb",
+                      "level": "A1",
+                      "examples": [
+                        "Heute ist Montag.",
+                        "Ich gehe heute einkaufen.",
+                        "Heute ist das Wetter schön."
+                      ],
+                      "synonyms": ["am heutigen Tag"],
+                      "antonyms": ["gestern", "morgen"]
+                    },
+                    {
+                      "german": "gestern",
+                      "english": "yesterday",
+                      "gender": "Adverb",
+                      "level": "A1",
+                      "examples": [
+                        "Gestern war es kalt.",
+                        "Ich war gestern müde.",
+                        "Gestern habe ich meine Freunde getroffen."
+                      ],
+                      "synonyms": ["am Vortag"],
+                      "antonyms": ["heute", "morgen"]
+                    },
+                    {
+                      "german": "morgen",
+                      "english": "tomorrow / morning",
+                      "gender": "Adverb / Maskulin",
+                      "level": "A1",
+                      "examples": [
+                        "Morgen fahren wir nach Berlin.",
+                        "Ich gehe morgen einkaufen.",
+                        "Der Morgen ist schön."
+                      ],
+                      "synonyms": ["am folgenden Tag"],
+                      "antonyms": ["gestern"]
+                    },
+                        {
+                          "german": "das Auto",
+                          "english": "car",
+                          "gender": "Neutrum",
+                          "level": "A1",
+                          "examples": [
+                            "Das Auto ist neu.",
+                            "Ich fahre mit dem Auto zur Arbeit.",
+                            "Wir kaufen ein Auto."
+                          ],
+                          "synonyms": ["Wagen", "PKW"],
+                          "antonyms": ["das Fahrrad"]
+                        },
+                        {
+                          "german": "das Fahrrad",
+                          "english": "bicycle",
+                          "gender": "Neutrum",
+                          "level": "A1",
+                          "examples": [
+                            "Ich fahre Fahrrad.",
+                            "Das Fahrrad ist schnell.",
+                            "Wir fahren mit dem Fahrrad in den Park."
+                          ],
+                          "synonyms": ["Rad", "Bike"],
+                          "antonyms": ["das Auto"]
+                        },
+                        {
+                          "german": "der Bus",
+                          "english": "bus",
+                          "gender": "Maskulin",
+                          "level": "A1",
+                          "examples": [
+                            "Ich fahre mit dem Bus.",
+                            "Der Bus kommt um acht Uhr.",
+                            "Wir nehmen den Bus zur Schule."
+                          ],
+                          "synonyms": ["Omnibus", "Linienbus"],
+                          "antonyms": []
+                        },
+                        {
+                          "german": "der Zug",
+                          "english": "train",
+                          "gender": "Maskulin",
+                          "level": "A1",
+                          "examples": [
+                            "Der Zug fährt pünktlich.",
+                            "Ich fahre mit dem Zug nach Berlin.",
+                            "Der Zug ist sehr schnell."
+                          ],
+                          "synonyms": ["Eisenbahn", "Bahn"],
+                          "antonyms": []
+                        },
+                        {
+                          "german": "das Flugzeug",
+                          "english": "airplane",
+                          "gender": "Neutrum",
+                          "level": "A1",
+                          "examples": [
+                            "Ich fliege mit dem Flugzeug.",
+                            "Das Flugzeug landet bald.",
+                            "Wir sehen das Flugzeug am Himmel."
+                          ],
+                          "synonyms": ["Flieger", "Jet"],
+                          "antonyms": []
+                        },
+                        {
+                          "german": "der Bahnhof",
+                          "english": "train station",
+                          "gender": "Maskulin",
+                          "level": "A1",
+                          "examples": [
+                            "Der Bahnhof ist groß.",
+                            "Wir treffen uns am Bahnhof.",
+                            "Der Zug fährt vom Bahnhof ab."
+                          ],
+                          "synonyms": ["Eisenbahnstation"],
+                          "antonyms": []
+                        },
+                        {
+                          "german": "der Flughafen",
+                          "english": "airport",
+                          "gender": "Maskulin",
+                          "level": "A1",
+                          "examples": [
+                            "Der Flughafen ist weit.",
+                            "Wir fahren zum Flughafen.",
+                            "Am Flughafen gibt es viele Geschäfte."
+                          ],
+                          "synonyms": ["Airterminal", "Airport"],
+                          "antonyms": []
+                        },
+                        {
+                          "german": "der Supermarkt",
+                          "english": "supermarket",
+                          "gender": "Maskulin",
+                          "level": "A1",
+                          "examples": [
+                            "Ich gehe in den Supermarkt.",
+                            "Der Supermarkt ist groß.",
+                            "Wir kaufen im Supermarkt Lebensmittel."
+                          ],
+                          "synonyms": ["Lebensmittelgeschäft", "Markt"],
+                          "antonyms": []
+                        },
+                        {
+                          "german": "das Geschäft",
+                          "english": "shop / store",
+                          "gender": "Neutrum",
+                          "level": "A1",
+                          "examples": [
+                            "Ich gehe ins Geschäft.",
+                            "Das Geschäft hat Kleidung.",
+                            "Wir kaufen im Geschäft ein."
+                          ],
+                          "synonyms": ["Laden", "Shop"],
+                          "antonyms": []
+                        },
+                        {
+                          "german": "die Stadt",
+                          "english": "city",
+                          "gender": "Feminin",
+                          "level": "A1",
+                          "examples": [
+                            "Die Stadt ist groß.",
+                            "Ich wohne in einer Stadt.",
+                            "Wir besuchen die Stadt am Wochenende."
+                          ],
+                          "synonyms": ["Metropole", "Ortschaft"],
+                          "antonyms": ["das Dorf"]
+                        },
+                        {
+                          "german": "die Ampel",
+                          "english": "traffic light",
+                          "gender": "Feminin",
+                          "level": "A1",
+                          "examples": [
+                            "Die Ampel ist rot.",
+                            "Wir warten an der Ampel.",
+                            "Die Ampel wechselt auf grün."
+                          ],
+                          "synonyms": ["Verkehrssignal"],
+                          "antonyms": []
+                        },
+                        {
+                          "german": "der Weg",
+                          "english": "way / path",
+                          "gender": "Maskulin",
+                          "level": "A1",
+                          "examples": [
+                            "Der Weg ist lang.",
+                            "Ich kenne den Weg.",
+                            "Wir gehen den Weg entlang."
+                          ],
+                          "synonyms": ["Pfad", "Straße"],
+                          "antonyms": []
+                        },
+                        {
+                          "german": "gehen",
+                          "english": "to go / walk",
+                          "gender": "Neutral",
+                          "level": "A1",
+                          "examples": [
+                            "Ich gehe zur Schule.",
+                            "Wir gehen spazieren.",
+                            "Er geht jeden Tag joggen."
+                          ],
+                          "synonyms": ["laufen", "spazieren"],
+                          "antonyms": ["bleiben"]
+                        },
+                        {
+                          "german": "fahren",
+                          "english": "to drive / ride",
+                          "gender": "Neutral",
+                          "level": "A1",
+                          "examples": [
+                            "Ich fahre mit dem Auto.",
+                            "Wir fahren in den Urlaub.",
+                            "Er fährt jeden Tag mit dem Bus."
+                          ],
+                          "synonyms": ["reisen", "lenken"],
+                          "antonyms": ["laufen"]
+                        },
+                        {
+                          "german": "laufen",
+                          "english": "to run",
+                          "gender": "Neutral",
+                          "level": "A1",
+                          "examples": [
+                            "Ich laufe jeden Morgen.",
+                            "Der Hund läuft schnell.",
+                            "Wir laufen im Park."
+                          ],
+                          "synonyms": ["rennen", "gehen"],
+                          "antonyms": ["stehen"]
+                        },
+                        {
+                          "german": "stehen",
+                          "english": "to stand",
+                          "gender": "Neutral",
+                          "level": "A1",
+                          "examples": [
+                            "Ich stehe vor der Tür.",
+                            "Die Lampe steht auf dem Tisch.",
+                            "Wir stehen in der Schlange."
+                          ],
+                          "synonyms": ["sich aufstellen", "sich befinden"],
+                          "antonyms": ["sitzen", "liegen"]
+                        },
+                        {
+                          "german": "sitzen",
+                          "english": "to sit",
+                          "gender": "Neutral",
+                          "level": "A1",
+                          "examples": [
+                            "Ich sitze auf dem Stuhl.",
+                            "Wir sitzen am Tisch.",
+                            "Der Hund sitzt vor der Tür."
+                          ],
+                          "synonyms": ["Platz nehmen", "sich setzen"],
+                          "antonyms": ["stehen", "liegen"]
+                        },
+                        {
+                          "german": "liegen",
+                          "english": "to lie / be situated",
+                          "gender": "Neutral",
+                          "level": "A1",
+                          "examples": [
+                            "Das Buch liegt auf dem Tisch.",
+                            "Wir liegen am Strand.",
+                            "Die Stadt liegt am Fluss."
+                          ],
+                          "synonyms": ["sich befinden", "ruhen"],
+                          "antonyms": ["stehen", "sitzen"]
+                        },
+                        {
+                          "german": "zahlen",
+                          "english": "to pay",
+                          "gender": "Neutral",
+                          "level": "A1",
+                          "examples": [
+                            "Ich zahle mit Karte.",
+                            "Wir zahlen die Rechnung.",
+                            "Er zahlt bar."
+                          ],
+                          "synonyms": ["bezahlen", "entrichten"],
+                          "antonyms": ["kostenlos bekommen"]
+                        },
+                        {
+                          "german": "kaufen",
+                          "english": "to buy",
+                          "gender": "Neutral",
+                          "level": "A1",
+                          "examples": [
+                            "Ich kaufe Brot.",
+                            "Wir kaufen ein neues Auto.",
+                            "Sie kauft Kleidung."
+                          ],
+                          "synonyms": ["erwerben", "besorgen"],
+                          "antonyms": ["verkaufen"]
+                        },
+                        {
+                          "german": "verkaufen",
+                          "english": "to sell",
+                          "gender": "Neutral",
+                          "level": "A1",
+                          "examples": [
+                            "Ich verkaufe mein altes Fahrrad.",
+                            "Wir verkaufen Obst und Gemüse.",
+                            "Er verkauft sein Auto."
+                          ],
+                          "synonyms": ["veräußern", "anbieten"],
+                          "antonyms": ["kaufen"]
+                        },
+                        {
+                          "german": "die Farbe",
+                          "english": "color",
+                          "gender": "Feminin",
+                          "level": "A1",
+                          "examples": [
+                            "Meine Lieblingsfarbe ist blau.",
+                            "Die Farbe ist schön.",
+                            "Wir malen das Bild in vielen Farben."
+                          ],
+                          "synonyms": ["Tönung", "Nuance"],
+                          "antonyms": []
+                        },
+                        {
+                          "german": "rot",
+                          "english": "red",
+                          "gender": "Adjektiv",
+                          "level": "A1",
+                          "examples": [
+                            "Die Blume ist rot.",
+                            "Ich habe ein rotes Auto.",
+                            "Der Apfel ist rot."
+                          ],
+                          "synonyms": ["feuerrot", "karminrot"],
+                          "antonyms": ["blau", "grün"]
+                        },
+                        {
+                          "german": "blau",
+                          "english": "blue",
+                          "gender": "Adjektiv",
+                          "level": "A1",
+                          "examples": [
+                            "Der Himmel ist blau.",
+                            "Ich habe ein blaues Hemd.",
+                            "Das Wasser ist blau."
+                          ],
+                          "synonyms": ["himmelblau", "azurblau"],
+                          "antonyms": ["rot", "gelb"]
+                        },
+                        {
+                          "german": "grün",
+                          "english": "green",
+                          "gender": "Adjektiv",
+                          "level": "A1",
+                          "examples": [
+                            "Das Gras ist grün.",
+                            "Ich kaufe grüne Äpfel.",
+                            "Der Park ist grün."
+                          ],
+                          "synonyms": ["smaragdgrün", "hellgrün"],
+                          "antonyms": ["rot"]
+                        },
+                        {
+                          "german": "schwarz",
+                          "english": "black",
+                          "gender": "Adjektiv",
+                          "level": "A1",
+                          "examples": [
+                            "Das Hemd ist schwarz.",
+                            "Der Hund ist schwarz.",
+                            "Schwarz ist meine Lieblingsfarbe."
+                          ],
+                          "synonyms": ["dunkel"],
+                          "antonyms": ["weiß"]
+                        },
+                        {
+                          "german": "weiß",
+                          "english": "white",
+                          "gender": "Adjektiv",
+                          "level": "A1",
+                          "examples": [
+                            "Die Wand ist weiß.",
+                            "Das Papier ist weiß.",
+                            "Ich habe weiße Schuhe."
+                          ],
+                          "synonyms": ["hell"],
+                          "antonyms": ["schwarz"]
+                        },
+                        {
+                          "german": "gut",
+                          "english": "good",
+                          "gender": "Adjektiv",
+                          "level": "A1",
+                          "examples": [
+                            "Das Essen schmeckt gut.",
+                            "Er ist ein guter Freund.",
+                            "Die Schule ist gut."
+                          ],
+                          "synonyms": ["prima", "toll"],
+                          "antonyms": ["schlecht"]
+                        },
+                        {
+                          "german": "schlecht",
+                          "english": "bad",
+                          "gender": "Adjektiv",
+                          "level": "A1",
+                          "examples": [
+                            "Das Wetter ist schlecht.",
+                            "Er fühlt sich schlecht.",
+                            "Die Note ist schlecht."
+                          ],
+                          "synonyms": ["schlimm", "mies"],
+                          "antonyms": ["gut"]
+                        },
+                        {
+                          "german": "glücklich",
+                          "english": "happy",
+                          "gender": "Adjektiv",
+                          "level": "A1",
+                          "examples": [
+                            "Ich bin glücklich.",
+                            "Sie ist sehr glücklich.",
+                            "Wir sind glücklich zusammen."
+                          ],
+                          "synonyms": ["froh", "zufrieden"],
+                          "antonyms": ["traurig"]
+                        },
+                        {
+                          "german": "traurig",
+                          "english": "sad",
+                          "gender": "Adjektiv",
+                          "level": "A1",
+                          "examples": [
+                            "Ich bin traurig.",
+                            "Er ist traurig über die Nachricht.",
+                            "Sie fühlt sich traurig."
+                          ],
+                          "synonyms": ["unglücklich", "deprimiert"],
+                          "antonyms": ["glücklich"]
+                        }
+                      ]
+                      

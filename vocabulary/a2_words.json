@@ -1,0 +1,1017 @@
+[
+    {
+      "german": "der Hund",
+      "english": "dog",
+      "gender": "Maskulin",
+      "level": "A2",
+      "examples": [
+        "Der Hund ist sehr freundlich.",
+        "Ich gehe jeden Morgen mit dem Hund spazieren.",
+        "Mein Hund schläft gerne auf dem Sofa."
+      ],
+      "synonyms": ["der Vierbeiner", "das Haustier"],
+      "antonyms": ["die Katze"]
+    },
+    {
+      "german": "die Stadt",
+      "english": "city",
+      "gender": "Feminin",
+      "level": "A2",
+      "examples": [
+        "Ich wohne in einer großen Stadt.",
+        "Die Stadt hat viele Sehenswürdigkeiten.",
+        "In der Stadt gibt es viele Restaurants."
+      ],
+      "synonyms": ["die Metropole", "die Gemeinde"],
+      "antonyms": ["das Dorf"]
+    },
+    {
+      "german": "das Auto",
+      "english": "car",
+      "gender": "Neutral",
+      "level": "A2",
+      "examples": [
+        "Das Auto ist neu.",
+        "Ich fahre mit dem Auto zur Arbeit.",
+        "Er hat sein Auto verkauft."
+      ],
+      "synonyms": ["der Wagen", "der PKW"],
+      "antonyms": ["das Fahrrad"]
+    },
+    {
+      "german": "essen",
+      "english": "to eat",
+      "gender": "Neutral",
+      "level": "A2",
+      "examples": [
+        "Ich esse gerne Pizza.",
+        "Wir essen um 18 Uhr zu Abend.",
+        "Er isst kein Fleisch."
+      ],
+      "synonyms": ["speisen", "verzehren"],
+      "antonyms": ["hungern"]
+    },
+    {
+      "german": "trinken",
+      "english": "to drink",
+      "gender": "Neutral",
+      "level": "A2",
+      "examples": [
+        "Ich trinke Wasser.",
+        "Er trinkt jeden Morgen Kaffee.",
+        "Wir trinken zusammen Tee."
+      ],
+      "synonyms": ["saufen", "zu sich nehmen"],
+      "antonyms": ["dürsten"]
+    },
+        {
+          "german": "der Hund",
+          "english": "dog",
+          "gender": "Maskulin",
+          "level": "A2",
+          "examples": [
+            "Der Hund ist sehr freundlich.",
+            "Ich gehe jeden Morgen mit dem Hund spazieren.",
+            "Mein Hund schläft gerne auf dem Sofa."
+          ],
+          "synonyms": ["der Vierbeiner", "das Haustier"],
+          "antonyms": ["die Katze"]
+        },
+        {
+          "german": "die Katze",
+          "english": "cat",
+          "gender": "Feminin",
+          "level": "A2",
+          "examples": [
+            "Die Katze schläft auf dem Stuhl.",
+            "Meine Katze frisst viel.",
+            "Ich liebe Katzen."
+          ],
+          "synonyms": ["die Mieze", "das Haustier"],
+          "antonyms": ["der Hund"]
+        },
+        {
+          "german": "das Haus",
+          "english": "house",
+          "gender": "Neutral",
+          "level": "A2",
+          "examples": [
+            "Wir wohnen in einem großen Haus.",
+            "Das Haus hat einen schönen Garten.",
+            "Das Haus ist alt."
+          ],
+          "synonyms": ["die Wohnung", "das Heim"],
+          "antonyms": ["die Straße"]
+        },
+        {
+          "german": "die Straße",
+          "english": "street",
+          "gender": "Feminin",
+          "level": "A2",
+          "examples": [
+            "Die Straße ist sehr lang.",
+            "Wir gehen die Straße entlang.",
+            "Die Straße ist voll."
+          ],
+          "synonyms": ["der Weg", "die Gasse"],
+          "antonyms": ["das Haus"]
+        },
+        {
+          "german": "das Auto",
+          "english": "car",
+          "gender": "Neutral",
+          "level": "A2",
+          "examples": [
+            "Ich fahre mit dem Auto zur Arbeit.",
+            "Das Auto ist rot.",
+            "Wir kaufen ein neues Auto."
+          ],
+          "synonyms": ["der Wagen", "der PKW"],
+          "antonyms": ["das Fahrrad"]
+        },
+        {
+          "german": "das Fahrrad",
+          "english": "bicycle",
+          "gender": "Neutral",
+          "level": "A2",
+          "examples": [
+            "Ich fahre mit dem Fahrrad zur Schule.",
+            "Das Fahrrad ist alt.",
+            "Wir reparieren das Fahrrad."
+          ],
+          "synonyms": ["das Rad", "das Velo"],
+          "antonyms": ["das Auto"]
+        },
+        {
+          "german": "essen",
+          "english": "to eat",
+          "gender": "Neutral",
+          "level": "A2",
+          "examples": [
+            "Ich esse gern Pizza.",
+            "Wir essen um 18 Uhr zu Abend.",
+            "Er isst kein Fleisch."
+          ],
+          "synonyms": ["speisen", "verzehren"],
+          "antonyms": ["hungern"]
+        },
+        {
+          "german": "trinken",
+          "english": "to drink",
+          "gender": "Neutral",
+          "level": "A2",
+          "examples": [
+            "Ich trinke Wasser.",
+            "Er trinkt Kaffee jeden Morgen.",
+            "Wir trinken zusammen Tee."
+          ],
+          "synonyms": ["saufen", "zu sich nehmen"],
+          "antonyms": ["dürsten"]
+        },
+        {
+          "german": "schlafen",
+          "english": "to sleep",
+          "gender": "Neutral",
+          "level": "A2",
+          "examples": [
+            "Ich schlafe acht Stunden am Tag.",
+            "Er schläft tief.",
+            "Das Baby schläft noch."
+          ],
+          "synonyms": ["ruhen", "pennen"],
+          "antonyms": ["wachen"]
+        },
+        {
+          "german": "laufen",
+          "english": "to run / walk",
+          "gender": "Neutral",
+          "level": "A2",
+          "examples": [
+            "Ich laufe jeden Morgen im Park.",
+            "Wir laufen zur Schule.",
+            "Er läuft sehr schnell."
+          ],
+          "synonyms": ["rennen", "gehen"],
+          "antonyms": ["stehen"]
+        },
+        {
+          "german": "sprechen",
+          "english": "to speak",
+          "gender": "Neutral",
+          "level": "A2",
+          "examples": [
+            "Ich spreche Deutsch und Englisch.",
+            "Wir sprechen über das Wetter.",
+            "Kannst du langsam sprechen?"
+          ],
+          "synonyms": ["reden", "sagen"],
+          "antonyms": ["schweigen"]
+        },
+        {
+          "german": "hören",
+          "english": "to hear / listen",
+          "gender": "Neutral",
+          "level": "A2",
+          "examples": [
+            "Ich höre Musik.",
+            "Hörst du die Vögel?",
+            "Wir hören dem Lehrer zu."
+          ],
+          "synonyms": ["lauschen", "zuhören"],
+          "antonyms": ["ignorieren"]
+        },
+        {
+          "german": "sehen",
+          "english": "to see",
+          "gender": "Neutral",
+          "level": "A2",
+          "examples": [
+            "Ich sehe einen Vogel.",
+            "Kannst du das sehen?",
+            "Wir sehen fern."
+          ],
+          "synonyms": ["blicken", "gucken"],
+          "antonyms": ["übersehen"]
+        },
+        {
+          "german": "kaufen",
+          "english": "to buy",
+          "gender": "Neutral",
+          "level": "A2",
+          "examples": [
+            "Ich kaufe Brot im Supermarkt.",
+            "Wir kaufen ein neues Handy.",
+            "Er kauft oft Kleidung online."
+          ],
+          "synonyms": ["erwerben", "besorgen"],
+          "antonyms": ["verkaufen"]
+        },
+        {
+          "german": "verkaufen",
+          "english": "to sell",
+          "gender": "Neutral",
+          "level": "A2",
+          "examples": [
+            "Ich verkaufe mein altes Auto.",
+            "Der Laden verkauft Obst und Gemüse.",
+            "Er verkauft Bücher online."
+          ],
+          "synonyms": ["abgeben", "anbieten"],
+          "antonyms": ["kaufen"]
+        },
+        {
+          "german": "lernen",
+          "english": "to learn",
+          "gender": "Neutral",
+          "level": "A2",
+          "examples": [
+            "Ich lerne Deutsch.",
+            "Wir lernen jeden Tag neue Wörter.",
+            "Sie lernt für die Prüfung."
+          ],
+          "synonyms": ["studieren", "trainieren"],
+          "antonyms": ["vergessen"]
+        },
+        {
+          "german": "arbeiten",
+          "english": "to work",
+          "gender": "Neutral",
+          "level": "A2",
+          "examples": [
+            "Ich arbeite im Büro.",
+            "Wir arbeiten zusammen.",
+            "Er arbeitet von zu Hause."
+          ],
+          "synonyms": ["tätig sein", "jobben"],
+          "antonyms": ["faulenzen"]
+        },
+        {
+          "german": "spielen",
+          "english": "to play",
+          "gender": "Neutral",
+          "level": "A2",
+          "examples": [
+            "Die Kinder spielen im Garten.",
+            "Wir spielen Fußball.",
+            "Er spielt Klavier."
+          ],
+          "synonyms": ["zocken", "betätigen"],
+          "antonyms": ["arbeiten"]
+        },
+        {
+          "german": "gehen",
+          "english": "to go / walk",
+          "gender": "Neutral",
+          "level": "A2",
+          "examples": [
+            "Ich gehe zur Schule.",
+            "Wir gehen ins Kino.",
+            "Er geht jeden Tag spazieren."
+          ],
+          "synonyms": ["laufen", "wandern"],
+          "antonyms": ["bleiben"]
+        },
+        {
+          "german": "kommen",
+          "english": "to come",
+          "gender": "Neutral",
+          "level": "A2",
+          "examples": [
+            "Er kommt morgen.",
+            "Wir kommen pünktlich.",
+            "Sie kommt aus Deutschland."
+          ],
+          "synonyms": ["ankommen", "eintreffen"],
+          "antonyms": ["gehen"]
+        },
+        {
+          "german": "fahren",
+          "english": "to drive / ride",
+          "gender": "Neutral",
+          "level": "A2",
+          "examples": [
+            "Ich fahre mit dem Bus.",
+            "Wir fahren nach Berlin.",
+            "Er fährt sehr schnell."
+          ],
+          "synonyms": ["reisen", "steuern"],
+          "antonyms": ["laufen"]
+        },
+            {
+              "german": "wohnen",
+              "english": "to live / reside",
+              "gender": "Neutral",
+              "level": "A2",
+              "examples": [
+                "Ich wohne in Berlin.",
+                "Wir wohnen zusammen in einer Wohnung.",
+                "Sie wohnt bei ihren Eltern."
+              ],
+              "synonyms": ["leben", "residieren"],
+              "antonyms": ["ausziehen"]
+            },
+            {
+              "german": "öffnen",
+              "english": "to open",
+              "gender": "Neutral",
+              "level": "A2",
+              "examples": [
+                "Ich öffne die Tür.",
+                "Der Laden öffnet um 9 Uhr.",
+                "Sie hat das Fenster geöffnet."
+              ],
+              "synonyms": ["aufmachen", "aufschließen"],
+              "antonyms": ["schließen"]
+            },
+            {
+              "german": "schließen",
+              "english": "to close",
+              "gender": "Neutral",
+              "level": "A2",
+              "examples": [
+                "Bitte schließen Sie die Tür.",
+                "Der Laden schließt um 18 Uhr.",
+                "Ich schließe das Fenster."
+              ],
+              "synonyms": ["zumachen", "abschließen"],
+              "antonyms": ["öffnen"]
+            },
+            {
+              "german": "beginnen",
+              "english": "to begin / start",
+              "gender": "Neutral",
+              "level": "A2",
+              "examples": [
+                "Der Kurs beginnt um 8 Uhr.",
+                "Wir beginnen mit dem Unterricht.",
+                "Sie beginnt eine neue Arbeit."
+              ],
+              "synonyms": ["starten", "anfangen"],
+              "antonyms": ["beenden"]
+            },
+            {
+              "german": "beenden",
+              "english": "to finish / end",
+              "gender": "Neutral",
+              "level": "A2",
+              "examples": [
+                "Wir beenden das Spiel.",
+                "Sie beendet ihre Ausbildung.",
+                "Der Film endet um 22 Uhr."
+              ],
+              "synonyms": ["abschließen", "aufhören"],
+              "antonyms": ["beginnen"]
+            },
+            {
+              "german": "lesen",
+              "english": "to read",
+              "gender": "Neutral",
+              "level": "A2",
+              "examples": [
+                "Ich lese ein Buch.",
+                "Wir lesen die Zeitung.",
+                "Er liest gern Geschichten."
+              ],
+              "synonyms": ["durchlesen", "studieren"],
+              "antonyms": ["ignorieren"]
+            },
+            {
+              "german": "schreiben",
+              "english": "to write",
+              "gender": "Neutral",
+              "level": "A2",
+              "examples": [
+                "Ich schreibe eine E-Mail.",
+                "Sie schreibt einen Brief.",
+                "Wir schreiben unsere Hausaufgaben."
+              ],
+              "synonyms": ["verfassen", "notieren"],
+              "antonyms": ["lesen"]
+            },
+            {
+              "german": "fragen",
+              "english": "to ask",
+              "gender": "Neutral",
+              "level": "A2",
+              "examples": [
+                "Ich frage den Lehrer.",
+                "Er fragt nach dem Weg.",
+                "Wir fragen oft Fragen im Unterricht."
+              ],
+              "synonyms": ["erfragen", "nachfragen"],
+              "antonyms": ["antworten"]
+            },
+            {
+              "german": "antworten",
+              "english": "to answer",
+              "gender": "Neutral",
+              "level": "A2",
+              "examples": [
+                "Ich antworte auf die E-Mail.",
+                "Er antwortet schnell.",
+                "Wir antworten auf die Frage."
+              ],
+              "synonyms": ["reagieren", "entgegnen"],
+              "antonyms": ["fragen"]
+            },
+            {
+              "german": "spielen",
+              "english": "to play",
+              "gender": "Neutral",
+              "level": "A2",
+              "examples": [
+                "Die Kinder spielen draußen.",
+                "Er spielt Gitarre.",
+                "Wir spielen Karten."
+              ],
+              "synonyms": ["tollen", "zocken"],
+              "antonyms": ["arbeiten"]
+            },
+            {
+              "german": "laufen",
+              "english": "to run",
+              "gender": "Neutral",
+              "level": "A2",
+              "examples": [
+                "Ich laufe jeden Morgen im Park.",
+                "Er läuft schnell.",
+                "Wir laufen zum Bus."
+              ],
+              "synonyms": ["rennen", "gehen"],
+              "antonyms": ["stehen"]
+            },
+            {
+              "german": "tanzen",
+              "english": "to dance",
+              "gender": "Neutral",
+              "level": "A2",
+              "examples": [
+                "Wir tanzen auf der Party.",
+                "Sie tanzt sehr gut.",
+                "Ich tanze gern Salsa."
+              ],
+              "synonyms": ["swingen", "bewegen"],
+              "antonyms": ["stehen"]
+            },
+            {
+              "german": "singen",
+              "english": "to sing",
+              "gender": "Neutral",
+              "level": "A2",
+              "examples": [
+                "Ich singe ein Lied.",
+                "Sie singt im Chor.",
+                "Wir singen zusammen."
+              ],
+              "synonyms": ["trällern", "vocalisieren"],
+              "antonyms": ["schweigen"]
+            },
+            {
+              "german": "tanzen",
+              "english": "to dance",
+              "gender": "Neutral",
+              "level": "A2",
+              "examples": [
+                "Wir tanzen zusammen.",
+                "Er tanzt sehr gut.",
+                "Sie tanzt gern im Club."
+              ],
+              "synonyms": ["swingen", "bewegen"],
+              "antonyms": ["stehen"]
+            },
+            {
+              "german": "helfen",
+              "english": "to help",
+              "gender": "Neutral",
+              "level": "A2",
+              "examples": [
+                "Ich helfe meiner Freundin.",
+                "Kannst du mir helfen?",
+                "Er hilft im Haushalt."
+              ],
+              "synonyms": ["unterstützen", "beistehen"],
+              "antonyms": ["behindern"]
+            },
+            {
+              "german": "lernen",
+              "english": "to learn",
+              "gender": "Neutral",
+              "level": "A2",
+              "examples": [
+                "Ich lerne Deutsch.",
+                "Wir lernen jeden Tag neue Wörter.",
+                "Sie lernt für die Prüfung."
+              ],
+              "synonyms": ["studieren", "üben"],
+              "antonyms": ["vergessen"]
+            },
+            {
+              "german": "vergessen",
+              "english": "to forget",
+              "gender": "Neutral",
+              "level": "A2",
+              "examples": [
+                "Ich vergesse oft die Schlüssel.",
+                "Er hat den Termin vergessen.",
+                "Wir dürfen das nicht vergessen."
+              ],
+              "synonyms": ["übersehen", "nicht beachten"],
+              "antonyms": ["erinnern"]
+            },
+            {
+              "german": "beginnen",
+              "english": "to begin",
+              "gender": "Neutral",
+              "level": "A2",
+              "examples": [
+                "Die Schule beginnt um 8 Uhr.",
+                "Wir beginnen das Spiel.",
+                "Er beginnt eine neue Arbeit."
+              ],
+              "synonyms": ["anfangen", "starten"],
+              "antonyms": ["beenden"]
+            },
+            {
+              "german": "beenden",
+              "english": "to finish",
+              "gender": "Neutral",
+              "level": "A2",
+              "examples": [
+                "Wir beenden das Projekt.",
+                "Sie beendet die Ausbildung.",
+                "Der Film endet um 22 Uhr."
+              ],
+              "synonyms": ["abschließen", "aufhören"],
+              "antonyms": ["beginnen"]
+            },
+                {
+                  "german": "der Freund",
+                  "english": "friend",
+                  "gender": "Maskulin",
+                  "level": "A2",
+                  "examples": [
+                    "Mein Freund wohnt in Berlin.",
+                    "Ich treffe mich mit meinem Freund.",
+                    "Er ist ein guter Freund."
+                  ],
+                  "synonyms": ["Kamerad", "Bekannter"],
+                  "antonyms": ["Feind"]
+                },
+                {
+                  "german": "die Freundin",
+                  "english": "female friend / girlfriend",
+                  "gender": "Feminin",
+                  "level": "A2",
+                  "examples": [
+                    "Meine Freundin ist sehr nett.",
+                    "Ich gehe mit meiner Freundin ins Kino.",
+                    "Sie ist meine beste Freundin."
+                  ],
+                  "synonyms": ["Bekannte", "Kameradin"],
+                  "antonyms": ["Feindin"]
+                },
+                {
+                  "german": "die Familie",
+                  "english": "family",
+                  "gender": "Feminin",
+                  "level": "A2",
+                  "examples": [
+                    "Meine Familie lebt in Deutschland.",
+                    "Wir besuchen die Familie am Wochenende.",
+                    "Die Familie ist sehr wichtig."
+                  ],
+                  "synonyms": ["die Verwandten", "die Angehörigen"],
+                  "antonyms": ["die Fremden"]
+                },
+                {
+                  "german": "der Vater",
+                  "english": "father",
+                  "gender": "Maskulin",
+                  "level": "A2",
+                  "examples": [
+                    "Mein Vater arbeitet in einer Bank.",
+                    "Ich spreche oft mit meinem Vater.",
+                    "Er ist ein netter Vater."
+                  ],
+                  "synonyms": ["Papa", "Erzeuger"],
+                  "antonyms": ["die Mutter"]
+                },
+                {
+                  "german": "die Mutter",
+                  "english": "mother",
+                  "gender": "Feminin",
+                  "level": "A2",
+                  "examples": [
+                    "Meine Mutter kocht gern.",
+                    "Ich telefoniere oft mit meiner Mutter.",
+                    "Sie ist eine liebe Mutter."
+                  ],
+                  "synonyms": ["Mama", "Erzeugerin"],
+                  "antonyms": ["der Vater"]
+                },
+                {
+                  "german": "der Bruder",
+                  "english": "brother",
+                  "gender": "Maskulin",
+                  "level": "A2",
+                  "examples": [
+                    "Mein Bruder ist älter als ich.",
+                    "Ich spiele gern mit meinem Bruder.",
+                    "Er ist ein guter Bruder."
+                  ],
+                  "synonyms": ["Geschwister", "Brüderchen"],
+                  "antonyms": ["die Schwester"]
+                },
+                {
+                  "german": "die Schwester",
+                  "english": "sister",
+                  "gender": "Feminin",
+                  "level": "A2",
+                  "examples": [
+                    "Meine Schwester ist jünger als ich.",
+                    "Ich verstehe mich gut mit meiner Schwester.",
+                    "Sie ist meine Schwester."
+                  ],
+                  "synonyms": ["Geschwister", "Schwesterchen"],
+                  "antonyms": ["der Bruder"]
+                },
+                {
+                  "german": "das Kind",
+                  "english": "child",
+                  "gender": "Neutral",
+                  "level": "A2",
+                  "examples": [
+                    "Das Kind spielt im Garten.",
+                    "Ich kenne das Kind gut.",
+                    "Die Kinder sind freundlich."
+                  ],
+                  "synonyms": ["der Junge", "das Mädchen"],
+                  "antonyms": ["der Erwachsene"]
+                },
+                {
+                  "german": "die Schule",
+                  "english": "school",
+                  "gender": "Feminin",
+                  "level": "A2",
+                  "examples": [
+                    "Ich gehe jeden Tag zur Schule.",
+                    "Die Schule beginnt um 8 Uhr.",
+                    "Wir lernen viel in der Schule."
+                  ],
+                  "synonyms": ["Bildungsanstalt", "Lehranstalt"],
+                  "antonyms": ["die Universität"]
+                },
+                {
+                  "german": "der Lehrer",
+                  "english": "teacher (male)",
+                  "gender": "Maskulin",
+                  "level": "A2",
+                  "examples": [
+                    "Der Lehrer erklärt die Aufgabe.",
+                    "Ich mag meinen Lehrer.",
+                    "Der Lehrer ist sehr nett."
+                  ],
+                  "synonyms": ["Dozent", "Pädagoge"],
+                  "antonyms": ["der Schüler"]
+                },
+                {
+                  "german": "die Lehrerin",
+                  "english": "teacher (female)",
+                  "gender": "Feminin",
+                  "level": "A2",
+                  "examples": [
+                    "Die Lehrerin hilft uns.",
+                    "Ich mag meine Lehrerin.",
+                    "Die Lehrerin erklärt den Stoff gut."
+                  ],
+                  "synonyms": ["Dozentin", "Pädagogin"],
+                  "antonyms": ["die Schülerin"]
+                },
+                {
+                  "german": "der Schüler",
+                  "english": "pupil / student (male)",
+                  "gender": "Maskulin",
+                  "level": "A2",
+                  "examples": [
+                    "Der Schüler lernt fleißig.",
+                    "Ich bin ein guter Schüler.",
+                    "Die Schüler machen Hausaufgaben."
+                  ],
+                  "synonyms": ["Student", "Lernender"],
+                  "antonyms": ["der Lehrer"]
+                },
+                {
+                  "german": "die Schülerin",
+                  "english": "pupil / student (female)",
+                  "gender": "Feminin",
+                  "level": "A2",
+                  "examples": [
+                    "Die Schülerin schreibt einen Aufsatz.",
+                    "Sie ist eine fleißige Schülerin.",
+                    "Die Schülerinnen lernen zusammen."
+                  ],
+                  "synonyms": ["Studentin", "Lernende"],
+                  "antonyms": ["die Lehrerin"]
+                },
+                {
+                  "german": "das Buch",
+                  "english": "book",
+                  "gender": "Neutral",
+                  "level": "A2",
+                  "examples": [
+                    "Ich lese ein Buch.",
+                    "Das Buch ist interessant.",
+                    "Wir kaufen neue Bücher."
+                  ],
+                  "synonyms": ["Band", "Werk"],
+                  "antonyms": ["die Zeitung"]
+                },
+                {
+                  "german": "die Zeitung",
+                  "english": "newspaper",
+                  "gender": "Feminin",
+                  "level": "A2",
+                  "examples": [
+                    "Ich lese die Zeitung jeden Morgen.",
+                    "Die Zeitung berichtet über die Nachrichten.",
+                    "Sie kauft eine Zeitung."
+                  ],
+                  "synonyms": ["Publikation", "Blatt"],
+                  "antonyms": ["das Buch"]
+                },
+                {
+                  "german": "das Haus",
+                  "english": "house",
+                  "gender": "Neutral",
+                  "level": "A2",
+                  "examples": [
+                    "Das Haus ist groß.",
+                    "Wir kaufen ein neues Haus.",
+                    "Mein Haus hat einen Garten."
+                  ],
+                  "synonyms": ["Heim", "Wohnung"],
+                  "antonyms": ["die Straße"]
+                },
+                {
+                  "german": "die Wohnung",
+                  "english": "apartment / flat",
+                  "gender": "Feminin",
+                  "level": "A2",
+                  "examples": [
+                    "Ich habe eine kleine Wohnung.",
+                    "Die Wohnung liegt im Stadtzentrum.",
+                    "Wir renovieren unsere Wohnung."
+                  ],
+                  "synonyms": ["Appartment", "Wohnraum"],
+                  "antonyms": ["das Haus"]
+                },
+                {
+                  "german": "der Supermarkt",
+                  "english": "supermarket",
+                  "gender": "Maskulin",
+                  "level": "A2",
+                  "examples": [
+                    "Ich gehe zum Supermarkt.",
+                    "Der Supermarkt hat frisches Obst.",
+                    "Wir kaufen im Supermarkt ein."
+                  ],
+                  "synonyms": ["Laden", "Geschäft"],
+                  "antonyms": ["der Marktstand"]
+                },
+                {
+                  "german": "der Markt",
+                  "english": "market",
+                  "gender": "Maskulin",
+                  "level": "A2",
+                  "examples": [
+                    "Ich gehe auf den Markt.",
+                    "Der Markt verkauft Gemüse und Obst.",
+                    "Wir kaufen auf dem Markt ein."
+                  ],
+                  "synonyms": ["Basar", "Marktplatz"],
+                  "antonyms": ["Supermarkt"]
+                },
+                {
+                  "german": "das Essen",
+                  "english": "food / meal",
+                  "gender": "Neutral",
+                  "level": "A2",
+                  "examples": [
+                    "Das Essen schmeckt gut.",
+                    "Ich koche das Essen selbst.",
+                    "Wir bestellen das Essen im Restaurant."
+                  ],
+                  "synonyms": ["Mahlzeit", "Speise"],
+                  "antonyms": ["das Trinken"]
+                },
+                {
+                  "german": "das Getränk",
+                  "english": "drink / beverage",
+                  "gender": "Neutral",
+                  "level": "A2",
+                  "examples": [
+                    "Ich trinke ein Getränk.",
+                    "Das Getränk ist kalt.",
+                    "Wir bestellen ein Getränk."
+                  ],
+                  "synonyms": ["Trank", "Getränkeflasche"],
+                  "antonyms": ["das Essen"]
+                },
+                {
+                  "german": "der Tisch",
+                  "english": "table",
+                  "gender": "Maskulin",
+                  "level": "A2",
+                  "examples": [
+                    "Der Tisch ist groß.",
+                    "Wir sitzen am Tisch.",
+                    "Der Tisch ist aus Holz."
+                  ],
+                  "synonyms": ["Tafel", "Schreibtisch"],
+                  "antonyms": ["der Stuhl"]
+                },
+                {
+                  "german": "der Stuhl",
+                  "english": "chair",
+                  "gender": "Maskulin",
+                  "level": "A2",
+                  "examples": [
+                    "Der Stuhl ist bequem.",
+                    "Ich sitze auf dem Stuhl.",
+                    "Wir brauchen mehr Stühle."
+                  ],
+                  "synonyms": ["Sitz", "Hocker"],
+                  "antonyms": ["der Tisch"]
+                },
+                {
+                  "german": "das Bett",
+                  "english": "bed",
+                  "gender": "Neutral",
+                  "level": "A2",
+                  "examples": [
+                    "Ich gehe ins Bett.",
+                    "Das Bett ist groß.",
+                    "Wir kaufen ein neues Bett."
+                  ],
+                  "synonyms": ["Liege", "Schlafplatz"],
+                  "antonyms": ["der Stuhl"]
+                },
+                {
+                  "german": "die Lampe",
+                  "english": "lamp",
+                  "gender": "Feminin",
+                  "level": "A2",
+                  "examples": [
+                    "Die Lampe ist hell.",
+                    "Ich schalte die Lampe an.",
+                    "Wir kaufen eine neue Lampe."
+                  ],
+                  "synonyms": ["Leuchte", "Lichtquelle"],
+                  "antonyms": ["die Dunkelheit"]
+                },
+                {
+                  "german": "die Tür",
+                  "english": "door",
+                  "gender": "Feminin",
+                  "level": "A2",
+                  "examples": [
+                    "Die Tür ist geschlossen.",
+                    "Öffne bitte die Tür.",
+                    "Die Tür ist alt."
+                  ],
+                  "synonyms": ["Pforte", "Tor"],
+                  "antonyms": ["das Fenster"]
+                },
+                {
+                  "german": "das Fenster",
+                  "english": "window",
+                  "gender": "Neutral",
+                  "level": "A2",
+                  "examples": [
+                    "Das Fenster ist offen.",
+                    "Ich putze das Fenster.",
+                    "Das Fenster ist groß."
+                  ],
+                  "synonyms": ["Scheibe", "Glas"],
+                  "antonyms": ["die Tür"]
+                },
+                {
+                  "german": "der Computer",
+                  "english": "computer",
+                  "gender": "Maskulin",
+                  "level": "A2",
+                  "examples": [
+                    "Ich arbeite am Computer.",
+                    "Der Computer ist neu.",
+                    "Wir spielen am Computer."
+                  ],
+                  "synonyms": ["PC", "Rechner"],
+                  "antonyms": ["der Stift"]
+                },
+                {
+                  "german": "das Handy",
+                  "english": "mobile phone",
+                  "gender": "Neutral",
+                  "level": "A2",
+                  "examples": [
+                    "Ich telefoniere mit meinem Handy.",
+                    "Das Handy ist teuer.",
+                    "Wir schreiben Nachrichten auf dem Handy."
+                  ],
+                  "synonyms": ["Mobiltelefon", "Smartphone"],
+                  "antonyms": ["das Festnetztelefon"]
+                },
+                {
+                  "german": "die Uhr",
+                  "english": "clock / watch",
+                  "gender": "Feminin",
+                  "level": "A2",
+                  "examples": [
+                    "Die Uhr zeigt 8 Uhr.",
+                    "Ich trage eine Uhr am Handgelenk.",
+                    "Die Uhr ist kaputt."
+                  ],
+                  "synonyms": ["Zeitmesser", "Chronometer"],
+                  "antonyms": ["der Kalender"]
+                },
+                {
+                  "german": "der Kalender",
+                  "english": "calendar",
+                  "gender": "Maskulin",
+                  "level": "A2",
+                  "examples": [
+                    "Ich trage Termine im Kalender ein.",
+                    "Der Kalender hängt an der Wand.",
+                    "Wir kaufen einen neuen Kalender."
+                  ],
+                  "synonyms": ["Terminplaner", "Agenda"],
+                  "antonyms": ["die Uhr"]
+                },
+                {
+                  "german": "die Tasche",
+                  "english": "bag / purse",
+                  "gender": "Feminin",
+                  "level": "A2",
+                  "examples": [
+                    "Ich habe eine Tasche dabei.",
+                    "Die Tasche ist schwer.",
+                    "Wir kaufen neue Taschen."
+                  ],
+                  "synonyms": ["Beutel", "Sack"],
+                  "antonyms": ["der Koffer"]
+                },
+                {
+                  "german": "der Koffer",
+                  "english": "suitcase",
+                  "gender": "Maskulin",
+                  "level": "A2",
+                  "examples": [
+                    "Ich packe meinen Koffer.",
+                    "Der Koffer ist groß.",
+                    "Wir kaufen einen neuen Koffer."
+                  ],
+                  "synonyms": ["Reisekoffer", "Gepäckstück"],
+                  "antonyms": ["die Tasche"]
+                }
+            ]
+            
