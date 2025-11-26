@@ -5993,7 +5993,371 @@
                             ],
                             "synonyms": ["ignorieren", "verletzen"],
                             "antonyms": ["respektieren", "beachten"]
-                          }          
+                          },
+                          {
+                            "german": "ignorieren",
+                            "english": "to ignore",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er ignoriert die Nachrichten.",
+                              "Man darf das Problem nicht ignorieren.",
+                              "Sie ignorierte seine Anrufe."
+                            ],
+                            "synonyms": ["missachten", "übersehen"],
+                            "antonyms": ["beachten", "respektieren"]
+                          },
+                          {
+                            "german": "übersehen",
+                            "english": "to overlook",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Ich habe einen Fehler übersehen.",
+                              "Sie übersah die Details.",
+                              "Das Problem darf nicht übersehen werden."
+                            ],
+                            "synonyms": ["ignorieren", "übergehen"],
+                            "antonyms": ["bemerken", "erkennen"]
+                          },
+                          {
+                            "german": "übergehen",
+                            "english": "to bypass / ignore",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Die Regel wurde übergangen.",
+                              "Er übergeht meine Vorschläge.",
+                              "Man sollte keine Beschwerden übergehen."
+                            ],
+                            "synonyms": ["ignorieren", "auslassen"],
+                            "antonyms": ["beachten", "würdigen"]
+                          },
+                          {
+                            "german": "auslassen",
+                            "english": "to omit / skip",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Bitte lass keine Schritte aus.",
+                              "Sie ließ wichtige Punkte aus.",
+                              "Man darf nichts Wichtiges auslassen."
+                            ],
+                            "synonyms": ["übergehen", "ignorieren"],
+                            "antonyms": ["einbeziehen", "berücksichtigen"]
+                          },
+                          {
+                            "german": "einbeziehen",
+                            "english": "to include / involve",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Wir beziehen alle Teammitglieder ein.",
+                              "Bitte beziehe die Fakten ein.",
+                              "Man sollte die Interessen einbeziehen."
+                            ],
+                            "synonyms": ["berücksichtigen", "einfügen"],
+                            "antonyms": ["auslassen", "ignorieren"]
+                          },
+                          {
+                            "german": "berücksichtigen",
+                            "english": "to consider / take into account",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Bitte berücksichtige meine Meinung.",
+                              "Wir müssen die Risiken berücksichtigen.",
+                              "Sie berücksichtigt die Wünsche aller."
+                            ],
+                            "synonyms": ["einbeziehen", "achten auf"],
+                            "antonyms": ["ignorieren", "übersehen"]
+                          },
+                          {
+                            "german": "achten auf",
+                            "english": "to pay attention to",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Achte auf den Verkehr.",
+                              "Er achtet auf Details.",
+                              "Man muss auf Hygiene achten."
+                            ],
+                            "synonyms": ["beachten", "berücksichtigen"],
+                            "antonyms": ["ignorieren", "übersehen"]
+                          },
+                          {
+                            "german": "bemerkenswert",
+                            "english": "remarkable / notable",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Das Ergebnis ist bemerkenswert.",
+                              "Bemerkenswerte Leistungen wurden anerkannt.",
+                              "Die Unterschiede sind bemerkenswert."
+                            ],
+                            "synonyms": ["außergewöhnlich", "erstaunlich"],
+                            "antonyms": ["gewöhnlich", "unbedeutend"]
+                          },
+                          {
+                            "german": "außergewöhnlich",
+                            "english": "exceptional / extraordinary",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Seine Fähigkeiten sind außergewöhnlich.",
+                              "Das Ereignis war außergewöhnlich.",
+                              "Außergewöhnliche Leistungen werden belohnt."
+                            ],
+                            "synonyms": ["bemerkenswert", "erstaunlich"],
+                            "antonyms": ["gewöhnlich", "alltäglich"]
+                          },
+                          {
+                            "german": "erstaunlich",
+                            "english": "astonishing / amazing",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Es ist erstaunlich, wie schnell er lernt.",
+                              "Die Fortschritte sind erstaunlich.",
+                              "Erstaunliche Ergebnisse wurden erzielt."
+                            ],
+                            "synonyms": ["bemerkenswert", "außergewöhnlich"],
+                            "antonyms": ["gewöhnlich", "normal"]
+                          },
+                          {
+                            "german": "gewöhnlich",
+                            "english": "usual / ordinary",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Das ist ein gewöhnlicher Tag.",
+                              "Gewöhnliche Fehler passieren jedem.",
+                              "Er ist ein gewöhnlicher Mensch."
+                            ],
+                            "synonyms": ["normal", "üblich"],
+                            "antonyms": ["außergewöhnlich", "bemerkenswert"]
+                          },
+                          {
+                            "german": "normal",
+                            "english": "normal",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Es ist normal, Fehler zu machen.",
+                              "Normale Bedingungen wurden hergestellt.",
+                              "Das Verhalten ist völlig normal."
+                            ],
+                            "synonyms": ["gewöhnlich", "üblich"],
+                            "antonyms": ["außergewöhnlich", "abnormal"]
+                          },
+                          {
+                            "german": "üblich",
+                            "english": "common / usual",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Es ist üblich, sich zu bedanken.",
+                              "Übliche Vorgehensweisen sollten befolgt werden.",
+                              "Das ist eine übliche Praxis."
+                            ],
+                            "synonyms": ["normal", "gewöhnlich"],
+                            "antonyms": ["ungewöhnlich", "außergewöhnlich"]
+                          },
+                          {
+                            "german": "ungewöhnlich",
+                            "english": "unusual",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Das ist eine ungewöhnliche Situation.",
+                              "Ungewöhnliche Wetterbedingungen traten auf.",
+                              "Sein Verhalten war ungewöhnlich."
+                            ],
+                            "synonyms": ["außergewöhnlich", "seltsam"],
+                            "antonyms": ["üblich", "normal"]
+                          },
+                          {
+                            "german": "seltsam",
+                            "english": "strange / odd",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Es war ein seltsames Geräusch.",
+                              "Sein Verhalten war seltsam.",
+                              "Seltsame Dinge passieren manchmal."
+                            ],
+                            "synonyms": ["merkwürdig", "ungewöhnlich"],
+                            "antonyms": ["normal", "gewöhnlich"]
+                          },
+                          {
+                            "german": "merkwürdig",
+                            "english": "odd / peculiar",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Das ist merkwürdig.",
+                              "Merkwürdige Vorkommnisse wurden beobachtet.",
+                              "Sein Gesichtsausdruck war merkwürdig."
+                            ],
+                            "synonyms": ["seltsam", "ungewöhnlich"],
+                            "antonyms": ["normal", "gewöhnlich"]
+                          },
+                          {
+                            "german": "abnormal",
+                            "english": "abnormal",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Die Werte sind abnormal.",
+                              "Abnormale Bedingungen wurden festgestellt.",
+                              "Abnormales Verhalten muss untersucht werden."
+                            ],
+                            "synonyms": ["ungewöhnlich", "anormal"],
+                            "antonyms": ["normal", "üblich"]
+                          },
+                          {
+                            "german": "anormal",
+                            "english": "abnormal / atypical",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Anormale Ergebnisse wurden gefunden.",
+                              "Das Verhalten war anormal.",
+                              "Anormale Zustände müssen behandelt werden."
+                            ],
+                            "synonyms": ["abnormal", "ungewöhnlich"],
+                            "antonyms": ["normal", "üblich"]
+                          },
+                          {
+                            "german": "beobachten",
+                            "english": "to observe / watch",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Wir beobachten die Vögel im Park.",
+                              "Beobachte die Reaktionen der Leute.",
+                              "Der Arzt beobachtet den Patienten."
+                            ],
+                            "synonyms": ["sehen", "überwachen"],
+                            "antonyms": ["ignorieren", "übergehen"]
+                          },
+                          {
+                            "german": "überwachen",
+                            "english": "to monitor / supervise",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Die Kameras überwachen den Bereich.",
+                              "Er überwacht die Arbeit der Mitarbeiter.",
+                              "Man überwacht den Prozess genau."
+                            ],
+                            "synonyms": ["kontrollieren", "beobachten"],
+                            "antonyms": ["vernachlässigen", "ignorieren"]
+                          },
+                          {
+                            "german": "kontrollieren",
+                            "english": "to control / check",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Wir kontrollieren die Qualität.",
+                              "Die Polizei kontrolliert den Verkehr.",
+                              "Kontrolliere deine Aufgaben regelmäßig."
+                            ],
+                            "synonyms": ["überwachen", "prüfen"],
+                            "antonyms": ["vernachlässigen", "ignorieren"]
+                          },
+                          {
+                            "german": "prüfen",
+                            "english": "to check / examine",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Prüfe deine Antworten.",
+                              "Der Techniker prüft die Maschine.",
+                              "Man muss alles genau prüfen."
+                            ],
+                            "synonyms": ["kontrollieren", "überprüfen"],
+                            "antonyms": ["ignorieren", "übersehen"]
+                          },
+                          {
+                            "german": "überprüfen",
+                            "english": "to verify / check",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Wir überprüfen die Daten.",
+                              "Der Mechaniker überprüft die Bremsen.",
+                              "Überprüfe alles vor dem Versand."
+                            ],
+                            "synonyms": ["prüfen", "kontrollieren"],
+                            "antonyms": ["ignorieren", "übersehen"]
+                          },
+                          {
+                            "german": "vernachlässigen",
+                            "english": "to neglect",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Er vernachlässigt seine Aufgaben.",
+                              "Man darf die Gesundheit nicht vernachlässigen.",
+                              "Die Pflanzen wurden vernachlässigt."
+                            ],
+                            "synonyms": ["ignorieren", "übersehen"],
+                            "antonyms": ["pflegen", "beachten"]
+                          },
+                          {
+                            "german": "pflegen",
+                            "english": "to maintain / take care of",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Wir pflegen den Garten.",
+                              "Er pflegt kranke Menschen.",
+                              "Die Maschine muss gepflegt werden."
+                            ],
+                            "synonyms": ["betreuen", "instandhalten"],
+                            "antonyms": ["vernachlässigen", "ignorieren"]
+                          },
+                          {
+                            "german": "betreuen",
+                            "english": "to take care of / supervise",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Die Lehrerin betreut die Kinder.",
+                              "Er betreut das Projekt.",
+                              "Wir betreuen die Patienten."
+                            ],
+                            "synonyms": ["pflegen", "überwachen"],
+                            "antonyms": ["vernachlässigen", "ignorieren"]
+                          },
+                          {
+                            "german": "instandhalten",
+                            "english": "to maintain / keep in order",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Wir halten die Maschinen instand.",
+                              "Das Gebäude wird instand gehalten.",
+                              "Instandhaltung ist wichtig für Sicherheit."
+                            ],
+                            "synonyms": ["pflegen", "warten"],
+                            "antonyms": ["vernachlässigen", "zerstören"]
+                          },
+                          {
+                            "german": "warten",
+                            "english": "to wait / maintain",
+                            "gender": "Neutral",
+                            "level": "B1",
+                            "examples": [
+                              "Wir warten auf den Bus.",
+                              "Die Maschine wird regelmäßig gewartet.",
+                              "Warte bitte einen Moment."
+                            ],
+                            "synonyms": ["pflegen", "instandhalten"],
+                            "antonyms": ["vernachlässigen", "übersehen"]
+                          }                
                         ]
                         
                     

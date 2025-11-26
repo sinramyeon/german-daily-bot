@@ -7,6 +7,7 @@ import (
     "net/http"
     "os"
     "time"
+    "net/url"
 )
 
 type Word struct {
@@ -163,11 +164,10 @@ func formatMessage(words []Word, sentence WiseSentences) string {
 
 // ---------------- 텔레그램 전송 ----------------
 func sendToTelegram(botToken, chatID, message string) {
-    // 실제 전송 코드 주석 처리
-    // apiURL := fmt.Sprintf("https://api.telegram.org/bot%s/sendMessage", botToken)
-    // data := url.Values{}
-    // data.Set("chat_id", chatID)
-    // data.Set("text", message)
-    // data.Set("parse_mode", "Markdown")
-    // http.PostForm(apiURL, data)
+    apiURL := fmt.Sprintf("https://api.telegram.org/bot%s/sendMessage", botToken)
+    data := url.Values{}
+    data.Set("chat_id", chatID)
+    data.Set("text", message)
+    data.Set("parse_mode", "Markdown")
+    http.PostForm(apiURL, data)
 }
