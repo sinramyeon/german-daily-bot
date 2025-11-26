@@ -28,6 +28,7 @@ type WiseSentences struct {
 const chatIDFile = "chat_ids.json"
 
 func main() {
+    fmt.Println("Starting Daily German Study Bot...")
     botToken := os.Getenv("TELEGRAM_BOT_TOKEN")
 
     // 1. /start 누른 사용자 새로 불러오기
@@ -73,6 +74,11 @@ func fetchNewChatIDs(botToken string) []string {
             newIDs = append(newIDs, fmt.Sprintf("%d", update.Message.Chat.ID))
         }
     }
+
+    if newIDs != nil {
+        fmt.Printf("Fetched %d new chat IDs from /start commands.\n", len(newIDs))
+    }
+
     return newIDs
 }
 
@@ -103,20 +109,27 @@ func mergeChatIDs(newIDs []string) {
     os.WriteFile(chatIDFile, data, 0644)
 
     // ------------------ Repo에 자동 커밋 & push ------------------
-    
+    fmt..Println("Committing updated chat_ids.json to git repository...")
+
     cmd := exec.Command("git", "add", chatIDFile)
     if err := cmd.Run(); err != nil {
         fmt.Println("git add failed:", err)
     }
 
     cmd = exec.Command("git", "commit", "-m", "Update chat_ids.json [skip ci]")
-    if err := cmd.Run(); err != nil {
+    err := cmd.Run()
+    if err != nil {
         fmt.Println("git commit failed:", err)
     }
 
     cmd = exec.Command("git", "push")
-    if err := cmd.Run(); err != nil {
+     err := cmd.Run()
+     if err != nil {
         fmt.Println("git push failed:", err)
+    }
+
+    if err != nil {
+    fmt.Println("chat_ids.json committed and pushed successfully.")
     }
 }
 
@@ -130,6 +143,8 @@ func selectDailyWords() []Word {
     json.Unmarshal(a1File, &a1Words)
     json.Unmarshal(a2File, &a2Words)
     json.Unmarshal(b1File, &b1Words)
+
+    fmt.Println("A1 : " , len(a1Words),"A2 : " , len(a2Words),"B1 : " , len(b1Words), "words loaded.")
 
     rand.Seed(time.Now().UnixNano())
     rand.Shuffle(len(a1Words), func(i, j int) { a1Words[i], a1Words[j] = a1Words[j], a1Words[i] })

@@ -1885,6 +1885,422 @@
               ],
               "synonyms": ["reagieren", "zurückmelden"],
               "antonyms": ["fragen"]
-            }
-          ]
-          
+            },
+              {
+                "german": "beginnen",
+                "english": "to begin / start",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Wir beginnen jetzt.",
+                  "Der Kurs beginnt um 9 Uhr.",
+                  "Es ist Zeit zu beginnen."
+                ],
+                "synonyms": ["anfangen", "starten"],
+                "antonyms": ["aufhören"]
+              },
+              {
+                "german": "arbeiten",
+                "english": "to work",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich arbeite jeden Tag.",
+                  "Wir arbeiten an einem Projekt.",
+                  "Sie arbeitet in einem Büro."
+                ],
+                "synonyms": ["tätig sein", "beschäftigen"],
+                "antonyms": ["faulenzen"]
+              },
+              {
+                "german": "laufen",
+                "english": "to run / walk",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich laufe jeden Morgen.",
+                  "Der Hund läuft schnell.",
+                  "Wir laufen zur Schule."
+                ],
+                "synonyms": ["rennen", "gehen"],
+                "antonyms": ["stehen"]
+              },
+              {
+                "german": "fahren",
+                "english": "to drive / go",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich fahre nach Berlin.",
+                  "Er fährt mit dem Auto.",
+                  "Wir fahren morgen in den Urlaub."
+                ],
+                "synonyms": ["reisen", "lenken"],
+                "antonyms": ["laufen"]
+              },
+              {
+                "german": "sehen",
+                "english": "to see",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich sehe einen Vogel.",
+                  "Kannst du das sehen?",
+                  "Wir sehen uns morgen."
+                ],
+                "synonyms": ["blicken", "schauen"],
+                "antonyms": ["übersehen"]
+              },
+              {
+                "german": "hören",
+                "english": "to hear / listen",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich höre Musik.",
+                  "Hörst du das Geräusch?",
+                  "Wir hören dem Lehrer zu."
+                ],
+                "synonyms": ["lauschen", "zuhören"],
+                "antonyms": ["ignorieren"]
+              },
+              {
+                "german": "sprechen",
+                "english": "to speak",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich spreche Deutsch.",
+                  "Kannst du langsam sprechen?",
+                  "Wir sprechen über das Thema."
+                ],
+                "synonyms": ["reden", "kommunizieren"],
+                "antonyms": ["schweigen"]
+              },
+              {
+                "german": "lesen",
+                "english": "to read",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich lese ein Buch.",
+                  "Sie liest die Zeitung.",
+                  "Wir lesen jeden Tag."
+                ],
+                "synonyms": ["durchlesen", "studieren"],
+                "antonyms": ["ignorieren"]
+              },
+              {
+                "german": "schreiben",
+                "english": "to write",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich schreibe einen Brief.",
+                  "Er schreibt in sein Tagebuch.",
+                  "Wir schreiben einen Aufsatz."
+                ],
+                "synonyms": ["verfassen", "notieren"],
+                "antonyms": ["lesen"]
+              },
+              {
+                "german": "fragen",
+                "english": "to ask",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich frage den Lehrer.",
+                  "Er fragt nach dem Weg.",
+                  "Sie fragt viele Fragen."
+                ],
+                "synonyms": ["nachfragen", "erkundigen"],
+                "antonyms": ["antworten"]
+              },
+              {
+                "german": "antworten",
+                "english": "to answer",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich antworte sofort.",
+                  "Er antwortet auf die Frage.",
+                  "Sie antwortet höflich."
+                ],
+                "synonyms": ["reagieren", "erwidern"],
+                "antonyms": ["fragen"]
+              },
+              {
+                "german": "verstehen",
+                "english": "to understand",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich verstehe dich gut.",
+                  "Kannst du das verstehen?",
+                  "Wir verstehen die Aufgabe."
+                ],
+                "synonyms": ["begreifen", "kapieren"],
+                "antonyms": ["missverstehen"]
+              },
+              {
+                "german": "lernen",
+                "english": "to learn",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich lerne Deutsch.",
+                  "Kinder lernen schnell.",
+                  "Wir lernen jeden Tag."
+                ],
+                "synonyms": ["studieren", "erlernen"],
+                "antonyms": ["vergessen"]
+              },
+              {
+                "german": "arbeiten",
+                "english": "to work",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich arbeite viel.",
+                  "Sie arbeitet in der Firma.",
+                  "Wir arbeiten gemeinsam."
+                ],
+                "synonyms": ["tätig sein", "beschäftigen"],
+                "antonyms": ["faulenzen"]
+              },
+              {
+                "german": "spielen",
+                "english": "to play",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Die Kinder spielen draußen.",
+                  "Wir spielen Karten.",
+                  "Er spielt Gitarre."
+                ],
+                "synonyms": ["toben", "mitmachen"],
+                "antonyms": ["arbeiten"]
+              },
+              {
+                "german": "essen",
+                "english": "to eat",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Wir essen zusammen.",
+                  "Ich esse gern Obst.",
+                  "Er isst jeden Tag Brot."
+                ],
+                "synonyms": ["speisen", "zu sich nehmen"],
+                "antonyms": ["fasten"]
+              },
+              {
+                "german": "trinken",
+                "english": "to drink",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich trinke Wasser.",
+                  "Wir trinken Tee.",
+                  "Er trinkt jeden Morgen Kaffee."
+                ],
+                "synonyms": ["schlürfen", "zu sich nehmen"],
+                "antonyms": ["austrocknen"]
+              },
+              {
+                "german": "kaufen",
+                "english": "to buy",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich kaufe ein Buch.",
+                  "Wir kaufen Lebensmittel.",
+                  "Sie kauft ein neues Auto."
+                ],
+                "synonyms": ["erwerben", "anschaffen"],
+                "antonyms": ["verkaufen"]
+              },
+              {
+                "german": "verkaufen",
+                "english": "to sell",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich verkaufe mein altes Fahrrad.",
+                  "Sie verkauft Kleidung.",
+                  "Wir verkaufen Produkte online."
+                ],
+                "synonyms": ["absetzen", "veräußern"],
+                "antonyms": ["kaufen"]
+              },
+              {
+                "german": "öffnen",
+                "english": "to open",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich öffne das Fenster.",
+                  "Die Tür ist geöffnet.",
+                  "Wir öffnen das Geschäft um 9 Uhr."
+                ],
+                "synonyms": ["aufmachen", "aufschließen"],
+                "antonyms": ["schließen"]
+              },
+              {
+                "german": "schließen",
+                "english": "to close",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich schließe die Tür.",
+                  "Das Geschäft schließt um 18 Uhr.",
+                  "Bitte schließen Sie das Fenster."
+                ],
+                "synonyms": ["zumachen", "verschließen"],
+                "antonyms": ["öffnen"]
+              },
+              {
+                "german": "beginnen",
+                "english": "to start / begin",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Wir beginnen jetzt das Projekt.",
+                  "Der Film beginnt um 20 Uhr.",
+                  "Es ist Zeit, zu beginnen."
+                ],
+                "synonyms": ["anfangen", "starten"],
+                "antonyms": ["aufhören"]
+              },
+              {
+                "german": "enden",
+                "english": "to end",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Der Film endet um 22 Uhr.",
+                  "Das Spiel endet unentschieden.",
+                  "Die Veranstaltung endet heute."
+                ],
+                "synonyms": ["abschließen", "beenden"],
+                "antonyms": ["beginnen"]
+              },
+              {
+                "german": "schicken",
+                "english": "to send",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich schicke dir eine Nachricht.",
+                  "Wir schicken ein Paket.",
+                  "Er schickt die E-Mail sofort."
+                ],
+                "synonyms": ["senden", "versenden"],
+                "antonyms": ["empfangen"]
+              },
+              {
+                "german": "bekommen",
+                "english": "to receive / get",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich bekomme Post.",
+                  "Wir bekommen Hilfe.",
+                  "Sie bekommt ein Geschenk."
+                ],
+                "synonyms": ["erhalten", "empfangen"],
+                "antonyms": ["geben"]
+              },
+              {
+                "german": "geben",
+                "english": "to give",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich gebe dir das Buch.",
+                  "Sie gibt ihm einen Rat.",
+                  "Wir geben Geld für die Spende."
+                ],
+                "synonyms": ["übergeben", "reichen"],
+                "antonyms": ["nehmen"]
+              },
+              {
+                "german": "nehmen",
+                "english": "to take",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich nehme den Bus.",
+                  "Nimm ein Stück Kuchen.",
+                  "Wir nehmen die Gelegenheit wahr."
+                ],
+                "synonyms": ["greifen", "ergreifen"],
+                "antonyms": ["geben"]
+              },
+              {
+                "german": "helfen",
+                "english": "to help",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Kannst du mir helfen?",
+                  "Er hilft seinen Freunden.",
+                  "Wir helfen den Bedürftigen."
+                ],
+                "synonyms": ["unterstützen", "beistehen"],
+                "antonyms": ["behindern"]
+              },
+              {
+                "german": "suchen",
+                "english": "to search / look for",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich suche meine Brille.",
+                  "Wir suchen eine Lösung.",
+                  "Sie sucht nach der Wahrheit."
+                ],
+                "synonyms": ["finden wollen", "nachforschen"],
+                "antonyms": ["finden"]
+              },
+              {
+                "german": "finden",
+                "english": "to find",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich finde meinen Schlüssel nicht.",
+                  "Wir finden eine Lösung.",
+                  "Sie findet das Buch interessant."
+                ],
+                "synonyms": ["entdecken", "aufspüren"],
+                "antonyms": ["verlieren", "suchen"]
+              },
+              {
+                "german": "vergessen",
+                "english": "to forget",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich vergesse oft Termine.",
+                  "Vergiss nicht, das Fenster zu schließen.",
+                  "Er hat den Namen vergessen."
+                ],
+                "synonyms": ["übersehen", "nicht erinnern"],
+                "antonyms": ["sich erinnern"]
+              },
+              {
+                "german": "erinnern",
+                "english": "to remember / remind",
+                "gender": "Neutral",
+                "level": "B1",
+                "examples": [
+                  "Ich erinnere mich an den Urlaub.",
+                  "Er erinnert mich an meine Pflicht.",
+                  "Sie erinnert sich kaum daran."
+                ],
+                "synonyms": ["gedenken", "sich ins Gedächtnis rufen"],
+                "antonyms": ["vergessen"]
+              }
+            ]
+            
