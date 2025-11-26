@@ -7,6 +7,7 @@ import (
     "net/http"
     "net/url"
     "os"
+    "os/exec"
     "time"
 )
 
@@ -85,7 +86,6 @@ func loadChatIDs() []string {
     json.Unmarshal(data, &ids)
     return ids
 }
-
 func mergeChatIDs(newIDs []string) {
     ids := loadChatIDs()
     idMap := make(map[string]bool)
@@ -97,8 +97,16 @@ func mergeChatIDs(newIDs []string) {
             ids = append(ids, id)
         }
     }
+
     data, _ := json.Marshal(ids)
     os.WriteFile(chatIDFile, data, 0644)
+
+    // ------------------ Repo에 자동 커밋 & push ------------------
+    exec.Command("git", "config", "user.email", "github-actions[bot]@users.noreply.github.com").Run()
+    exec.Command("git", "config", "user.name", "github-actions[bot]").Run()
+    exec.Command("git", "add", chatIDFile).Run()
+    exec.Command("git", "commit", "-m", "Update chat_ids.json [skip ci]").Run()
+    exec.Command("git", "push").Run()
 }
 
 // ---------------- 단어/명언 선택 ----------------
