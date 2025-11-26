@@ -1012,6 +1012,344 @@
                   ],
                   "synonyms": ["Reisekoffer", "Gepäckstück"],
                   "antonyms": ["die Tasche"]
-                }
-            ]
-            
+                },
+                    {
+                      "german": "der Morgen",
+                      "english": "morning",
+                      "gender": "Maskulin",
+                      "level": "A2",
+                      "examples": [
+                        "Ich frühstücke am Morgen.",
+                        "Der Morgen ist schön.",
+                        "Wir gehen morgens spazieren."
+                      ],
+                      "synonyms": ["Frühmorgen", "Tagesbeginn"],
+                      "antonyms": ["der Abend"]
+                    },
+                    {
+                      "german": "der Nachmittag",
+                      "english": "afternoon",
+                      "gender": "Maskulin",
+                      "level": "A2",
+                      "examples": [
+                        "Am Nachmittag besuche ich Freunde.",
+                        "Der Nachmittag ist sonnig.",
+                        "Wir haben am Nachmittag Unterricht."
+                      ],
+                      "synonyms": ["Spätnachmittag"],
+                      "antonyms": ["der Morgen"]
+                    },
+                    {
+                      "german": "der Abend",
+                      "english": "evening",
+                      "gender": "Maskulin",
+                      "level": "A2",
+                      "examples": [
+                        "Am Abend essen wir zusammen.",
+                        "Der Abend ist ruhig.",
+                        "Wir gehen abends spazieren."
+                      ],
+                      "synonyms": ["Abendzeit", "Dämmerung"],
+                      "antonyms": ["der Morgen"]
+                    },
+                    {
+                      "german": "die Nacht",
+                      "english": "night",
+                      "gender": "Feminin",
+                      "level": "A2",
+                      "examples": [
+                        "In der Nacht schlafe ich.",
+                        "Die Nacht ist dunkel.",
+                        "Wir sehen Sterne in der Nacht."
+                      ],
+                      "synonyms": ["Dunkelheit", "Nachtruhe"],
+                      "antonyms": ["der Tag"]
+                    },
+                    {
+                      "german": "der Tag",
+                      "english": "day",
+                      "gender": "Maskulin",
+                      "level": "A2",
+                      "examples": [
+                        "Der Tag war schön.",
+                        "Wir arbeiten jeden Tag.",
+                        "Am Tag ist es hell."
+                      ],
+                      "synonyms": ["Kalendertag", "Wochentag"],
+                      "antonyms": ["die Nacht"]
+                    },
+                    {
+                      "german": "heute",
+                      "english": "today",
+                      "gender": "Neutral",
+                      "level": "A2",
+                      "examples": [
+                        "Heute ist ein schöner Tag.",
+                        "Ich gehe heute ins Kino.",
+                        "Heute habe ich frei."
+                      ],
+                      "synonyms": ["am heutigen Tag", "heutig"],
+                      "antonyms": ["gestern"]
+                    },
+                    {
+                      "german": "gestern",
+                      "english": "yesterday",
+                      "gender": "Neutral",
+                      "level": "A2",
+                      "examples": [
+                        "Gestern war ich krank.",
+                        "Wir haben gestern einen Film gesehen.",
+                        "Gestern war das Wetter schön."
+                      ],
+                      "synonyms": ["am Vortag", "vorhin"],
+                      "antonyms": ["heute"]
+                    },
+                    {
+                      "german": "morgen",
+                      "english": "tomorrow",
+                      "gender": "Neutral",
+                      "level": "A2",
+                      "examples": [
+                        "Morgen gehe ich zum Arzt.",
+                        "Wir treffen uns morgen.",
+                        "Morgen wird es regnen."
+                      ],
+                      "synonyms": ["am nächsten Tag", "übermorgen (day after tomorrow)"],
+                      "antonyms": ["gestern"]
+                    },
+                    {
+                      "german": "wichtig",
+                      "english": "important",
+                      "gender": "Neutral",
+                      "level": "A2",
+                      "examples": [
+                        "Es ist wichtig, pünktlich zu sein.",
+                        "Dieses Buch ist sehr wichtig.",
+                        "Wichtige Aufgaben zuerst erledigen."
+                      ],
+                      "synonyms": ["bedeutend", "essentiell"],
+                      "antonyms": ["unwichtig"]
+                    },
+                    {
+                      "german": "unwichtig",
+                      "english": "unimportant",
+                      "gender": "Neutral",
+                      "level": "A2",
+                      "examples": [
+                        "Das ist unwichtig.",
+                        "Unwichtige Dinge kann man ignorieren.",
+                        "Dieser Punkt ist nicht wichtig."
+                      ],
+                      "synonyms": ["belanglos", "nebensächlich"],
+                      "antonyms": ["wichtig"]
+                    },
+                    {
+                      "german": "neu",
+                      "english": "new",
+                      "gender": "Neutral",
+                      "level": "A2",
+                      "examples": [
+                        "Ich habe ein neues Auto.",
+                        "Die neue Schule gefällt mir.",
+                        "Wir ziehen in eine neue Wohnung."
+                      ],
+                      "synonyms": ["frisch", "modern"],
+                      "antonyms": ["alt"]
+                    },
+                    {
+                      "german": "alt",
+                      "english": "old",
+                      "gender": "Neutral",
+                      "level": "A2",
+                      "examples": [
+                        "Das Haus ist alt.",
+                        "Er ist ein alter Freund.",
+                        "Ich habe alte Bücher."
+                      ],
+                      "synonyms": ["antik", "betagt"],
+                      "antonyms": ["neu"]
+                    },
+                    {
+                      "german": "gut",
+                      "english": "good",
+                      "gender": "Neutral",
+                      "level": "A2",
+                      "examples": [
+                        "Das Essen schmeckt gut.",
+                        "Er spricht gut Deutsch.",
+                        "Wir hatten einen guten Tag."
+                      ],
+                      "synonyms": ["toll", "prima"],
+                      "antonyms": ["schlecht"]
+                    },
+                    {
+                      "german": "schlecht",
+                      "english": "bad",
+                      "gender": "Neutral",
+                      "level": "A2",
+                      "examples": [
+                        "Mir geht es schlecht.",
+                        "Das Wetter ist schlecht.",
+                        "Schlechte Nachrichten kamen heute."
+                      ],
+                      "synonyms": ["mies", "falsch"],
+                      "antonyms": ["gut"]
+                    },
+                    {
+                      "german": "heiß",
+                      "english": "hot",
+                      "gender": "Neutral",
+                      "level": "A2",
+                      "examples": [
+                        "Das Wasser ist heiß.",
+                        "Es ist ein heißer Tag.",
+                        "Ich trinke einen heißen Tee."
+                      ],
+                      "synonyms": ["warm", "glühend"],
+                      "antonyms": ["kalt"]
+                    },
+                    {
+                      "german": "kalt",
+                      "english": "cold",
+                      "gender": "Neutral",
+                      "level": "A2",
+                      "examples": [
+                        "Mir ist kalt.",
+                        "Das Eis ist kalt.",
+                        "Es ist ein kalter Winter."
+                      ],
+                      "synonyms": ["eiskalt", "frisch"],
+                      "antonyms": ["heiß"]
+                    },
+                    {
+                      "german": "schwer",
+                      "english": "heavy / difficult",
+                      "gender": "Neutral",
+                      "level": "A2",
+                      "examples": [
+                        "Die Tasche ist schwer.",
+                        "Das ist eine schwere Aufgabe.",
+                        "Schwer zu tragen, aber wichtig."
+                      ],
+                      "synonyms": ["hart", "anspruchsvoll"],
+                      "antonyms": ["leicht"]
+                    },
+                    {
+                      "german": "leicht",
+                      "english": "light / easy",
+                      "gender": "Neutral",
+                      "level": "A2",
+                      "examples": [
+                        "Die Tasche ist leicht.",
+                        "Die Aufgabe ist leicht.",
+                        "Leicht zu verstehen."
+                      ],
+                      "synonyms": ["einfach", "locker"],
+                      "antonyms": ["schwer"]
+                    },
+                    {
+                      "german": "interessant",
+                      "english": "interesting",
+                      "gender": "Neutral",
+                      "level": "A2",
+                      "examples": [
+                        "Das Buch ist interessant.",
+                        "Wir hatten eine interessante Diskussion.",
+                        "Der Film war sehr interessant."
+                      ],
+                      "synonyms": ["spannend", "faszinierend"],
+                      "antonyms": ["langweilig"]
+                    },
+                    {
+                      "german": "langweilig",
+                      "english": "boring",
+                      "gender": "Neutral",
+                      "level": "A2",
+                      "examples": [
+                        "Der Film war langweilig.",
+                        "Die Vorlesung ist langweilig.",
+                        "Langweilige Aufgaben machen keinen Spaß."
+                      ],
+                      "synonyms": ["öde", "monoton"],
+                      "antonyms": ["interessant"]
+                    },
+                    {
+                      "german": "glücklich",
+                      "english": "happy",
+                      "gender": "Neutral",
+                      "level": "A2",
+                      "examples": [
+                        "Ich bin glücklich heute.",
+                        "Er ist sehr glücklich mit seinem Geschenk.",
+                        "Wir fühlen uns glücklich."
+                      ],
+                      "synonyms": ["zufrieden", "fröhlich"],
+                      "antonyms": ["unglücklich"]
+                    },
+                    {
+                      "german": "unglücklich",
+                      "english": "unhappy",
+                      "gender": "Neutral",
+                      "level": "A2",
+                      "examples": [
+                        "Ich bin unglücklich über die Nachricht.",
+                        "Sie wirkt unglücklich.",
+                        "Unglückliche Menschen brauchen Hilfe."
+                      ],
+                      "synonyms": ["traurig", "unglückselig"],
+                      "antonyms": ["glücklich"]
+                    },
+                    {
+                      "german": "müde",
+                      "english": "tired",
+                      "gender": "Neutral",
+                      "level": "A2",
+                      "examples": [
+                        "Ich bin müde nach der Arbeit.",
+                        "Er sieht müde aus.",
+                        "Wir sind müde vom Sport."
+                      ],
+                      "synonyms": ["erschöpft", "schlapp"],
+                      "antonyms": ["wach"]
+                    },
+                    {
+                      "german": "wach",
+                      "english": "awake",
+                      "gender": "Neutral",
+                      "level": "A2",
+                      "examples": [
+                        "Ich bin wach.",
+                        "Sie ist noch wach.",
+                        "Wach bleiben bis Mitternacht."
+                      ],
+                      "synonyms": ["alert", "aufgeweckt"],
+                      "antonyms": ["müde"]
+                    },
+                    {
+                      "german": "gesund",
+                      "english": "healthy",
+                      "gender": "Neutral",
+                      "level": "A2",
+                      "examples": [
+                        "Ich esse gesund.",
+                        "Er ist gesund.",
+                        "Gesunde Ernährung ist wichtig."
+                      ],
+                      "synonyms": ["fit", "wohlauf"],
+                      "antonyms": ["krank"]
+                    },
+                    {
+                      "german": "krank",
+                      "english": "sick / ill",
+                      "gender": "Neutral",
+                      "level": "A2",
+                      "examples": [
+                        "Ich bin krank.",
+                        "Er war eine Woche krank.",
+                        "Krank sein ist unangenehm."
+                      ],
+                      "synonyms": ["unwohl", "gesundheitlich angeschlagen"],
+                      "antonyms": ["gesund"]
+                    }
+                ]
+                
