@@ -37,10 +37,10 @@ func main() {
     botToken := os.Getenv("TELEGRAM_BOT_TOKEN")
     chatID := os.Getenv("TELEGRAM_CHAT_ID")
     
-    // 1. 단어 5개 랜덤 선택 (A1 레벨 500개)
+    // 1. 단어 5개 랜덤 선택
     words := selectDailyWords(5)
 
-	// 2. 오늘의 명언 선택 (100개)
+	// 2. 오늘의 명언 선택
 	wiseSentence := selectDailySentence()
     
     // 2. 메시지 포맷팅
@@ -101,19 +101,19 @@ func formatMessage(words []Word, sentence WiseSentences) string {
         
         // 예문 3개
         for _, example := range word.Examples {
-            msg += fmt.Sprintf("💬 %s\n", example)
+            msg += fmt.Sprintf("💬 %s\n\n", example)
         }
         
         if len(word.Synonyms) > 0 {
-            msg += fmt.Sprintf("🔄 Synonyms: %v\n", word.Synonyms)
+            msg += fmt.Sprintf("🔄 Synonyms: %v\n\n", word.Synonyms)
         }
         if len(word.Antonyms) > 0 {
-            msg += fmt.Sprintf("🔀 Antonyms: %v\n", word.Antonyms)
+            msg += fmt.Sprintf("🔀 Antonyms: %v\n\n", word.Antonyms)
         }
         msg += "\n---\n\n"
     }
 
-	msg += "💡 *Wise Sentence of the Day*\n"
+	msg += "💡 *Wise Sentence of the Day*\n\n"
 	msg += fmt.Sprintf("🇩🇪 %s\n", sentence.German)
 	msg += fmt.Sprintf("🇬🇧 %s\n", sentence.English)
 
