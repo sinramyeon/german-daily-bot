@@ -6,6 +6,9 @@ on:
     - cron: "0 19 * * *"  # 독일 저녁 8시
   workflow_dispatch:
 
+  push:
+    branches: [main]
+  
 jobs:
   daily-send:
     runs-on: ubuntu-latest
