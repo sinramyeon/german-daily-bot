@@ -12491,5 +12491,2776 @@
     "antonyms": [
       "keine"
     ]
+  },
+  {
+    "german": "hoffen",
+    "english": "to hope",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich hoffe, dass du kommst.",
+      "Wir hoffen auf gutes Wetter.",
+      "Er hofft auf eine Antwort."
+    ],
+    "synonyms": [
+      "wünschen"
+    ],
+    "antonyms": [
+      "befürchten"
+    ]
+  },
+  {
+    "german": "wünschen",
+    "english": "to wish",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich wünsche dir viel Glück.",
+      "Was wünschst du dir?",
+      "Wir wünschen frohe Weihnachten."
+    ],
+    "synonyms": [
+      "hoffen"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "denken",
+    "english": "to think",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich denke an dich.",
+      "Was denkst du darüber?",
+      "Wir denken nach."
+    ],
+    "synonyms": [
+      "überlegen"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "glauben",
+    "english": "to believe / think",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich glaube dir.",
+      "Glaubst du das?",
+      "Ich glaube, es regnet."
+    ],
+    "synonyms": [
+      "meinen"
+    ],
+    "antonyms": [
+      "zweifeln"
+    ]
+  },
+  {
+    "german": "meinen",
+    "english": "to mean / think",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Was meinst du?",
+      "Ich meine das ernst.",
+      "Er meint etwas anderes."
+    ],
+    "synonyms": [
+      "glauben"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "wissen",
+    "english": "to know",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich weiß es nicht.",
+      "Weißt du das?",
+      "Wir wissen die Antwort."
+    ],
+    "synonyms": [
+      "kennen"
+    ],
+    "antonyms": [
+      "nicht wissen"
+    ]
+  },
+  {
+    "german": "kennen",
+    "english": "to know (person/place)",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich kenne ihn.",
+      "Kennst du Berlin?",
+      "Wir kennen uns."
+    ],
+    "synonyms": [
+      "wissen"
+    ],
+    "antonyms": [
+      "nicht kennen"
+    ]
+  },
+  {
+    "german": "treffen",
+    "english": "to meet",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Wir treffen uns um 5 Uhr.",
+      "Ich treffe meine Freunde.",
+      "Wo treffen wir uns?"
+    ],
+    "synonyms": [
+      "begegnen"
+    ],
+    "antonyms": [
+      "verpassen"
+    ]
+  },
+  {
+    "german": "besuchen",
+    "english": "to visit",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich besuche meine Oma.",
+      "Wir besuchen das Museum.",
+      "Er besucht uns morgen."
+    ],
+    "synonyms": [
+      "aufsuchen"
+    ],
+    "antonyms": [
+      "meiden"
+    ]
+  },
+  {
+    "german": "einladen",
+    "english": "to invite",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich lade dich ein.",
+      "Er lädt uns zur Party ein.",
+      "Wir laden Gäste ein."
+    ],
+    "synonyms": [
+      "bitten"
+    ],
+    "antonyms": [
+      "ausladen"
+    ]
+  },
+  {
+    "german": "gratulieren",
+    "english": "to congratulate",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich gratuliere dir!",
+      "Wir gratulieren zum Geburtstag.",
+      "Er gratuliert zum Erfolg."
+    ],
+    "synonyms": [
+      "beglückwünschen"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "danken",
+    "english": "to thank",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich danke dir.",
+      "Wir danken für die Hilfe.",
+      "Er dankt herzlich."
+    ],
+    "synonyms": [
+      "sich bedanken"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "entschuldigen",
+    "english": "to apologize / excuse",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich entschuldige mich.",
+      "Entschuldigen Sie bitte!",
+      "Er entschuldigt sich für den Fehler."
+    ],
+    "synonyms": [
+      "um Verzeihung bitten"
+    ],
+    "antonyms": [
+      "beschuldigen"
+    ]
+  },
+  {
+    "german": "grüßen",
+    "english": "to greet",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich grüße dich.",
+      "Er grüßt freundlich.",
+      "Grüß mir deine Familie!"
+    ],
+    "synonyms": [
+      "begrüßen"
+    ],
+    "antonyms": [
+      "verabschieden"
+    ]
+  },
+  {
+    "german": "verabschieden",
+    "english": "to say goodbye",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich verabschiede mich.",
+      "Wir verabschieden uns.",
+      "Er verabschiedet die Gäste."
+    ],
+    "synonyms": [
+      "Abschied nehmen"
+    ],
+    "antonyms": [
+      "begrüßen"
+    ]
+  },
+  {
+    "german": "vorstellen",
+    "english": "to introduce / imagine",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich stelle mich vor.",
+      "Darf ich vorstellen?",
+      "Ich kann mir das vorstellen."
+    ],
+    "synonyms": [
+      "präsentieren"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "erklären",
+    "english": "to explain",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich erkläre dir das.",
+      "Kannst du das erklären?",
+      "Der Lehrer erklärt die Regel."
+    ],
+    "synonyms": [
+      "beschreiben"
+    ],
+    "antonyms": [
+      "verwirren"
+    ]
+  },
+  {
+    "german": "beschreiben",
+    "english": "to describe",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich beschreibe das Bild.",
+      "Kannst du es beschreiben?",
+      "Er beschreibt die Situation."
+    ],
+    "synonyms": [
+      "schildern"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "bedeuten",
+    "english": "to mean",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Was bedeutet das?",
+      "Das bedeutet viel für mich.",
+      "Es bedeutet Glück."
+    ],
+    "synonyms": [
+      "heißen"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "heißen",
+    "english": "to be called / mean",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Wie heißt du?",
+      "Ich heiße Anna.",
+      "Was heißt das auf Deutsch?"
+    ],
+    "synonyms": [
+      "genannt werden"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "nennen",
+    "english": "to call / name",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Wie nennt man das?",
+      "Ich nenne dich beim Namen.",
+      "Man nennt es Kunst."
+    ],
+    "synonyms": [
+      "bezeichnen"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "rufen",
+    "english": "to call / shout",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich rufe dich an.",
+      "Er ruft laut.",
+      "Ruf die Polizei!"
+    ],
+    "synonyms": [
+      "anrufen"
+    ],
+    "antonyms": [
+      "flüstern"
+    ]
+  },
+  {
+    "german": "telefonieren",
+    "english": "to phone / call",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich telefoniere mit dir.",
+      "Sie telefoniert gerade.",
+      "Wir telefonieren später."
+    ],
+    "synonyms": [
+      "anrufen"
+    ],
+    "antonyms": [
+      "auflegen"
+    ]
+  },
+  {
+    "german": "anrufen",
+    "english": "to call (phone)",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich rufe dich an.",
+      "Ruf mich später an!",
+      "Er ruft seine Mutter an."
+    ],
+    "synonyms": [
+      "telefonieren"
+    ],
+    "antonyms": [
+      "auflegen"
+    ]
+  },
+  {
+    "german": "mailen",
+    "english": "to email",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich maile dir.",
+      "Mail mir die Adresse!",
+      "Wir mailen oft."
+    ],
+    "synonyms": [
+      "eine E-Mail schicken"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "schicken",
+    "english": "to send",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich schicke dir das Paket.",
+      "Schick mir eine Nachricht!",
+      "Er schickt eine E-Mail."
+    ],
+    "synonyms": [
+      "senden"
+    ],
+    "antonyms": [
+      "empfangen"
+    ]
+  },
+  {
+    "german": "senden",
+    "english": "to send / broadcast",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich sende dir einen Brief.",
+      "Der Sender sendet Nachrichten.",
+      "Wir senden ein Signal."
+    ],
+    "synonyms": [
+      "schicken"
+    ],
+    "antonyms": [
+      "empfangen"
+    ]
+  },
+  {
+    "german": "tippen",
+    "english": "to type / tap",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich tippe auf der Tastatur.",
+      "Sie tippt schnell.",
+      "Er tippt eine Nachricht."
+    ],
+    "synonyms": [
+      "schreiben"
+    ],
+    "antonyms": [
+      "löschen"
+    ]
+  },
+  {
+    "german": "klicken",
+    "english": "to click",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich klicke auf den Link.",
+      "Klick hier!",
+      "Sie klickt mit der Maus."
+    ],
+    "synonyms": [
+      "anklicken"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "drücken",
+    "english": "to press / push",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich drücke den Knopf.",
+      "Drück die Taste!",
+      "Er drückt die Tür auf."
+    ],
+    "synonyms": [
+      "draufdrücken"
+    ],
+    "antonyms": [
+      "ziehen"
+    ]
+  },
+  {
+    "german": "ziehen",
+    "english": "to pull / move",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich ziehe die Tür auf.",
+      "Zieh am Seil!",
+      "Wir ziehen um."
+    ],
+    "synonyms": [
+      "zerren"
+    ],
+    "antonyms": [
+      "drücken"
+    ]
+  },
+  {
+    "german": "schieben",
+    "english": "to push / shove",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich schiebe den Wagen.",
+      "Schieb das Auto!",
+      "Er schiebt die Tür auf."
+    ],
+    "synonyms": [
+      "stoßen"
+    ],
+    "antonyms": [
+      "ziehen"
+    ]
+  },
+  {
+    "german": "heben",
+    "english": "to lift / raise",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich hebe die Box.",
+      "Heb die Hand!",
+      "Er hebt das Gewicht."
+    ],
+    "synonyms": [
+      "hochheben"
+    ],
+    "antonyms": [
+      "senken"
+    ]
+  },
+  {
+    "german": "tragen",
+    "english": "to carry / wear",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich trage die Tasche.",
+      "Sie trägt ein Kleid.",
+      "Wir tragen die Möbel."
+    ],
+    "synonyms": [
+      "schleppen"
+    ],
+    "antonyms": [
+      "ablegen"
+    ]
+  },
+  {
+    "german": "legen",
+    "english": "to lay / put",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich lege das Buch auf den Tisch.",
+      "Leg dich hin!",
+      "Er legt die Karten."
+    ],
+    "synonyms": [
+      "hinlegen"
+    ],
+    "antonyms": [
+      "aufheben"
+    ]
+  },
+  {
+    "german": "stellen",
+    "english": "to put / place",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich stelle die Vase auf den Tisch.",
+      "Stell dich dahin!",
+      "Er stellt die Frage."
+    ],
+    "synonyms": [
+      "hinstellen"
+    ],
+    "antonyms": [
+      "wegnehmen"
+    ]
+  },
+  {
+    "german": "hängen",
+    "english": "to hang",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich hänge das Bild auf.",
+      "Das Bild hängt an der Wand.",
+      "Er hängt die Jacke auf."
+    ],
+    "synonyms": [
+      "aufhängen"
+    ],
+    "antonyms": [
+      "abhängen"
+    ]
+  },
+  {
+    "german": "liegen",
+    "english": "to lie / be lying",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich liege im Bett.",
+      "Das Buch liegt auf dem Tisch.",
+      "Wir liegen in der Sonne."
+    ],
+    "synonyms": [
+      "sich befinden"
+    ],
+    "antonyms": [
+      "stehen"
+    ]
+  },
+  {
+    "german": "sitzen",
+    "english": "to sit",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich sitze auf dem Stuhl.",
+      "Sitz dich hin!",
+      "Wir sitzen zusammen."
+    ],
+    "synonyms": [
+      "sich setzen"
+    ],
+    "antonyms": [
+      "stehen"
+    ]
+  },
+  {
+    "german": "stehen",
+    "english": "to stand",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich stehe hier.",
+      "Steh auf!",
+      "Das Auto steht vor dem Haus."
+    ],
+    "synonyms": [
+      "sich befinden"
+    ],
+    "antonyms": [
+      "liegen"
+    ]
+  },
+  {
+    "german": "fallen",
+    "english": "to fall",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich falle hin.",
+      "Der Apfel fällt vom Baum.",
+      "Pass auf, dass du nicht fällst!"
+    ],
+    "synonyms": [
+      "hinfallen"
+    ],
+    "antonyms": [
+      "steigen"
+    ]
+  },
+  {
+    "german": "steigen",
+    "english": "to climb / rise",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich steige die Treppe hoch.",
+      "Die Preise steigen.",
+      "Er steigt auf den Berg."
+    ],
+    "synonyms": [
+      "klettern"
+    ],
+    "antonyms": [
+      "fallen"
+    ]
+  },
+  {
+    "german": "springen",
+    "english": "to jump",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich springe hoch.",
+      "Spring über den Zaun!",
+      "Die Kinder springen."
+    ],
+    "synonyms": [
+      "hüpfen"
+    ],
+    "antonyms": [
+      "stehen"
+    ]
+  },
+  {
+    "german": "werfen",
+    "english": "to throw",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich werfe den Ball.",
+      "Wirf mir den Schlüssel!",
+      "Er wirft Steine."
+    ],
+    "synonyms": [
+      "schmeißen"
+    ],
+    "antonyms": [
+      "fangen"
+    ]
+  },
+  {
+    "german": "fangen",
+    "english": "to catch",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich fange den Ball.",
+      "Fang das!",
+      "Er fängt Fische."
+    ],
+    "synonyms": [
+      "auffangen"
+    ],
+    "antonyms": [
+      "werfen"
+    ]
+  },
+  {
+    "german": "stoßen",
+    "english": "to push / bump",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich stoße gegen die Tür.",
+      "Stoß mich nicht!",
+      "Er stößt den Tisch um."
+    ],
+    "synonyms": [
+      "schubsen"
+    ],
+    "antonyms": [
+      "ziehen"
+    ]
+  },
+  {
+    "german": "schlagen",
+    "english": "to hit / beat",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich schlage den Ball.",
+      "Schlag nicht!",
+      "Das Herz schlägt."
+    ],
+    "synonyms": [
+      "hauen"
+    ],
+    "antonyms": [
+      "streicheln"
+    ]
+  },
+  {
+    "german": "drehen",
+    "english": "to turn / rotate",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich drehe den Schlüssel.",
+      "Dreh dich um!",
+      "Er dreht am Rad."
+    ],
+    "synonyms": [
+      "rotieren"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "wenden",
+    "english": "to turn",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich wende das Auto.",
+      "Wende bitte!",
+      "Er wendet sich um."
+    ],
+    "synonyms": [
+      "umdrehen"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "bewegen",
+    "english": "to move",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich bewege mich.",
+      "Beweg den Stuhl!",
+      "Er bewegt sich nicht."
+    ],
+    "synonyms": [
+      "sich rühren"
+    ],
+    "antonyms": [
+      "stillstehen"
+    ]
+  },
+  {
+    "german": "berühren",
+    "english": "to touch",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich berühre die Wand.",
+      "Berühr das nicht!",
+      "Sie berührt sein Gesicht."
+    ],
+    "synonyms": [
+      "anfassen"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "anfassen",
+    "english": "to touch / grab",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich fasse es an.",
+      "Fass das an!",
+      "Er fasst sie an der Hand."
+    ],
+    "synonyms": [
+      "berühren"
+    ],
+    "antonyms": [
+      "loslassen"
+    ]
+  },
+  {
+    "german": "halten",
+    "english": "to hold / stop",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich halte das fest.",
+      "Halt die Tür!",
+      "Der Bus hält hier."
+    ],
+    "synonyms": [
+      "festhalten"
+    ],
+    "antonyms": [
+      "loslassen"
+    ]
+  },
+  {
+    "german": "loslassen",
+    "english": "to let go",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich lasse los.",
+      "Lass mich los!",
+      "Er lässt den Ball los."
+    ],
+    "synonyms": [
+      "freigeben"
+    ],
+    "antonyms": [
+      "festhalten"
+    ]
+  },
+  {
+    "german": "waschen",
+    "english": "to wash",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich wasche meine Hände.",
+      "Wasch das Auto!",
+      "Sie wäscht die Wäsche."
+    ],
+    "synonyms": [
+      "reinigen"
+    ],
+    "antonyms": [
+      "verschmutzen"
+    ]
+  },
+  {
+    "german": "putzen",
+    "english": "to clean",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich putze die Fenster.",
+      "Putz deine Zähne!",
+      "Wir putzen das Haus."
+    ],
+    "synonyms": [
+      "säubern"
+    ],
+    "antonyms": [
+      "verschmutzen"
+    ]
+  },
+  {
+    "german": "reinigen",
+    "english": "to clean",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich reinige die Wohnung.",
+      "Reinige das Geschirr!",
+      "Er reinigt sein Auto."
+    ],
+    "synonyms": [
+      "putzen"
+    ],
+    "antonyms": [
+      "verschmutzen"
+    ]
+  },
+  {
+    "german": "trocknen",
+    "english": "to dry",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich trockne die Wäsche.",
+      "Trockne deine Haare!",
+      "Die Sonne trocknet die Straße."
+    ],
+    "synonyms": [
+      "abtrocknen"
+    ],
+    "antonyms": [
+      "nässen"
+    ]
+  },
+  {
+    "german": "bügeln",
+    "english": "to iron",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich bügle die Hemden.",
+      "Bügle das Kleid!",
+      "Sie bügelt jeden Tag."
+    ],
+    "synonyms": [
+      "glätten"
+    ],
+    "antonyms": [
+      "knittern"
+    ]
+  },
+  {
+    "german": "nähen",
+    "english": "to sew",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich nähe einen Knopf an.",
+      "Sie näht gern.",
+      "Wir nähen Kleidung."
+    ],
+    "synonyms": [
+      "schneidern"
+    ],
+    "antonyms": [
+      "auftrennen"
+    ]
+  },
+  {
+    "german": "stricken",
+    "english": "to knit",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich stricke einen Pullover.",
+      "Sie strickt gern.",
+      "Oma strickt Socken."
+    ],
+    "synonyms": [
+      "keine"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "basteln",
+    "english": "to craft / tinker",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich bastle gern.",
+      "Wir basteln für Weihnachten.",
+      "Die Kinder basteln."
+    ],
+    "synonyms": [
+      "werken"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "malen",
+    "english": "to paint",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich male ein Bild.",
+      "Sie malt gern.",
+      "Er malt die Wand."
+    ],
+    "synonyms": [
+      "zeichnen"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "zeichnen",
+    "english": "to draw",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich zeichne ein Bild.",
+      "Sie zeichnet gut.",
+      "Er zeichnet einen Kreis."
+    ],
+    "synonyms": [
+      "malen"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "fotografieren",
+    "english": "to photograph / take pictures",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich fotografiere gern.",
+      "Er fotografiert die Landschaft.",
+      "Wir fotografieren die Party."
+    ],
+    "synonyms": [
+      "ein Foto machen"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "filmen",
+    "english": "to film / record",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich filme das Konzert.",
+      "Er filmt mit dem Handy.",
+      "Wir filmen einen Film."
+    ],
+    "synonyms": [
+      "aufnehmen"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "sammeln",
+    "english": "to collect / gather",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich sammle Briefmarken.",
+      "Wir sammeln Pilze.",
+      "Er sammelt Münzen."
+    ],
+    "synonyms": [
+      "anhäufen"
+    ],
+    "antonyms": [
+      "verteilen"
+    ]
+  },
+  {
+    "german": "sortieren",
+    "english": "to sort",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich sortiere die Papiere.",
+      "Sortiere die Wäsche!",
+      "Wir sortieren nach Farben."
+    ],
+    "synonyms": [
+      "ordnen"
+    ],
+    "antonyms": [
+      "durcheinander bringen"
+    ]
+  },
+  {
+    "german": "ordnen",
+    "english": "to arrange / organize",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich ordne meine Bücher.",
+      "Ordne dein Zimmer!",
+      "Sie ordnet die Akten."
+    ],
+    "synonyms": [
+      "sortieren"
+    ],
+    "antonyms": [
+      "durcheinander bringen"
+    ]
+  },
+  {
+    "german": "aufräumen",
+    "english": "to tidy up / clean up",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich räume mein Zimmer auf.",
+      "Räum auf!",
+      "Wir räumen zusammen auf."
+    ],
+    "synonyms": [
+      "ordnen"
+    ],
+    "antonyms": [
+      "unordentlich machen"
+    ]
+  },
+  {
+    "german": "packen",
+    "english": "to pack",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich packe meinen Koffer.",
+      "Pack deine Sachen!",
+      "Wir packen für die Reise."
+    ],
+    "synonyms": [
+      "einpacken"
+    ],
+    "antonyms": [
+      "auspacken"
+    ]
+  },
+  {
+    "german": "auspacken",
+    "english": "to unpack",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich packe den Koffer aus.",
+      "Pack die Geschenke aus!",
+      "Wir packen nach der Reise aus."
+    ],
+    "synonyms": [
+      "herausnehmen"
+    ],
+    "antonyms": [
+      "einpacken"
+    ]
+  },
+  {
+    "german": "einpacken",
+    "english": "to wrap / pack",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich packe das Geschenk ein.",
+      "Pack die Brote ein!",
+      "Sie packt alles ein."
+    ],
+    "synonyms": [
+      "verpacken"
+    ],
+    "antonyms": [
+      "auspacken"
+    ]
+  },
+  {
+    "german": "vorbereiten",
+    "english": "to prepare",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich bereite das Essen vor.",
+      "Bereite dich vor!",
+      "Wir bereiten die Prüfung vor."
+    ],
+    "synonyms": [
+      "vorbereiten"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "planen",
+    "english": "to plan",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich plane eine Reise.",
+      "Wir planen die Party.",
+      "Er plant seinen Tag."
+    ],
+    "synonyms": [
+      "vorhaben"
+    ],
+    "antonyms": [
+      "improvisieren"
+    ]
+  },
+  {
+    "german": "organisieren",
+    "english": "to organize",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich organisiere das Event.",
+      "Sie organisiert alles.",
+      "Wir organisieren die Hochzeit."
+    ],
+    "synonyms": [
+      "planen"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "reservieren",
+    "english": "to reserve / book",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich reserviere einen Tisch.",
+      "Reserviere ein Zimmer!",
+      "Wir reservieren Plätze."
+    ],
+    "synonyms": [
+      "buchen"
+    ],
+    "antonyms": [
+      "stornieren"
+    ]
+  },
+  {
+    "german": "buchen",
+    "english": "to book",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich buche einen Flug.",
+      "Buche das Hotel!",
+      "Wir buchen eine Reise."
+    ],
+    "synonyms": [
+      "reservieren"
+    ],
+    "antonyms": [
+      "stornieren"
+    ]
+  },
+  {
+    "german": "bestellen",
+    "english": "to order",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich bestelle Pizza.",
+      "Bestell etwas zu trinken!",
+      "Wir bestellen im Restaurant."
+    ],
+    "synonyms": [
+      "ordern"
+    ],
+    "antonyms": [
+      "stornieren"
+    ]
+  },
+  {
+    "german": "warten",
+    "english": "to wait",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich warte auf dich.",
+      "Warte hier!",
+      "Wir warten auf den Bus."
+    ],
+    "synonyms": [
+      "abwarten"
+    ],
+    "antonyms": [
+      "weggehen"
+    ]
+  },
+  {
+    "german": "dauern",
+    "english": "to last / take time",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das dauert lange.",
+      "Wie lange dauert das?",
+      "Die Reise dauert 3 Stunden."
+    ],
+    "synonyms": [
+      "andauern"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "verbringen",
+    "english": "to spend (time)",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich verbringe Zeit mit dir.",
+      "Wir verbringen den Urlaub hier.",
+      "Er verbringt viel Zeit am Computer."
+    ],
+    "synonyms": [
+      "zubringen"
+    ],
+    "antonyms": [
+      "verschwenden"
+    ]
+  },
+  {
+    "german": "sparen",
+    "english": "to save (money)",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich spare Geld.",
+      "Spare für die Zukunft!",
+      "Wir sparen für ein Auto."
+    ],
+    "synonyms": [
+      "zurücklegen"
+    ],
+    "antonyms": [
+      "ausgeben"
+    ]
+  },
+  {
+    "german": "ausgeben",
+    "english": "to spend (money)",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich gebe viel Geld aus.",
+      "Gib nicht alles aus!",
+      "Er gibt zu viel aus."
+    ],
+    "synonyms": [
+      "verausgaben"
+    ],
+    "antonyms": [
+      "sparen"
+    ]
+  },
+  {
+    "german": "verdienen",
+    "english": "to earn",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich verdiene gut.",
+      "Er verdient viel Geld.",
+      "Wir verdienen unser Geld."
+    ],
+    "synonyms": [
+      "einnehmen"
+    ],
+    "antonyms": [
+      "ausgeben"
+    ]
+  },
+  {
+    "german": "bezahlen",
+    "english": "to pay",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich bezahle die Rechnung.",
+      "Bezahl bitte!",
+      "Wir bezahlen zusammen."
+    ],
+    "synonyms": [
+      "zahlen"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "wechseln",
+    "english": "to change / exchange",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich wechsle Geld.",
+      "Wechsle die Kleidung!",
+      "Er wechselt den Job."
+    ],
+    "synonyms": [
+      "tauschen"
+    ],
+    "antonyms": [
+      "behalten"
+    ]
+  },
+  {
+    "german": "tauschen",
+    "english": "to exchange / swap",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich tausche mit dir.",
+      "Tausch das Shirt!",
+      "Wir tauschen Geschenke."
+    ],
+    "synonyms": [
+      "wechseln"
+    ],
+    "antonyms": [
+      "behalten"
+    ]
+  },
+  {
+    "german": "teilen",
+    "english": "to share / divide",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich teile mit dir.",
+      "Teile den Kuchen!",
+      "Wir teilen das Zimmer."
+    ],
+    "synonyms": [
+      "aufteilen"
+    ],
+    "antonyms": [
+      "zusammenfügen"
+    ]
+  },
+  {
+    "german": "trennen",
+    "english": "to separate",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich trenne den Müll.",
+      "Trenne die Farben!",
+      "Sie trennen sich."
+    ],
+    "synonyms": [
+      "scheiden"
+    ],
+    "antonyms": [
+      "verbinden"
+    ]
+  },
+  {
+    "german": "verbinden",
+    "english": "to connect / bandage",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich verbinde die Wunde.",
+      "Verbinde die Punkte!",
+      "Der Zug verbindet die Städte."
+    ],
+    "synonyms": [
+      "verknüpfen"
+    ],
+    "antonyms": [
+      "trennen"
+    ]
+  },
+  {
+    "german": "reparieren",
+    "english": "to repair / fix",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich repariere das Auto.",
+      "Repariere das Fahrrad!",
+      "Er repariert Computer."
+    ],
+    "synonyms": [
+      "flicken"
+    ],
+    "antonyms": [
+      "kaputt machen"
+    ]
+  },
+  {
+    "german": "zerstören",
+    "english": "to destroy",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das Feuer zerstört das Haus.",
+      "Zerstöre das nicht!",
+      "Der Sturm zerstört alles."
+    ],
+    "synonyms": [
+      "vernichten"
+    ],
+    "antonyms": [
+      "bauen"
+    ]
+  },
+  {
+    "german": "bauen",
+    "english": "to build",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich baue ein Haus.",
+      "Wir bauen einen Turm.",
+      "Sie bauen eine Brücke."
+    ],
+    "synonyms": [
+      "errichten"
+    ],
+    "antonyms": [
+      "abreißen"
+    ]
+  },
+  {
+    "german": "pflanzen",
+    "english": "to plant",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich pflanze Blumen.",
+      "Pflanze den Baum!",
+      "Wir pflanzen Gemüse."
+    ],
+    "synonyms": [
+      "anpflanzen"
+    ],
+    "antonyms": [
+      "ernten"
+    ]
+  },
+  {
+    "german": "wachsen",
+    "english": "to grow",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Die Blumen wachsen.",
+      "Kinder wachsen schnell.",
+      "Das Gras wächst."
+    ],
+    "synonyms": [
+      "gedeihen"
+    ],
+    "antonyms": [
+      "schrumpfen"
+    ]
+  },
+  {
+    "german": "blühen",
+    "english": "to bloom / blossom",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Die Rosen blühen.",
+      "Im Frühling blüht alles.",
+      "Die Bäume blühen."
+    ],
+    "synonyms": [
+      "aufblühen"
+    ],
+    "antonyms": [
+      "welken"
+    ]
+  },
+  {
+    "german": "gießen",
+    "english": "to water / pour",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich gieße die Blumen.",
+      "Gieß die Pflanzen!",
+      "Er gießt Wasser ins Glas."
+    ],
+    "synonyms": [
+      "bewässern"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "füttern",
+    "english": "to feed",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich füttere den Hund.",
+      "Füttere die Katze!",
+      "Wir füttern die Vögel."
+    ],
+    "synonyms": [
+      "ernähren"
+    ],
+    "antonyms": [
+      "hungern lassen"
+    ]
+  },
+  {
+    "german": "fliegen",
+    "english": "to fly",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich fliege nach Berlin.",
+      "Vögel fliegen.",
+      "Das Flugzeug fliegt hoch."
+    ],
+    "synonyms": [
+      "schweben"
+    ],
+    "antonyms": [
+      "laufen"
+    ]
+  },
+  {
+    "german": "schwimmen",
+    "english": "to swim",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich schwimme im See.",
+      "Kannst du schwimmen?",
+      "Wir schwimmen gern."
+    ],
+    "synonyms": [
+      "baden"
+    ],
+    "antonyms": [
+      "sinken"
+    ]
+  },
+  {
+    "german": "tauchen",
+    "english": "to dive",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich tauche ins Wasser.",
+      "Er taucht tief.",
+      "Wir tauchen im Meer."
+    ],
+    "synonyms": [
+      "untertauchen"
+    ],
+    "antonyms": [
+      "auftauchen"
+    ]
+  },
+  {
+    "german": "segeln",
+    "english": "to sail",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich segle gern.",
+      "Wir segeln am Wochenende.",
+      "Das Boot segelt."
+    ],
+    "synonyms": [
+      "keine"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "wandern",
+    "english": "to hike",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich wandere in den Bergen.",
+      "Wir wandern gern.",
+      "Er wandert jeden Sonntag."
+    ],
+    "synonyms": [
+      "spazieren"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "klettern",
+    "english": "to climb",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich klettere auf den Baum.",
+      "Wir klettern am Berg.",
+      "Die Kinder klettern."
+    ],
+    "synonyms": [
+      "steigen"
+    ],
+    "antonyms": [
+      "herunterklettern"
+    ]
+  },
+  {
+    "german": "reiten",
+    "english": "to ride (horse)",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich reite gern.",
+      "Sie reitet ein Pferd.",
+      "Wir reiten im Wald."
+    ],
+    "synonyms": [
+      "keine"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "angeln",
+    "english": "to fish",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich angle am See.",
+      "Er angelt gern.",
+      "Wir angeln Forellen."
+    ],
+    "synonyms": [
+      "fischen"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "campen",
+    "english": "to camp",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Wir campen am See.",
+      "Ich campe gern.",
+      "Sie campen im Wald."
+    ],
+    "synonyms": [
+      "zelten"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "zelten",
+    "english": "to camp / tent",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Wir zelten im Park.",
+      "Ich zelte gern.",
+      "Sie zelten am Strand."
+    ],
+    "synonyms": [
+      "campen"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "grillen",
+    "english": "to grill / barbecue",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Wir grillen im Garten.",
+      "Ich grille gern.",
+      "Er grillt Würstchen."
+    ],
+    "synonyms": [
+      "braten"
+    ],
+    "antonyms": [
+      "kochen"
+    ]
+  },
+  {
+    "german": "braten",
+    "english": "to fry / roast",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich brate Fleisch.",
+      "Brate die Eier!",
+      "Sie brät Kartoffeln."
+    ],
+    "synonyms": [
+      "anbraten"
+    ],
+    "antonyms": [
+      "kochen"
+    ]
+  },
+  {
+    "german": "backen",
+    "english": "to bake",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich backe einen Kuchen.",
+      "Back das Brot!",
+      "Sie backt Plätzchen."
+    ],
+    "synonyms": [
+      "keine"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "kochen",
+    "english": "to cook / boil",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich koche Nudeln.",
+      "Koch das Wasser!",
+      "Wir kochen zusammen."
+    ],
+    "synonyms": [
+      "zubereiten"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "schneiden",
+    "english": "to cut",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich schneide das Brot.",
+      "Schneide die Tomate!",
+      "Er schneidet Gemüse."
+    ],
+    "synonyms": [
+      "zerschneiden"
+    ],
+    "antonyms": [
+      "zusammenfügen"
+    ]
+  },
+  {
+    "german": "schälen",
+    "english": "to peel",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich schäle die Kartoffeln.",
+      "Schäl die Orange!",
+      "Sie schält Äpfel."
+    ],
+    "synonyms": [
+      "enthäuten"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "mischen",
+    "english": "to mix",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich mische die Zutaten.",
+      "Misch das gut!",
+      "Wir mischen Farben."
+    ],
+    "synonyms": [
+      "vermengen"
+    ],
+    "antonyms": [
+      "trennen"
+    ]
+  },
+  {
+    "german": "rühren",
+    "english": "to stir",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich rühre die Suppe.",
+      "Rühr den Teig!",
+      "Sie rührt den Kaffee."
+    ],
+    "synonyms": [
+      "umrühren"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "schmecken",
+    "english": "to taste",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das schmeckt gut!",
+      "Schmeck mal!",
+      "Es schmeckt nach Vanille."
+    ],
+    "synonyms": [
+      "probieren"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "probieren",
+    "english": "to try / taste",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich probiere das Essen.",
+      "Probier mal!",
+      "Wir probieren neue Gerichte."
+    ],
+    "synonyms": [
+      "versuchen"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "versuchen",
+    "english": "to try / attempt",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich versuche es.",
+      "Versuch das mal!",
+      "Wir versuchen unser Bestes."
+    ],
+    "synonyms": [
+      "probieren"
+    ],
+    "antonyms": [
+      "aufgeben"
+    ]
+  },
+  {
+    "german": "schaffen",
+    "english": "to manage / accomplish",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich schaffe das.",
+      "Schaffst du das?",
+      "Wir schaffen es rechtzeitig."
+    ],
+    "synonyms": [
+      "bewältigen"
+    ],
+    "antonyms": [
+      "scheitern"
+    ]
+  },
+  {
+    "german": "gelingen",
+    "english": "to succeed",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das gelingt mir.",
+      "Es ist gelungen!",
+      "Uns gelingt alles."
+    ],
+    "synonyms": [
+      "klappen"
+    ],
+    "antonyms": [
+      "misslingen"
+    ]
+  },
+  {
+    "german": "klappen",
+    "english": "to work out / succeed",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das klappt gut.",
+      "Hat es geklappt?",
+      "Alles klappt perfekt."
+    ],
+    "synonyms": [
+      "funktionieren"
+    ],
+    "antonyms": [
+      "scheitern"
+    ]
+  },
+  {
+    "german": "funktionieren",
+    "english": "to work / function",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das funktioniert nicht.",
+      "Funktioniert der Computer?",
+      "Alles funktioniert gut."
+    ],
+    "synonyms": [
+      "laufen"
+    ],
+    "antonyms": [
+      "kaputt sein"
+    ]
+  },
+  {
+    "german": "passieren",
+    "english": "to happen",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Was ist passiert?",
+      "Das passiert oft.",
+      "Nichts ist passiert."
+    ],
+    "synonyms": [
+      "geschehen"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "geschehen",
+    "english": "to happen / occur",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Was ist geschehen?",
+      "Das geschieht selten.",
+      "Es ist nichts geschehen."
+    ],
+    "synonyms": [
+      "passieren"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "ändern",
+    "english": "to change",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich ändere meine Meinung.",
+      "Ändere das!",
+      "Das Wetter ändert sich."
+    ],
+    "synonyms": [
+      "verändern"
+    ],
+    "antonyms": [
+      "beibehalten"
+    ]
+  },
+  {
+    "german": "entscheiden",
+    "english": "to decide",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich entscheide mich.",
+      "Entscheide dich!",
+      "Wir entscheiden zusammen."
+    ],
+    "synonyms": [
+      "bestimmen"
+    ],
+    "antonyms": [
+      "zögern"
+    ]
+  },
+  {
+    "german": "wählen",
+    "english": "to choose / elect",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich wähle das Rote.",
+      "Wähl eine Nummer!",
+      "Wir wählen den Präsidenten."
+    ],
+    "synonyms": [
+      "aussuchen"
+    ],
+    "antonyms": [
+      "ablehnen"
+    ]
+  },
+  {
+    "german": "stimmen",
+    "english": "to be correct / vote",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das stimmt.",
+      "Stimmt das?",
+      "Wir stimmen ab."
+    ],
+    "synonyms": [
+      "passen"
+    ],
+    "antonyms": [
+      "nicht stimmen"
+    ]
+  },
+  {
+    "german": "passen",
+    "english": "to fit / suit",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das passt gut.",
+      "Passt dir das?",
+      "Die Schuhe passen nicht."
+    ],
+    "synonyms": [
+      "stimmen"
+    ],
+    "antonyms": [
+      "nicht passen"
+    ]
+  },
+  {
+    "german": "gehören",
+    "english": "to belong",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das gehört mir.",
+      "Wem gehört das?",
+      "Das Buch gehört in die Bibliothek."
+    ],
+    "synonyms": [
+      "zustehen"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "fehlen",
+    "english": "to be missing / lack",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Du fehlst mir.",
+      "Was fehlt dir?",
+      "Ein Buch fehlt."
+    ],
+    "synonyms": [
+      "mangeln"
+    ],
+    "antonyms": [
+      "vorhanden sein"
+    ]
+  },
+  {
+    "german": "reichen",
+    "english": "to be enough / pass",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das reicht.",
+      "Reich mir das Salz!",
+      "Das Geld reicht nicht."
+    ],
+    "synonyms": [
+      "ausreichen"
+    ],
+    "antonyms": [
+      "fehlen"
+    ]
+  },
+  {
+    "german": "existieren",
+    "english": "to exist",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das existiert nicht.",
+      "Diese Firma existiert seit 1990.",
+      "Existiert das wirklich?"
+    ],
+    "synonyms": [
+      "bestehen"
+    ],
+    "antonyms": [
+      "nicht existieren"
+    ]
+  },
+  {
+    "german": "der Termin",
+    "english": "appointment / deadline",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich habe einen Termin.",
+      "Der Termin ist wichtig.",
+      "Wann ist dein Termin?"
+    ],
+    "synonyms": [
+      "die Verabredung"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Verabredung",
+    "english": "appointment / date",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich habe eine Verabredung.",
+      "Die Verabredung ist um 5 Uhr.",
+      "Wir haben eine Verabredung."
+    ],
+    "synonyms": [
+      "der Termin"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "das Datum",
+    "english": "date",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Was ist das Datum heute?",
+      "Schreib das Datum auf!",
+      "Das Datum stimmt nicht."
+    ],
+    "synonyms": [
+      "der Tag"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "der Anfang",
+    "english": "beginning / start",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Am Anfang war es schwer.",
+      "Der Anfang ist wichtig.",
+      "Ich lese den Anfang."
+    ],
+    "synonyms": [
+      "der Beginn"
+    ],
+    "antonyms": [
+      "das Ende"
+    ]
+  },
+  {
+    "german": "das Ende",
+    "english": "end",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist das Ende.",
+      "Am Ende kommt sie.",
+      "Das Ende des Films."
+    ],
+    "synonyms": [
+      "der Schluss"
+    ],
+    "antonyms": [
+      "der Anfang"
+    ]
+  },
+  {
+    "german": "die Mitte",
+    "english": "middle / center",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "In der Mitte steht ein Tisch.",
+      "Die Mitte des Raumes.",
+      "Bis Mitte des Monats."
+    ],
+    "synonyms": [
+      "das Zentrum"
+    ],
+    "antonyms": [
+      "der Rand"
+    ]
+  },
+  {
+    "german": "der Grund",
+    "english": "reason / ground",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Was ist der Grund?",
+      "Ich habe einen Grund.",
+      "Aus welchem Grund?"
+    ],
+    "synonyms": [
+      "die Ursache"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Ursache",
+    "english": "cause",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Was ist die Ursache?",
+      "Die Ursache ist unbekannt.",
+      "Wir suchen die Ursache."
+    ],
+    "synonyms": [
+      "der Grund"
+    ],
+    "antonyms": [
+      "die Wirkung"
+    ]
+  },
+  {
+    "german": "die Folge",
+    "english": "consequence / episode",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Folge ist schlimm.",
+      "Das hat Folgen.",
+      "Eine neue Folge der Serie."
+    ],
+    "synonyms": [
+      "die Konsequenz"
+    ],
+    "antonyms": [
+      "die Ursache"
+    ]
+  },
+  {
+    "german": "das Ergebnis",
+    "english": "result / outcome",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das Ergebnis ist gut.",
+      "Wir warten auf das Ergebnis.",
+      "Das Ergebnis steht fest."
+    ],
+    "synonyms": [
+      "das Resultat"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Lösung",
+    "english": "solution",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich habe die Lösung.",
+      "Das ist eine gute Lösung.",
+      "Wir suchen eine Lösung."
+    ],
+    "synonyms": [
+      "die Antwort"
+    ],
+    "antonyms": [
+      "das Problem"
+    ]
+  },
+  {
+    "german": "das Problem",
+    "english": "problem",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist ein Problem.",
+      "Ich habe ein Problem.",
+      "Wir lösen das Problem."
+    ],
+    "synonyms": [
+      "die Schwierigkeit"
+    ],
+    "antonyms": [
+      "die Lösung"
+    ]
+  },
+  {
+    "german": "die Schwierigkeit",
+    "english": "difficulty",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Das ist eine Schwierigkeit.",
+      "Ich habe Schwierigkeiten.",
+      "Die Schwierigkeit ist groß."
+    ],
+    "synonyms": [
+      "das Problem"
+    ],
+    "antonyms": [
+      "die Leichtigkeit"
+    ]
+  },
+  {
+    "german": "die Chance",
+    "english": "chance / opportunity",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Das ist eine Chance.",
+      "Ich habe eine Chance.",
+      "Nutze die Chance!"
+    ],
+    "synonyms": [
+      "die Möglichkeit"
+    ],
+    "antonyms": [
+      "das Risiko"
+    ]
+  },
+  {
+    "german": "die Möglichkeit",
+    "english": "possibility / option",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Das ist eine Möglichkeit.",
+      "Ich habe keine Möglichkeit.",
+      "Es gibt viele Möglichkeiten."
+    ],
+    "synonyms": [
+      "die Option"
+    ],
+    "antonyms": [
+      "die Unmöglichkeit"
+    ]
+  },
+  {
+    "german": "das Glück",
+    "english": "luck / happiness",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich habe Glück.",
+      "Viel Glück!",
+      "Das ist mein Glück."
+    ],
+    "synonyms": [
+      "das Erfolg"
+    ],
+    "antonyms": [
+      "das Pech"
+    ]
+  },
+  {
+    "german": "das Pech",
+    "english": "bad luck",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich habe Pech.",
+      "So ein Pech!",
+      "Das ist Pech."
+    ],
+    "synonyms": [
+      "das Unglück"
+    ],
+    "antonyms": [
+      "das Glück"
+    ]
+  },
+  {
+    "german": "der Erfolg",
+    "english": "success",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Das ist ein Erfolg.",
+      "Ich habe Erfolg.",
+      "Der Erfolg ist groß."
+    ],
+    "synonyms": [
+      "der Sieg"
+    ],
+    "antonyms": [
+      "der Misserfolg"
+    ]
+  },
+  {
+    "german": "der Versuch",
+    "english": "attempt / try",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Das ist ein Versuch.",
+      "Ich mache einen Versuch.",
+      "Der erste Versuch."
+    ],
+    "synonyms": [
+      "der Anlauf"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Erfahrung",
+    "english": "experience",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich habe Erfahrung.",
+      "Das ist eine gute Erfahrung.",
+      "Aus Erfahrung lernen."
+    ],
+    "synonyms": [
+      "das Wissen"
+    ],
+    "antonyms": [
+      "die Unerfahrenheit"
+    ]
+  },
+  {
+    "german": "die Übung",
+    "english": "exercise / practice",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Das ist eine Übung.",
+      "Ich mache Übungen.",
+      "Übung macht den Meister."
+    ],
+    "synonyms": [
+      "das Training"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "der Fortschritt",
+    "english": "progress",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Das ist ein Fortschritt.",
+      "Ich mache Fortschritte.",
+      "Der Fortschritt ist groß."
+    ],
+    "synonyms": [
+      "die Entwicklung"
+    ],
+    "antonyms": [
+      "der Rückschritt"
+    ]
+  },
+  {
+    "german": "die Regel",
+    "english": "rule",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Das ist die Regel.",
+      "Ich kenne die Regeln.",
+      "Halte dich an die Regeln!"
+    ],
+    "synonyms": [
+      "die Vorschrift"
+    ],
+    "antonyms": [
+      "die Ausnahme"
+    ]
+  },
+  {
+    "german": "die Ausnahme",
+    "english": "exception",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Das ist eine Ausnahme.",
+      "Keine Regel ohne Ausnahme.",
+      "Das ist die Ausnahme."
+    ],
+    "synonyms": [
+      "die Sonderfall"
+    ],
+    "antonyms": [
+      "die Regel"
+    ]
+  },
+  {
+    "german": "das Beispiel",
+    "english": "example",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist ein Beispiel.",
+      "Zum Beispiel...",
+      "Gib mir ein Beispiel!"
+    ],
+    "synonyms": [
+      "das Muster"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "der Unterschied",
+    "english": "difference",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Das ist ein Unterschied.",
+      "Ich sehe den Unterschied.",
+      "Was ist der Unterschied?"
+    ],
+    "synonyms": [
+      "die Differenz"
+    ],
+    "antonyms": [
+      "die Ähnlichkeit"
+    ]
+  },
+  {
+    "german": "die Eigenschaft",
+    "english": "property / characteristic",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Das ist eine gute Eigenschaft.",
+      "Er hat viele Eigenschaften.",
+      "Diese Eigenschaft ist wichtig."
+    ],
+    "synonyms": [
+      "das Merkmal"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Eigenart",
+    "english": "peculiarity / characteristic",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Das ist seine Eigenart.",
+      "Jeder hat seine Eigenarten.",
+      "Eine besondere Eigenart."
+    ],
+    "synonyms": [
+      "die Besonderheit"
+    ],
+    "antonyms": [
+      "die Normalität"
+    ]
   }
 ]

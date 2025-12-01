@@ -12407,5 +12407,2437 @@
       "die Familie"
     ],
     "antonyms": []
+  },
+  {
+    "german": "die Mathematik",
+    "english": "mathematics",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich lerne Mathematik.",
+      "Mathematik ist schwer.",
+      "Wir haben heute Mathematik."
+    ],
+    "synonyms": [
+      "Mathe"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "die Geschichte",
+    "english": "history / story",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich mag Geschichte.",
+      "Die Geschichte ist interessant.",
+      "Wir lernen Geschichte."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Geografie",
+    "english": "geography",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich lerne Geografie.",
+      "Geografie ist spannend.",
+      "Wir haben Geografie-Unterricht."
+    ],
+    "synonyms": [
+      "Erdkunde"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "die Biologie",
+    "english": "biology",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich studiere Biologie.",
+      "Biologie ist interessant.",
+      "Wir haben Biologie-Stunde."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Physik",
+    "english": "physics",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Physik ist schwer.",
+      "Ich lerne Physik.",
+      "Wir haben heute Physik."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Chemie",
+    "english": "chemistry",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Chemie ist kompliziert.",
+      "Ich mag Chemie nicht.",
+      "Wir haben Chemie-Labor."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Kunst",
+    "english": "art",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich liebe Kunst.",
+      "Kunst ist kreativ.",
+      "Wir haben Kunst-Unterricht."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Informatik",
+    "english": "computer science",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich studiere Informatik.",
+      "Informatik ist wichtig.",
+      "Wir lernen Informatik."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Religion",
+    "english": "religion",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Wir haben Religion in der Schule.",
+      "Religion ist ein Schulfach.",
+      "Ich lerne über Religion."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Saft",
+    "english": "juice",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Ich trinke Orangensaft.",
+      "Der Saft ist frisch.",
+      "Möchtest du Saft?"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Limonade",
+    "english": "lemonade / soda",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich trinke Limonade.",
+      "Die Limonade ist süß.",
+      "Wir kaufen Limonade."
+    ],
+    "synonyms": [
+      "die Limo"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "das Bier",
+    "english": "beer",
+    "gender": "Neutrum",
+    "level": "A1",
+    "examples": [
+      "Er trinkt ein Bier.",
+      "Das Bier ist kalt.",
+      "Wir bestellen Bier."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Wein",
+    "english": "wine",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Sie trinkt Wein.",
+      "Der Wein ist gut.",
+      "Wir trinken Rotwein."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Alkohol",
+    "english": "alcohol",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Ich trinke keinen Alkohol.",
+      "Alkohol ist nicht gesund.",
+      "Ohne Alkohol bitte."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Cola",
+    "english": "cola / coke",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich trinke Cola.",
+      "Die Cola ist kalt.",
+      "Eine Cola bitte!"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Schokolade",
+    "english": "chocolate",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich esse gern Schokolade.",
+      "Die Schokolade ist süß.",
+      "Wir kaufen Schokolade."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Bonbon",
+    "english": "candy / sweet",
+    "gender": "Maskulin/Neutrum",
+    "level": "A1",
+    "examples": [
+      "Ich esse einen Bonbon.",
+      "Die Bonbons sind lecker.",
+      "Möchtest du einen Bonbon?"
+    ],
+    "synonyms": [
+      "das Bonbon"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "der Keks",
+    "english": "cookie / biscuit",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Ich esse einen Keks.",
+      "Die Kekse sind lecker.",
+      "Wir backen Kekse."
+    ],
+    "synonyms": [
+      "der Plätzchen"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "die Pizza",
+    "english": "pizza",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich esse gern Pizza.",
+      "Die Pizza ist heiß.",
+      "Wir bestellen Pizza."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Hamburger",
+    "english": "hamburger",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Ich esse einen Hamburger.",
+      "Der Hamburger schmeckt gut.",
+      "Wir kaufen Hamburger."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Pommes",
+    "english": "french fries",
+    "gender": "Plural",
+    "level": "A1",
+    "examples": [
+      "Ich esse Pommes.",
+      "Die Pommes sind knusprig.",
+      "Wir bestellen Pommes."
+    ],
+    "synonyms": [
+      "die Pommes frites"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "die Wurst",
+    "english": "sausage",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich esse eine Wurst.",
+      "Die Wurst ist lecker.",
+      "Wir grillen Würste."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Schinken",
+    "english": "ham",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Ich esse Schinken.",
+      "Der Schinken ist frisch.",
+      "Wir kaufen Schinken."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "das Hähnchen",
+    "english": "chicken",
+    "gender": "Neutrum",
+    "level": "A1",
+    "examples": [
+      "Ich esse Hähnchen.",
+      "Das Hähnchen ist gegrillt.",
+      "Wir kochen Hähnchen."
+    ],
+    "synonyms": [
+      "das Huhn"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "der Joghurt",
+    "english": "yogurt",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Ich esse Joghurt zum Frühstück.",
+      "Der Joghurt ist cremig.",
+      "Wir kaufen Joghurt."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Marmelade",
+    "english": "jam",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich esse Brot mit Marmelade.",
+      "Die Marmelade ist süß.",
+      "Wir machen Marmelade selbst."
+    ],
+    "synonyms": [
+      "die Konfitüre"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "der Honig",
+    "english": "honey",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Ich esse Honig.",
+      "Der Honig ist süß.",
+      "Wir kaufen frischen Honig."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "das Müsli",
+    "english": "muesli / cereal",
+    "gender": "Neutrum",
+    "level": "A1",
+    "examples": [
+      "Ich esse Müsli zum Frühstück.",
+      "Das Müsli ist gesund.",
+      "Wir haben verschiedene Müslis."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Zwiebel",
+    "english": "onion",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich schneide die Zwiebel.",
+      "Die Zwiebel ist scharf.",
+      "Wir brauchen Zwiebeln."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Knoblauch",
+    "english": "garlic",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Ich mag Knoblauch.",
+      "Der Knoblauch riecht stark.",
+      "Wir kochen mit Knoblauch."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Pilz",
+    "english": "mushroom",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Ich sammle Pilze.",
+      "Der Pilz ist giftig.",
+      "Wir essen Pilze."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Birne",
+    "english": "pear",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich esse eine Birne.",
+      "Die Birne ist reif.",
+      "Birnen sind gesund."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Kirsche",
+    "english": "cherry",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich esse Kirschen.",
+      "Die Kirsche ist rot.",
+      "Kirschen sind süß."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Traube",
+    "english": "grape",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich esse Trauben.",
+      "Die Trauben sind süß.",
+      "Wir kaufen Trauben."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Melone",
+    "english": "melon",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich esse eine Melone.",
+      "Die Melone ist saftig.",
+      "Wir kaufen eine Wassermelone."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Ananas",
+    "english": "pineapple",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich mag Ananas.",
+      "Die Ananas ist süß.",
+      "Wir essen Ananas."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Kokosnuss",
+    "english": "coconut",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich trinke Kokosmilch.",
+      "Die Kokosnuss ist hart.",
+      "Wir öffnen die Kokosnuss."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Nuss",
+    "english": "nut",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich esse Nüsse.",
+      "Die Nuss ist hart.",
+      "Nüsse sind gesund."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Pullover",
+    "english": "sweater / pullover",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Ich trage einen Pullover.",
+      "Der Pullover ist warm.",
+      "Wir kaufen neue Pullover."
+    ],
+    "synonyms": [
+      "der Pulli"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "die Bluse",
+    "english": "blouse",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Sie trägt eine Bluse.",
+      "Die Bluse ist elegant.",
+      "Ich kaufe eine neue Bluse."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "das T-Shirt",
+    "english": "T-shirt",
+    "gender": "Neutrum",
+    "level": "A1",
+    "examples": [
+      "Ich trage ein T-Shirt.",
+      "Das T-Shirt ist bequem.",
+      "Wir kaufen T-Shirts."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Jeans",
+    "english": "jeans",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich trage eine Jeans.",
+      "Die Jeans ist blau.",
+      "Wir kaufen neue Jeans."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Mantel",
+    "english": "coat",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Ich trage einen Mantel.",
+      "Der Mantel ist warm.",
+      "Wir brauchen Mäntel im Winter."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Mütze",
+    "english": "cap / hat",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich trage eine Mütze.",
+      "Die Mütze ist warm.",
+      "Im Winter brauche ich eine Mütze."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Hut",
+    "english": "hat",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Er trägt einen Hut.",
+      "Der Hut ist elegant.",
+      "Ich kaufe einen neuen Hut."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Schal",
+    "english": "scarf",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Ich trage einen Schal.",
+      "Der Schal ist warm.",
+      "Wir brauchen Schals im Winter."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Handschuh",
+    "english": "glove",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Ich trage Handschuhe.",
+      "Die Handschuhe sind warm.",
+      "Wo sind meine Handschuhe?"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Socke",
+    "english": "sock",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich trage Socken.",
+      "Die Socken sind bunt.",
+      "Wo ist meine andere Socke?"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Strumpf",
+    "english": "stocking",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Sie trägt Strümpfe.",
+      "Die Strümpfe sind dünn.",
+      "Ich kaufe neue Strümpfe."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Stiefel",
+    "english": "boot",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Ich trage Stiefel.",
+      "Die Stiefel sind warm.",
+      "Wir brauchen Stiefel im Winter."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Turnschuhe",
+    "english": "sneakers / trainers",
+    "gender": "Plural",
+    "level": "A1",
+    "examples": [
+      "Ich trage Turnschuhe.",
+      "Die Turnschuhe sind bequem.",
+      "Wir kaufen neue Turnschuhe."
+    ],
+    "synonyms": [
+      "die Sportschuhe"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "die Sandalen",
+    "english": "sandals",
+    "gender": "Plural",
+    "level": "A1",
+    "examples": [
+      "Ich trage Sandalen im Sommer.",
+      "Die Sandalen sind leicht.",
+      "Wir kaufen Sandalen."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Gürtel",
+    "english": "belt",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Ich trage einen Gürtel.",
+      "Der Gürtel ist aus Leder.",
+      "Wo ist mein Gürtel?"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Krawatte",
+    "english": "tie / necktie",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Er trägt eine Krawatte.",
+      "Die Krawatte ist elegant.",
+      "Ich kaufe eine neue Krawatte."
+    ],
+    "synonyms": [
+      "der Schlips"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "der Anzug",
+    "english": "suit",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Er trägt einen Anzug.",
+      "Der Anzug ist elegant.",
+      "Ich brauche einen Anzug für die Hochzeit."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Schmuck",
+    "english": "jewelry",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Sie trägt schönen Schmuck.",
+      "Der Schmuck ist teuer.",
+      "Ich kaufe Schmuck."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Uhr",
+    "english": "watch / clock",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich habe eine neue Uhr.",
+      "Die Uhr zeigt drei Uhr.",
+      "Meine Uhr ist kaputt."
+    ],
+    "synonyms": [
+      "die Armbanduhr"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "der Ring",
+    "english": "ring",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Sie trägt einen Ring.",
+      "Der Ring ist gold.",
+      "Ich schenke ihr einen Ring."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Kette",
+    "english": "necklace / chain",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Sie trägt eine Kette.",
+      "Die Kette ist schön.",
+      "Ich kaufe eine goldene Kette."
+    ],
+    "synonyms": [
+      "die Halskette"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "der Ohrring",
+    "english": "earring",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Sie trägt Ohrringe.",
+      "Die Ohrringe sind elegant.",
+      "Ich habe neue Ohrringe."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Größe",
+    "english": "size",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Welche Größe haben Sie?",
+      "Die Größe passt nicht.",
+      "Ich brauche Größe M."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Umkleidekabine",
+    "english": "fitting room / changing room",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Wo ist die Umkleidekabine?",
+      "Ich gehe in die Umkleidekabine.",
+      "Die Umkleidekabine ist dort."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Kasse",
+    "english": "cash register / checkout",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich gehe zur Kasse.",
+      "An der Kasse ist eine Schlange.",
+      "Die Kasse ist dort drüben."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Rechnung",
+    "english": "bill / invoice",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich bezahle die Rechnung.",
+      "Die Rechnung bitte!",
+      "Die Rechnung ist hoch."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "das Trinkgeld",
+    "english": "tip / gratuity",
+    "gender": "Neutrum",
+    "level": "A1",
+    "examples": [
+      "Ich gebe Trinkgeld.",
+      "Das Trinkgeld ist für Sie.",
+      "Wir lassen Trinkgeld."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Rabatt",
+    "english": "discount",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Es gibt 20% Rabatt.",
+      "Der Rabatt ist gut.",
+      "Ich bekomme einen Rabatt."
+    ],
+    "synonyms": [
+      "die Ermäßigung"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "das Angebot",
+    "english": "offer / special",
+    "gender": "Neutrum",
+    "level": "A1",
+    "examples": [
+      "Das ist ein gutes Angebot.",
+      "Wir haben viele Angebote.",
+      "Ich nutze das Angebot."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Verkauf",
+    "english": "sale",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Der Verkauf beginnt morgen.",
+      "Es gibt einen Verkauf.",
+      "Im Verkauf ist alles billiger."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "der Kauf"
+    ]
+  },
+  {
+    "german": "der Einkauf",
+    "english": "shopping / purchase",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Ich mache einen Einkauf.",
+      "Der Einkauf war teuer.",
+      "Wir gehen zum Einkauf."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Tasche",
+    "english": "bag / pocket",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich habe eine neue Tasche.",
+      "Die Tasche ist voll.",
+      "In meiner Tasche ist Geld."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Tüte",
+    "english": "bag (paper/plastic)",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich brauche eine Tüte.",
+      "Die Tüte ist voll.",
+      "Haben Sie eine Tüte?"
+    ],
+    "synonyms": [
+      "die Plastiktüte"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "der Korb",
+    "english": "basket",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Ich nehme einen Korb.",
+      "Der Korb ist voll.",
+      "Im Korb sind Äpfel."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Einkaufswagen",
+    "english": "shopping cart",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Ich nehme einen Einkaufswagen.",
+      "Der Einkaufswagen ist voll.",
+      "Wo sind die Einkaufswagen?"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "das Regal",
+    "english": "shelf",
+    "gender": "Neutrum",
+    "level": "A1",
+    "examples": [
+      "Das Buch steht im Regal.",
+      "Die Regale sind voll.",
+      "Ich brauche ein neues Regal."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Abteilung",
+    "english": "department / section",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Wo ist die Obst-Abteilung?",
+      "Die Abteilung ist groß.",
+      "Ich suche die Kleidungs-Abteilung."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "das Stockwerk",
+    "english": "floor / story",
+    "gender": "Neutrum",
+    "level": "A1",
+    "examples": [
+      "Ich wohne im dritten Stockwerk.",
+      "Das Geschäft hat fünf Stockwerke.",
+      "Im ersten Stockwerk sind Schuhe."
+    ],
+    "synonyms": [
+      "die Etage"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "das Erdgeschoss",
+    "english": "ground floor",
+    "gender": "Neutrum",
+    "level": "A1",
+    "examples": [
+      "Im Erdgeschoss ist der Eingang.",
+      "Wir wohnen im Erdgeschoss.",
+      "Das Geschäft ist im Erdgeschoss."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "das Dach",
+    "english": "roof",
+    "gender": "Neutrum",
+    "level": "A1",
+    "examples": [
+      "Das Dach ist rot.",
+      "Auf dem Dach liegt Schnee.",
+      "Wir reparieren das Dach."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Garage",
+    "english": "garage",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Das Auto steht in der Garage.",
+      "Wir haben eine Garage.",
+      "Die Garage ist groß."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Parkplatz",
+    "english": "parking lot / parking space",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Wo ist der Parkplatz?",
+      "Der Parkplatz ist voll.",
+      "Ich suche einen Parkplatz."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Tankstelle",
+    "english": "gas station",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich fahre zur Tankstelle.",
+      "Die Tankstelle ist dort.",
+      "An der Tankstelle tanke ich."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "das Benzin",
+    "english": "gasoline / petrol",
+    "gender": "Neutrum",
+    "level": "A1",
+    "examples": [
+      "Ich brauche Benzin.",
+      "Das Benzin ist teuer.",
+      "Wir kaufen Benzin."
+    ],
+    "synonyms": [
+      "der Kraftstoff"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "tanken",
+    "english": "to fill up / refuel",
+    "gender": "Verb",
+    "level": "A1",
+    "examples": [
+      "Ich muss tanken.",
+      "Wir tanken an der Tankstelle.",
+      "Tankst du Benzin oder Diesel?"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "parken",
+    "english": "to park",
+    "gender": "Verb",
+    "level": "A1",
+    "examples": [
+      "Ich parke hier.",
+      "Wo darf man parken?",
+      "Wir parken das Auto."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "hupen",
+    "english": "to honk / beep",
+    "gender": "Verb",
+    "level": "A1",
+    "examples": [
+      "Hup nicht!",
+      "Das Auto hupt.",
+      "Warum hupst du?"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "bremsen",
+    "english": "to brake",
+    "gender": "Verb",
+    "level": "A1",
+    "examples": [
+      "Ich bremse schnell.",
+      "Du musst bremsen!",
+      "Das Auto bremst."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Bremse",
+    "english": "brake",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Die Bremse funktioniert nicht.",
+      "Ich betätige die Bremse.",
+      "Die Bremsen sind neu."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "das Lenkrad",
+    "english": "steering wheel",
+    "gender": "Neutrum",
+    "level": "A1",
+    "examples": [
+      "Ich halte das Lenkrad.",
+      "Das Lenkrad ist rund.",
+      "Er sitzt am Lenkrad."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Motor",
+    "english": "engine / motor",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Der Motor läuft.",
+      "Ich starte den Motor.",
+      "Der Motor ist kaputt."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "das Rad",
+    "english": "wheel / bike",
+    "gender": "Neutrum",
+    "level": "A1",
+    "examples": [
+      "Das Rad ist rund.",
+      "Ich fahre Rad.",
+      "Das Auto hat vier Räder."
+    ],
+    "synonyms": [
+      "das Fahrrad"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "der Reifen",
+    "english": "tire",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Der Reifen ist platt.",
+      "Ich wechsle den Reifen.",
+      "Die Reifen sind neu."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "das Licht",
+    "english": "light",
+    "gender": "Neutrum",
+    "level": "A1",
+    "examples": [
+      "Mach das Licht an!",
+      "Das Licht ist hell.",
+      "Im Raum ist Licht."
+    ],
+    "synonyms": [
+      "die Lampe"
+    ],
+    "antonyms": [
+      "die Dunkelheit"
+    ]
+  },
+  {
+    "german": "die Ampel",
+    "english": "traffic light",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Die Ampel ist rot.",
+      "Wir warten an der Ampel.",
+      "Die Ampel wird grün."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Kreuzung",
+    "english": "intersection / crossing",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "An der Kreuzung biege ich ab.",
+      "Die Kreuzung ist gefährlich.",
+      "Wir treffen uns an der Kreuzung."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Ecke",
+    "english": "corner",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Biegen Sie an der Ecke ab.",
+      "Das Haus ist an der Ecke.",
+      "Um die Ecke ist ein Café."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "abbiegen",
+    "english": "to turn (direction)",
+    "gender": "Verb",
+    "level": "A1",
+    "examples": [
+      "Ich biege links ab.",
+      "Hier müssen Sie abbiegen.",
+      "Wir biegen an der Ampel ab."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "geradeaus fahren",
+    "english": "to go straight",
+    "gender": "Verb",
+    "level": "A1",
+    "examples": [
+      "Fahren Sie geradeaus!",
+      "Ich fahre geradeaus.",
+      "Wir fahren einfach geradeaus."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "zurückfahren",
+    "english": "to drive back / return",
+    "gender": "Verb",
+    "level": "A1",
+    "examples": [
+      "Ich fahre zurück nach Hause.",
+      "Wir fahren morgen zurück.",
+      "Wann fährst du zurück?"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "halten",
+    "english": "to stop / hold",
+    "gender": "Verb",
+    "level": "A1",
+    "examples": [
+      "Ich halte hier.",
+      "Der Bus hält dort.",
+      "Halt!"
+    ],
+    "synonyms": [
+      "stoppen"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "steigen",
+    "english": "to climb / get on",
+    "gender": "Verb",
+    "level": "A1",
+    "examples": [
+      "Ich steige in den Bus.",
+      "Wir steigen die Treppe hoch.",
+      "Steig ein!"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "einsteigen",
+    "english": "to get on / board",
+    "gender": "Verb",
+    "level": "A1",
+    "examples": [
+      "Ich steige in den Zug ein.",
+      "Wir steigen ein.",
+      "Steigen Sie ein!"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "aussteigen"
+    ]
+  },
+  {
+    "german": "aussteigen",
+    "english": "to get off / exit",
+    "gender": "Verb",
+    "level": "A1",
+    "examples": [
+      "Ich steige hier aus.",
+      "Wir steigen an der nächsten Station aus.",
+      "Wo steigen Sie aus?"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "einsteigen"
+    ]
+  },
+  {
+    "german": "umsteigen",
+    "english": "to change (transport)",
+    "gender": "Verb",
+    "level": "A1",
+    "examples": [
+      "Ich muss umsteigen.",
+      "Wir steigen in den anderen Zug um.",
+      "Wo muss ich umsteigen?"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Haltestelle",
+    "english": "stop / station",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Die Bushaltestelle ist dort.",
+      "An welcher Haltestelle steigen Sie aus?",
+      "Wir warten an der Haltestelle."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Linie",
+    "english": "line",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich nehme die Linie 5.",
+      "Welche Linie fährt zum Bahnhof?",
+      "Die Linie kommt bald."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "das Gleis",
+    "english": "platform / track",
+    "gender": "Neutrum",
+    "level": "A1",
+    "examples": [
+      "Der Zug fährt von Gleis 3 ab.",
+      "Welches Gleis?",
+      "Wir gehen zu Gleis 5."
+    ],
+    "synonyms": [
+      "der Bahnsteig"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "der Schalter",
+    "english": "counter / window / switch",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Ich kaufe Tickets am Schalter.",
+      "Der Schalter ist geschlossen.",
+      "Wo ist der Schalter?"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Auskunft",
+    "english": "information",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich brauche eine Auskunft.",
+      "Wo ist die Auskunft?",
+      "Die Auskunft hilft mir."
+    ],
+    "synonyms": [
+      "die Information"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "die Abfahrt",
+    "english": "departure",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Wann ist die Abfahrt?",
+      "Die Abfahrt ist um 10 Uhr.",
+      "Wir warten auf die Abfahrt."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "die Ankunft"
+    ]
+  },
+  {
+    "german": "die Ankunft",
+    "english": "arrival",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Wann ist die Ankunft?",
+      "Die Ankunft ist um 15 Uhr.",
+      "Nach der Ankunft rufe ich an."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "die Abfahrt"
+    ]
+  },
+  {
+    "german": "die Verspätung",
+    "english": "delay",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Der Zug hat Verspätung.",
+      "Es gibt 10 Minuten Verspätung.",
+      "Entschuldigung für die Verspätung."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "pünktlich"
+    ]
+  },
+  {
+    "german": "das Gepäck",
+    "english": "luggage / baggage",
+    "gender": "Neutrum",
+    "level": "A1",
+    "examples": [
+      "Wo ist mein Gepäck?",
+      "Das Gepäck ist schwer.",
+      "Ich hole mein Gepäck ab."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Koffer",
+    "english": "suitcase",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Ich packe den Koffer.",
+      "Der Koffer ist voll.",
+      "Mein Koffer ist schwer."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Pass",
+    "english": "passport",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Ich brauche meinen Pass.",
+      "Wo ist mein Pass?",
+      "Der Pass ist gültig."
+    ],
+    "synonyms": [
+      "der Reisepass"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "das Visum",
+    "english": "visa",
+    "gender": "Neutrum",
+    "level": "A1",
+    "examples": [
+      "Ich brauche ein Visum.",
+      "Das Visum ist teuer.",
+      "Wir beantragen ein Visum."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Grenze",
+    "english": "border",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Wir fahren über die Grenze.",
+      "An der Grenze ist eine Kontrolle.",
+      "Die Grenze ist nah."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Zoll",
+    "english": "customs",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Wir gehen durch den Zoll.",
+      "Am Zoll werden Taschen kontrolliert.",
+      "Der Zoll ist streng."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Kontrolle",
+    "english": "control / check",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Es gibt eine Kontrolle.",
+      "Die Kontrolle ist streng.",
+      "Wir haben eine Passkontrolle."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "kontrollieren",
+    "english": "to control / check",
+    "gender": "Verb",
+    "level": "A1",
+    "examples": [
+      "Sie kontrollieren die Pässe.",
+      "Wir müssen kontrollieren.",
+      "Der Polizist kontrolliert das Auto."
+    ],
+    "synonyms": [
+      "prüfen"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "zeigen",
+    "english": "to show",
+    "gender": "Verb",
+    "level": "A1",
+    "examples": [
+      "Zeig mir das Foto!",
+      "Ich zeige dir den Weg.",
+      "Können Sie mir das zeigen?"
+    ],
+    "synonyms": [
+      "vorzeigen"
+    ],
+    "antonyms": [
+      "verstecken"
+    ]
+  },
+  {
+    "german": "der Stern",
+    "english": "star",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Die Sterne leuchten.",
+      "Am Himmel sind viele Sterne.",
+      "Ich sehe einen Stern."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Mond",
+    "english": "moon",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Der Mond ist hell.",
+      "Heute ist Vollmond.",
+      "Ich sehe den Mond."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "die Sonne"
+    ]
+  },
+  {
+    "german": "der Planet",
+    "english": "planet",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Die Erde ist ein Planet.",
+      "Es gibt acht Planeten.",
+      "Welcher Planet ist das?"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Luft",
+    "english": "air",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Die Luft ist frisch.",
+      "Ich brauche Luft.",
+      "Wir atmen Luft."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "atmen",
+    "english": "to breathe",
+    "gender": "Verb",
+    "level": "A1",
+    "examples": [
+      "Ich atme tief.",
+      "Wir atmen frische Luft.",
+      "Atme langsam!"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "das Blatt",
+    "english": "leaf / sheet",
+    "gender": "Neutrum",
+    "level": "A1",
+    "examples": [
+      "Das Blatt ist grün.",
+      "Die Blätter fallen.",
+      "Ich brauche ein Blatt Papier."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Wurzel",
+    "english": "root",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Der Baum hat tiefe Wurzeln.",
+      "Die Wurzel ist stark.",
+      "Ich grabe die Wurzel aus."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Ast",
+    "english": "branch",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Der Ast ist dick.",
+      "Ich klettere auf den Ast.",
+      "Der Ast ist gebrochen."
+    ],
+    "synonyms": [
+      "der Zweig"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "der Wald",
+    "english": "forest",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Wir gehen in den Wald.",
+      "Der Wald ist grün.",
+      "Im Wald sind viele Bäume."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Wiese",
+    "english": "meadow / lawn",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Wir liegen auf der Wiese.",
+      "Die Wiese ist grün.",
+      "Auf der Wiese sind Blumen."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "das Gras",
+    "english": "grass",
+    "gender": "Neutrum",
+    "level": "A1",
+    "examples": [
+      "Das Gras ist grün.",
+      "Ich schneide das Gras.",
+      "Wir sitzen im Gras."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Stein",
+    "english": "stone / rock",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Der Stein ist hart.",
+      "Ich werfe einen Stein.",
+      "Viele Steine liegen hier."
+    ],
+    "synonyms": [
+      "der Fels"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "der Sand",
+    "english": "sand",
+    "gender": "Maskulin",
+    "level": "A1",
+    "examples": [
+      "Der Sand ist warm.",
+      "Am Strand ist viel Sand.",
+      "Kinder spielen im Sand."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Insel",
+    "english": "island",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Wir fahren auf eine Insel.",
+      "Die Insel ist klein.",
+      "Hawaii ist eine Insel."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Küste",
+    "english": "coast",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Wir fahren an die Küste.",
+      "Die Küste ist schön.",
+      "An der Küste ist es windig."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Welle",
+    "english": "wave",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Die Wellen sind hoch.",
+      "Ich schwimme in den Wellen.",
+      "Die Welle kommt."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "tauchen",
+    "english": "to dive",
+    "gender": "Verb",
+    "level": "A1",
+    "examples": [
+      "Ich tauche im Meer.",
+      "Wir tauchen zusammen.",
+      "Er kann gut tauchen."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "schwimmen",
+    "english": "to swim",
+    "gender": "Verb",
+    "level": "A1",
+    "examples": [
+      "Ich schwimme gern.",
+      "Wir schwimmen im See.",
+      "Kannst du schwimmen?"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "der Schwimmbad",
+    "english": "swimming pool",
+    "gender": "Neutrum",
+    "level": "A1",
+    "examples": [
+      "Wir gehen ins Schwimmbad.",
+      "Das Schwimmbad ist groß.",
+      "Im Schwimmbad schwimme ich."
+    ],
+    "synonyms": [
+      "das Freibad"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "die Umwelt",
+    "english": "environment",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Wir schützen die Umwelt.",
+      "Die Umwelt ist wichtig.",
+      "Umweltschutz ist notwendig."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "die Natur",
+    "english": "nature",
+    "gender": "Feminin",
+    "level": "A1",
+    "examples": [
+      "Ich liebe die Natur.",
+      "Die Natur ist schön.",
+      "Wir gehen in die Natur."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "das Tier",
+    "english": "animal",
+    "gender": "Neutrum",
+    "level": "A1",
+    "examples": [
+      "Das Tier ist wild.",
+      "Ich mag Tiere.",
+      "Viele Tiere leben hier."
+    ],
+    "synonyms": [
+      "das Lebewesen"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "wild",
+    "english": "wild",
+    "gender": "Adjektiv",
+    "level": "A1",
+    "examples": [
+      "Das Tier ist wild.",
+      "Im Wald leben wilde Tiere.",
+      "Die Kinder sind wild."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "zahm"
+    ]
+  },
+  {
+    "german": "zahm",
+    "english": "tame",
+    "gender": "Adjektiv",
+    "level": "A1",
+    "examples": [
+      "Das Tier ist zahm.",
+      "Mein Hund ist sehr zahm.",
+      "Zahme Tiere sind freundlich."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "wild"
+    ]
+  },
+  {
+    "german": "gefährlich",
+    "english": "dangerous",
+    "gender": "Adjektiv",
+    "level": "A1",
+    "examples": [
+      "Das ist gefährlich!",
+      "Der Hund ist gefährlich.",
+      "Die Straße ist gefährlich."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "sicher"
+    ]
+  },
+  {
+    "german": "sicher",
+    "english": "safe / sure",
+    "gender": "Adjektiv",
+    "level": "A1",
+    "examples": [
+      "Hier ist es sicher.",
+      "Bist du sicher?",
+      "Der Weg ist sicher."
+    ],
+    "synonyms": [
+      "gewiss"
+    ],
+    "antonyms": [
+      "gefährlich",
+      "unsicher"
+    ]
+  },
+  {
+    "german": "vorsichtig",
+    "english": "careful",
+    "gender": "Adjektiv",
+    "level": "A1",
+    "examples": [
+      "Sei vorsichtig!",
+      "Ich bin vorsichtig.",
+      "Fahre vorsichtig!"
+    ],
+    "synonyms": [
+      "achtsam"
+    ],
+    "antonyms": [
+      "unvorsichtig"
+    ]
+  },
+  {
+    "german": "möglich",
+    "english": "possible",
+    "gender": "Adjektiv",
+    "level": "A1",
+    "examples": [
+      "Das ist möglich.",
+      "Ist das möglich?",
+      "Alles ist möglich."
+    ],
+    "synonyms": [
+      "machbar"
+    ],
+    "antonyms": [
+      "unmöglich"
+    ]
+  },
+  {
+    "german": "unmöglich",
+    "english": "impossible",
+    "gender": "Adjektiv",
+    "level": "A1",
+    "examples": [
+      "Das ist unmöglich!",
+      "Es ist unmöglich zu fliegen.",
+      "Das geht nicht, es ist unmöglich."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "möglich"
+    ]
+  },
+  {
+    "german": "notwendig",
+    "english": "necessary",
+    "gender": "Adjektiv",
+    "level": "A1",
+    "examples": [
+      "Das ist notwendig.",
+      "Ist das notwendig?",
+      "Es ist notwendig zu lernen."
+    ],
+    "synonyms": [
+      "nötig"
+    ],
+    "antonyms": [
+      "unnötig"
+    ]
+  },
+  {
+    "german": "unnötig",
+    "english": "unnecessary",
+    "gender": "Adjektiv",
+    "level": "A1",
+    "examples": [
+      "Das ist unnötig.",
+      "Diese Ausgabe ist unnötig.",
+      "Unnötige Sorgen!"
+    ],
+    "synonyms": [
+      "überflüssig"
+    ],
+    "antonyms": [
+      "notwendig"
+    ]
+  },
+  {
+    "german": "praktisch",
+    "english": "practical",
+    "gender": "Adjektiv",
+    "level": "A1",
+    "examples": [
+      "Das ist praktisch.",
+      "Die Tasche ist praktisch.",
+      "Eine praktische Lösung!"
+    ],
+    "synonyms": [
+      "nützlich"
+    ],
+    "antonyms": [
+      "unpraktisch"
+    ]
+  },
+  {
+    "german": "nützlich",
+    "english": "useful",
+    "gender": "Adjektiv",
+    "level": "A1",
+    "examples": [
+      "Das ist nützlich.",
+      "Ein nützliches Tool.",
+      "Sehr nützlich!"
+    ],
+    "synonyms": [
+      "praktisch"
+    ],
+    "antonyms": [
+      "nutzlos"
+    ]
+  },
+  {
+    "german": "typisch",
+    "english": "typical",
+    "gender": "Adjektiv",
+    "level": "A1",
+    "examples": [
+      "Das ist typisch!",
+      "Typisch deutsch.",
+      "Ein typisches Beispiel."
+    ],
+    "synonyms": [
+      "charakteristisch"
+    ],
+    "antonyms": [
+      "untypisch"
+    ]
+  },
+  {
+    "german": "selten",
+    "english": "rare / seldom",
+    "gender": "Adjektiv / Adverb",
+    "level": "A1",
+    "examples": [
+      "Das ist selten.",
+      "Ich komme selten hier.",
+      "Eine seltene Pflanze."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "oft",
+      "häufig"
+    ]
+  },
+  {
+    "german": "häufig",
+    "english": "frequent / often",
+    "gender": "Adjektiv / Adverb",
+    "level": "A1",
+    "examples": [
+      "Das passiert häufig.",
+      "Ich komme häufig hier.",
+      "Ein häufiger Fehler."
+    ],
+    "synonyms": [
+      "oft"
+    ],
+    "antonyms": [
+      "selten"
+    ]
+  },
+  {
+    "german": "manchmal",
+    "english": "sometimes",
+    "gender": "Adverb",
+    "level": "A1",
+    "examples": [
+      "Manchmal bin ich müde.",
+      "Ich gehe manchmal schwimmen.",
+      "Manchmal regnet es."
+    ],
+    "synonyms": [
+      "ab und zu"
+    ],
+    "antonyms": [
+      "immer",
+      "nie"
+    ]
+  },
+  {
+    "german": "immer",
+    "english": "always",
+    "gender": "Adverb",
+    "level": "A1",
+    "examples": [
+      "Ich bin immer pünktlich.",
+      "Er kommt immer zu spät.",
+      "Das mache ich immer."
+    ],
+    "synonyms": [
+      "stets"
+    ],
+    "antonyms": [
+      "nie",
+      "niemals"
+    ]
+  },
+  {
+    "german": "nie",
+    "english": "never",
+    "gender": "Adverb",
+    "level": "A1",
+    "examples": [
+      "Ich komme nie zu spät.",
+      "Das mache ich nie.",
+      "Nie wieder!"
+    ],
+    "synonyms": [
+      "niemals"
+    ],
+    "antonyms": [
+      "immer"
+    ]
+  },
+  {
+    "german": "niemals",
+    "english": "never",
+    "gender": "Adverb",
+    "level": "A1",
+    "examples": [
+      "Das sage ich niemals!",
+      "Niemals wieder!",
+      "Das tue ich niemals."
+    ],
+    "synonyms": [
+      "nie"
+    ],
+    "antonyms": [
+      "immer"
+    ]
+  },
+  {
+    "german": "bereits",
+    "english": "already",
+    "gender": "Adverb",
+    "level": "A1",
+    "examples": [
+      "Ich bin bereits fertig.",
+      "Wir haben bereits gegessen.",
+      "Er ist bereits da."
+    ],
+    "synonyms": [
+      "schon"
+    ],
+    "antonyms": [
+      "noch nicht"
+    ]
+  },
+  {
+    "german": "endlich",
+    "english": "finally / at last",
+    "gender": "Adverb",
+    "level": "A1",
+    "examples": [
+      "Endlich bist du da!",
+      "Wir sind endlich fertig.",
+      "Endlich Ferien!"
+    ],
+    "synonyms": [
+      "schließlich"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "plötzlich",
+    "english": "suddenly",
+    "gender": "Adverb",
+    "level": "A1",
+    "examples": [
+      "Plötzlich regnet es.",
+      "Er kam plötzlich.",
+      "Plötzlich war alles dunkel."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "sofort",
+    "english": "immediately / right away",
+    "gender": "Adverb",
+    "level": "A1",
+    "examples": [
+      "Ich komme sofort!",
+      "Mach das sofort!",
+      "Wir gehen sofort."
+    ],
+    "synonyms": [
+      "gleich"
+    ],
+    "antonyms": [
+      "später"
+    ]
+  },
+  {
+    "german": "gleich",
+    "english": "right away / same",
+    "gender": "Adverb / Adjektiv",
+    "level": "A1",
+    "examples": [
+      "Ich komme gleich.",
+      "Das ist gleich um die Ecke.",
+      "Wir haben das gleiche Auto."
+    ],
+    "synonyms": [
+      "sofort"
+    ],
+    "antonyms": [
+      "später",
+      "anders"
+    ]
+  },
+  {
+    "german": "etwa",
+    "english": "about / approximately",
+    "gender": "Adverb",
+    "level": "A1",
+    "examples": [
+      "Das kostet etwa 20 Euro.",
+      "Ich komme etwa um drei.",
+      "Etwa 100 Leute waren da."
+    ],
+    "synonyms": [
+      "ungefähr"
+    ],
+    "antonyms": [
+      "genau"
+    ]
+  },
+  {
+    "german": "genau",
+    "english": "exact / exactly",
+    "gender": "Adjektiv / Adverb",
+    "level": "A1",
+    "examples": [
+      "Das ist genau richtig!",
+      "Ich weiß es genau.",
+      "Genau um drei Uhr."
+    ],
+    "synonyms": [
+      "exakt"
+    ],
+    "antonyms": [
+      "ungefähr"
+    ]
+  },
+  {
+    "german": "ungefähr",
+    "english": "approximately / roughly",
+    "gender": "Adverb",
+    "level": "A1",
+    "examples": [
+      "Das dauert ungefähr eine Stunde.",
+      "Ungefähr 50 Leute.",
+      "Ich komme ungefähr um fünf."
+    ],
+    "synonyms": [
+      "etwa"
+    ],
+    "antonyms": [
+      "genau"
+    ]
+  },
+  {
+    "german": "fast",
+    "english": "almost / nearly",
+    "gender": "Adverb",
+    "level": "A1",
+    "examples": [
+      "Ich bin fast fertig.",
+      "Fast alle sind da.",
+      "Das ist fast richtig."
+    ],
+    "synonyms": [
+      "beinahe"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "ziemlich",
+    "english": "quite / rather",
+    "gender": "Adverb",
+    "level": "A1",
+    "examples": [
+      "Das ist ziemlich gut.",
+      "Ich bin ziemlich müde.",
+      "Es ist ziemlich kalt."
+    ],
+    "synonyms": [
+      "recht"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "ganz",
+    "english": "quite / completely / whole",
+    "gender": "Adverb / Adjektiv",
+    "level": "A1",
+    "examples": [
+      "Das ist ganz gut.",
+      "Ich bin ganz fertig.",
+      "Die ganze Familie ist da."
+    ],
+    "synonyms": [
+      "völlig"
+    ],
+    "antonyms": [
+      "halb"
+    ]
+  },
+  {
+    "german": "halb",
+    "english": "half",
+    "gender": "Adjektiv",
+    "level": "A1",
+    "examples": [
+      "Es ist halb drei.",
+      "Eine halbe Stunde.",
+      "Ein halbes Brot."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "ganz"
+    ]
+  },
+  {
+    "german": "doppelt",
+    "english": "double / twice",
+    "gender": "Adjektiv / Adverb",
+    "level": "A1",
+    "examples": [
+      "Das kostet doppelt so viel.",
+      "Ich nehme die doppelte Menge.",
+      "Doppelt so groß."
+    ],
+    "synonyms": [
+      "zweifach"
+    ],
+    "antonyms": [
+      "halb"
+    ]
   }
 ]

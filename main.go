@@ -112,9 +112,15 @@ func mergeChatIDs(newIDs []string) {
 
 // ---------------- 단어/명언 선택 ----------------
 func selectDailyWords() []Word {
-    a1File, _ := os.ReadFile("vocabulary/a1_words.json")
-    a2File, _ := os.ReadFile("vocabulary/a2_words.json")
-    b1File, _ := os.ReadFile("vocabulary/b1_words.json")
+    a1File, _ := os.ReadFile("vocabulary/a1_words.json") // 1000개
+    a2File, _ := os.ReadFile("vocabulary/a2_words.json") // 1000개
+    b1File, _ := os.ReadFile("vocabulary/b1_words.json") // 1000개
+
+    // b2 3000개
+    // 슈퍼마켓 단어 500개
+    // 비지니스 단어
+    // 건강 단어
+    // 수학/과학 단어
 
     var a1Words, a2Words, b1Words []Word
     json.Unmarshal(a1File, &a1Words)
