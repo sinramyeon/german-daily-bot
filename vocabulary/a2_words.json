@@ -6677,5 +6677,5819 @@
     "antonyms": [
       "vorne"
     ]
+  },
+  {
+    "german": "der Bleistift",
+    "english": "pencil",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich schreibe mit einem Bleistift.",
+      "Der Bleistift ist gespitzt.",
+      "Hast du einen Bleistift?"
+    ],
+    "synonyms": [
+      "der Stift"
+    ],
+    "antonyms": [
+      "der Kugelschreiber"
+    ]
+  },
+  {
+    "german": "der Kugelschreiber",
+    "english": "pen",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich schreibe mit einem Kugelschreiber.",
+      "Der Kugelschreiber ist blau.",
+      "Kannst du mir einen Kugelschreiber leihen?"
+    ],
+    "synonyms": [
+      "der Kuli"
+    ],
+    "antonyms": [
+      "der Bleistift"
+    ]
+  },
+  {
+    "german": "das Papier",
+    "english": "paper",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich brauche Papier zum Schreiben.",
+      "Das Papier ist weiß.",
+      "Wir recyceln Papier."
+    ],
+    "synonyms": [
+      "das Blatt"
+    ],
+    "antonyms": [
+      "digital"
+    ]
+  },
+  {
+    "german": "das Heft",
+    "english": "notebook",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich schreibe in mein Heft.",
+      "Das Heft ist voll.",
+      "Wir kaufen neue Hefte."
+    ],
+    "synonyms": [
+      "das Notizbuch"
+    ],
+    "antonyms": [
+      "das Buch"
+    ]
+  },
+  {
+    "german": "der Rucksack",
+    "english": "backpack",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich trage meinen Rucksack.",
+      "Der Rucksack ist schwer.",
+      "Im Rucksack sind Bücher."
+    ],
+    "synonyms": [
+      "die Tasche"
+    ],
+    "antonyms": [
+      "der Koffer"
+    ]
+  },
+  {
+    "german": "die Schere",
+    "english": "scissors",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich schneide mit der Schere.",
+      "Die Schere ist scharf.",
+      "Kannst du mir die Schere geben?"
+    ],
+    "synonyms": [
+      "das Schneidewerkzeug"
+    ],
+    "antonyms": [
+      "der Kleber"
+    ]
+  },
+  {
+    "german": "der Kleber",
+    "english": "glue",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich klebe mit Kleber.",
+      "Der Kleber klebt gut.",
+      "Wo ist der Kleber?"
+    ],
+    "synonyms": [
+      "der Leim"
+    ],
+    "antonyms": [
+      "die Schere"
+    ]
+  },
+  {
+    "german": "das Lineal",
+    "english": "ruler",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich messe mit dem Lineal.",
+      "Das Lineal ist lang.",
+      "Wir brauchen ein Lineal."
+    ],
+    "synonyms": [
+      "das Messgerät"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "der Radiergummi",
+    "english": "eraser",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich radiere mit dem Radiergummi.",
+      "Der Radiergummi ist klein.",
+      "Hast du einen Radiergummi?"
+    ],
+    "synonyms": [
+      "der Gummi"
+    ],
+    "antonyms": [
+      "der Bleistift"
+    ]
+  },
+  {
+    "german": "die Prüfung",
+    "english": "exam / test",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich habe morgen eine Prüfung.",
+      "Die Prüfung ist schwer.",
+      "Wir lernen für die Prüfung."
+    ],
+    "synonyms": [
+      "der Test"
+    ],
+    "antonyms": [
+      "die Ferien"
+    ]
+  },
+  {
+    "german": "die Hausaufgabe",
+    "english": "homework",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich mache meine Hausaufgaben.",
+      "Die Hausaufgabe ist lang.",
+      "Hast du die Hausaufgaben gemacht?"
+    ],
+    "synonyms": [
+      "die Aufgabe"
+    ],
+    "antonyms": [
+      "die Freizeit"
+    ]
+  },
+  {
+    "german": "die Pause",
+    "english": "break",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Wir haben jetzt Pause.",
+      "Die Pause ist kurz.",
+      "In der Pause esse ich."
+    ],
+    "synonyms": [
+      "die Unterbrechung"
+    ],
+    "antonyms": [
+      "der Unterricht"
+    ]
+  },
+  {
+    "german": "der Unterricht",
+    "english": "lesson / class",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Der Unterricht beginnt um 8 Uhr.",
+      "Der Unterricht ist interessant.",
+      "Wir haben heute Unterricht."
+    ],
+    "synonyms": [
+      "die Stunde"
+    ],
+    "antonyms": [
+      "die Pause"
+    ]
+  },
+  {
+    "german": "die Klasse",
+    "english": "class / classroom",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich bin in der dritten Klasse.",
+      "Die Klasse ist groß.",
+      "Unsere Klasse ist nett."
+    ],
+    "synonyms": [
+      "das Klassenzimmer"
+    ],
+    "antonyms": [
+      "die Schule"
+    ]
+  },
+  {
+    "german": "die Note",
+    "english": "grade / mark",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich habe eine gute Note.",
+      "Die Note ist wichtig.",
+      "Welche Note hast du?"
+    ],
+    "synonyms": [
+      "die Zensur"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Universität",
+    "english": "university",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich studiere an der Universität.",
+      "Die Universität ist groß.",
+      "Nach der Schule gehe ich zur Universität."
+    ],
+    "synonyms": [
+      "die Hochschule"
+    ],
+    "antonyms": [
+      "die Schule"
+    ]
+  },
+  {
+    "german": "der Student",
+    "english": "student (male, university)",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Er ist Student.",
+      "Der Student lernt viel.",
+      "Die Studenten haben Ferien."
+    ],
+    "synonyms": [
+      "der Studierende"
+    ],
+    "antonyms": [
+      "der Professor"
+    ]
+  },
+  {
+    "german": "die Studentin",
+    "english": "student (female, university)",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Sie ist Studentin.",
+      "Die Studentin schreibt eine Arbeit.",
+      "Die Studentinnen treffen sich."
+    ],
+    "synonyms": [
+      "die Studierende"
+    ],
+    "antonyms": [
+      "die Professorin"
+    ]
+  },
+  {
+    "german": "die Sprache",
+    "english": "language",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich lerne eine neue Sprache.",
+      "Die Sprache ist schwer.",
+      "Welche Sprache sprichst du?"
+    ],
+    "synonyms": [
+      "die Fremdsprache"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "das Wort",
+    "english": "word",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich lerne neue Wörter.",
+      "Das Wort ist lang.",
+      "Was bedeutet dieses Wort?"
+    ],
+    "synonyms": [
+      "der Begriff"
+    ],
+    "antonyms": [
+      "der Satz"
+    ]
+  },
+  {
+    "german": "der Satz",
+    "english": "sentence",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich schreibe einen Satz.",
+      "Der Satz ist lang.",
+      "Kannst du einen Satz bilden?"
+    ],
+    "synonyms": [
+      "die Aussage"
+    ],
+    "antonyms": [
+      "das Wort"
+    ]
+  },
+  {
+    "german": "die Grammatik",
+    "english": "grammar",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Grammatik ist wichtig.",
+      "Ich lerne Grammatik.",
+      "Die Grammatik ist schwer."
+    ],
+    "synonyms": [
+      "die Sprachlehre"
+    ],
+    "antonyms": [
+      "das Vokabular"
+    ]
+  },
+  {
+    "german": "der Fehler",
+    "english": "mistake / error",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich mache einen Fehler.",
+      "Der Fehler ist klein.",
+      "Wir korrigieren Fehler."
+    ],
+    "synonyms": [
+      "der Irrtum"
+    ],
+    "antonyms": [
+      "die Richtigkeit"
+    ]
+  },
+  {
+    "german": "richtig",
+    "english": "correct / right",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Die Antwort ist richtig.",
+      "Das ist richtig.",
+      "Ist das richtig?"
+    ],
+    "synonyms": [
+      "korrekt"
+    ],
+    "antonyms": [
+      "falsch"
+    ]
+  },
+  {
+    "german": "falsch",
+    "english": "wrong / false",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Die Antwort ist falsch.",
+      "Das ist falsch.",
+      "Ist das falsch?"
+    ],
+    "synonyms": [
+      "inkorrekt"
+    ],
+    "antonyms": [
+      "richtig"
+    ]
+  },
+  {
+    "german": "der Sport",
+    "english": "sport",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich mache gern Sport.",
+      "Der Sport ist gesund.",
+      "Welchen Sport magst du?"
+    ],
+    "synonyms": [
+      "die Bewegung"
+    ],
+    "antonyms": [
+      "die Ruhe"
+    ]
+  },
+  {
+    "german": "der Fußball",
+    "english": "football / soccer",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich spiele Fußball.",
+      "Der Fußball ist rund.",
+      "Wir schauen Fußball."
+    ],
+    "synonyms": [
+      "das Fußballspiel"
+    ],
+    "antonyms": [
+      "der Basketball"
+    ]
+  },
+  {
+    "german": "der Basketball",
+    "english": "basketball",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich spiele Basketball.",
+      "Der Basketball ist orange.",
+      "Wir spielen Basketball im Park."
+    ],
+    "synonyms": [
+      "das Basketballspiel"
+    ],
+    "antonyms": [
+      "der Fußball"
+    ]
+  },
+  {
+    "german": "das Tennis",
+    "english": "tennis",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich spiele Tennis.",
+      "Tennis ist interessant.",
+      "Wir spielen Tennis am Wochenende."
+    ],
+    "synonyms": [
+      "das Tennisspiel"
+    ],
+    "antonyms": [
+      "der Fußball"
+    ]
+  },
+  {
+    "german": "das Schwimmen",
+    "english": "swimming",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich gehe schwimmen.",
+      "Schwimmen ist gesund.",
+      "Wir lieben Schwimmen."
+    ],
+    "synonyms": [
+      "das Baden"
+    ],
+    "antonyms": [
+      "das Laufen"
+    ]
+  },
+  {
+    "german": "das Schwimmbad",
+    "english": "swimming pool",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Wir gehen ins Schwimmbad.",
+      "Das Schwimmbad ist groß.",
+      "Im Schwimmbad schwimme ich."
+    ],
+    "synonyms": [
+      "das Freibad"
+    ],
+    "antonyms": [
+      "der Sportplatz"
+    ]
+  },
+  {
+    "german": "das Fitness-Studio",
+    "english": "gym",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich gehe ins Fitness-Studio.",
+      "Das Fitness-Studio ist modern.",
+      "Im Fitness-Studio trainiere ich."
+    ],
+    "synonyms": [
+      "das Fitnesscenter"
+    ],
+    "antonyms": [
+      "das Wohnzimmer"
+    ]
+  },
+  {
+    "german": "das Hobby",
+    "english": "hobby",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Mein Hobby ist Lesen.",
+      "Was ist dein Hobby?",
+      "Ich habe viele Hobbys."
+    ],
+    "synonyms": [
+      "die Freizeitbeschäftigung"
+    ],
+    "antonyms": [
+      "die Arbeit"
+    ]
+  },
+  {
+    "german": "die Musik",
+    "english": "music",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich höre gern Musik.",
+      "Die Musik ist schön.",
+      "Welche Musik magst du?"
+    ],
+    "synonyms": [
+      "die Melodie"
+    ],
+    "antonyms": [
+      "die Stille"
+    ]
+  },
+  {
+    "german": "das Lied",
+    "english": "song",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich singe ein Lied.",
+      "Das Lied ist schön.",
+      "Kennst du dieses Lied?"
+    ],
+    "synonyms": [
+      "der Song"
+    ],
+    "antonyms": [
+      "die Stille"
+    ]
+  },
+  {
+    "german": "das Konzert",
+    "english": "concert",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Wir gehen ins Konzert.",
+      "Das Konzert ist toll.",
+      "Das Konzert beginnt um 20 Uhr."
+    ],
+    "synonyms": [
+      "die Aufführung"
+    ],
+    "antonyms": [
+      "die Stille"
+    ]
+  },
+  {
+    "german": "der Film",
+    "english": "film / movie",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich schaue einen Film.",
+      "Der Film ist spannend.",
+      "Welchen Film magst du?"
+    ],
+    "synonyms": [
+      "der Movie"
+    ],
+    "antonyms": [
+      "das Buch"
+    ]
+  },
+  {
+    "german": "die Party",
+    "english": "party",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Wir haben eine Party.",
+      "Die Party ist lustig.",
+      "Kommst du zur Party?"
+    ],
+    "synonyms": [
+      "die Feier"
+    ],
+    "antonyms": [
+      "die Arbeit"
+    ]
+  },
+  {
+    "german": "das Geschenk",
+    "english": "gift / present",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich bekomme ein Geschenk.",
+      "Das Geschenk ist schön.",
+      "Was schenkst du ihm?"
+    ],
+    "synonyms": [
+      "das Präsent"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "der Geburtstag",
+    "english": "birthday",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Heute ist mein Geburtstag.",
+      "Herzlichen Glückwunsch zum Geburtstag!",
+      "Wann ist dein Geburtstag?"
+    ],
+    "synonyms": [
+      "der Ehrentag"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Hochzeit",
+    "english": "wedding",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Wir gehen zur Hochzeit.",
+      "Die Hochzeit ist schön.",
+      "Die Hochzeit ist im Sommer."
+    ],
+    "synonyms": [
+      "die Trauung"
+    ],
+    "antonyms": [
+      "die Scheidung"
+    ]
+  },
+  {
+    "german": "die Ferien",
+    "english": "vacation / holidays",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich habe Ferien.",
+      "Die Ferien sind lang.",
+      "Wohin fährst du in den Ferien?"
+    ],
+    "synonyms": [
+      "der Urlaub"
+    ],
+    "antonyms": [
+      "die Arbeit"
+    ]
+  },
+  {
+    "german": "der Urlaub",
+    "english": "vacation / holiday",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich mache Urlaub.",
+      "Der Urlaub ist schön.",
+      "Wir fahren in den Urlaub."
+    ],
+    "synonyms": [
+      "die Ferien"
+    ],
+    "antonyms": [
+      "die Arbeit"
+    ]
+  },
+  {
+    "german": "die Reise",
+    "english": "trip / journey",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Wir machen eine Reise.",
+      "Die Reise ist lang.",
+      "Wohin geht die Reise?"
+    ],
+    "synonyms": [
+      "die Fahrt"
+    ],
+    "antonyms": [
+      "zu Hause bleiben"
+    ]
+  },
+  {
+    "german": "der Koffer",
+    "english": "suitcase",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich packe meinen Koffer.",
+      "Der Koffer ist schwer.",
+      "Wo ist mein Koffer?"
+    ],
+    "synonyms": [
+      "das Gepäck"
+    ],
+    "antonyms": [
+      "die Tasche"
+    ]
+  },
+  {
+    "german": "der Pass",
+    "english": "passport",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich brauche meinen Pass.",
+      "Der Pass ist wichtig.",
+      "Wo ist dein Pass?"
+    ],
+    "synonyms": [
+      "der Reisepass"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Kamera",
+    "english": "camera",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich fotografiere mit der Kamera.",
+      "Die Kamera ist neu.",
+      "Hast du eine Kamera?"
+    ],
+    "synonyms": [
+      "der Fotoapparat"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "das Foto",
+    "english": "photo / picture",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich mache ein Foto.",
+      "Das Foto ist schön.",
+      "Zeig mir deine Fotos!"
+    ],
+    "synonyms": [
+      "das Bild"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "das Bild",
+    "english": "picture / image",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das Bild hängt an der Wand.",
+      "Ich male ein Bild.",
+      "Das Bild ist bunt."
+    ],
+    "synonyms": [
+      "das Gemälde"
+    ],
+    "antonyms": [
+      "der Text"
+    ]
+  },
+  {
+    "german": "die Wand",
+    "english": "wall",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Wand ist weiß.",
+      "Ich hänge ein Bild an die Wand.",
+      "Die Wand ist hoch."
+    ],
+    "synonyms": [
+      "die Mauer"
+    ],
+    "antonyms": [
+      "der Boden"
+    ]
+  },
+  {
+    "german": "der Boden",
+    "english": "floor / ground",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Der Boden ist sauber.",
+      "Ich sitze auf dem Boden.",
+      "Der Boden ist kalt."
+    ],
+    "synonyms": [
+      "der Fußboden"
+    ],
+    "antonyms": [
+      "die Decke"
+    ]
+  },
+  {
+    "german": "die Decke",
+    "english": "ceiling / blanket",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Decke ist hoch.",
+      "Ich brauche eine warme Decke.",
+      "Die Lampe hängt an der Decke."
+    ],
+    "synonyms": [
+      "die Zimmerdecke"
+    ],
+    "antonyms": [
+      "der Boden"
+    ]
+  },
+  {
+    "german": "das Zimmer",
+    "english": "room",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Mein Zimmer ist groß.",
+      "Das Zimmer ist hell.",
+      "Ich räume mein Zimmer auf."
+    ],
+    "synonyms": [
+      "der Raum"
+    ],
+    "antonyms": [
+      "der Flur"
+    ]
+  },
+  {
+    "german": "die Küche",
+    "english": "kitchen",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich koche in der Küche.",
+      "Die Küche ist modern.",
+      "In der Küche esse ich."
+    ],
+    "synonyms": [
+      "der Küchenraum"
+    ],
+    "antonyms": [
+      "das Schlafzimmer"
+    ]
+  },
+  {
+    "german": "das Badezimmer",
+    "english": "bathroom",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich gehe ins Badezimmer.",
+      "Das Badezimmer ist sauber.",
+      "Im Badezimmer dusche ich."
+    ],
+    "synonyms": [
+      "das Bad"
+    ],
+    "antonyms": [
+      "die Küche"
+    ]
+  },
+  {
+    "german": "das Schlafzimmer",
+    "english": "bedroom",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich schlafe im Schlafzimmer.",
+      "Das Schlafzimmer ist ruhig.",
+      "Im Schlafzimmer steht ein Bett."
+    ],
+    "synonyms": [
+      "der Schlafraum"
+    ],
+    "antonyms": [
+      "das Wohnzimmer"
+    ]
+  },
+  {
+    "german": "das Wohnzimmer",
+    "english": "living room",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Wir sitzen im Wohnzimmer.",
+      "Das Wohnzimmer ist gemütlich.",
+      "Im Wohnzimmer steht ein Sofa."
+    ],
+    "synonyms": [
+      "der Wohnraum"
+    ],
+    "antonyms": [
+      "das Schlafzimmer"
+    ]
+  },
+  {
+    "german": "das Sofa",
+    "english": "sofa / couch",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich sitze auf dem Sofa.",
+      "Das Sofa ist bequem.",
+      "Wir kaufen ein neues Sofa."
+    ],
+    "synonyms": [
+      "die Couch"
+    ],
+    "antonyms": [
+      "der Stuhl"
+    ]
+  },
+  {
+    "german": "der Sessel",
+    "english": "armchair",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich sitze im Sessel.",
+      "Der Sessel ist gemütlich.",
+      "Der Sessel ist alt."
+    ],
+    "synonyms": [
+      "der Lehnstuhl"
+    ],
+    "antonyms": [
+      "der Hocker"
+    ]
+  },
+  {
+    "german": "der Schrank",
+    "english": "cupboard / wardrobe",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich öffne den Schrank.",
+      "Der Schrank ist groß.",
+      "Im Schrank sind Kleider."
+    ],
+    "synonyms": [
+      "der Kleiderschrank"
+    ],
+    "antonyms": [
+      "das Regal"
+    ]
+  },
+  {
+    "german": "das Regal",
+    "english": "shelf",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Die Bücher stehen im Regal.",
+      "Das Regal ist voll.",
+      "Ich stelle das Buch ins Regal."
+    ],
+    "synonyms": [
+      "das Bücherregal"
+    ],
+    "antonyms": [
+      "der Schrank"
+    ]
+  },
+  {
+    "german": "der Spiegel",
+    "english": "mirror",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich schaue in den Spiegel.",
+      "Der Spiegel hängt an der Wand.",
+      "Der Spiegel ist groß."
+    ],
+    "synonyms": [
+      "das Spiegelbild"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "der Kühlschrank",
+    "english": "refrigerator / fridge",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich stelle das Essen in den Kühlschrank.",
+      "Der Kühlschrank ist voll.",
+      "Im Kühlschrank ist Milch."
+    ],
+    "synonyms": [
+      "der Eisschrank"
+    ],
+    "antonyms": [
+      "der Ofen"
+    ]
+  },
+  {
+    "german": "der Herd",
+    "english": "stove / cooker",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich koche auf dem Herd.",
+      "Der Herd ist heiß.",
+      "Der Herd ist elektrisch."
+    ],
+    "synonyms": [
+      "der Kochherd"
+    ],
+    "antonyms": [
+      "der Kühlschrank"
+    ]
+  },
+  {
+    "german": "der Ofen",
+    "english": "oven",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich backe im Ofen.",
+      "Der Ofen ist heiß.",
+      "Der Kuchen ist im Ofen."
+    ],
+    "synonyms": [
+      "der Backofen"
+    ],
+    "antonyms": [
+      "der Kühlschrank"
+    ]
+  },
+  {
+    "german": "die Spülmaschine",
+    "english": "dishwasher",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich räume die Spülmaschine ein.",
+      "Die Spülmaschine ist voll.",
+      "Die Spülmaschine wäscht das Geschirr."
+    ],
+    "synonyms": [
+      "der Geschirrspüler"
+    ],
+    "antonyms": [
+      "von Hand spülen"
+    ]
+  },
+  {
+    "german": "die Waschmaschine",
+    "english": "washing machine",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich wasche Kleidung in der Waschmaschine.",
+      "Die Waschmaschine ist kaputt.",
+      "Die Waschmaschine läuft."
+    ],
+    "synonyms": [
+      "die Waschautomat"
+    ],
+    "antonyms": [
+      "von Hand waschen"
+    ]
+  },
+  {
+    "german": "der Fernseher",
+    "english": "television / TV",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich schaue Fernseher.",
+      "Der Fernseher ist groß.",
+      "Der Fernseher ist an."
+    ],
+    "synonyms": [
+      "das Fernsehgerät"
+    ],
+    "antonyms": [
+      "das Radio"
+    ]
+  },
+  {
+    "german": "das Radio",
+    "english": "radio",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich höre Radio.",
+      "Das Radio spielt Musik.",
+      "Das Radio ist alt."
+    ],
+    "synonyms": [
+      "das Radiogerät"
+    ],
+    "antonyms": [
+      "der Fernseher"
+    ]
+  },
+  {
+    "german": "das Telefon",
+    "english": "telephone / phone",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich telefoniere mit dem Telefon.",
+      "Das Telefon klingelt.",
+      "Wo ist das Telefon?"
+    ],
+    "synonyms": [
+      "der Apparat"
+    ],
+    "antonyms": [
+      "das Handy"
+    ]
+  },
+  {
+    "german": "der Laptop",
+    "english": "laptop",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich arbeite am Laptop.",
+      "Der Laptop ist neu.",
+      "Mein Laptop ist schnell."
+    ],
+    "synonyms": [
+      "das Notebook"
+    ],
+    "antonyms": [
+      "der Desktop"
+    ]
+  },
+  {
+    "german": "die Tastatur",
+    "english": "keyboard",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich tippe auf der Tastatur.",
+      "Die Tastatur ist klein.",
+      "Die Tastatur ist kaputt."
+    ],
+    "synonyms": [
+      "das Keyboard"
+    ],
+    "antonyms": [
+      "die Maus"
+    ]
+  },
+  {
+    "german": "die Maus",
+    "english": "mouse (computer)",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich klicke mit der Maus.",
+      "Die Maus funktioniert nicht.",
+      "Wo ist die Maus?"
+    ],
+    "synonyms": [
+      "das Eingabegerät"
+    ],
+    "antonyms": [
+      "die Tastatur"
+    ]
+  },
+  {
+    "german": "der Bildschirm",
+    "english": "screen / monitor",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich schaue auf den Bildschirm.",
+      "Der Bildschirm ist groß.",
+      "Der Bildschirm ist hell."
+    ],
+    "synonyms": [
+      "der Monitor"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "das Internet",
+    "english": "internet",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich surfe im Internet.",
+      "Das Internet ist schnell.",
+      "Im Internet suche ich Informationen."
+    ],
+    "synonyms": [
+      "das Netz"
+    ],
+    "antonyms": [
+      "offline"
+    ]
+  },
+  {
+    "german": "die E-Mail",
+    "english": "email",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich schreibe eine E-Mail.",
+      "Die E-Mail ist wichtig.",
+      "Hast du meine E-Mail bekommen?"
+    ],
+    "synonyms": [
+      "die elektronische Post"
+    ],
+    "antonyms": [
+      "der Brief"
+    ]
+  },
+  {
+    "german": "der Brief",
+    "english": "letter",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich schreibe einen Brief.",
+      "Der Brief ist lang.",
+      "Der Brief kommt morgen."
+    ],
+    "synonyms": [
+      "das Schreiben"
+    ],
+    "antonyms": [
+      "die E-Mail"
+    ]
+  },
+  {
+    "german": "die Briefmarke",
+    "english": "stamp",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich klebe eine Briefmarke auf.",
+      "Die Briefmarke kostet 85 Cent.",
+      "Wo kaufe ich Briefmarken?"
+    ],
+    "synonyms": [
+      "die Marke"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "das Paket",
+    "english": "package / parcel",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich bekomme ein Paket.",
+      "Das Paket ist schwer.",
+      "Das Paket kommt morgen."
+    ],
+    "synonyms": [
+      "das Päckchen"
+    ],
+    "antonyms": [
+      "der Brief"
+    ]
+  },
+  {
+    "german": "die Flasche",
+    "english": "bottle",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich trinke aus der Flasche.",
+      "Die Flasche ist leer.",
+      "Wo ist die Flasche?"
+    ],
+    "synonyms": [
+      "die Buddel"
+    ],
+    "antonyms": [
+      "das Glas"
+    ]
+  },
+  {
+    "german": "das Glas",
+    "english": "glass",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich trinke aus dem Glas.",
+      "Das Glas ist voll.",
+      "Das Glas ist kaputt."
+    ],
+    "synonyms": [
+      "der Becher"
+    ],
+    "antonyms": [
+      "die Flasche"
+    ]
+  },
+  {
+    "german": "die Tasse",
+    "english": "cup",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich trinke Kaffee aus der Tasse.",
+      "Die Tasse ist schön.",
+      "Die Tasse ist heiß."
+    ],
+    "synonyms": [
+      "die Kaffeetasse"
+    ],
+    "antonyms": [
+      "das Glas"
+    ]
+  },
+  {
+    "german": "der Teller",
+    "english": "plate",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich esse vom Teller.",
+      "Der Teller ist sauber.",
+      "Der Teller ist voll."
+    ],
+    "synonyms": [
+      "die Platte"
+    ],
+    "antonyms": [
+      "die Schüssel"
+    ]
+  },
+  {
+    "german": "die Schüssel",
+    "english": "bowl",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich esse Suppe aus der Schüssel.",
+      "Die Schüssel ist groß.",
+      "Die Schüssel ist rund."
+    ],
+    "synonyms": [
+      "die Schale"
+    ],
+    "antonyms": [
+      "der Teller"
+    ]
+  },
+  {
+    "german": "die Gabel",
+    "english": "fork",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich esse mit der Gabel.",
+      "Die Gabel ist sauber.",
+      "Wo ist die Gabel?"
+    ],
+    "synonyms": [
+      "das Besteck"
+    ],
+    "antonyms": [
+      "der Löffel"
+    ]
+  },
+  {
+    "german": "das Messer",
+    "english": "knife",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich schneide mit dem Messer.",
+      "Das Messer ist scharf.",
+      "Wo ist das Messer?"
+    ],
+    "synonyms": [
+      "die Klinge"
+    ],
+    "antonyms": [
+      "die Gabel"
+    ]
+  },
+  {
+    "german": "der Löffel",
+    "english": "spoon",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich esse Suppe mit dem Löffel.",
+      "Der Löffel ist klein.",
+      "Wo ist der Löffel?"
+    ],
+    "synonyms": [
+      "der Esslöffel"
+    ],
+    "antonyms": [
+      "die Gabel"
+    ]
+  },
+  {
+    "german": "die Suppe",
+    "english": "soup",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich esse eine Suppe.",
+      "Die Suppe ist heiß.",
+      "Die Suppe schmeckt gut."
+    ],
+    "synonyms": [
+      "die Brühe"
+    ],
+    "antonyms": [
+      "der Salat"
+    ]
+  },
+  {
+    "german": "der Salat",
+    "english": "salad",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich esse einen Salat.",
+      "Der Salat ist frisch.",
+      "Der Salat ist gesund."
+    ],
+    "synonyms": [
+      "das Grünzeug"
+    ],
+    "antonyms": [
+      "die Suppe"
+    ]
+  },
+  {
+    "german": "die Pizza",
+    "english": "pizza",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich esse gern Pizza.",
+      "Die Pizza ist lecker.",
+      "Wir bestellen Pizza."
+    ],
+    "synonyms": [
+      "der Fladen"
+    ],
+    "antonyms": [
+      "der Salat"
+    ]
+  },
+  {
+    "german": "die Nudeln",
+    "english": "pasta / noodles",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich esse Nudeln.",
+      "Die Nudeln sind gekocht.",
+      "Die Nudeln schmecken gut."
+    ],
+    "synonyms": [
+      "die Pasta"
+    ],
+    "antonyms": [
+      "der Reis"
+    ]
+  },
+  {
+    "german": "das Hähnchen",
+    "english": "chicken",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich esse Hähnchen.",
+      "Das Hähnchen ist gebraten.",
+      "Das Hähnchen schmeckt gut."
+    ],
+    "synonyms": [
+      "das Huhn"
+    ],
+    "antonyms": [
+      "der Fisch"
+    ]
+  },
+  {
+    "german": "der Fisch",
+    "english": "fish",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich esse Fisch.",
+      "Der Fisch ist frisch.",
+      "Der Fisch schwimmt im Wasser."
+    ],
+    "synonyms": [
+      "das Meerestier"
+    ],
+    "antonyms": [
+      "das Hähnchen"
+    ]
+  },
+  {
+    "german": "das Würstchen",
+    "english": "sausage",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich esse ein Würstchen.",
+      "Das Würstchen ist heiß.",
+      "Das Würstchen schmeckt gut."
+    ],
+    "synonyms": [
+      "die Wurst"
+    ],
+    "antonyms": [
+      "das Gemüse"
+    ]
+  },
+  {
+    "german": "der Hamburger",
+    "english": "hamburger",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich esse einen Hamburger.",
+      "Der Hamburger ist groß.",
+      "Der Hamburger schmeckt lecker."
+    ],
+    "synonyms": [
+      "der Burger"
+    ],
+    "antonyms": [
+      "der Salat"
+    ]
+  },
+  {
+    "german": "die Pommes",
+    "english": "french fries",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich esse Pommes.",
+      "Die Pommes sind knusprig.",
+      "Die Pommes sind salzig."
+    ],
+    "synonyms": [
+      "die Fritten"
+    ],
+    "antonyms": [
+      "der Salat"
+    ]
+  },
+  {
+    "german": "das Sandwich",
+    "english": "sandwich",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich esse ein Sandwich.",
+      "Das Sandwich ist lecker.",
+      "Das Sandwich hat Käse."
+    ],
+    "synonyms": [
+      "das Belegtes Brot"
+    ],
+    "antonyms": [
+      "die Suppe"
+    ]
+  },
+  {
+    "german": "das Eis",
+    "english": "ice cream",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich esse gern Eis.",
+      "Das Eis ist kalt.",
+      "Das Eis schmeckt süß."
+    ],
+    "synonyms": [
+      "die Eiscreme"
+    ],
+    "antonyms": [
+      "der Kuchen"
+    ]
+  },
+  {
+    "german": "die Marmelade",
+    "english": "jam",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich esse Marmelade aufs Brot.",
+      "Die Marmelade ist süß.",
+      "Die Marmelade ist aus Erdbeeren."
+    ],
+    "synonyms": [
+      "die Konfitüre"
+    ],
+    "antonyms": [
+      "die Butter"
+    ]
+  },
+  {
+    "german": "der Honig",
+    "english": "honey",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich esse Honig.",
+      "Der Honig ist süß.",
+      "Der Honig ist gesund."
+    ],
+    "synonyms": [
+      "der Bienenhonig"
+    ],
+    "antonyms": [
+      "das Salz"
+    ]
+  },
+  {
+    "german": "der Pfeffer",
+    "english": "pepper",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich würze mit Pfeffer.",
+      "Der Pfeffer ist scharf.",
+      "Wo ist der Pfeffer?"
+    ],
+    "synonyms": [
+      "das Gewürz"
+    ],
+    "antonyms": [
+      "das Salz"
+    ]
+  },
+  {
+    "german": "der Essig",
+    "english": "vinegar",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich benutze Essig für den Salat.",
+      "Der Essig ist sauer.",
+      "Der Essig steht im Schrank."
+    ],
+    "synonyms": [
+      "die Säure"
+    ],
+    "antonyms": [
+      "das Öl"
+    ]
+  },
+  {
+    "german": "das Öl",
+    "english": "oil",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich koche mit Öl.",
+      "Das Öl ist gesund.",
+      "Das Öl ist im Schrank."
+    ],
+    "synonyms": [
+      "das Speiseöl"
+    ],
+    "antonyms": [
+      "der Essig"
+    ]
+  },
+  {
+    "german": "die Zwiebel",
+    "english": "onion",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich schneide die Zwiebel.",
+      "Die Zwiebel ist scharf.",
+      "Die Zwiebel macht mich weinen."
+    ],
+    "synonyms": [
+      "das Lauchgewächs"
+    ],
+    "antonyms": [
+      "der Knoblauch"
+    ]
+  },
+  {
+    "german": "der Knoblauch",
+    "english": "garlic",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich mag Knoblauch.",
+      "Der Knoblauch ist gesund.",
+      "Der Knoblauch riecht stark."
+    ],
+    "synonyms": [
+      "die Knolle"
+    ],
+    "antonyms": [
+      "die Zwiebel"
+    ]
+  },
+  {
+    "german": "die Gurke",
+    "english": "cucumber",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich esse eine Gurke.",
+      "Die Gurke ist grün.",
+      "Die Gurke ist frisch."
+    ],
+    "synonyms": [
+      "das Gemüse"
+    ],
+    "antonyms": [
+      "die Tomate"
+    ]
+  },
+  {
+    "german": "die Karotte",
+    "english": "carrot",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich esse eine Karotte.",
+      "Die Karotte ist orange.",
+      "Die Karotte ist gesund."
+    ],
+    "synonyms": [
+      "die Möhre"
+    ],
+    "antonyms": [
+      "die Gurke"
+    ]
+  },
+  {
+    "german": "der Pilz",
+    "english": "mushroom",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich esse Pilze.",
+      "Der Pilz wächst im Wald.",
+      "Der Pilz schmeckt gut."
+    ],
+    "synonyms": [
+      "der Champignon"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "der Salat",
+    "english": "lettuce",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich esse Salat.",
+      "Der Salat ist grün.",
+      "Der Salat ist frisch."
+    ],
+    "synonyms": [
+      "das Blattgemüse"
+    ],
+    "antonyms": [
+      "das Fleisch"
+    ]
+  },
+  {
+    "german": "die Erdbeere",
+    "english": "strawberry",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich esse Erdbeeren.",
+      "Die Erdbeere ist rot.",
+      "Die Erdbeere ist süß."
+    ],
+    "synonyms": [
+      "die Beere"
+    ],
+    "antonyms": [
+      "die Zitrone"
+    ]
+  },
+  {
+    "german": "die Kirsche",
+    "english": "cherry",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich esse Kirschen.",
+      "Die Kirsche ist rot.",
+      "Die Kirsche ist klein."
+    ],
+    "synonyms": [
+      "die Frucht"
+    ],
+    "antonyms": [
+      "die Birne"
+    ]
+  },
+  {
+    "german": "die Birne",
+    "english": "pear",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich esse eine Birne.",
+      "Die Birne ist saftig.",
+      "Die Birne ist gelb."
+    ],
+    "synonyms": [
+      "das Obst"
+    ],
+    "antonyms": [
+      "der Apfel"
+    ]
+  },
+  {
+    "german": "die Traube",
+    "english": "grape",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich esse Trauben.",
+      "Die Traube ist süß.",
+      "Die Trauben sind lila."
+    ],
+    "synonyms": [
+      "die Weintraube"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Zitrone",
+    "english": "lemon",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich presse eine Zitrone.",
+      "Die Zitrone ist sauer.",
+      "Die Zitrone ist gelb."
+    ],
+    "synonyms": [
+      "die Limone"
+    ],
+    "antonyms": [
+      "die Orange"
+    ]
+  },
+  {
+    "german": "die Melone",
+    "english": "melon",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich esse Melone.",
+      "Die Melone ist süß.",
+      "Die Melone ist groß."
+    ],
+    "synonyms": [
+      "die Wassermelone"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Ananas",
+    "english": "pineapple",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich esse Ananas.",
+      "Die Ananas ist exotisch.",
+      "Die Ananas ist gelb."
+    ],
+    "synonyms": [
+      "die tropische Frucht"
+    ],
+    "antonyms": [
+      "der Apfel"
+    ]
+  },
+  {
+    "german": "die Kokosnuss",
+    "english": "coconut",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich trinke Kokosmilch.",
+      "Die Kokosnuss ist hart.",
+      "Die Kokosnuss kommt aus den Tropen."
+    ],
+    "synonyms": [
+      "die Nuss"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Nuss",
+    "english": "nut",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich esse Nüsse.",
+      "Die Nuss ist hart.",
+      "Die Nuss ist gesund."
+    ],
+    "synonyms": [
+      "die Haselnuss"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "das Müsli",
+    "english": "muesli / cereal",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich esse Müsli zum Frühstück.",
+      "Das Müsli ist gesund.",
+      "Das Müsli hat Früchte."
+    ],
+    "synonyms": [
+      "die Cerealien"
+    ],
+    "antonyms": [
+      "das Brot"
+    ]
+  },
+  {
+    "german": "der Joghurt",
+    "english": "yogurt",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich esse Joghurt.",
+      "Der Joghurt ist cremig.",
+      "Der Joghurt hat Früchte."
+    ],
+    "synonyms": [
+      "das Milchprodukt"
+    ],
+    "antonyms": [
+      "die Milch"
+    ]
+  },
+  {
+    "german": "der Quark",
+    "english": "curd / quark",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich esse Quark.",
+      "Der Quark ist gesund.",
+      "Der Quark schmeckt mild."
+    ],
+    "synonyms": [
+      "der Frischkäse"
+    ],
+    "antonyms": [
+      "die Butter"
+    ]
+  },
+  {
+    "german": "die Sahne",
+    "english": "cream",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich gebe Sahne in den Kaffee.",
+      "Die Sahne ist fett.",
+      "Die Sahne schmeckt gut."
+    ],
+    "synonyms": [
+      "die Schlagsahne"
+    ],
+    "antonyms": [
+      "die Milch"
+    ]
+  },
+  {
+    "german": "das Mehl",
+    "english": "flour",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich backe mit Mehl.",
+      "Das Mehl ist weiß.",
+      "Das Mehl ist fein."
+    ],
+    "synonyms": [
+      "das Weizenmehl"
+    ],
+    "antonyms": [
+      "der Zucker"
+    ]
+  },
+  {
+    "german": "der Teig",
+    "english": "dough",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich rolle den Teig aus.",
+      "Der Teig ist weich.",
+      "Der Teig muss ruhen."
+    ],
+    "synonyms": [
+      "die Masse"
+    ],
+    "antonyms": [
+      "das Mehl"
+    ]
+  },
+  {
+    "german": "der Keks",
+    "english": "cookie / biscuit",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich esse einen Keks.",
+      "Der Keks ist süß.",
+      "Der Keks ist knusprig."
+    ],
+    "synonyms": [
+      "das Gebäck"
+    ],
+    "antonyms": [
+      "das Brot"
+    ]
+  },
+  {
+    "german": "die Torte",
+    "english": "cake / torte",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich backe eine Torte.",
+      "Die Torte ist groß.",
+      "Die Torte hat Sahne."
+    ],
+    "synonyms": [
+      "der Kuchen"
+    ],
+    "antonyms": [
+      "das Brot"
+    ]
+  },
+  {
+    "german": "das Bonbon",
+    "english": "candy / sweet",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich esse ein Bonbon.",
+      "Das Bonbon ist süß.",
+      "Das Bonbon ist bunt."
+    ],
+    "synonyms": [
+      "die Süßigkeit"
+    ],
+    "antonyms": [
+      "das Gemüse"
+    ]
+  },
+  {
+    "german": "der Zucker",
+    "english": "sugar",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich nehme Zucker im Tee.",
+      "Der Zucker ist weiß.",
+      "Der Zucker ist süß."
+    ],
+    "synonyms": [
+      "das Süßungsmittel"
+    ],
+    "antonyms": [
+      "das Salz"
+    ]
+  },
+  {
+    "german": "die Dose",
+    "english": "can / tin",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich öffne eine Dose.",
+      "Die Dose ist aus Metall.",
+      "In der Dose sind Tomaten."
+    ],
+    "synonyms": [
+      "die Konservendose"
+    ],
+    "antonyms": [
+      "die Flasche"
+    ]
+  },
+  {
+    "german": "die Tüte",
+    "english": "bag / packet",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich trage eine Tüte.",
+      "Die Tüte ist aus Plastik.",
+      "In der Tüte sind Äpfel."
+    ],
+    "synonyms": [
+      "die Plastiktüte"
+    ],
+    "antonyms": [
+      "der Korb"
+    ]
+  },
+  {
+    "german": "der Korb",
+    "english": "basket",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich trage einen Korb.",
+      "Der Korb ist aus Holz.",
+      "Im Korb sind Früchte."
+    ],
+    "synonyms": [
+      "der Einkaufskorb"
+    ],
+    "antonyms": [
+      "die Tüte"
+    ]
+  },
+  {
+    "german": "der Einkauf",
+    "english": "shopping / purchase",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich mache einen Einkauf.",
+      "Der Einkauf ist teuer.",
+      "Ich gehe zum Einkauf."
+    ],
+    "synonyms": [
+      "der Kauf"
+    ],
+    "antonyms": [
+      "der Verkauf"
+    ]
+  },
+  {
+    "german": "der Kunde",
+    "english": "customer (male)",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Der Kunde kauft ein.",
+      "Der Kunde ist zufrieden.",
+      "Der Kunde bezahlt."
+    ],
+    "synonyms": [
+      "der Käufer"
+    ],
+    "antonyms": [
+      "der Verkäufer"
+    ]
+  },
+  {
+    "german": "die Kundin",
+    "english": "customer (female)",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Kundin kauft Kleidung.",
+      "Die Kundin ist freundlich.",
+      "Die Kundin zahlt mit Karte."
+    ],
+    "synonyms": [
+      "die Käuferin"
+    ],
+    "antonyms": [
+      "die Verkäuferin"
+    ]
+  },
+  {
+    "german": "die Kasse",
+    "english": "cash register / checkout",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich gehe zur Kasse.",
+      "Die Kasse ist besetzt.",
+      "An der Kasse bezahle ich."
+    ],
+    "synonyms": [
+      "die Registrierkasse"
+    ],
+    "antonyms": [
+      "das Regal"
+    ]
+  },
+  {
+    "german": "der Rabatt",
+    "english": "discount",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich bekomme Rabatt.",
+      "Der Rabatt ist 20%.",
+      "Mit Rabatt ist es günstiger."
+    ],
+    "synonyms": [
+      "die Ermäßigung"
+    ],
+    "antonyms": [
+      "der Aufpreis"
+    ]
+  },
+  {
+    "german": "das Angebot",
+    "english": "offer / special",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist ein gutes Angebot.",
+      "Das Angebot gilt heute.",
+      "Ich nutze das Angebot."
+    ],
+    "synonyms": [
+      "das Sonderangebot"
+    ],
+    "antonyms": [
+      "die Nachfrage"
+    ]
+  },
+  {
+    "german": "die Qualität",
+    "english": "quality",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Qualität ist gut.",
+      "Ich achte auf Qualität.",
+      "Die Qualität ist wichtig."
+    ],
+    "synonyms": [
+      "die Güte"
+    ],
+    "antonyms": [
+      "die Quantität"
+    ]
+  },
+  {
+    "german": "die Größe",
+    "english": "size",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Welche Größe hast du?",
+      "Die Größe passt nicht.",
+      "Die Größe ist M."
+    ],
+    "synonyms": [
+      "die Dimension"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "klein",
+    "english": "small / little",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das Zimmer ist klein.",
+      "Ich habe ein kleines Auto.",
+      "Der Hund ist klein."
+    ],
+    "synonyms": [
+      "winzig"
+    ],
+    "antonyms": [
+      "groß"
+    ]
+  },
+  {
+    "german": "groß",
+    "english": "big / large / tall",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das Haus ist groß.",
+      "Er ist groß.",
+      "Die Stadt ist groß."
+    ],
+    "synonyms": [
+      "riesig"
+    ],
+    "antonyms": [
+      "klein"
+    ]
+  },
+  {
+    "german": "lang",
+    "english": "long",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Der Weg ist lang.",
+      "Sie hat lange Haare.",
+      "Das Buch ist lang."
+    ],
+    "synonyms": [
+      "ausgedehnt"
+    ],
+    "antonyms": [
+      "kurz"
+    ]
+  },
+  {
+    "german": "kurz",
+    "english": "short",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Der Rock ist kurz.",
+      "Die Pause ist kurz.",
+      "Ich habe kurze Haare."
+    ],
+    "synonyms": [
+      "knapp"
+    ],
+    "antonyms": [
+      "lang"
+    ]
+  },
+  {
+    "german": "dick",
+    "english": "thick / fat",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das Buch ist dick.",
+      "Die Wand ist dick.",
+      "Er ist dick."
+    ],
+    "synonyms": [
+      "breit"
+    ],
+    "antonyms": [
+      "dünn"
+    ]
+  },
+  {
+    "german": "dünn",
+    "english": "thin",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das Papier ist dünn.",
+      "Sie ist dünn.",
+      "Die Wand ist dünn."
+    ],
+    "synonyms": [
+      "schlank"
+    ],
+    "antonyms": [
+      "dick"
+    ]
+  },
+  {
+    "german": "breit",
+    "english": "wide / broad",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Die Straße ist breit.",
+      "Das Bett ist breit.",
+      "Der Fluss ist breit."
+    ],
+    "synonyms": [
+      "ausgedehnt"
+    ],
+    "antonyms": [
+      "schmal"
+    ]
+  },
+  {
+    "german": "schmal",
+    "english": "narrow",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Die Gasse ist schmal.",
+      "Das Fenster ist schmal.",
+      "Der Weg ist schmal."
+    ],
+    "synonyms": [
+      "eng"
+    ],
+    "antonyms": [
+      "breit"
+    ]
+  },
+  {
+    "german": "hoch",
+    "english": "high / tall",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Der Berg ist hoch.",
+      "Das Gebäude ist hoch.",
+      "Die Preise sind hoch."
+    ],
+    "synonyms": [
+      "erhöht"
+    ],
+    "antonyms": [
+      "niedrig"
+    ]
+  },
+  {
+    "german": "niedrig",
+    "english": "low",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Der Tisch ist niedrig.",
+      "Die Temperatur ist niedrig.",
+      "Die Preise sind niedrig."
+    ],
+    "synonyms": [
+      "flach"
+    ],
+    "antonyms": [
+      "hoch"
+    ]
+  },
+  {
+    "german": "tief",
+    "english": "deep",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das Wasser ist tief.",
+      "Der See ist tief.",
+      "Er schläft tief."
+    ],
+    "synonyms": [
+      "abgründig"
+    ],
+    "antonyms": [
+      "flach"
+    ]
+  },
+  {
+    "german": "flach",
+    "english": "flat / shallow",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das Land ist flach.",
+      "Der Teller ist flach.",
+      "Das Wasser ist flach."
+    ],
+    "synonyms": [
+      "eben"
+    ],
+    "antonyms": [
+      "tief"
+    ]
+  },
+  {
+    "german": "rund",
+    "english": "round",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Der Ball ist rund.",
+      "Der Tisch ist rund.",
+      "Die Uhr ist rund."
+    ],
+    "synonyms": [
+      "kreisförmig"
+    ],
+    "antonyms": [
+      "eckig"
+    ]
+  },
+  {
+    "german": "eckig",
+    "english": "angular / square",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Der Tisch ist eckig.",
+      "Das Fenster ist eckig.",
+      "Die Box ist eckig."
+    ],
+    "synonyms": [
+      "kantig"
+    ],
+    "antonyms": [
+      "rund"
+    ]
+  },
+  {
+    "german": "gerade",
+    "english": "straight",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Die Linie ist gerade.",
+      "Geh gerade aus.",
+      "Die Straße ist gerade."
+    ],
+    "synonyms": [
+      "direkt"
+    ],
+    "antonyms": [
+      "krumm"
+    ]
+  },
+  {
+    "german": "krumm",
+    "english": "crooked / bent",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Der Weg ist krumm.",
+      "Der Baum ist krumm.",
+      "Die Linie ist krumm."
+    ],
+    "synonyms": [
+      "gebogen"
+    ],
+    "antonyms": [
+      "gerade"
+    ]
+  },
+  {
+    "german": "voll",
+    "english": "full",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das Glas ist voll.",
+      "Der Bus ist voll.",
+      "Mein Bauch ist voll."
+    ],
+    "synonyms": [
+      "gefüllt"
+    ],
+    "antonyms": [
+      "leer"
+    ]
+  },
+  {
+    "german": "leer",
+    "english": "empty",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das Glas ist leer.",
+      "Der Raum ist leer.",
+      "Die Flasche ist leer."
+    ],
+    "synonyms": [
+      "ungefüllt"
+    ],
+    "antonyms": [
+      "voll"
+    ]
+  },
+  {
+    "german": "offen",
+    "english": "open",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Die Tür ist offen.",
+      "Das Fenster ist offen.",
+      "Der Laden ist offen."
+    ],
+    "synonyms": [
+      "geöffnet"
+    ],
+    "antonyms": [
+      "geschlossen"
+    ]
+  },
+  {
+    "german": "geschlossen",
+    "english": "closed",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Die Tür ist geschlossen.",
+      "Das Geschäft ist geschlossen.",
+      "Die Augen sind geschlossen."
+    ],
+    "synonyms": [
+      "zu"
+    ],
+    "antonyms": [
+      "offen"
+    ]
+  },
+  {
+    "german": "nass",
+    "english": "wet",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Die Straße ist nass.",
+      "Meine Haare sind nass.",
+      "Das Handtuch ist nass."
+    ],
+    "synonyms": [
+      "feucht"
+    ],
+    "antonyms": [
+      "trocken"
+    ]
+  },
+  {
+    "german": "trocken",
+    "english": "dry",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Die Wäsche ist trocken.",
+      "Mein Mund ist trocken.",
+      "Das Wetter ist trocken."
+    ],
+    "synonyms": [
+      "dürr"
+    ],
+    "antonyms": [
+      "nass"
+    ]
+  },
+  {
+    "german": "hart",
+    "english": "hard",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das Brot ist hart.",
+      "Der Stuhl ist hart.",
+      "Die Arbeit ist hart."
+    ],
+    "synonyms": [
+      "fest"
+    ],
+    "antonyms": [
+      "weich"
+    ]
+  },
+  {
+    "german": "weich",
+    "english": "soft",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das Kissen ist weich.",
+      "Die Butter ist weich.",
+      "Das Bett ist weich."
+    ],
+    "synonyms": [
+      "sanft"
+    ],
+    "antonyms": [
+      "hart"
+    ]
+  },
+  {
+    "german": "ruhig",
+    "english": "quiet / calm",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Es ist ruhig hier.",
+      "Sei bitte ruhig!",
+      "Der See ist ruhig."
+    ],
+    "synonyms": [
+      "still"
+    ],
+    "antonyms": [
+      "laut"
+    ]
+  },
+  {
+    "german": "laut",
+    "english": "loud / noisy",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Die Musik ist laut.",
+      "Sei nicht so laut!",
+      "Der Verkehr ist laut."
+    ],
+    "synonyms": [
+      "geräuschvoll"
+    ],
+    "antonyms": [
+      "ruhig"
+    ]
+  },
+  {
+    "german": "sicher",
+    "english": "safe / sure",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich bin sicher.",
+      "Das Auto ist sicher.",
+      "Bist du sicher?"
+    ],
+    "synonyms": [
+      "gewiss"
+    ],
+    "antonyms": [
+      "unsicher"
+    ]
+  },
+  {
+    "german": "gefährlich",
+    "english": "dangerous",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist gefährlich.",
+      "Die Straße ist gefährlich.",
+      "Gefährliche Tiere leben hier."
+    ],
+    "synonyms": [
+      "riskant"
+    ],
+    "antonyms": [
+      "sicher"
+    ]
+  },
+  {
+    "german": "möglich",
+    "english": "possible",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist möglich.",
+      "Alles ist möglich.",
+      "Ist das möglich?"
+    ],
+    "synonyms": [
+      "machbar"
+    ],
+    "antonyms": [
+      "unmöglich"
+    ]
+  },
+  {
+    "german": "unmöglich",
+    "english": "impossible",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist unmöglich.",
+      "Die Aufgabe ist unmöglich.",
+      "Es ist unmöglich zu fliegen."
+    ],
+    "synonyms": [
+      "undurchführbar"
+    ],
+    "antonyms": [
+      "möglich"
+    ]
+  },
+  {
+    "german": "einfach",
+    "english": "simple / easy",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Die Aufgabe ist einfach.",
+      "Das ist ganz einfach.",
+      "Einfach und klar."
+    ],
+    "synonyms": [
+      "simpel"
+    ],
+    "antonyms": [
+      "kompliziert"
+    ]
+  },
+  {
+    "german": "kompliziert",
+    "english": "complicated",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Die Aufgabe ist kompliziert.",
+      "Das ist zu kompliziert.",
+      "Eine komplizierte Situation."
+    ],
+    "synonyms": [
+      "schwierig"
+    ],
+    "antonyms": [
+      "einfach"
+    ]
+  },
+  {
+    "german": "nötig",
+    "english": "necessary",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist nötig.",
+      "Es ist nötig zu lernen.",
+      "Wenn nötig, komme ich."
+    ],
+    "synonyms": [
+      "notwendig"
+    ],
+    "antonyms": [
+      "unnötig"
+    ]
+  },
+  {
+    "german": "besonders",
+    "english": "special / especially",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist besonders schön.",
+      "Ich mag das besonders.",
+      "Ein besonderer Tag."
+    ],
+    "synonyms": [
+      "speziell"
+    ],
+    "antonyms": [
+      "normal"
+    ]
+  },
+  {
+    "german": "normal",
+    "english": "normal",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist ganz normal.",
+      "Ein normaler Tag.",
+      "Ist das normal?"
+    ],
+    "synonyms": [
+      "gewöhnlich"
+    ],
+    "antonyms": [
+      "besonders"
+    ]
+  },
+  {
+    "german": "fertig",
+    "english": "ready / finished",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich bin fertig.",
+      "Das Essen ist fertig.",
+      "Bist du fertig?"
+    ],
+    "synonyms": [
+      "bereit"
+    ],
+    "antonyms": [
+      "unfertig"
+    ]
+  },
+  {
+    "german": "bereit",
+    "english": "ready / prepared",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich bin bereit.",
+      "Seid ihr bereit?",
+      "Bereit für die Reise."
+    ],
+    "synonyms": [
+      "fertig"
+    ],
+    "antonyms": [
+      "unvorbereitet"
+    ]
+  },
+  {
+    "german": "perfekt",
+    "english": "perfect",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist perfekt!",
+      "Ein perfekter Tag.",
+      "Sie spricht perfekt Deutsch."
+    ],
+    "synonyms": [
+      "ideal"
+    ],
+    "antonyms": [
+      "imperfekt"
+    ]
+  },
+  {
+    "german": "schlimm",
+    "english": "bad / terrible",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist schlimm.",
+      "So schlimm ist es nicht.",
+      "Eine schlimme Nachricht."
+    ],
+    "synonyms": [
+      "furchtbar"
+    ],
+    "antonyms": [
+      "gut"
+    ]
+  },
+  {
+    "german": "toll",
+    "english": "great / wonderful",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist toll!",
+      "Ein tolles Auto.",
+      "Toll gemacht!"
+    ],
+    "synonyms": [
+      "super"
+    ],
+    "antonyms": [
+      "schlecht"
+    ]
+  },
+  {
+    "german": "super",
+    "english": "super / great",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist super!",
+      "Super Idee!",
+      "Ein super Tag."
+    ],
+    "synonyms": [
+      "toll"
+    ],
+    "antonyms": [
+      "schlecht"
+    ]
+  },
+  {
+    "german": "prima",
+    "english": "excellent / great",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist prima!",
+      "Prima gemacht!",
+      "Alles prima."
+    ],
+    "synonyms": [
+      "toll"
+    ],
+    "antonyms": [
+      "schlecht"
+    ]
+  },
+  {
+    "german": "komisch",
+    "english": "strange / funny",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist komisch.",
+      "Ein komischer Mensch.",
+      "Das schmeckt komisch."
+    ],
+    "synonyms": [
+      "seltsam"
+    ],
+    "antonyms": [
+      "normal"
+    ]
+  },
+  {
+    "german": "seltsam",
+    "english": "strange / odd",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist seltsam.",
+      "Eine seltsame Geschichte.",
+      "Er verhält sich seltsam."
+    ],
+    "synonyms": [
+      "merkwürdig"
+    ],
+    "antonyms": [
+      "normal"
+    ]
+  },
+  {
+    "german": "lustig",
+    "english": "funny / amusing",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist lustig!",
+      "Ein lustiger Film.",
+      "Wir haben lustige Spiele."
+    ],
+    "synonyms": [
+      "komisch"
+    ],
+    "antonyms": [
+      "ernst"
+    ]
+  },
+  {
+    "german": "ernst",
+    "english": "serious",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist ernst.",
+      "Sei ernst!",
+      "Eine ernste Situation."
+    ],
+    "synonyms": [
+      "ernsthaft"
+    ],
+    "antonyms": [
+      "lustig"
+    ]
+  },
+  {
+    "german": "traurig",
+    "english": "sad",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich bin traurig.",
+      "Eine traurige Geschichte.",
+      "Er sieht traurig aus."
+    ],
+    "synonyms": [
+      "betrübt"
+    ],
+    "antonyms": [
+      "glücklich"
+    ]
+  },
+  {
+    "german": "fröhlich",
+    "english": "cheerful / happy",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Sie ist fröhlich.",
+      "Ein fröhliches Lied.",
+      "Fröhliche Kinder spielen."
+    ],
+    "synonyms": [
+      "heiter"
+    ],
+    "antonyms": [
+      "traurig"
+    ]
+  },
+  {
+    "german": "zufrieden",
+    "english": "satisfied / content",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich bin zufrieden.",
+      "Ein zufriedener Kunde.",
+      "Sie ist sehr zufrieden."
+    ],
+    "synonyms": [
+      "glücklich"
+    ],
+    "antonyms": [
+      "unzufrieden"
+    ]
+  },
+  {
+    "german": "nervös",
+    "english": "nervous",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich bin nervös.",
+      "Sie wirkt nervös.",
+      "Vor der Prüfung bin ich nervös."
+    ],
+    "synonyms": [
+      "aufgeregt"
+    ],
+    "antonyms": [
+      "ruhig"
+    ]
+  },
+  {
+    "german": "aufgeregt",
+    "english": "excited / agitated",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich bin aufgeregt.",
+      "Die Kinder sind aufgeregt.",
+      "Vor der Reise bin ich aufgeregt."
+    ],
+    "synonyms": [
+      "erregt"
+    ],
+    "antonyms": [
+      "ruhig"
+    ]
+  },
+  {
+    "german": "ängstlich",
+    "english": "anxious / fearful",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Sie ist ängstlich.",
+      "Ein ängstlicher Mensch.",
+      "Ich bin nicht ängstlich."
+    ],
+    "synonyms": [
+      "furchtsam"
+    ],
+    "antonyms": [
+      "mutig"
+    ]
+  },
+  {
+    "german": "mutig",
+    "english": "brave / courageous",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Er ist mutig.",
+      "Eine mutige Entscheidung.",
+      "Das war sehr mutig."
+    ],
+    "synonyms": [
+      "tapfer"
+    ],
+    "antonyms": [
+      "ängstlich"
+    ]
+  },
+  {
+    "german": "stolz",
+    "english": "proud",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich bin stolz auf dich.",
+      "Sie ist stolz.",
+      "Ein stolzer Vater."
+    ],
+    "synonyms": [
+      "selbstbewusst"
+    ],
+    "antonyms": [
+      "bescheiden"
+    ]
+  },
+  {
+    "german": "höflich",
+    "english": "polite",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Er ist sehr höflich.",
+      "Sei höflich!",
+      "Eine höfliche Anfrage."
+    ],
+    "synonyms": [
+      "artig"
+    ],
+    "antonyms": [
+      "unhöflich"
+    ]
+  },
+  {
+    "german": "unhöflich",
+    "english": "impolite / rude",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist unhöflich.",
+      "Ein unhöflicher Mensch.",
+      "Sei nicht unhöflich!"
+    ],
+    "synonyms": [
+      "grob"
+    ],
+    "antonyms": [
+      "höflich"
+    ]
+  },
+  {
+    "german": "fleißig",
+    "english": "diligent / hardworking",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Sie ist sehr fleißig.",
+      "Ein fleißiger Schüler.",
+      "Ich bin heute fleißig."
+    ],
+    "synonyms": [
+      "arbeitsam"
+    ],
+    "antonyms": [
+      "faul"
+    ]
+  },
+  {
+    "german": "faul",
+    "english": "lazy",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Er ist faul.",
+      "Sei nicht so faul!",
+      "Ein fauler Tag."
+    ],
+    "synonyms": [
+      "träge"
+    ],
+    "antonyms": [
+      "fleißig"
+    ]
+  },
+  {
+    "german": "klug",
+    "english": "smart / clever",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Sie ist klug.",
+      "Eine kluge Entscheidung.",
+      "Das war klug."
+    ],
+    "synonyms": [
+      "intelligent"
+    ],
+    "antonyms": [
+      "dumm"
+    ]
+  },
+  {
+    "german": "dumm",
+    "english": "stupid / dumb",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist dumm.",
+      "Eine dumme Idee.",
+      "Sei nicht dumm!"
+    ],
+    "synonyms": [
+      "töricht"
+    ],
+    "antonyms": [
+      "klug"
+    ]
+  },
+  {
+    "german": "intelligent",
+    "english": "intelligent",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Er ist sehr intelligent.",
+      "Eine intelligente Frage.",
+      "Sie wirkt intelligent."
+    ],
+    "synonyms": [
+      "klug"
+    ],
+    "antonyms": [
+      "dumm"
+    ]
+  },
+  {
+    "german": "verrückt",
+    "english": "crazy / mad",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist verrückt!",
+      "Eine verrückte Idee.",
+      "Bist du verrückt?"
+    ],
+    "synonyms": [
+      "wahnsinnig"
+    ],
+    "antonyms": [
+      "vernünftig"
+    ]
+  },
+  {
+    "german": "vernünftig",
+    "english": "reasonable / sensible",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Sei vernünftig!",
+      "Eine vernünftige Entscheidung.",
+      "Das ist vernünftig."
+    ],
+    "synonyms": [
+      "sinnvoll"
+    ],
+    "antonyms": [
+      "verrückt"
+    ]
+  },
+  {
+    "german": "ehrlich",
+    "english": "honest",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Er ist ehrlich.",
+      "Sei ehrlich zu mir!",
+      "Eine ehrliche Antwort."
+    ],
+    "synonyms": [
+      "aufrichtig"
+    ],
+    "antonyms": [
+      "unehrlich"
+    ]
+  },
+  {
+    "german": "unehrlich",
+    "english": "dishonest",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist unehrlich.",
+      "Ein unehrlicher Mensch.",
+      "Sei nicht unehrlich!"
+    ],
+    "synonyms": [
+      "verlogen"
+    ],
+    "antonyms": [
+      "ehrlich"
+    ]
+  },
+  {
+    "german": "ordentlich",
+    "english": "tidy / proper",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das Zimmer ist ordentlich.",
+      "Sei ordentlich!",
+      "Eine ordentliche Arbeit."
+    ],
+    "synonyms": [
+      "aufgeräumt"
+    ],
+    "antonyms": [
+      "unordentlich"
+    ]
+  },
+  {
+    "german": "unordentlich",
+    "english": "messy / untidy",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das Zimmer ist unordentlich.",
+      "Er ist sehr unordentlich.",
+      "Eine unordentliche Schrift."
+    ],
+    "synonyms": [
+      "chaotisch"
+    ],
+    "antonyms": [
+      "ordentlich"
+    ]
+  },
+  {
+    "german": "pünktlich",
+    "english": "punctual",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich bin immer pünktlich.",
+      "Sei pünktlich!",
+      "Eine pünktliche Ankunft."
+    ],
+    "synonyms": [
+      "rechtzeitig"
+    ],
+    "antonyms": [
+      "unpünktlich"
+    ]
+  },
+  {
+    "german": "unpünktlich",
+    "english": "unpunctual / late",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Er ist unpünktlich.",
+      "Sei nicht unpünktlich!",
+      "Eine unpünktliche Person."
+    ],
+    "synonyms": [
+      "verspätet"
+    ],
+    "antonyms": [
+      "pünktlich"
+    ]
+  },
+  {
+    "german": "bequem",
+    "english": "comfortable",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Der Sessel ist bequem.",
+      "Bequeme Schuhe.",
+      "Es ist sehr bequem."
+    ],
+    "synonyms": [
+      "komfortabel"
+    ],
+    "antonyms": [
+      "unbequem"
+    ]
+  },
+  {
+    "german": "unbequem",
+    "english": "uncomfortable",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Der Stuhl ist unbequem.",
+      "Unbequeme Schuhe.",
+      "Das ist unbequem."
+    ],
+    "synonyms": [
+      "unkomfortabel"
+    ],
+    "antonyms": [
+      "bequem"
+    ]
+  },
+  {
+    "german": "praktisch",
+    "english": "practical",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist praktisch.",
+      "Eine praktische Lösung.",
+      "Sehr praktisch!"
+    ],
+    "synonyms": [
+      "nützlich"
+    ],
+    "antonyms": [
+      "unpraktisch"
+    ]
+  },
+  {
+    "german": "modern",
+    "english": "modern",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das Haus ist modern.",
+      "Moderne Technik.",
+      "Ein moderner Stil."
+    ],
+    "synonyms": [
+      "zeitgemäß"
+    ],
+    "antonyms": [
+      "altmodisch"
+    ]
+  },
+  {
+    "german": "altmodisch",
+    "english": "old-fashioned",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist altmodisch.",
+      "Altmodische Kleidung.",
+      "Ein altmodischer Stil."
+    ],
+    "synonyms": [
+      "antiquiert"
+    ],
+    "antonyms": [
+      "modern"
+    ]
+  },
+  {
+    "german": "bekannt",
+    "english": "known / famous",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Er ist bekannt.",
+      "Eine bekannte Person.",
+      "Das ist mir bekannt."
+    ],
+    "synonyms": [
+      "berühmt"
+    ],
+    "antonyms": [
+      "unbekannt"
+    ]
+  },
+  {
+    "german": "unbekannt",
+    "english": "unknown",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Er ist unbekannt.",
+      "Eine unbekannte Person.",
+      "Das ist mir unbekannt."
+    ],
+    "synonyms": [
+      "fremd"
+    ],
+    "antonyms": [
+      "bekannt"
+    ]
+  },
+  {
+    "german": "populär",
+    "english": "popular",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Sie ist sehr populär.",
+      "Ein populärer Sänger.",
+      "Das ist populär."
+    ],
+    "synonyms": [
+      "beliebt"
+    ],
+    "antonyms": [
+      "unpopulär"
+    ]
+  },
+  {
+    "german": "beliebt",
+    "english": "popular / beloved",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Er ist sehr beliebt.",
+      "Ein beliebtes Restaurant.",
+      "Das ist beliebt."
+    ],
+    "synonyms": [
+      "populär"
+    ],
+    "antonyms": [
+      "unbeliebt"
+    ]
+  },
+  {
+    "german": "typisch",
+    "english": "typical",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist typisch!",
+      "Typisch deutsch.",
+      "Ein typisches Beispiel."
+    ],
+    "synonyms": [
+      "charakteristisch"
+    ],
+    "antonyms": [
+      "untypisch"
+    ]
+  },
+  {
+    "german": "ähnlich",
+    "english": "similar",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist ähnlich.",
+      "Ähnliche Farben.",
+      "Sie sehen ähnlich aus."
+    ],
+    "synonyms": [
+      "gleichartig"
+    ],
+    "antonyms": [
+      "unterschiedlich"
+    ]
+  },
+  {
+    "german": "unterschiedlich",
+    "english": "different / various",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Die Bücher sind unterschiedlich.",
+      "Unterschiedliche Meinungen.",
+      "Sehr unterschiedlich."
+    ],
+    "synonyms": [
+      "verschieden"
+    ],
+    "antonyms": [
+      "ähnlich"
+    ]
+  },
+  {
+    "german": "gleich",
+    "english": "same / equal",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist gleich.",
+      "Zur gleichen Zeit.",
+      "Wir sind gleich alt."
+    ],
+    "synonyms": [
+      "identisch"
+    ],
+    "antonyms": [
+      "verschieden"
+    ]
+  },
+  {
+    "german": "verschieden",
+    "english": "different / various",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Wir sind verschieden.",
+      "Verschiedene Farben.",
+      "Das ist verschieden."
+    ],
+    "synonyms": [
+      "unterschiedlich"
+    ],
+    "antonyms": [
+      "gleich"
+    ]
+  },
+  {
+    "german": "einzeln",
+    "english": "single / individual",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Jedes Buch einzeln.",
+      "Einzelne Personen.",
+      "Einzeln verkaufen."
+    ],
+    "synonyms": [
+      "separat"
+    ],
+    "antonyms": [
+      "zusammen"
+    ]
+  },
+  {
+    "german": "gemeinsam",
+    "english": "together / joint",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Wir machen das gemeinsam.",
+      "Eine gemeinsame Reise.",
+      "Gemeinsam sind wir stark."
+    ],
+    "synonyms": [
+      "zusammen"
+    ],
+    "antonyms": [
+      "allein"
+    ]
+  },
+  {
+    "german": "allein",
+    "english": "alone",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich bin allein.",
+      "Er lebt allein.",
+      "Allein zu Hause."
+    ],
+    "synonyms": [
+      "einsam"
+    ],
+    "antonyms": [
+      "zusammen"
+    ]
+  },
+  {
+    "german": "einsam",
+    "english": "lonely",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich fühle mich einsam.",
+      "Eine einsame Straße.",
+      "Er ist einsam."
+    ],
+    "synonyms": [
+      "allein"
+    ],
+    "antonyms": [
+      "gesellig"
+    ]
+  },
+  {
+    "german": "privat",
+    "english": "private",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist privat.",
+      "Private Angelegenheit.",
+      "Mein privates Leben."
+    ],
+    "synonyms": [
+      "persönlich"
+    ],
+    "antonyms": [
+      "öffentlich"
+    ]
+  },
+  {
+    "german": "öffentlich",
+    "english": "public",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Öffentliche Verkehrsmittel.",
+      "Ein öffentlicher Platz.",
+      "Das ist öffentlich."
+    ],
+    "synonyms": [
+      "allgemein"
+    ],
+    "antonyms": [
+      "privat"
+    ]
+  },
+  {
+    "german": "persönlich",
+    "english": "personal",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist persönlich.",
+      "Persönliche Daten.",
+      "Ich komme persönlich."
+    ],
+    "synonyms": [
+      "privat"
+    ],
+    "antonyms": [
+      "öffentlich"
+    ]
+  },
+  {
+    "german": "offiziell",
+    "english": "official",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist offiziell.",
+      "Offizielle Dokumente.",
+      "Eine offizielle Bestätigung."
+    ],
+    "synonyms": [
+      "amtlich"
+    ],
+    "antonyms": [
+      "inoffiziell"
+    ]
+  },
+  {
+    "german": "täglich",
+    "english": "daily",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich lese täglich.",
+      "Tägliche Routine.",
+      "Das mache ich täglich."
+    ],
+    "synonyms": [
+      "jeden Tag"
+    ],
+    "antonyms": [
+      "selten"
+    ]
+  },
+  {
+    "german": "wöchentlich",
+    "english": "weekly",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Wöchentliche Treffen.",
+      "Ich gehe wöchentlich.",
+      "Das passiert wöchentlich."
+    ],
+    "synonyms": [
+      "jede Woche"
+    ],
+    "antonyms": [
+      "selten"
+    ]
+  },
+  {
+    "german": "monatlich",
+    "english": "monthly",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Monatliche Zahlung.",
+      "Ich zahle monatlich.",
+      "Das kostet monatlich."
+    ],
+    "synonyms": [
+      "jeden Monat"
+    ],
+    "antonyms": [
+      "jährlich"
+    ]
+  },
+  {
+    "german": "jährlich",
+    "english": "yearly / annual",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Jährliche Kosten.",
+      "Ich fahre jährlich in Urlaub.",
+      "Das findet jährlich statt."
+    ],
+    "synonyms": [
+      "jedes Jahr"
+    ],
+    "antonyms": [
+      "monatlich"
+    ]
+  },
+  {
+    "german": "endlich",
+    "english": "finally / at last",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Endlich da!",
+      "Ich bin endlich fertig.",
+      "Endlich Wochenende!"
+    ],
+    "synonyms": [
+      "schließlich"
+    ],
+    "antonyms": [
+      "anfangs"
+    ]
+  },
+  {
+    "german": "plötzlich",
+    "english": "suddenly",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Plötzlich kam er.",
+      "Es regnete plötzlich.",
+      "Plötzlich war er da."
+    ],
+    "synonyms": [
+      "auf einmal"
+    ],
+    "antonyms": [
+      "langsam"
+    ]
+  },
+  {
+    "german": "vielleicht",
+    "english": "maybe / perhaps",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Vielleicht komme ich.",
+      "Das ist vielleicht gut.",
+      "Vielleicht morgen."
+    ],
+    "synonyms": [
+      "eventuell"
+    ],
+    "antonyms": [
+      "sicher"
+    ]
+  },
+  {
+    "german": "bestimmt",
+    "english": "certainly / definitely",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist bestimmt richtig.",
+      "Ich komme bestimmt.",
+      "Bestimmt nicht!"
+    ],
+    "synonyms": [
+      "sicherlich"
+    ],
+    "antonyms": [
+      "vielleicht"
+    ]
+  },
+  {
+    "german": "wahrscheinlich",
+    "english": "probably / likely",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist wahrscheinlich.",
+      "Ich komme wahrscheinlich.",
+      "Wahrscheinlich regnet es."
+    ],
+    "synonyms": [
+      "vermutlich"
+    ],
+    "antonyms": [
+      "unwahrscheinlich"
+    ]
+  },
+  {
+    "german": "eigentlich",
+    "english": "actually / really",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Eigentlich nicht.",
+      "Was machst du eigentlich?",
+      "Eigentlich stimmt das."
+    ],
+    "synonyms": [
+      "tatsächlich"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "wirklich",
+    "english": "really / truly",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist wirklich gut.",
+      "Wirklich?",
+      "Ich bin wirklich müde."
+    ],
+    "synonyms": [
+      "echt"
+    ],
+    "antonyms": [
+      "falsch"
+    ]
+  },
+  {
+    "german": "genau",
+    "english": "exactly / precisely",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Genau!",
+      "Das ist genau richtig.",
+      "Genau um 3 Uhr."
+    ],
+    "synonyms": [
+      "exakt"
+    ],
+    "antonyms": [
+      "ungefähr"
+    ]
+  },
+  {
+    "german": "ungefähr",
+    "english": "approximately / about",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ungefähr 10 Euro.",
+      "Es dauert ungefähr eine Stunde.",
+      "Ungefähr hier."
+    ],
+    "synonyms": [
+      "circa"
+    ],
+    "antonyms": [
+      "genau"
+    ]
+  },
+  {
+    "german": "fast",
+    "english": "almost / nearly",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich bin fast fertig.",
+      "Fast jeden Tag.",
+      "Es ist fast 5 Uhr."
+    ],
+    "synonyms": [
+      "beinahe"
+    ],
+    "antonyms": [
+      "kaum"
+    ]
+  },
+  {
+    "german": "kaum",
+    "english": "hardly / barely",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich kann kaum sehen.",
+      "Kaum zu glauben.",
+      "Er spricht kaum."
+    ],
+    "synonyms": [
+      "barely"
+    ],
+    "antonyms": [
+      "viel"
+    ]
+  },
+  {
+    "german": "ziemlich",
+    "english": "quite / rather",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist ziemlich gut.",
+      "Ziemlich teuer.",
+      "Ich bin ziemlich müde."
+    ],
+    "synonyms": [
+      "recht"
+    ],
+    "antonyms": [
+      "kaum"
+    ]
+  },
+  {
+    "german": "sehr",
+    "english": "very",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist sehr gut.",
+      "Ich bin sehr müde.",
+      "Sehr schön!"
+    ],
+    "synonyms": [
+      "äußerst"
+    ],
+    "antonyms": [
+      "kaum"
+    ]
+  },
+  {
+    "german": "zu",
+    "english": "too",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist zu teuer.",
+      "Zu spät!",
+      "Nicht zu schnell!"
+    ],
+    "synonyms": [
+      "allzu"
+    ],
+    "antonyms": [
+      "genug"
+    ]
+  },
+  {
+    "german": "genug",
+    "english": "enough",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist genug.",
+      "Ich habe genug Zeit.",
+      "Genug gegessen!"
+    ],
+    "synonyms": [
+      "ausreichend"
+    ],
+    "antonyms": [
+      "zu wenig"
+    ]
+  },
+  {
+    "german": "beide",
+    "english": "both",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Beide kommen.",
+      "Ich nehme beide.",
+      "Beide Bücher sind gut."
+    ],
+    "synonyms": [
+      "die zwei"
+    ],
+    "antonyms": [
+      "keiner"
+    ]
+  },
+  {
+    "german": "mehrere",
+    "english": "several",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Mehrere Menschen.",
+      "Ich habe mehrere Bücher.",
+      "Mehrere Tage."
+    ],
+    "synonyms": [
+      "einige"
+    ],
+    "antonyms": [
+      "wenige"
+    ]
+  },
+  {
+    "german": "einige",
+    "english": "some / several",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Einige Leute.",
+      "Ich habe einige Fragen.",
+      "Einige Tage später."
+    ],
+    "synonyms": [
+      "manche"
+    ],
+    "antonyms": [
+      "alle"
+    ]
+  },
+  {
+    "german": "manche",
+    "english": "some / certain",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Manche Menschen.",
+      "Manche mögen das.",
+      "Manchmal komme ich."
+    ],
+    "synonyms": [
+      "einige"
+    ],
+    "antonyms": [
+      "alle"
+    ]
+  },
+  {
+    "german": "jeder",
+    "english": "each / every",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Jeder Tag.",
+      "Jeder kann kommen.",
+      "Für jeden etwas."
+    ],
+    "synonyms": [
+      "alle"
+    ],
+    "antonyms": [
+      "keiner"
+    ]
+  },
+  {
+    "german": "keiner",
+    "english": "none / nobody",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Keiner ist da.",
+      "Ich kenne keinen.",
+      "Keiner mag das."
+    ],
+    "synonyms": [
+      "niemand"
+    ],
+    "antonyms": [
+      "jeder"
+    ]
+  },
+  {
+    "german": "wer",
+    "english": "who",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Wer bist du?",
+      "Wer kommt mit?",
+      "Wer hat das gemacht?"
+    ],
+    "synonyms": [
+      "welche Person"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "was",
+    "english": "what",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Was machst du?",
+      "Was ist das?",
+      "Was möchtest du?"
+    ],
+    "synonyms": [
+      "welche Sache"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "wann",
+    "english": "when",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Wann kommst du?",
+      "Wann beginnt es?",
+      "Wann ist das?"
+    ],
+    "synonyms": [
+      "zu welcher Zeit"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "wo",
+    "english": "where",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Wo bist du?",
+      "Wo ist das?",
+      "Wo wohnst du?"
+    ],
+    "synonyms": [
+      "an welchem Ort"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "wohin",
+    "english": "where to",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Wohin gehst du?",
+      "Wohin fährst du?",
+      "Wohin reist du?"
+    ],
+    "synonyms": [
+      "zu welchem Ort"
+    ],
+    "antonyms": [
+      "woher"
+    ]
+  },
+  {
+    "german": "woher",
+    "english": "where from",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Woher kommst du?",
+      "Woher hast du das?",
+      "Woher weißt du das?"
+    ],
+    "synonyms": [
+      "von welchem Ort"
+    ],
+    "antonyms": [
+      "wohin"
+    ]
+  },
+  {
+    "german": "wie",
+    "english": "how",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Wie geht's?",
+      "Wie machst du das?",
+      "Wie heißt du?"
+    ],
+    "synonyms": [
+      "auf welche Weise"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "warum",
+    "english": "why",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Warum nicht?",
+      "Warum machst du das?",
+      "Warum fragst du?"
+    ],
+    "synonyms": [
+      "weshalb"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "welcher",
+    "english": "which",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Welcher ist das?",
+      "Welches Buch?",
+      "Welche Farbe?"
+    ],
+    "synonyms": [
+      "was für ein"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "wie viel",
+    "english": "how much",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Wie viel kostet das?",
+      "Wie viel Uhr ist es?",
+      "Wie viel brauchst du?"
+    ],
+    "synonyms": [
+      "welche Menge"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "wie lange",
+    "english": "how long",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Wie lange dauert das?",
+      "Wie lange bleibst du?",
+      "Wie lange ist das her?"
+    ],
+    "synonyms": [
+      "welche Dauer"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "und",
+    "english": "and",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Du und ich.",
+      "Kaffee und Kuchen.",
+      "Heute und morgen."
+    ],
+    "synonyms": [
+      "sowie"
+    ],
+    "antonyms": [
+      "oder"
+    ]
+  },
+  {
+    "german": "oder",
+    "english": "or",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Tee oder Kaffee?",
+      "Heute oder morgen?",
+      "Ja oder nein?"
+    ],
+    "synonyms": [
+      "beziehungsweise"
+    ],
+    "antonyms": [
+      "und"
+    ]
+  },
+  {
+    "german": "aber",
+    "english": "but",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Klein aber fein.",
+      "Ich will, aber ich kann nicht.",
+      "Das ist gut, aber teuer."
+    ],
+    "synonyms": [
+      "jedoch"
+    ],
+    "antonyms": [
+      "und"
+    ]
+  },
+  {
+    "german": "denn",
+    "english": "because / for",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich gehe, denn es ist spät.",
+      "Was machst du denn?",
+      "Wo bist du denn?"
+    ],
+    "synonyms": [
+      "weil"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "weil",
+    "english": "because",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich gehe, weil es spät ist.",
+      "Weil ich müde bin.",
+      "Warum? Weil!"
+    ],
+    "synonyms": [
+      "da"
+    ],
+    "antonyms": [
+      "obwohl"
+    ]
+  },
+  {
+    "german": "wenn",
+    "english": "if / when",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Wenn du kommst.",
+      "Wenn es regnet.",
+      "Wenn möglich."
+    ],
+    "synonyms": [
+      "falls"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "als",
+    "english": "when / as / than",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Als ich Kind war.",
+      "Größer als du.",
+      "Als Lehrer arbeiten."
+    ],
+    "synonyms": [
+      "wie"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "dass",
+    "english": "that",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich hoffe, dass du kommst.",
+      "Er sagt, dass es regnet.",
+      "Ich weiß, dass es wahr ist."
+    ],
+    "synonyms": [
+      "keine"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "ob",
+    "english": "whether / if",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich weiß nicht, ob er kommt.",
+      "Ob das stimmt?",
+      "Frag, ob es möglich ist."
+    ],
+    "synonyms": [
+      "keine"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "sondern",
+    "english": "but (rather)",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Nicht rot, sondern blau.",
+      "Ich komme nicht heute, sondern morgen.",
+      "Nicht er, sondern sie."
+    ],
+    "synonyms": [
+      "vielmehr"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "deshalb",
+    "english": "therefore / that's why",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Es regnet, deshalb bleibe ich zu Hause.",
+      "Ich bin müde, deshalb gehe ich schlafen.",
+      "Deshalb frage ich."
+    ],
+    "synonyms": [
+      "daher"
+    ],
+    "antonyms": [
+      "trotzdem"
+    ]
+  },
+  {
+    "german": "trotzdem",
+    "english": "nevertheless / still",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Es regnet, trotzdem gehe ich.",
+      "Ich bin müde, trotzdem arbeite ich.",
+      "Trotzdem danke!"
+    ],
+    "synonyms": [
+      "dennoch"
+    ],
+    "antonyms": [
+      "deshalb"
+    ]
+  },
+  {
+    "german": "in",
+    "english": "in / into",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich bin in der Stadt.",
+      "Geh ins Haus!",
+      "In einer Woche."
+    ],
+    "synonyms": [
+      "innerhalb"
+    ],
+    "antonyms": [
+      "aus"
+    ]
+  },
+  {
+    "german": "an",
+    "english": "at / on",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "An der Wand.",
+      "Am Montag.",
+      "An dir."
+    ],
+    "synonyms": [
+      "bei"
+    ],
+    "antonyms": [
+      "von"
+    ]
+  },
+  {
+    "german": "auf",
+    "english": "on / upon",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Auf dem Tisch.",
+      "Auf Wiedersehen!",
+      "Auf Deutsch."
+    ],
+    "synonyms": [
+      "über"
+    ],
+    "antonyms": [
+      "unter"
+    ]
+  },
+  {
+    "german": "unter",
+    "english": "under / below",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Unter dem Tisch.",
+      "Unter 18 Jahre.",
+      "Unter uns."
+    ],
+    "synonyms": [
+      "unterhalb"
+    ],
+    "antonyms": [
+      "über"
+    ]
+  },
+  {
+    "german": "über",
+    "english": "over / above / about",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Über dem Tisch.",
+      "Über 100 Euro.",
+      "Über das Wetter sprechen."
+    ],
+    "synonyms": [
+      "oberhalb"
+    ],
+    "antonyms": [
+      "unter"
+    ]
+  },
+  {
+    "german": "vor",
+    "english": "before / in front of",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Vor dem Haus.",
+      "Vor einer Woche.",
+      "Vor dir."
+    ],
+    "synonyms": [
+      "bevor"
+    ],
+    "antonyms": [
+      "nach"
+    ]
+  },
+  {
+    "german": "hinter",
+    "english": "behind",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Hinter dem Haus.",
+      "Hinter dir.",
+      "Das steht dahinter."
+    ],
+    "synonyms": [
+      "dahinter"
+    ],
+    "antonyms": [
+      "vor"
+    ]
+  },
+  {
+    "german": "neben",
+    "english": "next to / beside",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Neben mir.",
+      "Neben dem Tisch.",
+      "Das Haus neben der Schule."
+    ],
+    "synonyms": [
+      "bei"
+    ],
+    "antonyms": [
+      "fern"
+    ]
+  },
+  {
+    "german": "zwischen",
+    "english": "between",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Zwischen den Häusern.",
+      "Zwischen uns.",
+      "Zwischen 5 und 6 Uhr."
+    ],
+    "synonyms": [
+      "inmitten"
+    ],
+    "antonyms": [
+      "außerhalb"
+    ]
+  },
+  {
+    "german": "bei",
+    "english": "at / with / near",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Bei mir zu Hause.",
+      "Bei der Arbeit.",
+      "Ich bin bei dir."
+    ],
+    "synonyms": [
+      "an"
+    ],
+    "antonyms": [
+      "fern von"
+    ]
+  },
+  {
+    "german": "mit",
+    "english": "with",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Mit dir.",
+      "Mit dem Auto.",
+      "Mit Freude."
+    ],
+    "synonyms": [
+      "zusammen mit"
+    ],
+    "antonyms": [
+      "ohne"
+    ]
+  },
+  {
+    "german": "ohne",
+    "english": "without",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ohne dich.",
+      "Ohne Auto.",
+      "Ohne Zucker."
+    ],
+    "synonyms": [
+      "keine"
+    ],
+    "antonyms": [
+      "mit"
+    ]
+  },
+  {
+    "german": "für",
+    "english": "for",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Für dich.",
+      "Für immer.",
+      "Das ist für mich."
+    ],
+    "synonyms": [
+      "zugunsten"
+    ],
+    "antonyms": [
+      "gegen"
+    ]
+  },
+  {
+    "german": "gegen",
+    "english": "against",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Gegen die Wand.",
+      "Gegen 5 Uhr.",
+      "Ich bin gegen das."
+    ],
+    "synonyms": [
+      "wider"
+    ],
+    "antonyms": [
+      "für"
+    ]
+  },
+  {
+    "german": "aus",
+    "english": "from / out of",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Aus Deutschland.",
+      "Aus Holz.",
+      "Aus dem Haus."
+    ],
+    "synonyms": [
+      "von"
+    ],
+    "antonyms": [
+      "in"
+    ]
+  },
+  {
+    "german": "von",
+    "english": "from / of",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Von mir.",
+      "Von 9 bis 5.",
+      "Das Buch von ihm."
+    ],
+    "synonyms": [
+      "aus"
+    ],
+    "antonyms": [
+      "zu"
+    ]
+  },
+  {
+    "german": "zu",
+    "english": "to",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Zu Hause.",
+      "Zu Fuß.",
+      "Zu dir."
+    ],
+    "synonyms": [
+      "nach"
+    ],
+    "antonyms": [
+      "von"
+    ]
+  },
+  {
+    "german": "nach",
+    "english": "to / after",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Nach Berlin.",
+      "Nach dem Essen.",
+      "Nach links."
+    ],
+    "synonyms": [
+      "zu"
+    ],
+    "antonyms": [
+      "vor"
+    ]
+  },
+  {
+    "german": "bis",
+    "english": "until / by",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Bis morgen!",
+      "Bis 5 Uhr.",
+      "Bis bald!"
+    ],
+    "synonyms": [
+      "keine"
+    ],
+    "antonyms": [
+      "ab"
+    ]
+  },
+  {
+    "german": "seit",
+    "english": "since / for",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Seit gestern.",
+      "Seit einem Jahr.",
+      "Seit wann?"
+    ],
+    "synonyms": [
+      "keine"
+    ],
+    "antonyms": [
+      "bis"
+    ]
+  },
+  {
+    "german": "während",
+    "english": "during / while",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Während des Unterrichts.",
+      "Während ich schlafe.",
+      "Während der Woche."
+    ],
+    "synonyms": [
+      "im Laufe"
+    ],
+    "antonyms": [
+      "außerhalb"
+    ]
+  },
+  {
+    "german": "durch",
+    "english": "through",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Durch die Tür.",
+      "Durch den Park.",
+      "Durch Zufall."
+    ],
+    "synonyms": [
+      "mittels"
+    ],
+    "antonyms": [
+      "um herum"
+    ]
+  },
+  {
+    "german": "um",
+    "english": "around / at",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Um das Haus.",
+      "Um 5 Uhr.",
+      "Um die Ecke."
+    ],
+    "synonyms": [
+      "gegen"
+    ],
+    "antonyms": [
+      "durch"
+    ]
+  },
+  {
+    "german": "ja",
+    "english": "yes",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ja, ich komme.",
+      "Ja, bitte!",
+      "Ja oder nein?"
+    ],
+    "synonyms": [
+      "jawohl"
+    ],
+    "antonyms": [
+      "nein"
+    ]
+  },
+  {
+    "german": "nein",
+    "english": "no",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Nein, danke.",
+      "Nein, ich kann nicht.",
+      "Ja oder nein?"
+    ],
+    "synonyms": [
+      "keine"
+    ],
+    "antonyms": [
+      "ja"
+    ]
+  },
+  {
+    "german": "bitte",
+    "english": "please / you're welcome",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Bitte schön!",
+      "Ja, bitte!",
+      "Bitte helfen Sie mir."
+    ],
+    "synonyms": [
+      "keine"
+    ],
+    "antonyms": [
+      "danke"
+    ]
+  },
+  {
+    "german": "danke",
+    "english": "thank you / thanks",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Danke schön!",
+      "Vielen Dank!",
+      "Danke für die Hilfe."
+    ],
+    "synonyms": [
+      "dankeschön"
+    ],
+    "antonyms": [
+      "bitte"
+    ]
+  },
+  {
+    "german": "entschuldigung",
+    "english": "excuse me / sorry",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Entschuldigung!",
+      "Entschuldigung, wo ist...?",
+      "Um Entschuldigung bitten."
+    ],
+    "synonyms": [
+      "Verzeihung"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "tut mir leid",
+    "english": "I'm sorry",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das tut mir leid.",
+      "Es tut mir wirklich leid.",
+      "Tut mir leid!"
+    ],
+    "synonyms": [
+      "Entschuldigung"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "gern geschehen",
+    "english": "you're welcome",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Gern geschehen!",
+      "Bitte, gern geschehen!",
+      "Nichts zu danken, gern geschehen."
+    ],
+    "synonyms": [
+      "bitte"
+    ],
+    "antonyms": [
+      "danke"
+    ]
+  },
+  {
+    "german": "hallo",
+    "english": "hello",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Hallo!",
+      "Hallo, wie geht's?",
+      "Sag hallo!"
+    ],
+    "synonyms": [
+      "hi"
+    ],
+    "antonyms": [
+      "tschüss"
+    ]
+  },
+  {
+    "german": "tschüss",
+    "english": "bye / goodbye",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Tschüss!",
+      "Bis später, tschüss!",
+      "Sag tschüss!"
+    ],
+    "synonyms": [
+      "auf Wiedersehen"
+    ],
+    "antonyms": [
+      "hallo"
+    ]
+  },
+  {
+    "german": "guten Morgen",
+    "english": "good morning",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Guten Morgen!",
+      "Guten Morgen, wie geht's?",
+      "Ich sage guten Morgen."
+    ],
+    "synonyms": [
+      "Morgen"
+    ],
+    "antonyms": [
+      "gute Nacht"
+    ]
+  },
+  {
+    "german": "guten Tag",
+    "english": "good day / hello",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Guten Tag!",
+      "Ich wünsche einen guten Tag.",
+      "Guten Tag, Herr Müller!"
+    ],
+    "synonyms": [
+      "hallo"
+    ],
+    "antonyms": [
+      "gute Nacht"
+    ]
+  },
+  {
+    "german": "guten Abend",
+    "english": "good evening",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Guten Abend!",
+      "Guten Abend, wie war dein Tag?",
+      "Ich sage guten Abend."
+    ],
+    "synonyms": [
+      "Abend"
+    ],
+    "antonyms": [
+      "guten Morgen"
+    ]
+  },
+  {
+    "german": "gute Nacht",
+    "english": "good night",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Gute Nacht!",
+      "Gute Nacht und schlaf gut!",
+      "Ich wünsche eine gute Nacht."
+    ],
+    "synonyms": [
+      "Nacht"
+    ],
+    "antonyms": [
+      "guten Morgen"
+    ]
+  },
+  {
+    "german": "auf Wiedersehen",
+    "english": "goodbye",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Auf Wiedersehen!",
+      "Auf Wiedersehen, bis morgen!",
+      "Ich sage auf Wiedersehen."
+    ],
+    "synonyms": [
+      "tschüss"
+    ],
+    "antonyms": [
+      "hallo"
+    ]
+  },
+  {
+    "german": "bis bald",
+    "english": "see you soon",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Bis bald!",
+      "Tschüss, bis bald!",
+      "Wir sehen uns, bis bald!"
+    ],
+    "synonyms": [
+      "bis später"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "bis später",
+    "english": "see you later",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Bis später!",
+      "Tschüss, bis später!",
+      "Ich komme später, bis später!"
+    ],
+    "synonyms": [
+      "bis bald"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "viel Glück",
+    "english": "good luck",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Viel Glück!",
+      "Ich wünsche dir viel Glück!",
+      "Viel Glück bei der Prüfung!"
+    ],
+    "synonyms": [
+      "alles Gute"
+    ],
+    "antonyms": [
+      "Pech"
+    ]
+  },
+  {
+    "german": "viel Spaß",
+    "english": "have fun",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Viel Spaß!",
+      "Ich wünsche dir viel Spaß!",
+      "Viel Spaß auf der Party!"
+    ],
+    "synonyms": [
+      "viel Vergnügen"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "herzlichen Glückwunsch",
+    "english": "congratulations",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Herzlichen Glückwunsch!",
+      "Herzlichen Glückwunsch zum Geburtstag!",
+      "Ich gratuliere, herzlichen Glückwunsch!"
+    ],
+    "synonyms": [
+      "Glückwunsch"
+    ],
+    "antonyms": [
+      "Beileid"
+    ]
+  },
+  {
+    "german": "gute Besserung",
+    "english": "get well soon",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Gute Besserung!",
+      "Ich wünsche dir gute Besserung!",
+      "Werde schnell gesund, gute Besserung!"
+    ],
+    "synonyms": [
+      "keine"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "gesundheit",
+    "english": "bless you (after sneeze)",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Gesundheit!",
+      "Hatschi! - Gesundheit!",
+      "Ich sage Gesundheit."
+    ],
+    "synonyms": [
+      "keine"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "prost",
+    "english": "cheers",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Prost!",
+      "Prost auf uns!",
+      "Zum Wohl, prost!"
+    ],
+    "synonyms": [
+      "zum Wohl"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "guten Appetit",
+    "english": "enjoy your meal",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Guten Appetit!",
+      "Ich wünsche guten Appetit!",
+      "Lasst es euch schmecken, guten Appetit!"
+    ],
+    "synonyms": [
+      "Mahlzeit"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "kein Problem",
+    "english": "no problem",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Kein Problem!",
+      "Das ist kein Problem.",
+      "Danke! - Kein Problem!"
+    ],
+    "synonyms": [
+      "keine Ursache"
+    ],
+    "antonyms": [
+      "Problem"
+    ]
+  },
+  {
+    "german": "natürlich",
+    "english": "of course / naturally",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Natürlich!",
+      "Natürlich helfe ich dir.",
+      "Das ist natürlich."
+    ],
+    "synonyms": [
+      "selbstverständlich"
+    ],
+    "antonyms": [
+      "keinesfalls"
+    ]
+  },
+  {
+    "german": "selbstverständlich",
+    "english": "of course / naturally",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Selbstverständlich!",
+      "Das ist selbstverständlich.",
+      "Selbstverständlich komme ich."
+    ],
+    "synonyms": [
+      "natürlich"
+    ],
+    "antonyms": [
+      "keinesfalls"
+    ]
+  },
+  {
+    "german": "moment",
+    "english": "moment",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Einen Moment bitte!",
+      "Moment mal!",
+      "Warte einen Moment."
+    ],
+    "synonyms": [
+      "Augenblick"
+    ],
+    "antonyms": [
+      "Ewigkeit"
+    ]
+  },
+  {
+    "german": "achtung",
+    "english": "attention / watch out",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Achtung!",
+      "Achtung, Auto!",
+      "Bitte um Achtung!"
+    ],
+    "synonyms": [
+      "Vorsicht"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "vorsicht",
+    "english": "caution / careful",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Vorsicht!",
+      "Vorsicht, Stufe!",
+      "Sei vorsichtig!"
+    ],
+    "synonyms": [
+      "Achtung"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "hilfe",
+    "english": "help",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Hilfe!",
+      "Ich brauche Hilfe.",
+      "Kannst du mir helfen?"
+    ],
+    "synonyms": [
+      "Unterstützung"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "stopp",
+    "english": "stop",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Stopp!",
+      "Halt, stopp!",
+      "Mach einen Stopp."
+    ],
+    "synonyms": [
+      "halt"
+    ],
+    "antonyms": [
+      "weiter"
+    ]
+  },
+  {
+    "german": "weiter",
+    "english": "further / continue",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Weiter!",
+      "Mach weiter!",
+      "Geh weiter!"
+    ],
+    "synonyms": [
+      "fort"
+    ],
+    "antonyms": [
+      "stopp"
+    ]
+  },
+  {
+    "german": "fertig",
+    "english": "finished / done / ready",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Fertig!",
+      "Ich bin fertig.",
+      "Das Essen ist fertig."
+    ],
+    "synonyms": [
+      "bereit"
+    ],
+    "antonyms": [
+      "angefangen"
+    ]
+  },
+  {
+    "german": "los",
+    "english": "go / let's go",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Los!",
+      "Los geht's!",
+      "Was ist los?"
+    ],
+    "synonyms": [
+      "auf geht's"
+    ],
+    "antonyms": [
+      "stopp"
+    ]
+  },
+  {
+    "german": "schade",
+    "english": "pity / shame / too bad",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Schade!",
+      "Das ist schade.",
+      "Wie schade!"
+    ],
+    "synonyms": [
+      "bedauerlich"
+    ],
+    "antonyms": [
+      "toll"
+    ]
+  },
+  {
+    "german": "egal",
+    "english": "doesn't matter / all the same",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist egal.",
+      "Mir egal!",
+      "Egal wie."
+    ],
+    "synonyms": [
+      "gleichgültig"
+    ],
+    "antonyms": [
+      "wichtig"
+    ]
+  },
+  {
+    "german": "stimmt",
+    "english": "that's right / correct",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Stimmt!",
+      "Das stimmt.",
+      "Stimmt genau!"
+    ],
+    "synonyms": [
+      "richtig"
+    ],
+    "antonyms": [
+      "stimmt nicht"
+    ]
+  },
+  {
+    "german": "hoffentlich",
+    "english": "hopefully",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Hoffentlich!",
+      "Hoffentlich kommt er.",
+      "Das klappt hoffentlich."
+    ],
+    "synonyms": [
+      "mit etwas Glück"
+    ],
+    "antonyms": [
+      "leider"
+    ]
+  },
+  {
+    "german": "leider",
+    "english": "unfortunately",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Leider nicht.",
+      "Leider kann ich nicht kommen.",
+      "Das ist leider so."
+    ],
+    "synonyms": [
+      "bedauerlicherweise"
+    ],
+    "antonyms": [
+      "zum Glück"
+    ]
+  },
+  {
+    "german": "zum Glück",
+    "english": "fortunately / luckily",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Zum Glück!",
+      "Zum Glück ist nichts passiert.",
+      "Das hat zum Glück geklappt."
+    ],
+    "synonyms": [
+      "glücklicherweise"
+    ],
+    "antonyms": [
+      "leider"
+    ]
+  },
+  {
+    "german": "übrigens",
+    "english": "by the way",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Übrigens...",
+      "Das ist übrigens wichtig.",
+      "Übrigens, hast du Zeit?"
+    ],
+    "synonyms": [
+      "nebenbei bemerkt"
+    ],
+    "antonyms": [
+      "keine"
+    ]
   }
 ]
