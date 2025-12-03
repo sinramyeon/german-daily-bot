@@ -14839,5 +14839,450 @@
     "antonyms": [
       "halb"
     ]
+  },
+  {
+    "german": "erst",
+    "english": "first / only / not until",
+    "gender": "Adverb",
+    "level": "A1",
+    "examples": [
+      "Ich komme erst morgen.",
+      "Das ist erst der Anfang.",
+      "Erst dann verstehe ich es."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "letzte",
+    "english": "last",
+    "gender": "Adjektiv",
+    "level": "A1",
+    "examples": [
+      "Das ist die letzte Seite.",
+      "Letzte Woche war ich krank.",
+      "Der letzte Bus fährt um 23 Uhr."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "erste"
+    ]
+  },
+  {
+    "german": "nächste",
+    "english": "next",
+    "gender": "Adjektiv",
+    "level": "A1",
+    "examples": [
+      "Nächste Woche habe ich Urlaub.",
+      "Die nächste Haltestelle bitte!",
+      "Bis zum nächsten Mal!"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "vorige",
+    "english": "previous / last",
+    "gender": "Adjektiv",
+    "level": "A1",
+    "examples": [
+      "Vorige Woche war ich dort.",
+      "Im vorigen Jahr.",
+      "Das vorige Mal war besser."
+    ],
+    "synonyms": [
+      "letzte"
+    ],
+    "antonyms": [
+      "nächste"
+    ]
+  },
+  {
+    "german": "beide",
+    "english": "both",
+    "gender": "Pronomen",
+    "level": "A1",
+    "examples": [
+      "Beide sind gut.",
+      "Ich nehme beide.",
+      "Wir kommen beide."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "alle",
+    "english": "all / everyone",
+    "gender": "Pronomen",
+    "level": "A1",
+    "examples": [
+      "Alle sind da.",
+      "Ich lade alle ein.",
+      "Alle zusammen!"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "niemand"
+    ]
+  },
+  {
+    "german": "niemand",
+    "english": "nobody / no one",
+    "gender": "Pronomen",
+    "level": "A1",
+    "examples": [
+      "Niemand ist da.",
+      "Ich sehe niemand.",
+      "Niemand weiß es."
+    ],
+    "synonyms": [
+      "keiner"
+    ],
+    "antonyms": [
+      "alle",
+      "jemand"
+    ]
+  },
+  {
+    "german": "jemand",
+    "english": "someone / somebody",
+    "gender": "Pronomen",
+    "level": "A1",
+    "examples": [
+      "Jemand klopft an die Tür.",
+      "Ist jemand da?",
+      "Ich kenne jemand."
+    ],
+    "synonyms": [
+      "einer"
+    ],
+    "antonyms": [
+      "niemand"
+    ]
+  },
+  {
+    "german": "etwas",
+    "english": "something / a little",
+    "gender": "Pronomen",
+    "level": "A1",
+    "examples": [
+      "Ich möchte etwas essen.",
+      "Hast du etwas Zeit?",
+      "Etwas stimmt nicht."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "nichts"
+    ]
+  },
+  {
+    "german": "nichts",
+    "english": "nothing",
+    "gender": "Pronomen",
+    "level": "A1",
+    "examples": [
+      "Ich habe nichts.",
+      "Nichts ist unmöglich.",
+      "Es kostet nichts."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "etwas",
+      "alles"
+    ]
+  },
+  {
+    "german": "alles",
+    "english": "everything / all",
+    "gender": "Pronomen",
+    "level": "A1",
+    "examples": [
+      "Alles ist gut.",
+      "Ich nehme alles.",
+      "Alles Gute!"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "nichts"
+    ]
+  },
+  {
+    "german": "selbst",
+    "english": "self / even",
+    "gender": "Pronomen / Adverb",
+    "level": "A1",
+    "examples": [
+      "Ich mache es selbst.",
+      "Selbst ich verstehe das nicht.",
+      "Du kannst es selbst probieren."
+    ],
+    "synonyms": [
+      "selber"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "einander",
+    "english": "each other / one another",
+    "gender": "Pronomen",
+    "level": "A1",
+    "examples": [
+      "Wir helfen einander.",
+      "Sie lieben einander.",
+      "Wir kennen einander."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "dieser",
+    "english": "this",
+    "gender": "Pronomen",
+    "level": "A1",
+    "examples": [
+      "Dieser Apfel ist rot.",
+      "Diese Frau ist nett.",
+      "Dieses Buch ist gut."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "jener"
+    ]
+  },
+  {
+    "german": "jener",
+    "english": "that",
+    "gender": "Pronomen",
+    "level": "A1",
+    "examples": [
+      "Jener Baum ist groß.",
+      "Jene Frau dort.",
+      "Jenes Haus gefällt mir."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "dieser"
+    ]
+  },
+  {
+    "german": "welcher",
+    "english": "which",
+    "gender": "Pronomen",
+    "level": "A1",
+    "examples": [
+      "Welcher Bus fährt zum Bahnhof?",
+      "Welche Farbe magst du?",
+      "Welches Buch liest du?"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "solcher",
+    "english": "such",
+    "gender": "Pronomen",
+    "level": "A1",
+    "examples": [
+      "Solche Bücher mag ich.",
+      "Ein solcher Tag ist schön.",
+      "Solches Wetter liebe ich."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "mehrere",
+    "english": "several",
+    "gender": "Pronomen",
+    "level": "A1",
+    "examples": [
+      "Ich habe mehrere Bücher.",
+      "Mehrere Leute warten.",
+      "Das dauert mehrere Tage."
+    ],
+    "synonyms": [
+      "einige"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "einige",
+    "english": "some / several",
+    "gender": "Pronomen",
+    "level": "A1",
+    "examples": [
+      "Einige Menschen kommen.",
+      "Ich habe einige Fragen.",
+      "Einige Minuten bitte!"
+    ],
+    "synonyms": [
+      "mehrere"
+    ],
+    "antonyms": []
+  },
+  {
+    "german": "andere",
+    "english": "other",
+    "gender": "Pronomen",
+    "level": "A1",
+    "examples": [
+      "Die anderen kommen später.",
+      "Ein anderes Mal.",
+      "Andere Leute denken anders."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "viel",
+    "english": "much / a lot",
+    "gender": "Pronomen",
+    "level": "A1",
+    "examples": [
+      "Ich habe viel zu tun.",
+      "Viel Glück!",
+      "Es kostet nicht viel."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "wenig"
+    ]
+  },
+  {
+    "german": "wenig",
+    "english": "little / few",
+    "gender": "Pronomen",
+    "level": "A1",
+    "examples": [
+      "Ich habe wenig Zeit.",
+      "Das ist zu wenig.",
+      "Wenig Menschen verstehen das."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "viel"
+    ]
+  },
+  {
+    "german": "mehr",
+    "english": "more",
+    "gender": "Adverb",
+    "level": "A1",
+    "examples": [
+      "Ich möchte mehr.",
+      "Mehr Geld bitte!",
+      "Nicht mehr da."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "weniger"
+    ]
+  },
+  {
+    "german": "weniger",
+    "english": "less / fewer",
+    "gender": "Adverb",
+    "level": "A1",
+    "examples": [
+      "Ich esse weniger.",
+      "Weniger ist mehr.",
+      "Das kostet weniger."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "mehr"
+    ]
+  },
+  {
+    "german": "genug",
+    "english": "enough",
+    "gender": "Adverb",
+    "level": "A1",
+    "examples": [
+      "Das ist genug.",
+      "Ich habe genug gegessen.",
+      "Genug geredet!"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "zu wenig"
+    ]
+  },
+  {
+    "german": "zu",
+    "english": "too / closed",
+    "gender": "Adverb / Adjektiv",
+    "level": "A1",
+    "examples": [
+      "Das ist zu teuer.",
+      "Die Tür ist zu.",
+      "Zu viel Arbeit!"
+    ],
+    "synonyms": [
+      "geschlossen"
+    ],
+    "antonyms": [
+      "auf",
+      "offen"
+    ]
+  },
+  {
+    "german": "nur",
+    "english": "only",
+    "gender": "Adverb",
+    "level": "A1",
+    "examples": [
+      "Ich habe nur fünf Euro.",
+      "Nur du verstehst mich.",
+      "Das dauert nur fünf Minuten."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "german": "besser",
+    "english": "better",
+    "gender": "Adjektiv / Adverb",
+    "level": "A1",
+    "examples": [
+      "Das ist besser.",
+      "Mir geht es besser.",
+      "Diese Idee ist besser."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "schlechter"
+    ]
+  },
+  {
+    "german": "schlechter",
+    "english": "worse",
+    "gender": "Adjektiv / Adverb",
+    "level": "A1",
+    "examples": [
+      "Das Wetter wird schlechter.",
+      "Mir geht es schlechter.",
+      "Das ist schlechter als vorher."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "besser"
+    ]
+  },
+  {
+    "german": "am besten",
+    "english": "best",
+    "gender": "Adverb",
+    "level": "A1",
+    "examples": [
+      "Das ist am besten.",
+      "Mir gefällt das am besten.",
+      "Am besten gehen wir jetzt."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "am schlechtesten"
+    ]
   }
 ]

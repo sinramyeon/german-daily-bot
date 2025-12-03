@@ -15262,5 +15262,2062 @@
     "antonyms": [
       "die Normalität"
     ]
+  },
+  {
+    "german": "die Sache",
+    "english": "thing / matter",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Das ist eine wichtige Sache.",
+      "Meine Sachen sind im Auto.",
+      "Die Sache ist kompliziert."
+    ],
+    "synonyms": [
+      "das Ding"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "das Ding",
+    "english": "thing",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Was ist das für ein Ding?",
+      "Ich brauche dieses Ding.",
+      "Das Ding funktioniert nicht."
+    ],
+    "synonyms": [
+      "die Sache"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "der Teil",
+    "english": "part",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Das ist ein Teil davon.",
+      "Ich nehme nur einen Teil.",
+      "Der wichtigste Teil."
+    ],
+    "synonyms": [
+      "das Stück"
+    ],
+    "antonyms": [
+      "das Ganze"
+    ]
+  },
+  {
+    "german": "das Stück",
+    "english": "piece",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ein Stück Kuchen.",
+      "Ich nehme drei Stück.",
+      "Das Stück kostet 5 Euro."
+    ],
+    "synonyms": [
+      "das Teil"
+    ],
+    "antonyms": [
+      "das Ganze"
+    ]
+  },
+  {
+    "german": "das Ganze",
+    "english": "whole",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich nehme das Ganze.",
+      "Das Ganze ist kompliziert.",
+      "Im Ganzen gesehen."
+    ],
+    "synonyms": [
+      "alles"
+    ],
+    "antonyms": [
+      "der Teil"
+    ]
+  },
+  {
+    "german": "die Hälfte",
+    "english": "half",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Hälfte gehört mir.",
+      "Ich esse nur die Hälfte.",
+      "Eine Hälfte ist leer."
+    ],
+    "synonyms": [
+      "das Halbe"
+    ],
+    "antonyms": [
+      "das Ganze"
+    ]
+  },
+  {
+    "german": "das Viertel",
+    "english": "quarter",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ein Viertel der Zeit.",
+      "Viertel vor drei.",
+      "Das letzte Viertel."
+    ],
+    "synonyms": [
+      "25 Prozent"
+    ],
+    "antonyms": [
+      "drei Viertel"
+    ]
+  },
+  {
+    "german": "das Drittel",
+    "english": "third",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ein Drittel der Klasse.",
+      "Zwei Drittel sind fertig.",
+      "Das erste Drittel."
+    ],
+    "synonyms": [
+      "keine"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Zahl",
+    "english": "number",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Welche Zahl ist das?",
+      "Ich denke an eine Zahl.",
+      "Die Zahl ist zu groß."
+    ],
+    "synonyms": [
+      "die Nummer"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Menge",
+    "english": "amount / quantity",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Eine große Menge.",
+      "Die Menge ist zu viel.",
+      "Eine Menge Leute."
+    ],
+    "synonyms": [
+      "die Anzahl"
+    ],
+    "antonyms": [
+      "wenig"
+    ]
+  },
+  {
+    "german": "die Anzahl",
+    "english": "number / amount",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Anzahl ist begrenzt.",
+      "Eine große Anzahl.",
+      "Die Anzahl steigt."
+    ],
+    "synonyms": [
+      "die Menge"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Form",
+    "english": "form / shape",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Form ist rund.",
+      "In welcher Form?",
+      "Eine besondere Form."
+    ],
+    "synonyms": [
+      "die Gestalt"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Art",
+    "english": "kind / type / way",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Was für eine Art?",
+      "Auf diese Art.",
+      "Eine Art von Musik."
+    ],
+    "synonyms": [
+      "die Sorte"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Sorte",
+    "english": "kind / sort",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Welche Sorte möchtest du?",
+      "Diese Sorte Äpfel.",
+      "Verschiedene Sorten."
+    ],
+    "synonyms": [
+      "die Art"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "der Platz",
+    "english": "place / seat / square",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ist hier noch Platz?",
+      "Mein Platz ist dort.",
+      "Der Platz ist voll."
+    ],
+    "synonyms": [
+      "der Ort"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "der Ort",
+    "english": "place / location",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Das ist ein schöner Ort.",
+      "An welchem Ort?",
+      "Der Ort ist bekannt."
+    ],
+    "synonyms": [
+      "der Platz"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Stelle",
+    "english": "place / spot / position",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "An dieser Stelle.",
+      "Ich suche eine Stelle.",
+      "Eine freie Stelle."
+    ],
+    "synonyms": [
+      "der Ort"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Lage",
+    "english": "location / situation",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Lage ist gut.",
+      "In welcher Lage?",
+      "Eine schwierige Lage."
+    ],
+    "synonyms": [
+      "die Situation"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Situation",
+    "english": "situation",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Situation ist schwierig.",
+      "In dieser Situation.",
+      "Eine neue Situation."
+    ],
+    "synonyms": [
+      "die Lage"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "der Zustand",
+    "english": "condition / state",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Der Zustand ist gut.",
+      "In welchem Zustand?",
+      "Der schlechte Zustand."
+    ],
+    "synonyms": [
+      "die Verfassung"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "der Umstand",
+    "english": "circumstance",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Unter diesen Umständen.",
+      "Die Umstände sind schwierig.",
+      "Besondere Umstände."
+    ],
+    "synonyms": [
+      "die Bedingung"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Bedingung",
+    "english": "condition",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Unter dieser Bedingung.",
+      "Die Bedingungen sind gut.",
+      "Eine wichtige Bedingung."
+    ],
+    "synonyms": [
+      "die Voraussetzung"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Weise",
+    "english": "way / manner",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Auf diese Weise.",
+      "In gewisser Weise.",
+      "Eine besondere Weise."
+    ],
+    "synonyms": [
+      "die Art"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Methode",
+    "english": "method",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Das ist eine gute Methode.",
+      "Welche Methode?",
+      "Eine neue Methode."
+    ],
+    "synonyms": [
+      "die Vorgehensweise"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Richtung",
+    "english": "direction",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "In welche Richtung?",
+      "Die richtige Richtung.",
+      "Die Richtung ändern."
+    ],
+    "synonyms": [
+      "die Seite"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Seite",
+    "english": "side / page",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Auf dieser Seite.",
+      "Die linke Seite.",
+      "Seite 10 des Buches."
+    ],
+    "synonyms": [
+      "die Richtung"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Ecke",
+    "english": "corner",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "In der Ecke steht ein Tisch.",
+      "Um die Ecke.",
+      "Die Ecke ist dunkel."
+    ],
+    "synonyms": [
+      "der Winkel"
+    ],
+    "antonyms": [
+      "die Mitte"
+    ]
+  },
+  {
+    "german": "der Rand",
+    "english": "edge / border",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Am Rand der Stadt.",
+      "Der Rand ist scharf.",
+      "Bis zum Rand voll."
+    ],
+    "synonyms": [
+      "die Kante"
+    ],
+    "antonyms": [
+      "die Mitte"
+    ]
+  },
+  {
+    "german": "die Grenze",
+    "english": "border / limit",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Grenze zu Frankreich.",
+      "Das ist die Grenze.",
+      "Über die Grenze gehen."
+    ],
+    "synonyms": [
+      "die Begrenzung"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Entfernung",
+    "english": "distance",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Entfernung ist groß.",
+      "In welcher Entfernung?",
+      "Eine kurze Entfernung."
+    ],
+    "synonyms": [
+      "die Distanz"
+    ],
+    "antonyms": [
+      "die Nähe"
+    ]
+  },
+  {
+    "german": "die Nähe",
+    "english": "proximity / nearness",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "In der Nähe wohnen.",
+      "Die Nähe zur Stadt.",
+      "Ganz in der Nähe."
+    ],
+    "synonyms": [
+      "die Umgebung"
+    ],
+    "antonyms": [
+      "die Entfernung"
+    ]
+  },
+  {
+    "german": "die Umgebung",
+    "english": "surroundings / area",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Umgebung ist schön.",
+      "In der Umgebung.",
+      "Die nähere Umgebung."
+    ],
+    "synonyms": [
+      "die Nähe"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Gegend",
+    "english": "area / region",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "In dieser Gegend.",
+      "Eine schöne Gegend.",
+      "Die Gegend kenne ich."
+    ],
+    "synonyms": [
+      "die Region"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Region",
+    "english": "region",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "In dieser Region.",
+      "Eine bekannte Region.",
+      "Die Region ist beliebt."
+    ],
+    "synonyms": [
+      "die Gegend"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "das Land",
+    "english": "country / land",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Welches Land?",
+      "Auf dem Land leben.",
+      "Mein Land ist Deutschland."
+    ],
+    "synonyms": [
+      "das Staat"
+    ],
+    "antonyms": [
+      "die Stadt"
+    ]
+  },
+  {
+    "german": "das Dorf",
+    "english": "village",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich wohne im Dorf.",
+      "Das Dorf ist klein.",
+      "Ein schönes Dorf."
+    ],
+    "synonyms": [
+      "die Ortschaft"
+    ],
+    "antonyms": [
+      "die Stadt"
+    ]
+  },
+  {
+    "german": "die Gegenwart",
+    "english": "present (time)",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "In der Gegenwart leben.",
+      "Die Gegenwart ist wichtig.",
+      "Hier und in der Gegenwart."
+    ],
+    "synonyms": [
+      "das Jetzt"
+    ],
+    "antonyms": [
+      "die Vergangenheit"
+    ]
+  },
+  {
+    "german": "die Vergangenheit",
+    "english": "past",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "In der Vergangenheit.",
+      "Die Vergangenheit vergessen.",
+      "Das ist Vergangenheit."
+    ],
+    "synonyms": [
+      "früher"
+    ],
+    "antonyms": [
+      "die Zukunft"
+    ]
+  },
+  {
+    "german": "die Zukunft",
+    "english": "future",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "In der Zukunft.",
+      "Die Zukunft planen.",
+      "Für die Zukunft."
+    ],
+    "synonyms": [
+      "später"
+    ],
+    "antonyms": [
+      "die Vergangenheit"
+    ]
+  },
+  {
+    "german": "der Moment",
+    "english": "moment",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "In diesem Moment.",
+      "Einen Moment bitte!",
+      "Der richtige Moment."
+    ],
+    "synonyms": [
+      "der Augenblick"
+    ],
+    "antonyms": [
+      "die Ewigkeit"
+    ]
+  },
+  {
+    "german": "der Augenblick",
+    "english": "moment",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Im Augenblick.",
+      "Einen Augenblick!",
+      "Der entscheidende Augenblick."
+    ],
+    "synonyms": [
+      "der Moment"
+    ],
+    "antonyms": [
+      "die Ewigkeit"
+    ]
+  },
+  {
+    "german": "die Gelegenheit",
+    "english": "opportunity / occasion",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Eine gute Gelegenheit.",
+      "Bei Gelegenheit.",
+      "Die Gelegenheit nutzen."
+    ],
+    "synonyms": [
+      "die Chance"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "das Mal",
+    "english": "time (occasion)",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das erste Mal.",
+      "Noch ein Mal.",
+      "Zum letzten Mal."
+    ],
+    "synonyms": [
+      "die Gelegenheit"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Reihe",
+    "english": "row / series / turn",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "In der ersten Reihe.",
+      "Du bist an der Reihe.",
+      "Eine Reihe von Büchern."
+    ],
+    "synonyms": [
+      "die Serie"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Runde",
+    "english": "round / lap",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Eine Runde laufen.",
+      "Die nächste Runde.",
+      "In dieser Runde."
+    ],
+    "synonyms": [
+      "der Kreis"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "der Kreis",
+    "english": "circle",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ein Kreis aus Steinen.",
+      "Im Kreis sitzen.",
+      "Ein geschlossener Kreis."
+    ],
+    "synonyms": [
+      "die Runde"
+    ],
+    "antonyms": [
+      "das Quadrat"
+    ]
+  },
+  {
+    "german": "das Quadrat",
+    "english": "square",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ein Quadrat zeichnen.",
+      "Die Form ist ein Quadrat.",
+      "Ein perfektes Quadrat."
+    ],
+    "synonyms": [
+      "das Viereck"
+    ],
+    "antonyms": [
+      "der Kreis"
+    ]
+  },
+  {
+    "german": "das Dreieck",
+    "english": "triangle",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ein Dreieck zeichnen.",
+      "Die Form ist ein Dreieck.",
+      "Ein gleichseitiges Dreieck."
+    ],
+    "synonyms": [
+      "keine"
+    ],
+    "antonyms": [
+      "das Quadrat"
+    ]
+  },
+  {
+    "german": "die Linie",
+    "english": "line",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Eine gerade Linie.",
+      "Die Linie ziehen.",
+      "Bus Linie 5."
+    ],
+    "synonyms": [
+      "der Strich"
+    ],
+    "antonyms": [
+      "der Punkt"
+    ]
+  },
+  {
+    "german": "der Punkt",
+    "english": "point / dot",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ein wichtiger Punkt.",
+      "Am Punkt ankommen.",
+      "Der springende Punkt."
+    ],
+    "synonyms": [
+      "der Fleck"
+    ],
+    "antonyms": [
+      "die Linie"
+    ]
+  },
+  {
+    "german": "der Fleck",
+    "english": "spot / stain",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ein Fleck auf dem Hemd.",
+      "Der Fleck geht nicht raus.",
+      "Ein gelber Fleck."
+    ],
+    "synonyms": [
+      "die Stelle"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "der Schatten",
+    "english": "shadow",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Im Schatten sitzen.",
+      "Der Schatten ist lang.",
+      "Einen Schatten werfen."
+    ],
+    "synonyms": [
+      "der Schattenwurf"
+    ],
+    "antonyms": [
+      "das Licht"
+    ]
+  },
+  {
+    "german": "das Licht",
+    "english": "light",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das Licht ist hell.",
+      "Mach das Licht an!",
+      "Im Licht der Sonne."
+    ],
+    "synonyms": [
+      "die Helligkeit"
+    ],
+    "antonyms": [
+      "die Dunkelheit"
+    ]
+  },
+  {
+    "german": "die Dunkelheit",
+    "english": "darkness",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "In der Dunkelheit.",
+      "Die Dunkelheit kommt.",
+      "Angst vor der Dunkelheit."
+    ],
+    "synonyms": [
+      "das Dunkel"
+    ],
+    "antonyms": [
+      "das Licht"
+    ]
+  },
+  {
+    "german": "die Hitze",
+    "english": "heat",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Hitze ist unerträglich.",
+      "In der Hitze arbeiten.",
+      "Große Hitze heute."
+    ],
+    "synonyms": [
+      "die Wärme"
+    ],
+    "antonyms": [
+      "die Kälte"
+    ]
+  },
+  {
+    "german": "die Kälte",
+    "english": "cold / coldness",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Kälte ist stark.",
+      "In der Kälte frieren.",
+      "Große Kälte heute."
+    ],
+    "synonyms": [
+      "die Frostigkeit"
+    ],
+    "antonyms": [
+      "die Hitze"
+    ]
+  },
+  {
+    "german": "die Temperatur",
+    "english": "temperature",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Temperatur steigt.",
+      "Welche Temperatur?",
+      "Hohe Temperatur."
+    ],
+    "synonyms": [
+      "die Wärme"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "der Grad",
+    "english": "degree",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "20 Grad Celsius.",
+      "Der Grad der Schwierigkeit.",
+      "Minus 5 Grad."
+    ],
+    "synonyms": [
+      "das Level"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "das Klima",
+    "english": "climate",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das Klima ist warm.",
+      "Ein mildes Klima.",
+      "Das Klima ändert sich."
+    ],
+    "synonyms": [
+      "das Wetter"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Luft",
+    "english": "air",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Frische Luft atmen.",
+      "Die Luft ist klar.",
+      "In die Luft gehen."
+    ],
+    "synonyms": [
+      "der Atem"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "der Atem",
+    "english": "breath",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Tief Atem holen.",
+      "Außer Atem sein.",
+      "Der Atem geht schnell."
+    ],
+    "synonyms": [
+      "die Atmung"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "atmen",
+    "english": "to breathe",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich atme tief.",
+      "Atme langsam!",
+      "Er atmet schwer."
+    ],
+    "synonyms": [
+      "einatmen"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "riechen",
+    "english": "to smell",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich rieche Blumen.",
+      "Es riecht gut.",
+      "Das riecht nach Essen."
+    ],
+    "synonyms": [
+      "duften"
+    ],
+    "antonyms": [
+      "stinken"
+    ]
+  },
+  {
+    "german": "der Geruch",
+    "english": "smell / odor",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ein angenehmer Geruch.",
+      "Der Geruch ist stark.",
+      "Welcher Geruch ist das?"
+    ],
+    "synonyms": [
+      "der Duft"
+    ],
+    "antonyms": [
+      "der Gestank"
+    ]
+  },
+  {
+    "german": "der Duft",
+    "english": "scent / fragrance",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ein süßer Duft.",
+      "Der Duft von Blumen.",
+      "Ein herrlicher Duft."
+    ],
+    "synonyms": [
+      "der Geruch"
+    ],
+    "antonyms": [
+      "der Gestank"
+    ]
+  },
+  {
+    "german": "der Geschmack",
+    "english": "taste / flavor",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ein guter Geschmack.",
+      "Der Geschmack ist süß.",
+      "Nach meinem Geschmack."
+    ],
+    "synonyms": [
+      "der Gusto"
+    ],
+    "antonyms": [
+      "der Ekel"
+    ]
+  },
+  {
+    "german": "der Ton",
+    "english": "sound / tone / clay",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ein hoher Ton.",
+      "Ich höre einen Ton.",
+      "Aus Ton formen."
+    ],
+    "synonyms": [
+      "der Klang"
+    ],
+    "antonyms": [
+      "die Stille"
+    ]
+  },
+  {
+    "german": "der Klang",
+    "english": "sound",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ein schöner Klang.",
+      "Der Klang der Musik.",
+      "Ein voller Klang."
+    ],
+    "synonyms": [
+      "der Ton"
+    ],
+    "antonyms": [
+      "die Stille"
+    ]
+  },
+  {
+    "german": "das Geräusch",
+    "english": "noise / sound",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ein lautes Geräusch.",
+      "Ich höre ein Geräusch.",
+      "Seltsame Geräusche."
+    ],
+    "synonyms": [
+      "der Lärm"
+    ],
+    "antonyms": [
+      "die Stille"
+    ]
+  },
+  {
+    "german": "der Lärm",
+    "english": "noise",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Zu viel Lärm.",
+      "Der Lärm stört.",
+      "Lärm machen."
+    ],
+    "synonyms": [
+      "das Geräusch"
+    ],
+    "antonyms": [
+      "die Stille"
+    ]
+  },
+  {
+    "german": "die Stille",
+    "english": "silence / quiet",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Stille genießen.",
+      "In der Stille.",
+      "Absolute Stille."
+    ],
+    "synonyms": [
+      "die Ruhe"
+    ],
+    "antonyms": [
+      "der Lärm"
+    ]
+  },
+  {
+    "german": "die Ruhe",
+    "english": "quiet / rest / calm",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich brauche Ruhe.",
+      "In Ruhe arbeiten.",
+      "Die Ruhe bewahren."
+    ],
+    "synonyms": [
+      "die Stille"
+    ],
+    "antonyms": [
+      "der Lärm"
+    ]
+  },
+  {
+    "german": "der Stress",
+    "english": "stress",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich habe Stress.",
+      "Zu viel Stress.",
+      "Stress vermeiden."
+    ],
+    "synonyms": [
+      "die Belastung"
+    ],
+    "antonyms": [
+      "die Entspannung"
+    ]
+  },
+  {
+    "german": "die Entspannung",
+    "english": "relaxation",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich brauche Entspannung.",
+      "Zur Entspannung.",
+      "Gute Entspannung."
+    ],
+    "synonyms": [
+      "die Erholung"
+    ],
+    "antonyms": [
+      "der Stress"
+    ]
+  },
+  {
+    "german": "die Kraft",
+    "english": "strength / power / force",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich habe keine Kraft mehr.",
+      "Mit voller Kraft.",
+      "Die Kraft fehlt."
+    ],
+    "synonyms": [
+      "die Stärke"
+    ],
+    "antonyms": [
+      "die Schwäche"
+    ]
+  },
+  {
+    "german": "die Energie",
+    "english": "energy",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich habe viel Energie.",
+      "Energie sparen.",
+      "Keine Energie mehr."
+    ],
+    "synonyms": [
+      "die Kraft"
+    ],
+    "antonyms": [
+      "die Müdigkeit"
+    ]
+  },
+  {
+    "german": "die Müdigkeit",
+    "english": "tiredness / fatigue",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Müdigkeit überwältigt mich.",
+      "Große Müdigkeit.",
+      "Gegen die Müdigkeit."
+    ],
+    "synonyms": [
+      "die Erschöpfung"
+    ],
+    "antonyms": [
+      "die Energie"
+    ]
+  },
+  {
+    "german": "die Schmerz",
+    "english": "pain",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich habe Schmerzen.",
+      "Der Schmerz ist stark.",
+      "Schmerzen lindern."
+    ],
+    "synonyms": [
+      "das Weh"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Krankheit",
+    "english": "illness / disease",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Eine schwere Krankheit.",
+      "Die Krankheit heilen.",
+      "Gegen die Krankheit."
+    ],
+    "synonyms": [
+      "die Erkrankung"
+    ],
+    "antonyms": [
+      "die Gesundheit"
+    ]
+  },
+  {
+    "german": "die Gesundheit",
+    "english": "health",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Gesundheit ist wichtig.",
+      "Auf deine Gesundheit!",
+      "Gute Gesundheit haben."
+    ],
+    "synonyms": [
+      "das Wohlbefinden"
+    ],
+    "antonyms": [
+      "die Krankheit"
+    ]
+  },
+  {
+    "german": "die Medizin",
+    "english": "medicine",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich nehme Medizin.",
+      "Die Medizin hilft.",
+      "Medizin studieren."
+    ],
+    "synonyms": [
+      "das Medikament"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "das Medikament",
+    "english": "medication / drug",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich brauche ein Medikament.",
+      "Das Medikament nehmen.",
+      "Ein starkes Medikament."
+    ],
+    "synonyms": [
+      "die Medizin"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Tablette",
+    "english": "tablet / pill",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich nehme eine Tablette.",
+      "Die Tablette schlucken.",
+      "Zwei Tabletten täglich."
+    ],
+    "synonyms": [
+      "die Pille"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Spritze",
+    "english": "injection / syringe",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich bekomme eine Spritze.",
+      "Die Spritze tut weh.",
+      "Angst vor Spritzen."
+    ],
+    "synonyms": [
+      "die Injektion"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Operation",
+    "english": "operation / surgery",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich brauche eine Operation.",
+      "Die Operation ist erfolgreich.",
+      "Nach der Operation."
+    ],
+    "synonyms": [
+      "der Eingriff"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "der Unfall",
+    "english": "accident",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Es gab einen Unfall.",
+      "Ein schwerer Unfall.",
+      "Der Unfall passierte gestern."
+    ],
+    "synonyms": [
+      "das Missgeschick"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Verletzung",
+    "english": "injury",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich habe eine Verletzung.",
+      "Die Verletzung ist schlimm.",
+      "Eine leichte Verletzung."
+    ],
+    "synonyms": [
+      "die Wunde"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Wunde",
+    "english": "wound",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Wunde blutet.",
+      "Eine tiefe Wunde.",
+      "Die Wunde heilt."
+    ],
+    "synonyms": [
+      "die Verletzung"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "das Blut",
+    "english": "blood",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich sehe Blut.",
+      "Das Blut fließt.",
+      "Blut spenden."
+    ],
+    "synonyms": [
+      "keine"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "der Verband",
+    "english": "bandage / association",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich brauche einen Verband.",
+      "Der Verband ist sauber.",
+      "Verband wechseln."
+    ],
+    "synonyms": [
+      "die Binde"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "das Pflaster",
+    "english": "bandage / plaster",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich brauche ein Pflaster.",
+      "Das Pflaster klebt gut.",
+      "Ein großes Pflaster."
+    ],
+    "synonyms": [
+      "der Verband"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Behandlung",
+    "english": "treatment",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Behandlung hilft.",
+      "Eine medizinische Behandlung.",
+      "Nach der Behandlung."
+    ],
+    "synonyms": [
+      "die Therapie"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Untersuchung",
+    "english": "examination / investigation",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Untersuchung ist wichtig.",
+      "Eine ärztliche Untersuchung.",
+      "Nach der Untersuchung."
+    ],
+    "synonyms": [
+      "die Prüfung"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Kontrolle",
+    "english": "control / check",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Kontrolle ist streng.",
+      "Unter Kontrolle haben.",
+      "Eine regelmäßige Kontrolle."
+    ],
+    "synonyms": [
+      "die Überprüfung"
+    ],
+    "antonyms": [
+      "das Chaos"
+    ]
+  },
+  {
+    "german": "der Kontakt",
+    "english": "contact",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich habe Kontakt zu ihm.",
+      "In Kontakt bleiben.",
+      "Den Kontakt verlieren."
+    ],
+    "synonyms": [
+      "die Verbindung"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Verbindung",
+    "english": "connection",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Verbindung ist gut.",
+      "Eine direkte Verbindung.",
+      "Verbindung aufnehmen."
+    ],
+    "synonyms": [
+      "der Kontakt"
+    ],
+    "antonyms": [
+      "die Trennung"
+    ]
+  },
+  {
+    "german": "die Nachricht",
+    "english": "message / news",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich habe eine Nachricht.",
+      "Die Nachricht ist wichtig.",
+      "Schreib mir eine Nachricht!"
+    ],
+    "synonyms": [
+      "die Mitteilung"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Information",
+    "english": "information",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich brauche eine Information.",
+      "Die Information ist wichtig.",
+      "Weitere Informationen."
+    ],
+    "synonyms": [
+      "die Auskunft"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Auskunft",
+    "english": "information",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich bitte um Auskunft.",
+      "Eine genaue Auskunft.",
+      "Auskunft geben."
+    ],
+    "synonyms": [
+      "die Information"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "der Rat",
+    "english": "advice / council",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Ich brauche deinen Rat.",
+      "Ein guter Rat.",
+      "Um Rat fragen."
+    ],
+    "synonyms": [
+      "der Tipp"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "der Tipp",
+    "english": "tip / hint",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Das ist ein guter Tipp.",
+      "Ich habe einen Tipp.",
+      "Danke für den Tipp!"
+    ],
+    "synonyms": [
+      "der Rat"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "der Vorschlag",
+    "english": "suggestion / proposal",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Das ist ein guter Vorschlag.",
+      "Ich habe einen Vorschlag.",
+      "Den Vorschlag annehmen."
+    ],
+    "synonyms": [
+      "der Tipp"
+    ],
+    "antonyms": [
+      "die Ablehnung"
+    ]
+  },
+  {
+    "german": "die Bitte",
+    "english": "request / plea",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich habe eine Bitte.",
+      "Eine große Bitte.",
+      "Die Bitte erfüllen."
+    ],
+    "synonyms": [
+      "das Anliegen"
+    ],
+    "antonyms": [
+      "das Angebot"
+    ]
+  },
+  {
+    "german": "die Erlaubnis",
+    "english": "permission",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Ich brauche eine Erlaubnis.",
+      "Die Erlaubnis erhalten.",
+      "Um Erlaubnis bitten."
+    ],
+    "synonyms": [
+      "die Genehmigung"
+    ],
+    "antonyms": [
+      "das Verbot"
+    ]
+  },
+  {
+    "german": "das Verbot",
+    "english": "prohibition / ban",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das ist ein Verbot.",
+      "Ein striktes Verbot.",
+      "Gegen das Verbot."
+    ],
+    "synonyms": [
+      "die Untersagung"
+    ],
+    "antonyms": [
+      "die Erlaubnis"
+    ]
+  },
+  {
+    "german": "die Pflicht",
+    "english": "duty / obligation",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Das ist meine Pflicht.",
+      "Die Pflicht erfüllen.",
+      "Aus Pflicht."
+    ],
+    "synonyms": [
+      "die Verpflichtung"
+    ],
+    "antonyms": [
+      "das Recht"
+    ]
+  },
+  {
+    "german": "das Recht",
+    "english": "right / law",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Ich habe das Recht.",
+      "Das Recht auf Bildung.",
+      "Nach dem Recht."
+    ],
+    "synonyms": [
+      "der Anspruch"
+    ],
+    "antonyms": [
+      "die Pflicht"
+    ]
+  },
+  {
+    "german": "das Gesetz",
+    "english": "law",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das Gesetz ist streng.",
+      "Ein neues Gesetz.",
+      "Gegen das Gesetz."
+    ],
+    "synonyms": [
+      "die Vorschrift"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "die Vorschrift",
+    "english": "regulation / rule",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Vorschrift beachten.",
+      "Eine strenge Vorschrift.",
+      "Nach Vorschrift."
+    ],
+    "synonyms": [
+      "die Regel"
+    ],
+    "antonyms": [
+      "die Freiheit"
+    ]
+  },
+  {
+    "german": "die Ordnung",
+    "english": "order",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Die Ordnung ist wichtig.",
+      "In Ordnung bringen.",
+      "Alles in Ordnung?"
+    ],
+    "synonyms": [
+      "die Struktur"
+    ],
+    "antonyms": [
+      "das Chaos"
+    ]
+  },
+  {
+    "german": "das Chaos",
+    "english": "chaos",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Es herrscht Chaos.",
+      "Das totale Chaos.",
+      "Chaos vermeiden."
+    ],
+    "synonyms": [
+      "die Unordnung"
+    ],
+    "antonyms": [
+      "die Ordnung"
+    ]
+  },
+  {
+    "german": "die Übersicht",
+    "english": "overview",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Eine gute Übersicht.",
+      "Die Übersicht verlieren.",
+      "Eine klare Übersicht."
+    ],
+    "synonyms": [
+      "der Überblick"
+    ],
+    "antonyms": [
+      "das Chaos"
+    ]
+  },
+  {
+    "german": "das Detail",
+    "english": "detail",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das Detail ist wichtig.",
+      "Alle Details beachten.",
+      "Ein kleines Detail."
+    ],
+    "synonyms": [
+      "die Einzelheit"
+    ],
+    "antonyms": [
+      "das Ganze"
+    ]
+  },
+  {
+    "german": "die Einzelheit",
+    "english": "detail / particular",
+    "gender": "Feminin",
+    "level": "A2",
+    "examples": [
+      "Jede Einzelheit zählt.",
+      "In allen Einzelheiten.",
+      "Eine wichtige Einzelheit."
+    ],
+    "synonyms": [
+      "das Detail"
+    ],
+    "antonyms": [
+      "die Übersicht"
+    ]
+  },
+  {
+    "german": "das Ziel",
+    "english": "goal / destination",
+    "gender": "Neutral",
+    "level": "A2",
+    "examples": [
+      "Das Ziel erreichen.",
+      "Mein Ziel ist...",
+      "Ein wichtiges Ziel."
+    ],
+    "synonyms": [
+      "das Vorhaben"
+    ],
+    "antonyms": [
+      "der Anfang"
+    ]
+  },
+  {
+    "german": "der Zweck",
+    "english": "purpose",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Was ist der Zweck?",
+      "Für welchen Zweck?",
+      "Der Zweck heiligt die Mittel."
+    ],
+    "synonyms": [
+      "das Ziel"
+    ],
+    "antonyms": [
+      "keine"
+    ]
+  },
+  {
+    "german": "der Sinn",
+    "english": "sense / meaning",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Was ist der Sinn?",
+      "Das macht keinen Sinn.",
+      "Im Sinne von..."
+    ],
+    "synonyms": [
+      "die Bedeutung"
+    ],
+    "antonyms": [
+      "der Unsinn"
+    ]
+  },
+  {
+    "german": "der Unsinn",
+    "english": "nonsense",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Das ist Unsinn!",
+      "Rede keinen Unsinn!",
+      "Totaler Unsinn."
+    ],
+    "synonyms": [
+      "der Quatsch"
+    ],
+    "antonyms": [
+      "der Sinn"
+    ]
+  },
+  {
+    "german": "der Wert",
+    "english": "value / worth",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Der Wert ist hoch.",
+      "Welchen Wert hat das?",
+      "Von großem Wert."
+    ],
+    "synonyms": [
+      "der Preis"
+    ],
+    "antonyms": [
+      "die Wertlosigkeit"
+    ]
+  },
+  {
+    "german": "der Vorteil",
+    "english": "advantage",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Das ist ein Vorteil.",
+      "Welche Vorteile?",
+      "Einen Vorteil haben."
+    ],
+    "synonyms": [
+      "der Nutzen"
+    ],
+    "antonyms": [
+      "der Nachteil"
+    ]
+  },
+  {
+    "german": "der Nachteil",
+    "english": "disadvantage",
+    "gender": "Maskulin",
+    "level": "A2",
+    "examples": [
+      "Das ist ein Nachteil.",
+      "Welche Nachteile?",
+      "Einen Nachteil haben."
+    ],
+    "synonyms": [
+      "der Schaden"
+    ],
+    "antonyms": [
+      "der Vorteil"
+    ]
   }
 ]
