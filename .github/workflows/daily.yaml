@@ -2,10 +2,9 @@ name: Daily German Bot
 
 on:
   schedule:
-    - cron: "0 7 * * *"  # 독일 아침 8시
-    - cron: "0 19 * * *"  # 독일 저녁 8시
+    - cron: "0 7 * * *"  # 독일 아침 8시 (UTC+1 기준 7시)
+    - cron: "0 19 * * *"  # 독일 저녁 8시 (UTC+1 기준 19시)
   workflow_dispatch:
-
   push:
     branches: [main]
   
@@ -37,9 +36,10 @@ jobs:
           git config user.email "esistkalt@naver.com"
 
           git add chat_ids.json
+          git add user_progress/
 
           if ! git diff --cached --quiet; then
-            git commit -m "Update chat_ids.json [skip ci]"
+            git commit -m "Update chat_ids and user progress [skip ci]"
             git push
           else
             echo "No changes to commit"
