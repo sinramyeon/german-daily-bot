@@ -1,0 +1,25 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output of the go command
+*.out
+
+# Dependency directories (remove the comment below if you use Go modules)
+# /vendor/
+
+# Go workspace file
+go.work
+go.work.sum
+
+# IDE/editor specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
