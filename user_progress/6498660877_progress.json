@@ -9,7 +9,9 @@
       "die Limonade",
       "der Mann",
       "die Verspätung",
-      "das Feuer"
+      "das Feuer",
+      "die Notfall",
+      "die Haltestelle"
     ],
     "a2": [
       "probieren",
@@ -24,7 +26,12 @@
       "der Arzt",
       "wie",
       "die Stunde",
-      "die Nacht"
+      "die Nacht",
+      "bis",
+      "schmutzig",
+      "die Kirsche",
+      "oder",
+      "die Karotte"
     ],
     "b1": [
       "natürlich",
@@ -34,7 +41,7 @@
     ]
   },
   "last_study_date": "2025-12-10",
-  "last_update_id": 966260464,
+  "last_update_id": 966260466,
   "welcome_sent": false,
   "last_welcome_date": ""
 }
