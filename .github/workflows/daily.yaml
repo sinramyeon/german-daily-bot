@@ -1,12 +1,11 @@
-name: German Study Bot - Command Processor
+name: German Study Bot
 
 on:
   schedule:
-    # 8am-8pm (Berlin 겨울시간 = UTC 7am-7pm) 사이 매 분마다 실행
-    # GitHub Actions는 최소 5분 간격이므로 */1은 실제로 5분마다 실행됨
-    - cron: '*/1 7-19 * * *'  # UTC 7am-7pm, 매분 (실제로는 ~5분마다)
-  
-  workflow_dispatch:  # 수동 실행 가능
+    - cron: "*/2 7-19 * * *"  # 2분
+    - cron: "1-59/2 7-19 * * *"  # 짝수/홀수 분 분산
+  workflow_dispatch:
+
 
 jobs:
   run-bot:
