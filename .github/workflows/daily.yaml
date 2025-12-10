@@ -1,46 +1,46 @@
-name: Daily German Bot
+name: German Study Bot - Command Processor
 
 on:
   schedule:
-    - cron: "0 7 * * *"  # 독일 아침 8시 (UTC+1 기준 7시)
-    - cron: "0 19 * * *"  # 독일 저녁 8시 (UTC+1 기준 19시)
-  workflow_dispatch:
-  push:
-    branches: [main]
+    # 8am-8pm (Berlin 겨울시간 = UTC 7am-7pm) 사이 매 분마다 실행
+    # GitHub Actions는 최소 5분 간격이므로 */1은 실제로 5분마다 실행됨
+    - cron: '*/1 7-19 * * *'  # UTC 7am-7pm, 매분 (실제로는 ~5분마다)
   
+  workflow_dispatch:  # 수동 실행 가능
+
 jobs:
-  daily-send:
+  run-bot:
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
-        with:
-          persist-credentials: true
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set up Go
-        uses: actions/setup-go@v4
-        with:
-          go-version: 1.21
+    - name: Set up Go
+      uses: actions/setup-go@v4
+      with:
+        go-version: '1.21'
 
-      - name: Install dependencies
-        run: go mod tidy
+    - name: Pull latest changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git pull origin main
 
-      - name: Run Bot
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-        run: go run main.go
+    - name: Run Bot (Command Processor)
+      env:
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      run: go run main.go
 
-      - name: Commit changes
-        run: |
-          git config user.name "sinramyeon"
-          git config user.email "esistkalt@naver.com"
-
-          git add chat_ids.json
-          git add user_progress/
-
-          if ! git diff --cached --quiet; then
-            git commit -m "Update chat_ids and user progress [skip ci]"
-            git push
-          else
-            echo "No changes to commit"
-          fi
+    - name: Commit and push changes
+      run: |
+        git add chat_ids.json user_progress/
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update user progress and chat IDs [skip ci]"
+          git push origin main
+        fi
+      continue-on-error: true

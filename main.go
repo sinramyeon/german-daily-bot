@@ -27,42 +27,169 @@ type WiseSentences struct {
 }
 
 type UserProgress struct {
-	ChatID       string   `json:"chat_id"`
-	LearnedWords []string `json:"learned_words"`
-	LastStudy    string   `json:"last_study_date"`
+	ChatID          string   `json:"chat_id"`
+	LearnedWords    []string `json:"learned_words"`
+	LastStudy       string   `json:"last_study_date"`
+	LastUpdateID    int      `json:"last_update_id"`
+	WelcomeSent     bool     `json:"welcome_sent"`
+	LastWelcomeDate string   `json:"last_welcome_date"`
 }
 
 const chatIDFile = "chat_ids.json"
 const userProgressDir = "user_progress"
 
 func main() {
-	fmt.Println("Starting Daily German Study Bot...")
+	fmt.Println("Starting German Study Bot - Command Processor...")
 	botToken := os.Getenv("TELEGRAM_BOT_TOKEN")
 
-	// 1. 명령어 처리 (/learned, /learn)
+	if botToken == "" {
+		fmt.Println("Error: TELEGRAM_BOT_TOKEN not set")
+		return
+	}
+
+	// 월요일 8am인지 확인하고 환영 메시지 전송
+	sendMondayWelcomeIfNeeded(botToken)
+
+	// 명령어 처리 (/start, /learn, /learned, /stats)
 	processCommands(botToken)
+}
 
-	// 2. /start 누른 사용자 새로 불러오기
-	newIDs := fetchNewChatIDs(botToken)
-	mergeChatIDs(newIDs)
+// ---------------- 월요일 환영 메시지 ----------------
+func sendMondayWelcomeIfNeeded(botToken string) {
+	now := time.Now()
 
-	// 3. 모든 사용자에게 맞춤형 단어 전송
+	// 월요일이고 시간이 8am인지 확인
+	if now.Weekday() != time.Monday || now.Hour() != 8 {
+		return
+	}
+
 	chatIDs := loadChatIDs()
-	sentence := selectDailySentence()
+	today := now.Format("2006-01-02")
 
-	for _, id := range chatIDs {
-		words := selectDailyWordsForUser(id)
-		message := formatMessage(words, sentence)
-		sendToTelegram(botToken, id, message)
+	welcomeMsg := `🇩🇪 *Weekly German Study Guide* 🇩🇪
+
+안녕하세요! 이번 주도 독일어 공부를 시작해볼까요? 😊
+
+*📚 사용 가능한 명령어:*
+
+*1. /learn [level]*
+   특정 레벨의 단어 10개를 학습합니다
+   예: /learn a1, /learn a2, /learn b1
+
+*2. /learned [단어들]*
+   학습 완료한 단어를 기록합니다
+   예: /learned Hallo Tschüss Danke
+
+*3. /stats*
+   현재 학습 진행 상황을 확인합니다
+
+*💡 추천 학습 방법:*
+• 매일 /learn 명령어로 새 단어 학습
+• 익힌 단어는 /learned로 기록
+• 주기적으로 /stats로 진행도 확인
+
+화이팅! 💪`
+
+	for _, chatID := range chatIDs {
+		progress := loadUserProgress(chatID)
+
+		// 오늘 이미 환영 메시지를 보냈는지 확인
+		if progress.LastWelcomeDate == today {
+			continue
+		}
+
+		sendToTelegram(botToken, chatID, welcomeMsg)
+
+		// 환영 메시지 전송 기록
+		progress.LastWelcomeDate = today
+		saveUserProgress(progress)
+
+		time.Sleep(100 * time.Millisecond) // Rate limiting
 	}
 }
 
 // ---------------- 명령어 처리 ----------------
 func processCommands(botToken string) {
+	chatIDs := loadChatIDs()
+
+	// 모든 사용자의 새 메시지 확인
+	for _, chatID := range chatIDs {
+		processUserCommands(botToken, chatID)
+	}
+
+	// /start로 새로 등록된 사용자 확인
+	checkNewUsers(botToken)
+}
+
+func processUserCommands(botToken, chatID string) {
+	progress := loadUserProgress(chatID)
+
+	// getUpdates with offset
+	apiURL := fmt.Sprintf("https://api.telegram.org/bot%s/getUpdates?offset=%d&allowed_updates=[\"message\"]",
+		botToken, progress.LastUpdateID+1)
+
+	resp, err := http.Get(apiURL)
+	if err != nil {
+		fmt.Printf("Error fetching updates for %s: %v\n", chatID, err)
+		return
+	}
+	defer resp.Body.Close()
+
+	var result struct {
+		Ok     bool `json:"ok"`
+		Result []struct {
+			UpdateID int `json:"update_id"`
+			Message  struct {
+				Chat struct {
+					ID int64 `json:"id"`
+				} `json:"chat"`
+				Text string `json:"text"`
+			} `json:"message"`
+		} `json:"result"`
+	}
+
+	if err := json.NewDecoder(resp.Body).Decode(&result); err != nil {
+		fmt.Printf("Error decoding response for %s: %v\n", chatID, err)
+		return
+	}
+
+	if !result.Ok || len(result.Result) == 0 {
+		return
+	}
+
+	// 이 사용자의 메시지만 처리
+	for _, update := range result.Result {
+		if fmt.Sprintf("%d", update.Message.Chat.ID) != chatID {
+			continue
+		}
+
+		text := strings.TrimSpace(update.Message.Text)
+
+		if strings.HasPrefix(text, "/learn ") {
+			handleLearnLevelCommand(botToken, chatID, text)
+		} else if strings.HasPrefix(text, "/learned ") {
+			handleLearnedCommand(botToken, chatID, text)
+		} else if text == "/stats" {
+			handleStatsCommand(botToken, chatID)
+		}
+
+		// Update ID 갱신
+		if update.UpdateID > progress.LastUpdateID {
+			progress.LastUpdateID = update.UpdateID
+		}
+	}
+
+	// 진행도 저장
+	if len(result.Result) > 0 {
+		saveUserProgress(progress)
+	}
+}
+
+func checkNewUsers(botToken string) {
 	apiURL := fmt.Sprintf("https://api.telegram.org/bot%s/getUpdates", botToken)
 	resp, err := http.Get(apiURL)
 	if err != nil {
-		fmt.Println("Error fetching updates:", err)
+		fmt.Println("Error checking new users:", err)
 		return
 	}
 	defer resp.Body.Close()
@@ -79,24 +206,63 @@ func processCommands(botToken string) {
 	}
 	json.NewDecoder(resp.Body).Decode(&result)
 
+	newUsers := []string{}
 	for _, update := range result.Result {
-		chatID := fmt.Sprintf("%d", update.Message.Chat.ID)
-		text := strings.TrimSpace(update.Message.Text)
+		if update.Message.Text == "/start" {
+			chatID := fmt.Sprintf("%d", update.Message.Chat.ID)
+			if !isChatIDRegistered(chatID) {
+				newUsers = append(newUsers, chatID)
 
-		if strings.HasPrefix(text, "/learned ") {
-			handleLearnedCommand(botToken, chatID, text)
-		} else if strings.HasPrefix(text, "/learn ") {
-			handleLearnLevelCommand(botToken, chatID, text)
-		} else if text == "/stats" {
-			handleStatsCommand(botToken, chatID)
+				// 환영 메시지 전송
+				welcomeMsg := `🇩🇪 *German Study Bot에 오신 것을 환영합니다!* 🇩🇪
+
+안녕하세요! 독일어 학습을 도와드리겠습니다. 😊
+
+*📚 사용 가능한 명령어:*
+
+*1. /learn [level]*
+   특정 레벨의 단어 10개를 학습합니다
+   • /learn a1 - 기초 단어
+   • /learn a2 - 초급 단어
+   • /learn b1 - 중급 단어
+
+*2. /learned [단어들]*
+   학습 완료한 단어를 기록합니다
+   예: /learned Hallo Tschüss Danke
+
+*3. /stats*
+   현재 학습 진행 상황을 확인합니다
+
+*💡 시작하기:*
+/learn a1 명령어로 첫 단어를 배워보세요!
+
+매주 월요일 아침 8시에 학습 가이드를 보내드립니다.`
+
+				sendToTelegram(botToken, chatID, welcomeMsg)
+			}
 		}
 	}
+
+	if len(newUsers) > 0 {
+		mergeChatIDs(newUsers)
+		fmt.Printf("Added %d new users\n", len(newUsers))
+	}
+}
+
+func isChatIDRegistered(chatID string) bool {
+	ids := loadChatIDs()
+	for _, id := range ids {
+		if id == chatID {
+			return true
+		}
+	}
+	return false
 }
 
 func handleLearnedCommand(botToken, chatID, text string) {
 	parts := strings.Fields(text)
 	if len(parts) < 2 {
-		sendToTelegram(botToken, chatID, "📝 사용법: /learned Hallo Tschüss Danke")
+		sendToTelegram(botToken, chatID, "📝 *사용법*\n\n/learned Hallo Tschüss Danke\n\n학습한 단어들을 띄어쓰기로 구분해서 입력하세요.")
 		return
 	}
 
@@ -110,10 +276,12 @@ func handleLearnedCommand(botToken, chatID, text string) {
 	}
 
 	newCount := 0
+	var newWords []string
 	for _, w := range words {
 		if !learnedMap[w] {
 			progress.LearnedWords = append(progress.LearnedWords, w)
 			learnedMap[w] = true
+			newWords = append(newWords, w)
 			newCount++
 		}
 	}
@@ -121,15 +289,20 @@ func handleLearnedCommand(botToken, chatID, text string) {
 	progress.LastStudy = time.Now().Format("2006-01-02")
 	saveUserProgress(progress)
 
-	msg := fmt.Sprintf("✅ *%d개 단어*를 학습 완료로 기록했어요!\n📚 총 학습: *%d개*",
-		newCount, len(progress.LearnedWords))
+	msg := fmt.Sprintf("✅ *%d개 단어*를 학습 완료로 기록했어요!\n\n", newCount)
+	if len(newWords) > 0 {
+		msg += fmt.Sprintf("📝 *새로 추가된 단어:*\n%s\n\n", strings.Join(newWords, ", "))
+	}
+	msg += fmt.Sprintf("📚 *총 학습 완료:* %d개\n\n", len(progress.LearnedWords))
+	msg += "계속 화이팅! 💪"
+
 	sendToTelegram(botToken, chatID, msg)
 }
 
 func handleLearnLevelCommand(botToken, chatID, text string) {
 	parts := strings.Fields(text)
 	if len(parts) < 2 {
-		sendToTelegram(botToken, chatID, "📝 사용법: /learn a1, /learn a2, /learn b1")
+		sendToTelegram(botToken, chatID, "📝 *사용법*\n\n/learn a1\n/learn a2\n/learn b1\n\n레벨을 선택하세요!")
 		return
 	}
 
@@ -144,7 +317,7 @@ func handleLearnLevelCommand(botToken, chatID, text string) {
 	case "b1":
 		filename = "vocabulary/b1_words.json"
 	default:
-		sendToTelegram(botToken, chatID, "❌ 지원하는 레벨: a1, a2, b1")
+		sendToTelegram(botToken, chatID, "❌ *지원하는 레벨*\n\na1, a2, b1")
 		return
 	}
 
@@ -177,7 +350,8 @@ func handleLearnLevelCommand(botToken, chatID, text string) {
 	}
 
 	if len(unlearned) == 0 {
-		msg := fmt.Sprintf("🎉 *%s 레벨 완료!*\n\n모든 단어를 학습했어요!", strings.ToUpper(level))
+		msg := fmt.Sprintf("🎉 *%s 레벨 완료!*\n\n모든 단어를 학습했어요!\n\n", strings.ToUpper(level))
+		msg += "다른 레벨도 도전해보세요! 💪"
 		sendToTelegram(botToken, chatID, msg)
 		return
 	}
@@ -211,18 +385,18 @@ func formatLevelMessage(words []Word, sentence WiseSentences, level string) stri
 			msg += fmt.Sprintf("💬 %s\n\n", ex)
 		}
 		if len(word.Synonyms) > 0 {
-			msg += fmt.Sprintf("🔄 Synonyms: %v\n\n", word.Synonyms)
+			msg += fmt.Sprintf("🔄 Synonyms: %s\n\n", strings.Join(word.Synonyms, ", "))
 		}
 		if len(word.Antonyms) > 0 {
-			msg += fmt.Sprintf("🔀 Antonyms: %v\n\n", word.Antonyms)
+			msg += fmt.Sprintf("🔀 Antonyms: %s\n\n", strings.Join(word.Antonyms, ", "))
 		}
-		msg += "\n---\n\n"
+		msg += "---\n\n"
 	}
 
 	msg += "💡 *Wise Sentence*\n\n"
 	msg += fmt.Sprintf("🇩🇪 %s\n", sentence.German)
 	msg += fmt.Sprintf("🇬🇧 %s\n\n", sentence.English)
-	msg += "_/learned [words] to mark as learned_"
+	msg += "_학습한 단어는 /learned [단어들]로 기록하세요_"
 
 	return msg
 }
@@ -243,32 +417,88 @@ func handleStatsCommand(botToken, chatID string) {
 		percentage = (learned * 100) / totalWords
 	}
 
+	// 레벨별 학습 단어 카운트
+	a1Learned, a2Learned, b1Learned := countLearnedByLevel(progress.LearnedWords)
+
 	msg := fmt.Sprintf("📊 *학습 통계*\n\n"+
-		"✅ 학습 완료: *%d개*\n"+
-		"📝 남은 단어: *%d개*\n"+
-		"📈 진행도: *%d%%*\n\n"+
-		"📚 전체 단어: %d개\n"+
-		"   • A1: %d개\n"+
-		"   • A2: %d개\n"+
-		"   • B1: %d개\n\n"+
-		"📅 마지막 학습: %s",
+		"✅ *학습 완료:* %d개\n"+
+		"📝 *남은 단어:* %d개\n"+
+		"📈 *진행도:* %d%%\n\n"+
+		"---\n\n"+
+		"📚 *레벨별 진행도*\n\n"+
+		"🟢 A1: %d/%d (%d%%)\n"+
+		"🟡 A2: %d/%d (%d%%)\n"+
+		"🔵 B1: %d/%d (%d%%)\n\n"+
+		"---\n\n"+
+		"📅 *마지막 학습:* %s\n\n"+
+		"계속 화이팅! 💪",
 		learned, remaining, percentage,
-		totalWords, a1Total, a2Total, b1Total,
+		a1Learned, a1Total, getPercentage(a1Learned, a1Total),
+		a2Learned, a2Total, getPercentage(a2Learned, a2Total),
+		b1Learned, b1Total, getPercentage(b1Learned, b1Total),
 		progress.LastStudy)
 
 	sendToTelegram(botToken, chatID, msg)
 }
 
+func countLearnedByLevel(learnedWords []string) (a1, a2, b1 int) {
+	// 모든 레벨의 단어를 로드하여 맵 생성
+	levelMap := make(map[string]string)
+
+	// A1
+	a1Data, _ := os.ReadFile("vocabulary/a1_words.json")
+	var a1Words []Word
+	json.Unmarshal(a1Data, &a1Words)
+	for _, w := range a1Words {
+		levelMap[w.German] = "A1"
+	}
+
+	// A2
+	a2Data, _ := os.ReadFile("vocabulary/a2_words.json")
+	var a2Words []Word
+	json.Unmarshal(a2Data, &a2Words)
+	for _, w := range a2Words {
+		levelMap[w.German] = "A2"
+	}
+
+	// B1
+	b1Data, _ := os.ReadFile("vocabulary/b1_words.json")
+	var b1Words []Word
+	json.Unmarshal(b1Data, &b1Words)
+	for _, w := range b1Words {
+		levelMap[w.German] = "B1"
+	}
+
+	// 학습한 단어의 레벨 카운트
+	for _, word := range learnedWords {
+		switch levelMap[word] {
+		case "A1":
+			a1++
+		case "A2":
+			a2++
+		case "B1":
+			b1++
+		}
+	}
+
+	return
+}
+
+func getPercentage(learned, total int) int {
+	if total == 0 {
+		return 0
+	}
+	return (learned * 100) / total
+}
+
 func loadWordsByLevel(filename string) []string {
 	data, err := os.ReadFile(filename)
 	if err != nil {
-		fmt.Printf("Error reading %s: %v\n", filename, err)
 		return []string{}
 	}
 
 	var words []Word
 	if err := json.Unmarshal(data, &words); err != nil {
-		fmt.Printf("Error parsing %s: %v\n", filename, err)
 		return []string{}
 	}
 
@@ -295,6 +525,7 @@ func loadUserProgress(chatID string) UserProgress {
 		ChatID:       chatID,
 		LearnedWords: []string{},
 		LastStudy:    "처음",
+		LastUpdateID: 0,
 	}
 }
 
@@ -303,47 +534,7 @@ func saveUserProgress(progress UserProgress) {
 	progressFile := filepath.Join(userProgressDir, progress.ChatID+"_progress.json")
 
 	data, _ := json.MarshalIndent(progress, "", "  ")
-	if err := os.WriteFile(progressFile, data, 0644); err != nil {
-		fmt.Printf("Error saving progress: %v\n", err)
-	} else {
-		fmt.Printf("✓ Saved progress for user %s (learned: %d)\n", progress.ChatID, len(progress.LearnedWords))
-	}
-}
-
-// ---------------- getUpdates로 /start 감지 ----------------
-func fetchNewChatIDs(botToken string) []string {
-	apiURL := fmt.Sprintf("https://api.telegram.org/bot%s/getUpdates", botToken)
-	resp, err := http.Get(apiURL)
-	if err != nil {
-		fmt.Println("Error fetching new chat IDs:", err)
-		return []string{}
-	}
-	defer resp.Body.Close()
-
-	var result struct {
-		Result []struct {
-			Message struct {
-				Chat struct {
-					ID int64 `json:"id"`
-				} `json:"chat"`
-				Text string `json:"text"`
-			} `json:"message"`
-		} `json:"result"`
-	}
-	json.NewDecoder(resp.Body).Decode(&result)
-
-	var newIDs []string
-	for _, update := range result.Result {
-		if update.Message.Text == "/start" {
-			newIDs = append(newIDs, fmt.Sprintf("%d", update.Message.Chat.ID))
-		}
-	}
-
-	if len(newIDs) > 0 {
-		fmt.Printf("Fetched %d new chat IDs from /start commands.\n", len(newIDs))
-	}
-
-	return newIDs
+	os.WriteFile(progressFile, data, 0644)
 }
 
 // ---------------- chat_ids.json 관리 ----------------
@@ -371,85 +562,6 @@ func mergeChatIDs(newIDs []string) {
 
 	data, _ := json.Marshal(ids)
 	os.WriteFile(chatIDFile, data, 0644)
-	fmt.Println("chat_ids.json updated locally")
-}
-
-// ---------------- 단어 선택 (유저별 맞춤) ----------------
-func selectDailyWordsForUser(chatID string) []Word {
-	// 전체 단어 로드
-	a1File, _ := os.ReadFile("vocabulary/a1_words.json")
-	a2File, _ := os.ReadFile("vocabulary/a2_words.json")
-	b1File, _ := os.ReadFile("vocabulary/b1_words.json")
-
-	var a1Words, a2Words, b1Words []Word
-	json.Unmarshal(a1File, &a1Words)
-	json.Unmarshal(a2File, &a2Words)
-	json.Unmarshal(b1File, &b1Words)
-
-	allWords := append(append(a1Words, a2Words...), b1Words...)
-
-	// 유저가 배운 단어 로드
-	progress := loadUserProgress(chatID)
-	learnedMap := make(map[string]bool)
-	for _, word := range progress.LearnedWords {
-		learnedMap[word] = true
-	}
-
-	// 안 배운 단어만 필터링
-	var unlearned []Word
-	for _, word := range allWords {
-		if !learnedMap[word.German] {
-			unlearned = append(unlearned, word)
-		}
-	}
-
-	fmt.Printf("User %s: %d learned, %d unlearned words\n",
-		chatID, len(progress.LearnedWords), len(unlearned))
-
-	// 단어가 부족하면 있는 만큼만 반환
-	if len(unlearned) == 0 {
-		return []Word{} // 모든 단어 학습 완료
-	}
-
-	// 레벨별로 분류
-	var a1Unlearned, a2Unlearned, b1Unlearned []Word
-	for _, word := range unlearned {
-		switch word.Level {
-		case "A1":
-			a1Unlearned = append(a1Unlearned, word)
-		case "A2":
-			a2Unlearned = append(a2Unlearned, word)
-		case "B1":
-			b1Unlearned = append(b1Unlearned, word)
-		}
-	}
-
-	// 각 레벨별로 셔플
-	rand.Seed(time.Now().UnixNano())
-	rand.Shuffle(len(a1Unlearned), func(i, j int) {
-		a1Unlearned[i], a1Unlearned[j] = a1Unlearned[j], a1Unlearned[i]
-	})
-	rand.Shuffle(len(a2Unlearned), func(i, j int) {
-		a2Unlearned[i], a2Unlearned[j] = a2Unlearned[j], a2Unlearned[i]
-	})
-	rand.Shuffle(len(b1Unlearned), func(i, j int) {
-		b1Unlearned[i], b1Unlearned[j] = b1Unlearned[j], b1Unlearned[i]
-	})
-
-	// A1 3개, A2 3개, B1 4개 선택 (가능한 범위 내에서)
-	var selected []Word
-	selected = append(selected, takeWords(a1Unlearned, 3)...)
-	selected = append(selected, takeWords(a2Unlearned, 3)...)
-	selected = append(selected, takeWords(b1Unlearned, 4)...)
-
-	return selected
-}
-
-func takeWords(words []Word, count int) []Word {
-	if len(words) <= count {
-		return words
-	}
-	return words[:count]
 }
 
 // ---------------- 명언 선택 ----------------
@@ -459,40 +571,6 @@ func selectDailySentence() WiseSentences {
 	json.Unmarshal(file, &sentences)
 	rand.Seed(time.Now().UnixNano())
 	return sentences[rand.Intn(len(sentences))]
-}
-
-// ---------------- 메시지 포맷 ----------------
-func formatMessage(words []Word, sentence WiseSentences) string {
-	if len(words) == 0 {
-		return "🎉 *축하합니다!*\n\n모든 단어를 학습하셨네요!\n\n💪 대단해요!"
-	}
-
-	msg := `
-Tip: /learned [words] to mark learned
-/learn a1/a2/b1 to learn level specific words
-/stats for progress
-
-🇩🇪 *Today's German Study* 🇩🇪
-`
-
-	for i, word := range words {
-		msg += fmt.Sprintf("(%s) *%d. %s*\n", word.Level, i+1, word.German)
-		msg += fmt.Sprintf("📖 %s\n\n", word.English)
-		for _, ex := range word.Examples {
-			msg += fmt.Sprintf("💬 %s\n\n", ex)
-		}
-		if len(word.Synonyms) > 0 {
-			msg += fmt.Sprintf("🔄 Synonyms: %v\n\n", word.Synonyms)
-		}
-		if len(word.Antonyms) > 0 {
-			msg += fmt.Sprintf("🔀 Antonyms: %v\n\n", word.Antonyms)
-		}
-		msg += "\n---\n\n"
-	}
-	msg += "💡 *Wise Sentence of the Day*\n\n"
-	msg += fmt.Sprintf("🇩🇪 %s\n", sentence.German)
-	msg += fmt.Sprintf("🇬🇧 %s\n\n", sentence.English)
-	return msg
 }
 
 // ---------------- 텔레그램 전송 ----------------
