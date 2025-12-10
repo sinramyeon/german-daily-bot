@@ -26,13 +26,19 @@ type WiseSentences struct {
 	English string `json:"english"`
 }
 
+type LevelProgress struct {
+	A1 []string `json:"a1"`
+	A2 []string `json:"a2"`
+	B1 []string `json:"b1"`
+}
+
 type UserProgress struct {
-	ChatID          string   `json:"chat_id"`
-	LearnedWords    []string `json:"learned_words"`
-	LastStudy       string   `json:"last_study_date"`
-	LastUpdateID    int      `json:"last_update_id"`
-	WelcomeSent     bool     `json:"welcome_sent"`
-	LastWelcomeDate string   `json:"last_welcome_date"`
+	ChatID          string        `json:"chat_id"`
+	LearnedWords    LevelProgress `json:"learned_words"`
+	LastStudy       string        `json:"last_study_date"`
+	LastUpdateID    int           `json:"last_update_id"`
+	WelcomeSent     bool          `json:"welcome_sent"`
+	LastWelcomeDate string        `json:"last_welcome_date"`
 }
 
 const chatIDFile = "chat_ids.json"
@@ -269,31 +275,83 @@ func handleLearnedCommand(botToken, chatID, text string) {
 	words := parts[1:] // /learned 제외한 나머지
 	progress := loadUserProgress(chatID)
 
-	// 중복 제거하며 추가
-	learnedMap := make(map[string]bool)
-	for _, w := range progress.LearnedWords {
-		learnedMap[w] = true
+	// 단어를 레벨별로 분류하여 저장
+	levelMap := buildLevelMap()
+
+	newWordsA1 := []string{}
+	newWordsA2 := []string{}
+	newWordsB1 := []string{}
+	unknownWords := []string{}
+
+	// 각 레벨별 중복 체크용 맵 생성
+	a1Map := make(map[string]bool)
+	a2Map := make(map[string]bool)
+	b1Map := make(map[string]bool)
+
+	for _, w := range progress.LearnedWords.A1 {
+		a1Map[w] = true
+	}
+	for _, w := range progress.LearnedWords.A2 {
+		a2Map[w] = true
+	}
+	for _, w := range progress.LearnedWords.B1 {
+		b1Map[w] = true
 	}
 
-	newCount := 0
-	var newWords []string
-	for _, w := range words {
-		if !learnedMap[w] {
-			progress.LearnedWords = append(progress.LearnedWords, w)
-			learnedMap[w] = true
-			newWords = append(newWords, w)
-			newCount++
+	// 입력된 단어를 레벨별로 분류하고 중복 체크
+	for _, word := range words {
+		level, exists := levelMap[word]
+		if !exists {
+			unknownWords = append(unknownWords, word)
+			continue
+		}
+
+		switch level {
+		case "A1":
+			if !a1Map[word] {
+				progress.LearnedWords.A1 = append(progress.LearnedWords.A1, word)
+				a1Map[word] = true
+				newWordsA1 = append(newWordsA1, word)
+			}
+		case "A2":
+			if !a2Map[word] {
+				progress.LearnedWords.A2 = append(progress.LearnedWords.A2, word)
+				a2Map[word] = true
+				newWordsA2 = append(newWordsA2, word)
+			}
+		case "B1":
+			if !b1Map[word] {
+				progress.LearnedWords.B1 = append(progress.LearnedWords.B1, word)
+				b1Map[word] = true
+				newWordsB1 = append(newWordsB1, word)
+			}
 		}
 	}
 
 	progress.LastStudy = time.Now().Format("2006-01-02")
 	saveUserProgress(progress)
 
-	msg := fmt.Sprintf("✅ *%d개 단어*를 학습 완료로 기록했어요!\n\n", newCount)
-	if len(newWords) > 0 {
-		msg += fmt.Sprintf("📝 *새로 추가된 단어:*\n%s\n\n", strings.Join(newWords, ", "))
+	// 응답 메시지 생성
+	totalNew := len(newWordsA1) + len(newWordsA2) + len(newWordsB1)
+	totalLearned := len(progress.LearnedWords.A1) + len(progress.LearnedWords.A2) + len(progress.LearnedWords.B1)
+
+	msg := fmt.Sprintf("✅ *%d개 단어*를 학습 완료로 기록했어요!\n\n", totalNew)
+
+	if len(newWordsA1) > 0 {
+		msg += fmt.Sprintf("🟢 *A1:* %s\n", strings.Join(newWordsA1, ", "))
 	}
-	msg += fmt.Sprintf("📚 *총 학습 완료:* %d개\n\n", len(progress.LearnedWords))
+	if len(newWordsA2) > 0 {
+		msg += fmt.Sprintf("🟡 *A2:* %s\n", strings.Join(newWordsA2, ", "))
+	}
+	if len(newWordsB1) > 0 {
+		msg += fmt.Sprintf("🔵 *B1:* %s\n", strings.Join(newWordsB1, ", "))
+	}
+
+	if len(unknownWords) > 0 {
+		msg += fmt.Sprintf("\n⚠️ *미등록 단어:* %s\n", strings.Join(unknownWords, ", "))
+	}
+
+	msg += fmt.Sprintf("\n📚 *총 학습 완료:* %d개\n\n", totalLearned)
 	msg += "계속 화이팅! 💪"
 
 	sendToTelegram(botToken, chatID, msg)
@@ -336,8 +394,21 @@ func handleLearnLevelCommand(botToken, chatID, text string) {
 
 	// 유저 진행도 로드
 	progress := loadUserProgress(chatID)
+
+	// 해당 레벨의 학습 완료 단어만 맵으로 변환
 	learnedMap := make(map[string]bool)
-	for _, w := range progress.LearnedWords {
+	var learnedList []string
+
+	switch level {
+	case "a1":
+		learnedList = progress.LearnedWords.A1
+	case "a2":
+		learnedList = progress.LearnedWords.A2
+	case "b1":
+		learnedList = progress.LearnedWords.B1
+	}
+
+	for _, w := range learnedList {
 		learnedMap[w] = true
 	}
 
@@ -410,15 +481,16 @@ func handleStatsCommand(botToken, chatID string) {
 	b1Total := len(loadWordsByLevel("vocabulary/b1_words.json"))
 	totalWords := a1Total + a2Total + b1Total
 
-	learned := len(progress.LearnedWords)
+	a1Learned := len(progress.LearnedWords.A1)
+	a2Learned := len(progress.LearnedWords.A2)
+	b1Learned := len(progress.LearnedWords.B1)
+	learned := a1Learned + a2Learned + b1Learned
+
 	remaining := totalWords - learned
 	percentage := 0
 	if totalWords > 0 {
 		percentage = (learned * 100) / totalWords
 	}
-
-	// 레벨별 학습 단어 카운트
-	a1Learned, a2Learned, b1Learned := countLearnedByLevel(progress.LearnedWords)
 
 	msg := fmt.Sprintf("📊 *학습 통계*\n\n"+
 		"✅ *학습 완료:* %d개\n"+
@@ -439,49 +511,6 @@ func handleStatsCommand(botToken, chatID string) {
 		progress.LastStudy)
 
 	sendToTelegram(botToken, chatID, msg)
-}
-
-func countLearnedByLevel(learnedWords []string) (a1, a2, b1 int) {
-	// 모든 레벨의 단어를 로드하여 맵 생성
-	levelMap := make(map[string]string)
-
-	// A1
-	a1Data, _ := os.ReadFile("vocabulary/a1_words.json")
-	var a1Words []Word
-	json.Unmarshal(a1Data, &a1Words)
-	for _, w := range a1Words {
-		levelMap[w.German] = "A1"
-	}
-
-	// A2
-	a2Data, _ := os.ReadFile("vocabulary/a2_words.json")
-	var a2Words []Word
-	json.Unmarshal(a2Data, &a2Words)
-	for _, w := range a2Words {
-		levelMap[w.German] = "A2"
-	}
-
-	// B1
-	b1Data, _ := os.ReadFile("vocabulary/b1_words.json")
-	var b1Words []Word
-	json.Unmarshal(b1Data, &b1Words)
-	for _, w := range b1Words {
-		levelMap[w.German] = "B1"
-	}
-
-	// 학습한 단어의 레벨 카운트
-	for _, word := range learnedWords {
-		switch levelMap[word] {
-		case "A1":
-			a1++
-		case "A2":
-			a2++
-		case "B1":
-			b1++
-		}
-	}
-
-	return
 }
 
 func getPercentage(learned, total int) int {
@@ -509,6 +538,37 @@ func loadWordsByLevel(filename string) []string {
 	return result
 }
 
+// 모든 단어의 레벨 맵 생성 (단어 -> 레벨)
+func buildLevelMap() map[string]string {
+	levelMap := make(map[string]string)
+
+	// A1
+	a1Data, _ := os.ReadFile("vocabulary/a1_words.json")
+	var a1Words []Word
+	json.Unmarshal(a1Data, &a1Words)
+	for _, w := range a1Words {
+		levelMap[w.German] = "A1"
+	}
+
+	// A2
+	a2Data, _ := os.ReadFile("vocabulary/a2_words.json")
+	var a2Words []Word
+	json.Unmarshal(a2Data, &a2Words)
+	for _, w := range a2Words {
+		levelMap[w.German] = "A2"
+	}
+
+	// B1
+	b1Data, _ := os.ReadFile("vocabulary/b1_words.json")
+	var b1Words []Word
+	json.Unmarshal(b1Data, &b1Words)
+	for _, w := range b1Words {
+		levelMap[w.German] = "B1"
+	}
+
+	return levelMap
+}
+
 // ---------------- 유저 진행도 관리 ----------------
 func loadUserProgress(chatID string) UserProgress {
 	progressFile := filepath.Join(userProgressDir, chatID+"_progress.json")
@@ -522,8 +582,12 @@ func loadUserProgress(chatID string) UserProgress {
 
 	// 파일이 없으면 새로 생성
 	return UserProgress{
-		ChatID:       chatID,
-		LearnedWords: []string{},
+		ChatID: chatID,
+		LearnedWords: LevelProgress{
+			A1: []string{},
+			A2: []string{},
+			B1: []string{},
+		},
 		LastStudy:    "처음",
 		LastUpdateID: 0,
 	}
