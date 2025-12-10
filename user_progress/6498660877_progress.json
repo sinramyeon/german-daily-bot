@@ -3,21 +3,30 @@
   "learned_words": {
     "a1": [
       "die Hilfe",
-      "das Tier"
+      "das Tier",
+      "der Chef",
+      "die Bibliothek",
+      "die Limonade",
+      "der Mann"
     ],
     "a2": [
       "probieren",
       "gestern",
       "gut",
-      "der Fuß"
+      "der Fuß",
+      "das Eis",
+      "was",
+      "teuer",
+      "das Messer"
     ],
     "b1": [
       "natürlich",
-      "die Freundin"
+      "die Freundin",
+      "interessant"
     ]
   },
   "last_study_date": "2025-12-10",
-  "last_update_id": 966260447,
+  "last_update_id": 966260449,
   "welcome_sent": false,
   "last_welcome_date": ""
 }
