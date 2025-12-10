@@ -18050,5 +18050,1870 @@
       "vernachlässigen",
       "übersehen"
     ]
+  },
+  {
+    "german": "die Tapferkeit",
+    "english": "bravery / valor",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Seine Tapferkeit ist bewundernswert.",
+      "Tapferkeit im Angesicht der Gefahr.",
+      "Sie zeigte große Tapferkeit."
+    ],
+    "synonyms": [
+      "der Mut",
+      "die Courage"
+    ],
+    "antonyms": [
+      "die Feigheit"
+    ]
+  },
+  {
+    "german": "die Courage",
+    "english": "courage / guts",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Er hat Courage gezeigt.",
+      "Das braucht Courage.",
+      "Ihre Courage ist beeindruckend."
+    ],
+    "synonyms": [
+      "der Mut",
+      "die Tapferkeit"
+    ],
+    "antonyms": [
+      "die Feigheit"
+    ]
+  },
+  {
+    "german": "schützen",
+    "english": "to protect",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Wir müssen die Umwelt schützen.",
+      "Er schützt seine Familie.",
+      "Schütze dich vor Kälte."
+    ],
+    "synonyms": [
+      "beschützen",
+      "bewahren"
+    ],
+    "antonyms": [
+      "gefährden",
+      "bedrohen"
+    ]
+  },
+  {
+    "german": "der Schutz",
+    "english": "protection",
+    "gender": "Maskullin",
+    "level": "B1",
+    "examples": [
+      "Der Schutz ist wichtig.",
+      "Schutz vor Gefahren.",
+      "Er sucht Schutz."
+    ],
+    "synonyms": [
+      "die Sicherheit",
+      "die Abschirmung"
+    ],
+    "antonyms": [
+      "die Gefahr"
+    ]
+  },
+  {
+    "german": "beschützen",
+    "english": "to protect / guard",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Eltern beschützen ihre Kinder.",
+      "Er beschützt sie.",
+      "Wir beschützen die Schwachen."
+    ],
+    "synonyms": [
+      "schützen",
+      "bewachen"
+    ],
+    "antonyms": [
+      "gefährden"
+    ]
+  },
+  {
+    "german": "bewahren",
+    "english": "to preserve / keep",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Wir bewahren die Tradition.",
+      "Er bewahrt Ruhe.",
+      "Die Natur muss bewahrt werden."
+    ],
+    "synonyms": [
+      "erhalten",
+      "schützen"
+    ],
+    "antonyms": [
+      "zerstören"
+    ]
+  },
+  {
+    "german": "erhalten",
+    "english": "to receive / preserve",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Ich habe einen Brief erhalten.",
+      "Das Gebäude muss erhalten werden.",
+      "Er erhielt eine Auszeichnung."
+    ],
+    "synonyms": [
+      "bekommen",
+      "bewahren"
+    ],
+    "antonyms": [
+      "verlieren",
+      "zerstören"
+    ]
+  },
+  {
+    "german": "zerstören",
+    "english": "to destroy",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Der Krieg zerstörte die Stadt.",
+      "Das Feuer zerstörte das Haus.",
+      "Man sollte nichts zerstören."
+    ],
+    "synonyms": [
+      "vernichten",
+      "ruinieren"
+    ],
+    "antonyms": [
+      "aufbauen",
+      "bewahren"
+    ]
+  },
+  {
+    "german": "die Zerstörung",
+    "english": "destruction",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Die Zerstörung war total.",
+      "Zerstörung durch Naturkatastrophen.",
+      "Die Zerstörung der Umwelt."
+    ],
+    "synonyms": [
+      "die Vernichtung",
+      "der Untergang"
+    ],
+    "antonyms": [
+      "der Aufbau",
+      "die Erhaltung"
+    ]
+  },
+  {
+    "german": "vernichten",
+    "english": "to annihilate / destroy",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Die Armee vernichtete den Feind.",
+      "Das Feuer vernichtete alles.",
+      "Dokumente wurden vernichtet."
+    ],
+    "synonyms": [
+      "zerstören",
+      "auslöschen"
+    ],
+    "antonyms": [
+      "erschaffen",
+      "bewahren"
+    ]
+  },
+  {
+    "german": "aufbauen",
+    "english": "to build / construct",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Wir bauen ein neues Haus auf.",
+      "Er baut seine Firma auf.",
+      "Das Land muss aufgebaut werden."
+    ],
+    "synonyms": [
+      "errichten",
+      "konstruieren"
+    ],
+    "antonyms": [
+      "zerstören",
+      "abbauen"
+    ]
+  },
+  {
+    "german": "der Aufbau",
+    "english": "construction / structure",
+    "gender": "Maskullin",
+    "level": "B1",
+    "examples": [
+      "Der Aufbau dauert lange.",
+      "Der Aufbau der Organisation.",
+      "Aufbau nach dem Krieg."
+    ],
+    "synonyms": [
+      "die Konstruktion",
+      "die Struktur"
+    ],
+    "antonyms": [
+      "die Zerstörung",
+      "der Abbau"
+    ]
+  },
+  {
+    "german": "errichten",
+    "english": "to erect / establish",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Sie errichten ein Denkmal.",
+      "Das Gebäude wurde errichtet.",
+      "Ein neues System wurde errichtet."
+    ],
+    "synonyms": [
+      "aufbauen",
+      "erbauen"
+    ],
+    "antonyms": [
+      "abreißen",
+      "zerstören"
+    ]
+  },
+  {
+    "german": "erbauen",
+    "english": "to build / construct",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Die Kirche wurde im 12. Jahrhundert erbaut.",
+      "Er erbaut ein Haus.",
+      "Das Schloss wurde erbaut."
+    ],
+    "synonyms": [
+      "errichten",
+      "bauen"
+    ],
+    "antonyms": [
+      "abreißen"
+    ]
+  },
+  {
+    "german": "bauen",
+    "english": "to build",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Wir bauen ein Haus.",
+      "Die Kinder bauen einen Turm.",
+      "Er baut Möbel."
+    ],
+    "synonyms": [
+      "konstruieren",
+      "errichten"
+    ],
+    "antonyms": [
+      "abreißen"
+    ]
+  },
+  {
+    "german": "der Bau",
+    "english": "construction / building",
+    "gender": "Maskullin",
+    "level": "B1",
+    "examples": [
+      "Der Bau dauert zwei Jahre.",
+      "Am Bau arbeiten.",
+      "Der Bau ist fertig."
+    ],
+    "synonyms": [
+      "die Konstruktion",
+      "das Gebäude"
+    ],
+    "antonyms": [
+      "der Abriss"
+    ]
+  },
+  {
+    "german": "abreißen",
+    "english": "to tear down / demolish",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Das alte Gebäude wird abgerissen.",
+      "Sie reißen die Mauer ab.",
+      "Der Turm wurde abgerissen."
+    ],
+    "synonyms": [
+      "niederreißen",
+      "abbrechen"
+    ],
+    "antonyms": [
+      "aufbauen",
+      "errichten"
+    ]
+  },
+  {
+    "german": "der Abriss",
+    "english": "demolition",
+    "gender": "Maskullin",
+    "level": "B1",
+    "examples": [
+      "Der Abriss beginnt morgen.",
+      "Ein Abriss des alten Hauses.",
+      "Der Abriss ist notwendig."
+    ],
+    "synonyms": [
+      "die Zerstörung",
+      "der Abbruch"
+    ],
+    "antonyms": [
+      "der Aufbau",
+      "der Bau"
+    ]
+  },
+  {
+    "german": "reparieren",
+    "english": "to repair / fix",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Er repariert das Auto.",
+      "Das Dach muss repariert werden.",
+      "Ich kann das reparieren."
+    ],
+    "synonyms": [
+      "instandsetzen",
+      "flicken"
+    ],
+    "antonyms": [
+      "kaputt machen",
+      "beschädigen"
+    ]
+  },
+  {
+    "german": "die Reparatur",
+    "english": "repair",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Die Reparatur kostet viel.",
+      "Das Auto ist in Reparatur.",
+      "Die Reparatur dauert lange."
+    ],
+    "synonyms": [
+      "die Instandsetzung",
+      "die Ausbesserung"
+    ],
+    "antonyms": [
+      "die Beschädigung"
+    ]
+  },
+  {
+    "german": "beschädigen",
+    "english": "to damage",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Der Sturm beschädigte das Dach.",
+      "Bitte beschädige nichts.",
+      "Das Auto wurde beschädigt."
+    ],
+    "synonyms": [
+      "verletzen",
+      "schädigen"
+    ],
+    "antonyms": [
+      "reparieren",
+      "schützen"
+    ]
+  },
+  {
+    "german": "die Beschädigung",
+    "english": "damage",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Die Beschädigung ist groß.",
+      "Es gab keine Beschädigung.",
+      "Die Beschädigung muss behoben werden."
+    ],
+    "synonyms": [
+      "der Schaden",
+      "die Verletzung"
+    ],
+    "antonyms": [
+      "die Reparatur"
+    ]
+  },
+  {
+    "german": "der Schaden",
+    "english": "damage / harm",
+    "gender": "Maskullin",
+    "level": "B1",
+    "examples": [
+      "Der Schaden ist groß.",
+      "Es entstand kein Schaden.",
+      "Der Schaden muss behoben werden."
+    ],
+    "synonyms": [
+      "die Beschädigung",
+      "der Verlust"
+    ],
+    "antonyms": [
+      "der Nutzen"
+    ]
+  },
+  {
+    "german": "schädlich",
+    "english": "harmful / damaging",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Rauchen ist schädlich.",
+      "Schädliche Substanzen vermeiden.",
+      "Das ist schädlich für die Gesundheit."
+    ],
+    "synonyms": [
+      "gefährlich",
+      "nachteilig"
+    ],
+    "antonyms": [
+      "nützlich",
+      "förderlich"
+    ]
+  },
+  {
+    "german": "nützlich",
+    "english": "useful / beneficial",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Das ist sehr nützlich.",
+      "Nützliche Informationen.",
+      "Ein nützliches Tool."
+    ],
+    "synonyms": [
+      "hilfreich",
+      "praktisch"
+    ],
+    "antonyms": [
+      "unnütz",
+      "schädlich"
+    ]
+  },
+  {
+    "german": "der Nutzen",
+    "english": "benefit / use",
+    "gender": "Maskullin",
+    "level": "B1",
+    "examples": [
+      "Der Nutzen ist groß.",
+      "Was ist der Nutzen davon?",
+      "Zum Nutzen aller."
+    ],
+    "synonyms": [
+      "der Vorteil",
+      "der Gewinn"
+    ],
+    "antonyms": [
+      "der Schaden",
+      "der Nachteil"
+    ]
+  },
+  {
+    "german": "nutzen",
+    "english": "to use / benefit from",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Wir nutzen die Zeit gut.",
+      "Er nutzt jede Gelegenheit.",
+      "Das nutzt dir nichts."
+    ],
+    "synonyms": [
+      "verwenden",
+      "gebrauchen"
+    ],
+    "antonyms": [
+      "verschwenden"
+    ]
+  },
+  {
+    "german": "verwenden",
+    "english": "to use / apply",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Ich verwende das Tool täglich.",
+      "Welches Programm verwendest du?",
+      "Das Geld wurde gut verwendet."
+    ],
+    "synonyms": [
+      "benutzen",
+      "nutzen"
+    ],
+    "antonyms": [
+      "vernachlässigen"
+    ]
+  },
+  {
+    "german": "die Verwendung",
+    "english": "use / application",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Die Verwendung ist einfach.",
+      "Bei der Verwendung beachten.",
+      "Richtige Verwendung ist wichtig."
+    ],
+    "synonyms": [
+      "die Nutzung",
+      "der Gebrauch"
+    ],
+    "antonyms": [
+      "die Verschwendung"
+    ]
+  },
+  {
+    "german": "gebrauchen",
+    "english": "to use",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Ich gebrauche dieses Wort oft.",
+      "Das kann man gut gebrauchen.",
+      "Er gebraucht das Auto täglich."
+    ],
+    "synonyms": [
+      "verwenden",
+      "nutzen"
+    ],
+    "antonyms": [
+      "ungebraucht lassen"
+    ]
+  },
+  {
+    "german": "der Gebrauch",
+    "english": "use / usage",
+    "gender": "Maskullin",
+    "level": "B1",
+    "examples": [
+      "Der Gebrauch ist erlaubt.",
+      "Beim Gebrauch vorsichtig sein.",
+      "Das ist im täglichen Gebrauch."
+    ],
+    "synonyms": [
+      "die Verwendung",
+      "die Nutzung"
+    ],
+    "antonyms": [
+      "die Nichtnutzung"
+    ]
+  },
+  {
+    "german": "verschwenden",
+    "english": "to waste",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Verschwende keine Zeit.",
+      "Er verschwendet Geld.",
+      "Wasser sollte nicht verschwendet werden."
+    ],
+    "synonyms": [
+      "vergeuden",
+      "wegwerfen"
+    ],
+    "antonyms": [
+      "sparen",
+      "nutzen"
+    ]
+  },
+  {
+    "german": "die Verschwendung",
+    "english": "waste / wastefulness",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Das ist Verschwendung.",
+      "Verschwendung von Ressourcen.",
+      "Verschwendung vermeiden."
+    ],
+    "synonyms": [
+      "die Vergeudung",
+      "der Luxus"
+    ],
+    "antonyms": [
+      "die Sparsamkeit"
+    ]
+  },
+  {
+    "german": "sparen",
+    "english": "to save / economize",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Ich spare für ein Auto.",
+      "Wir müssen Energie sparen.",
+      "Er spart viel Geld."
+    ],
+    "synonyms": [
+      "zurücklegen",
+      "ansparen"
+    ],
+    "antonyms": [
+      "ausgeben",
+      "verschwenden"
+    ]
+  },
+  {
+    "german": "die Ersparnis",
+    "english": "savings / economy",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Die Ersparnis ist groß.",
+      "Das bringt Ersparnisse.",
+      "Ersparnisse ansammeln."
+    ],
+    "synonyms": [
+      "die Einsparung",
+      "das Sparguthaben"
+    ],
+    "antonyms": [
+      "die Ausgabe"
+    ]
+  },
+  {
+    "german": "ausgeben",
+    "english": "to spend / distribute",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Ich gebe viel Geld aus.",
+      "Sie gibt Einladungen aus.",
+      "Er gibt sich als Experte aus."
+    ],
+    "synonyms": [
+      "verausgaben",
+      "verteilen"
+    ],
+    "antonyms": [
+      "sparen",
+      "einbehalten"
+    ]
+  },
+  {
+    "german": "die Ausgabe",
+    "english": "expense / issue / edition",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Die Ausgaben sind hoch.",
+      "Die neue Ausgabe der Zeitung.",
+      "Ausgaben kontrollieren."
+    ],
+    "synonyms": [
+      "der Aufwand",
+      "die Edition"
+    ],
+    "antonyms": [
+      "die Einnahme"
+    ]
+  },
+  {
+    "german": "die Einnahme",
+    "english": "income / revenue / intake",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Die Einnahmen steigen.",
+      "Einnahme von Medikamenten.",
+      "Gute Einnahmen im Monat."
+    ],
+    "synonyms": [
+      "das Einkommen",
+      "der Ertrag"
+    ],
+    "antonyms": [
+      "die Ausgabe"
+    ]
+  },
+  {
+    "german": "das Einkommen",
+    "english": "income",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Sein Einkommen ist gut.",
+      "Das Einkommen reicht nicht.",
+      "Ein stabiles Einkommen haben."
+    ],
+    "synonyms": [
+      "das Gehalt",
+      "die Einnahme"
+    ],
+    "antonyms": [
+      "die Ausgabe"
+    ]
+  },
+  {
+    "german": "das Gehalt",
+    "english": "salary",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Mein Gehalt kommt am Monatsende.",
+      "Ein gutes Gehalt bekommen.",
+      "Das Gehalt wurde erhöht."
+    ],
+    "synonyms": [
+      "der Lohn",
+      "das Einkommen"
+    ],
+    "antonyms": [
+      "die Schulden"
+    ]
+  },
+  {
+    "german": "der Lohn",
+    "english": "wage / reward",
+    "gender": "Maskullin",
+    "level": "B1",
+    "examples": [
+      "Der Lohn für die Arbeit.",
+      "Lohn und Gehalt.",
+      "Ein angemessener Lohn."
+    ],
+    "synonyms": [
+      "das Gehalt",
+      "die Vergütung"
+    ],
+    "antonyms": [
+      "die Strafe"
+    ]
+  },
+  {
+    "german": "die Bezahlung",
+    "english": "payment / pay",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Die Bezahlung ist gut.",
+      "Bezahlung erfolgt am Monatsende.",
+      "Faire Bezahlung fordern."
+    ],
+    "synonyms": [
+      "die Vergütung",
+      "das Honorar"
+    ],
+    "antonyms": [
+      "die Schuld"
+    ]
+  },
+  {
+    "german": "bezahlen",
+    "english": "to pay",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Ich bezahle bar.",
+      "Wer bezahlt das Essen?",
+      "Die Rechnung muss bezahlt werden."
+    ],
+    "synonyms": [
+      "zahlen",
+      "begleichen"
+    ],
+    "antonyms": [
+      "schulden"
+    ]
+  },
+  {
+    "german": "zahlen",
+    "english": "to pay",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Ich zahle mit Karte.",
+      "Bitte zahlen!",
+      "Er zahlt die Miete."
+    ],
+    "synonyms": [
+      "bezahlen",
+      "entrichten"
+    ],
+    "antonyms": [
+      "verdienen"
+    ]
+  },
+  {
+    "german": "die Zahlung",
+    "english": "payment",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Die Zahlung ist fällig.",
+      "Zahlung per Überweisung.",
+      "Die Zahlung wurde bestätigt."
+    ],
+    "synonyms": [
+      "die Bezahlung",
+      "die Begleichung"
+    ],
+    "antonyms": [
+      "die Schuld"
+    ]
+  },
+  {
+    "german": "die Rechnung",
+    "english": "bill / invoice / calculation",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Die Rechnung bitte!",
+      "Ich bekomme die Rechnung.",
+      "Die Rechnung geht auf."
+    ],
+    "synonyms": [
+      "die Quittung",
+      "die Faktura"
+    ],
+    "antonyms": [
+      "die Gutschrift"
+    ]
+  },
+  {
+    "german": "die Quittung",
+    "english": "receipt",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Bitte eine Quittung.",
+      "Ich brauche die Quittung.",
+      "Die Quittung aufbewahren."
+    ],
+    "synonyms": [
+      "der Beleg",
+      "der Nachweis"
+    ],
+    "antonyms": [
+      "die Rechnung"
+    ]
+  },
+  {
+    "german": "die Schuld",
+    "english": "debt / guilt / fault",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Er hat Schulden.",
+      "Das ist meine Schuld.",
+      "Schuld und Unschuld."
+    ],
+    "synonyms": [
+      "die Verschuldung",
+      "die Verantwortung"
+    ],
+    "antonyms": [
+      "die Unschuld",
+      "das Guthaben"
+    ]
+  },
+  {
+    "german": "schulden",
+    "english": "to owe",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Ich schulde dir Geld.",
+      "Was schulde ich dir?",
+      "Er schuldet mir eine Erklärung."
+    ],
+    "synonyms": [
+      "verpflichtet sein",
+      "verdanken"
+    ],
+    "antonyms": [
+      "gutgeschrieben bekommen"
+    ]
+  },
+  {
+    "german": "schuldig",
+    "english": "guilty / owing",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Er ist schuldig.",
+      "Schuldig oder unschuldig?",
+      "Ich bin dir noch Geld schuldig."
+    ],
+    "synonyms": [
+      "verantwortlich",
+      "verpflichtet"
+    ],
+    "antonyms": [
+      "unschuldig"
+    ]
+  },
+  {
+    "german": "die Unschuld",
+    "english": "innocence",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Seine Unschuld ist bewiesen.",
+      "Die Unschuld eines Kindes.",
+      "Er beteuert seine Unschuld."
+    ],
+    "synonyms": [
+      "die Schuldlosigkeit",
+      "die Reinheit"
+    ],
+    "antonyms": [
+      "die Schuld"
+    ]
+  },
+  {
+    "german": "unschuldig",
+    "english": "innocent",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Er ist unschuldig.",
+      "Ein unschuldiges Kind.",
+      "Sie wurde für unschuldig erklärt."
+    ],
+    "synonyms": [
+      "schuldlos",
+      "rein"
+    ],
+    "antonyms": [
+      "schuldig"
+    ]
+  },
+  {
+    "german": "verdienen",
+    "english": "to earn / deserve",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Ich verdiene gut.",
+      "Er verdient Respekt.",
+      "Sie verdient mehr Geld."
+    ],
+    "synonyms": [
+      "einnehmen",
+      "gebühren"
+    ],
+    "antonyms": [
+      "ausgeben"
+    ]
+  },
+  {
+    "german": "der Verdienst",
+    "english": "earnings / merit",
+    "gender": "Maskullin",
+    "level": "B1",
+    "examples": [
+      "Der Verdienst ist gut.",
+      "Das ist sein Verdienst.",
+      "Ein angemessener Verdienst."
+    ],
+    "synonyms": [
+      "das Einkommen",
+      "die Leistung"
+    ],
+    "antonyms": [
+      "der Verlust"
+    ]
+  },
+  {
+    "german": "der Gewinn",
+    "english": "profit / gain / win",
+    "gender": "Maskullin",
+    "level": "B1",
+    "examples": [
+      "Der Gewinn ist hoch.",
+      "Ein Gewinn im Lotto.",
+      "Gewinn und Verlust."
+    ],
+    "synonyms": [
+      "der Profit",
+      "der Ertrag"
+    ],
+    "antonyms": [
+      "der Verlust"
+    ]
+  },
+  {
+    "german": "gewinnen",
+    "english": "to win / gain",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Wir haben gewonnen!",
+      "Er gewinnt an Erfahrung.",
+      "Das Team gewinnt das Spiel."
+    ],
+    "synonyms": [
+      "siegen",
+      "erlangen"
+    ],
+    "antonyms": [
+      "verlieren"
+    ]
+  },
+  {
+    "german": "verlieren",
+    "english": "to lose",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Ich habe meinen Schlüssel verloren.",
+      "Die Mannschaft hat verloren.",
+      "Er verliert oft."
+    ],
+    "synonyms": [
+      "einbüßen",
+      "verspielen"
+    ],
+    "antonyms": [
+      "gewinnen",
+      "finden"
+    ]
+  },
+  {
+    "german": "der Verlust",
+    "english": "loss",
+    "gender": "Maskullin",
+    "level": "B1",
+    "examples": [
+      "Der Verlust ist groß.",
+      "Verlust von Daten.",
+      "Ein schmerzlicher Verlust."
+    ],
+    "synonyms": [
+      "der Schaden",
+      "die Einbuße"
+    ],
+    "antonyms": [
+      "der Gewinn"
+    ]
+  },
+  {
+    "german": "die Steuer",
+    "english": "tax / steering wheel",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Steuern zahlen müssen.",
+      "Die Steuer ist hoch.",
+      "Er sitzt am Steuer."
+    ],
+    "synonyms": [
+      "die Abgabe",
+      "das Lenkrad"
+    ],
+    "antonyms": [
+      "die Steuererleichterung"
+    ]
+  },
+  {
+    "german": "die Mehrwertsteuer",
+    "english": "value-added tax (VAT)",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Die Mehrwertsteuer beträgt 19%.",
+      "Preis inklusive Mehrwertsteuer.",
+      "Mehrwertsteuer abziehen."
+    ],
+    "synonyms": [
+      "die Umsatzsteuer",
+      "die MwSt"
+    ],
+    "antonyms": [
+      "die Steuerbefreiung"
+    ]
+  },
+  {
+    "german": "die Miete",
+    "english": "rent",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Die Miete ist teuer.",
+      "Ich zahle die Miete.",
+      "Die Miete steigt."
+    ],
+    "synonyms": [
+      "das Mietgeld",
+      "die Pacht"
+    ],
+    "antonyms": [
+      "der Kauf"
+    ]
+  },
+  {
+    "german": "mieten",
+    "english": "to rent",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Wir mieten eine Wohnung.",
+      "Ich miete ein Auto.",
+      "Das Haus wird gemietet."
+    ],
+    "synonyms": [
+      "anmieten",
+      "pachten"
+    ],
+    "antonyms": [
+      "vermieten",
+      "kaufen"
+    ]
+  },
+  {
+    "german": "vermieten",
+    "english": "to rent out / let",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Er vermietet Wohnungen.",
+      "Das Zimmer wird vermietet.",
+      "Sie vermietet ihr Auto."
+    ],
+    "synonyms": [
+      "verpachten",
+      "verleihen"
+    ],
+    "antonyms": [
+      "mieten"
+    ]
+  },
+  {
+    "german": "der Vermieter",
+    "english": "landlord",
+    "gender": "Maskullin",
+    "level": "B1",
+    "examples": [
+      "Der Vermieter ist freundlich.",
+      "Ich spreche mit dem Vermieter.",
+      "Der Vermieter erhöht die Miete."
+    ],
+    "synonyms": [
+      "der Eigentümer",
+      "der Hausbesitzer"
+    ],
+    "antonyms": [
+      "der Mieter"
+    ]
+  },
+  {
+    "german": "der Mieter",
+    "english": "tenant / renter",
+    "gender": "Maskullin",
+    "level": "B1",
+    "examples": [
+      "Der Mieter zahlt pünktlich.",
+      "Neue Mieter ziehen ein.",
+      "Die Rechte der Mieter."
+    ],
+    "synonyms": [
+      "der Bewohner",
+      "der Pächter"
+    ],
+    "antonyms": [
+      "der Vermieter"
+    ]
+  },
+  {
+    "german": "der Eigentümer",
+    "english": "owner",
+    "gender": "Maskullin",
+    "level": "B1",
+    "examples": [
+      "Er ist der Eigentümer des Hauses.",
+      "Der Eigentümer verkauft.",
+      "Wer ist der Eigentümer?"
+    ],
+    "synonyms": [
+      "der Besitzer",
+      "der Inhaber"
+    ],
+    "antonyms": [
+      "der Mieter"
+    ]
+  },
+  {
+    "german": "das Eigentum",
+    "english": "property / ownership",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Das ist mein Eigentum.",
+      "Eigentum verpflichtet.",
+      "Privates Eigentum."
+    ],
+    "synonyms": [
+      "der Besitz",
+      "die Habe"
+    ],
+    "antonyms": [
+      "das Gemeingut"
+    ]
+  },
+  {
+    "german": "der Besitz",
+    "english": "possession / property",
+    "gender": "Maskullin",
+    "level": "B1",
+    "examples": [
+      "Das ist in meinem Besitz.",
+      "Er nimmt Besitz davon.",
+      "Besitz und Eigentum."
+    ],
+    "synonyms": [
+      "das Eigentum",
+      "die Habe"
+    ],
+    "antonyms": [
+      "der Verlust"
+    ]
+  },
+  {
+    "german": "besitzen",
+    "english": "to own / possess",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Ich besitze ein Auto.",
+      "Er besitzt viele Bücher.",
+      "Sie besitzt ein Haus."
+    ],
+    "synonyms": [
+      "haben",
+      "verfügen über"
+    ],
+    "antonyms": [
+      "verlieren"
+    ]
+  },
+  {
+    "german": "der Besitzer",
+    "english": "owner / possessor",
+    "gender": "Maskullin",
+    "level": "B1",
+    "examples": [
+      "Der Besitzer des Geschäfts.",
+      "Ich bin der Besitzer.",
+      "Wer ist der Besitzer?"
+    ],
+    "synonyms": [
+      "der Eigentümer",
+      "der Inhaber"
+    ],
+    "antonyms": [
+      "der Nichteigentümer"
+    ]
+  },
+  {
+    "german": "der Inhaber",
+    "english": "holder / owner",
+    "gender": "Maskullin",
+    "level": "B1",
+    "examples": [
+      "Der Inhaber des Geschäfts.",
+      "Inhaber einer Lizenz.",
+      "Der Kontoinhaber."
+    ],
+    "synonyms": [
+      "der Besitzer",
+      "der Eigentümer"
+    ],
+    "antonyms": [
+      "der Nichtinhaber"
+    ]
+  },
+  {
+    "german": "das Konto",
+    "english": "account",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Ich eröffne ein Konto.",
+      "Das Geld ist auf dem Konto.",
+      "Mein Konto ist leer."
+    ],
+    "synonyms": [
+      "das Bankkonto",
+      "das Girokonto"
+    ],
+    "antonyms": [
+      "die Schulden"
+    ]
+  },
+  {
+    "german": "die Bank",
+    "english": "bank / bench",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Ich gehe zur Bank.",
+      "Geld auf der Bank haben.",
+      "Wir sitzen auf der Bank."
+    ],
+    "synonyms": [
+      "das Kreditinstitut",
+      "die Sitzbank"
+    ],
+    "antonyms": [
+      "die Schulden"
+    ]
+  },
+  {
+    "german": "die Überweisung",
+    "english": "transfer / remittance",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Ich mache eine Überweisung.",
+      "Die Überweisung dauert zwei Tage.",
+      "Überweisung per Online-Banking."
+    ],
+    "synonyms": [
+      "die Transaktion",
+      "die Zahlung"
+    ],
+    "antonyms": [
+      "die Barauszahlung"
+    ]
+  },
+  {
+    "german": "überweisen",
+    "english": "to transfer / remit",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Ich überweise das Geld.",
+      "Er überweist die Miete.",
+      "Bitte überweisen Sie den Betrag."
+    ],
+    "synonyms": [
+      "transferieren",
+      "senden"
+    ],
+    "antonyms": [
+      "bar zahlen"
+    ]
+  },
+  {
+    "german": "abheben",
+    "english": "to withdraw / take off",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Ich hebe Geld ab.",
+      "Das Flugzeug hebt ab.",
+      "Er hebt 100 Euro ab."
+    ],
+    "synonyms": [
+      "entnehmen",
+      "starten"
+    ],
+    "antonyms": [
+      "einzahlen",
+      "landen"
+    ]
+  },
+  {
+    "german": "einzahlen",
+    "english": "to deposit / pay in",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Ich zahle Geld ein.",
+      "Er zahlt auf sein Konto ein.",
+      "Bitte zahlen Sie hier ein."
+    ],
+    "synonyms": [
+      "deponieren",
+      "hinterlegen"
+    ],
+    "antonyms": [
+      "abheben",
+      "auszahlen"
+    ]
+  },
+  {
+    "german": "die Einzahlung",
+    "english": "deposit",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Die Einzahlung wurde bestätigt.",
+      "Eine Einzahlung vornehmen.",
+      "Einzahlungen sind möglich."
+    ],
+    "synonyms": [
+      "die Anzahlung",
+      "die Einlage"
+    ],
+    "antonyms": [
+      "die Auszahlung"
+    ]
+  },
+  {
+    "german": "auszahlen",
+    "english": "to pay out",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Die Bank zahlt das Geld aus.",
+      "Der Gewinn wird ausgezahlt.",
+      "Wann wird ausgezahlt?"
+    ],
+    "synonyms": [
+      "zahlen",
+      "ausschütten"
+    ],
+    "antonyms": [
+      "einzahlen"
+    ]
+  },
+  {
+    "german": "die Auszahlung",
+    "english": "payout / disbursement",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Die Auszahlung erfolgt morgen.",
+      "Ich warte auf die Auszahlung.",
+      "Auszahlungen sind jederzeit möglich."
+    ],
+    "synonyms": [
+      "die Zahlung",
+      "die Ausschüttung"
+    ],
+    "antonyms": [
+      "die Einzahlung"
+    ]
+  },
+  {
+    "german": "der Betrag",
+    "english": "amount / sum",
+    "gender": "Maskullin",
+    "level": "B1",
+    "examples": [
+      "Der Betrag ist zu hoch.",
+      "Ein kleiner Betrag.",
+      "Der Betrag wird überwiesen."
+    ],
+    "synonyms": [
+      "die Summe",
+      "der Geldbetrag"
+    ],
+    "antonyms": [
+      "nichts"
+    ]
+  },
+  {
+    "german": "die Summe",
+    "english": "sum / total",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Die Summe beträgt 100 Euro.",
+      "Eine große Summe Geld.",
+      "Die Summe stimmt."
+    ],
+    "synonyms": [
+      "der Betrag",
+      "die Gesamtsumme"
+    ],
+    "antonyms": [
+      "der Teil"
+    ]
+  },
+  {
+    "german": "der Preis",
+    "english": "price / prize",
+    "gender": "Maskullin",
+    "level": "B1",
+    "examples": [
+      "Der Preis ist fair.",
+      "Was kostet das? - Der Preis ist 50 Euro.",
+      "Er gewann den ersten Preis."
+    ],
+    "synonyms": [
+      "der Betrag",
+      "die Auszeichnung"
+    ],
+    "antonyms": [
+      "die Strafe"
+    ]
+  },
+  {
+    "german": "die Kosten",
+    "english": "costs / expenses",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Die Kosten sind hoch.",
+      "Kosten senken.",
+      "Wer trägt die Kosten?"
+    ],
+    "synonyms": [
+      "die Ausgaben",
+      "die Aufwendungen"
+    ],
+    "antonyms": [
+      "die Einnahmen"
+    ]
+  },
+  {
+    "german": "kosten",
+    "english": "to cost",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Was kostet das?",
+      "Es kostet 10 Euro.",
+      "Das kostet viel Zeit."
+    ],
+    "synonyms": [
+      "den Preis haben",
+      "wert sein"
+    ],
+    "antonyms": [
+      "einbringen"
+    ]
+  },
+  {
+    "german": "kostenlos",
+    "english": "free (of charge)",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Der Eintritt ist kostenlos.",
+      "Kostenlose Beratung.",
+      "Es ist völlig kostenlos."
+    ],
+    "synonyms": [
+      "gratis",
+      "umsonst"
+    ],
+    "antonyms": [
+      "kostenpflichtig",
+      "teuer"
+    ]
+  },
+  {
+    "german": "teuer",
+    "english": "expensive / dear",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Das ist zu teuer.",
+      "Teure Produkte.",
+      "Es wird immer teurer."
+    ],
+    "synonyms": [
+      "kostspielig",
+      "hochpreisig"
+    ],
+    "antonyms": [
+      "billig",
+      "günstig"
+    ]
+  },
+  {
+    "german": "billig",
+    "english": "cheap / inexpensive",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Das ist billig.",
+      "Billige Waren.",
+      "Es ist sehr billig."
+    ],
+    "synonyms": [
+      "günstig",
+      "preiswert"
+    ],
+    "antonyms": [
+      "teuer",
+      "kostspielig"
+    ]
+  },
+  {
+    "german": "günstig",
+    "english": "favorable / cheap",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Ein günstiger Preis.",
+      "Die Lage ist günstig.",
+      "Das ist sehr günstig."
+    ],
+    "synonyms": [
+      "preiswert",
+      "vorteilhaft"
+    ],
+    "antonyms": [
+      "ungünstig",
+      "teuer"
+    ]
+  },
+  {
+    "german": "der Rabatt",
+    "english": "discount",
+    "gender": "Maskullin",
+    "level": "B1",
+    "examples": [
+      "Ich bekomme 10% Rabatt.",
+      "Es gibt Rabatt.",
+      "Rabatt für Studenten."
+    ],
+    "synonyms": [
+      "der Nachlass",
+      "die Ermäßigung"
+    ],
+    "antonyms": [
+      "der Aufschlag"
+    ]
+  },
+  {
+    "german": "das Angebot",
+    "english": "offer / supply",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Ein gutes Angebot.",
+      "Ich mache dir ein Angebot.",
+      "Angebot und Nachfrage."
+    ],
+    "synonyms": [
+      "das Offert",
+      "der Vorschlag"
+    ],
+    "antonyms": [
+      "die Nachfrage"
+    ]
+  },
+  {
+    "german": "anbieten",
+    "english": "to offer",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Ich biete dir Hilfe an.",
+      "Das Geschäft bietet gute Preise an.",
+      "Er bietet mir einen Job an."
+    ],
+    "synonyms": [
+      "offerieren",
+      "vorschlagen"
+    ],
+    "antonyms": [
+      "ablehnen",
+      "verweigern"
+    ]
+  },
+  {
+    "german": "die Nachfrage",
+    "english": "demand / inquiry",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Die Nachfrage ist groß.",
+      "Angebot und Nachfrage.",
+      "Eine Nachfrage stellen."
+    ],
+    "synonyms": [
+      "die Anfrage",
+      "das Bedürfnis"
+    ],
+    "antonyms": [
+      "das Angebot"
+    ]
+  },
+  {
+    "german": "nachfragen",
+    "english": "to inquire / ask",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Ich frage nach dem Preis.",
+      "Bitte bei der Firma nachfragen.",
+      "Er fragt immer nach."
+    ],
+    "synonyms": [
+      "anfragen",
+      "sich erkundigen"
+    ],
+    "antonyms": [
+      "ignorieren"
+    ]
+  },
+  {
+    "german": "bestellen",
+    "english": "to order",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Ich bestelle ein Buch.",
+      "Was möchten Sie bestellen?",
+      "Online bestellen."
+    ],
+    "synonyms": [
+      "ordern",
+      "in Auftrag geben"
+    ],
+    "antonyms": [
+      "stornieren"
+    ]
+  },
+  {
+    "german": "die Bestellung",
+    "english": "order",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Meine Bestellung ist angekommen.",
+      "Eine Bestellung aufgeben.",
+      "Die Bestellung wird bearbeitet."
+    ],
+    "synonyms": [
+      "der Auftrag",
+      "die Order"
+    ],
+    "antonyms": [
+      "die Stornierung"
+    ]
+  },
+  {
+    "german": "liefern",
+    "english": "to deliver / supply",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Die Firma liefert pünktlich.",
+      "Wir liefern nach Hause.",
+      "Das Paket wird morgen geliefert."
+    ],
+    "synonyms": [
+      "ausliefern",
+      "zustellen"
+    ],
+    "antonyms": [
+      "abholen"
+    ]
+  },
+  {
+    "german": "die Lieferung",
+    "english": "delivery / shipment",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Die Lieferung kommt morgen.",
+      "Kostenlose Lieferung.",
+      "Schnelle Lieferung garantiert."
+    ],
+    "synonyms": [
+      "die Zustellung",
+      "der Versand"
+    ],
+    "antonyms": [
+      "die Abholung"
+    ]
+  },
+  {
+    "german": "empfangen",
+    "english": "to receive / welcome",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Ich empfange ein Paket.",
+      "Sie empfängt die Gäste.",
+      "Er empfängt Signale."
+    ],
+    "synonyms": [
+      "erhalten",
+      "begrüßen"
+    ],
+    "antonyms": [
+      "senden",
+      "verabschieden"
+    ]
+  },
+  {
+    "german": "der Empfang",
+    "english": "reception / receipt",
+    "gender": "Maskullin",
+    "level": "B1",
+    "examples": [
+      "Der Empfang ist im Erdgeschoss.",
+      "Guter Empfang beim Radio.",
+      "Beim Empfang melden."
+    ],
+    "synonyms": [
+      "die Rezeption",
+      "der Erhalt"
+    ],
+    "antonyms": [
+      "die Sendung"
+    ]
+  },
+  {
+    "german": "senden",
+    "english": "to send / broadcast",
+    "gender": "Neutral",
+    "level": "B1",
+    "examples": [
+      "Ich sende dir eine Nachricht.",
+      "Das Programm wird gesendet.",
+      "Er sendet das Paket."
+    ],
+    "synonyms": [
+      "schicken",
+      "übertragen"
+    ],
+    "antonyms": [
+      "empfangen"
+    ]
+  },
+  {
+    "german": "die Sendung",
+    "english": "shipment / broadcast",
+    "gender": "Feminin",
+    "level": "B1",
+    "examples": [
+      "Die Sendung ist unterwegs.",
+      "Eine interessante Sendung im TV.",
+      "Die Sendung kommt morgen an."
+    ],
+    "synonyms": [
+      "das Paket",
+      "die Übertragung"
+    ],
+    "antonyms": [
+      "der Empfang"
+    ]
   }
 ]

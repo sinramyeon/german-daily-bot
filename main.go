@@ -407,6 +407,8 @@ func handleLearnLevelCommand(botToken, chatID, text string, updateID int) {
 		return
 	}
 
+	fmt.Println("✓ Loaded", len(allWords), "words for level : ", level)
+
 	// 유저 진행도 로드
 	progress := loadUserProgress(chatID)
 
@@ -441,6 +443,8 @@ func handleLearnLevelCommand(botToken, chatID, text string, updateID int) {
 		sendToTelegram(botToken, chatID, msg)
 		return
 	}
+
+	fmt.Println("✓ Found", len(unlearned), "unlearned words for user:", chatID)
 
 	// 랜덤 셔플
 	rand.Seed(time.Now().UnixNano())

@@ -1,0 +1,1223 @@
+[
+    {
+      "german": "die Herausforderung",
+      "english": "challenge",
+      "gender": "Feminin",
+      "level": "B2",
+      "examples": [
+        "Das war eine große Herausforderung für mich.",
+        "Ich nehme die Herausforderung gern an."
+      ],
+      "synonyms": [
+        "die Aufgabe",
+        "der Anspruch"
+      ],
+      "antonyms": [
+        "die Leichtigkeit"
+      ]
+    },
+    {
+      "german": "verzichten",
+      "english": "to renounce / to give up",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Er musste auf sein Lieblingshobby verzichten.",
+        "Ich kann nicht auf Schokolade verzichten."
+      ],
+      "synonyms": [
+        "aufgeben",
+        "sich enthalten"
+      ],
+      "antonyms": [
+        "beanspruchen",
+        "beanspruchen"
+      ]
+    },
+    {
+      "german": "verlässlich",
+      "english": "reliable",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Er ist ein sehr verlässlicher Freund.",
+        "Wir brauchen verlässliche Informationen."
+      ],
+      "synonyms": [
+        "zuverlässig",
+        "vertrauenswürdig"
+      ],
+      "antonyms": [
+        "unzuverlässig",
+        "wankelmütig"
+      ]
+    },
+    {
+      "german": "die Zustimmung",
+      "english": "approval / consent",
+      "gender": "Feminin",
+      "level": "B2",
+      "examples": [
+        "Ich warte noch auf seine Zustimmung.",
+        "Ohne Zustimmung der Eltern darf er nicht mitkommen."
+      ],
+      "synonyms": [
+        "die Einwilligung",
+        "die Billigung"
+      ],
+      "antonyms": [
+        "die Ablehnung",
+        "der Widerspruch"
+      ]
+    },
+    {
+      "german": "umfassend",
+      "english": "comprehensive / extensive",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Der Bericht war sehr umfassend.",
+        "Sie bekam eine umfassende Ausbildung."
+      ],
+      "synonyms": [
+        "ausführlich",
+        "gründlich"
+      ],
+      "antonyms": [
+        "oberflächlich",
+        "unvollständig"
+      ]
+    },
+    {
+      "german": "beeinträchtigen",
+      "english": "to impair / to negatively affect",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Der Lärm kann das Lernen beeinträchtigen.",
+        "Sein Schlafmangel beeinträchtigt seine Leistung."
+      ],
+      "synonyms": [
+        "schädigen",
+        "negativ beeinflussen"
+      ],
+      "antonyms": [
+        "fördern",
+        "verbessern"
+      ]
+    },
+    {
+      "german": "die Voraussetzung",
+      "english": "prerequisite / requirement",
+      "gender": "Feminin",
+      "level": "B2",
+      "examples": [
+        "Eine gute Vorbereitung ist die wichtigste Voraussetzung.",
+        "Die Voraussetzung für das Studium ist ein Sprachzertifikat."
+      ],
+      "synonyms": [
+        "die Bedingung",
+        "die Erfordernis"
+      ],
+      "antonyms": [
+        "die Folge",
+        "die Konsequenz"
+      ]
+    },
+    {
+      "german": "ermöglichen",
+      "english": "to enable / to make possible",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Dieses Gesetz ermöglicht mehr soziale Gerechtigkeit.",
+        "Die Technik ermöglicht einen schnellen Austausch."
+      ],
+      "synonyms": [
+        "gestatten",
+        "zulassen"
+      ],
+      "antonyms": [
+        "verhindern",
+        "unterbinden"
+      ]
+    },
+    {
+      "german": "nachhaltig",
+      "english": "sustainable / lasting",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Sie setzt sich für nachhaltige Energie ein.",
+        "Der Erfolg war langfristig und nachhaltig."
+      ],
+      "synonyms": [
+        "dauerhaft",
+        "langlebig"
+      ],
+      "antonyms": [
+        "kurzfristig",
+        "vergänglich"
+      ]
+    },
+    {
+      "german": "der Fortschritt",
+      "english": "progress / advancement",
+      "gender": "Maskulin",
+      "level": "B2",
+      "examples": [
+        "Der technologische Fortschritt ist beeindruckend.",
+        "Er machte große Fortschritte im Deutschlernen."
+      ],
+      "synonyms": [
+        "die Entwicklung",
+        "die Verbesserung"
+      ],
+      "antonyms": [
+        "der Rückschritt",
+        "die Stagnation"
+      ]
+    },
+    {
+      "german": "tatsächlich",
+      "english": "actually / indeed / in fact",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Er hat tatsächlich Recht behalten.",
+        "Das ist tatsächlich passiert."
+      ],
+      "synonyms": [
+        "wirklich",
+        "in der Tat"
+      ],
+      "antonyms": [
+        "angeblich",
+        "scheinbar"
+      ]
+    },
+    {
+      "german": "die Belastung",
+      "english": "burden / strain",
+      "gender": "Feminin",
+      "level": "B2",
+      "examples": [
+        "Der Stress stellt eine große psychische Belastung dar.",
+        "Die hohe Arbeitsbelastung machte ihn krank."
+      ],
+      "synonyms": [
+        "die Bürde",
+        "die Beanspruchung"
+      ],
+      "antonyms": [
+        "die Entlastung",
+        "die Erleichterung"
+      ]
+    },
+    {
+      "german": "bewältigen",
+      "english": "to overcome / manage / cope with",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Sie konnte die schwierige Zeit gut bewältigen.",
+        "Wir müssen gemeinsam diese Aufgabe bewältigen."
+      ],
+      "synonyms": [
+        "meistern",
+        "schaffen"
+      ],
+      "antonyms": [
+        "aufgeben",
+        "scheitern"
+      ]
+    },
+    {
+      "german": "die Erkenntnis",
+      "english": "realization / insight",
+      "gender": "Feminin",
+      "level": "B2",
+      "examples": [
+        "Er kam zu der Erkenntnis, dass er sich ändern muss.",
+        "Die Studie liefert neue Erkenntnisse über das Verhalten."
+      ],
+      "synonyms": [
+        "das Bewusstsein",
+        "die Einsicht"
+      ],
+      "antonyms": [
+        "die Ignoranz",
+        "die Unwissenheit"
+      ]
+    },
+    {
+      "german": "umgehen mit",
+      "english": "to deal with / handle",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Er kann gut mit Stress umgehen.",
+        "Wie gehst du mit Kritik um?"
+      ],
+      "synonyms": [
+        "handhaben",
+        "bewältigen"
+      ],
+      "antonyms": [
+        "vermeiden",
+        "ausweichen"
+      ]
+    },
+    {
+      "german": "der Vertreter",
+      "english": "representative / agent",
+      "gender": "Maskulin",
+      "level": "B2",
+      "examples": [
+        "Der Vertreter kam pünktlich zum Termin.",
+        "Er fungiert als Vertreter der Firma."
+      ],
+      "synonyms": [
+        "der Repräsentant",
+        "der Bevollmächtigte"
+      ],
+      "antonyms": [
+        "der Abwesende",
+        "der Stellvertreter (im Sinne von Ersatzlosigkeit)"
+      ]
+    },
+    {
+      "german": "die Voraussetzung erfüllen",
+      "english": "to meet the requirements / to qualify",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Er erfüllt alle Voraussetzungen für den Job.",
+        "Wenn du die Voraussetzungen erfüllst, kannst du dich bewerben."
+      ],
+      "synonyms": [
+        "qualifizieren",
+        "geeignet sein"
+      ],
+      "antonyms": [
+        "nicht geeignet sein",
+        "versagen"
+      ]
+    },
+    {
+      "german": "die Vielfalt",
+      "english": "diversity / variety",
+      "gender": "Feminin",
+      "level": "B2",
+      "examples": [
+        "Die Stadt bietet eine große kulturelle Vielfalt.",
+        "In der Küche schätze ich die Vielfalt der Gewürze."
+      ],
+      "synonyms": [
+        "die Diversität",
+        "die Verschiedenheit"
+      ],
+      "antonyms": [
+        "die Einfalt",
+        "die Gleichförmigkeit"
+      ]
+    },
+    {
+      "german": "anbieten",
+      "english": "to offer",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Die Firma bot ihm einen neuen Vertrag an.",
+        "Kannst du mir deine Hilfe anbieten?"
+      ],
+      "synonyms": [
+        "offerieren",
+        "zur Verfügung stellen"
+      ],
+      "antonyms": [
+        "verweigern",
+        "ablehnen"
+      ]
+    },
+    {
+      "german": "der Wandel",
+      "english": "change / transformation",
+      "gender": "Maskulin",
+      "level": "B2",
+      "examples": [
+        "Der soziale Wandel betrifft uns alle.",
+        "Im Wandel der Zeit ändern sich die Werte."
+      ],
+      "synonyms": [
+        "die Veränderung",
+        "die Umwandlung"
+      ],
+      "antonyms": [
+        "die Stagnation",
+        "die Beständigkeit"
+      ]
+    },
+    {
+      "german": "erheblich",
+      "english": "considerable / significant",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Das Projekt kostete erheblich mehr Zeit.",
+        "Wir haben erheblich gewonnen."
+      ],
+      "synonyms": [
+        "beträchtlich",
+        "wesentlich"
+      ],
+      "antonyms": [
+        "gering",
+        "unbedeutend"
+      ]
+    },
+    {
+      "german": "verbergen",
+      "english": "to hide / conceal",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Er versuchte seine Gefühle zu verbergen.",
+        "Man kann das Problem nicht länger verbergen."
+      ],
+      "synonyms": [
+        "verstecken",
+        "verdecken"
+      ],
+      "antonyms": [
+        "offenbaren",
+        "zeigen"
+      ]
+    },
+    {
+      "german": "der Anspruch",
+      "english": "claim / demand / standard",
+      "gender": "Maskulin",
+      "level": "B2",
+      "examples": [
+        "Er stellt hohe Ansprüche an sich selbst.",
+        "Das entspricht nicht meinem Anspruch an Qualität."
+      ],
+      "synonyms": [
+        "die Forderung",
+        "die Erwartung"
+      ],
+      "antonyms": [
+        "die Nachgiebigkeit",
+        "die Beliebigkeit"
+      ]
+    },
+    {
+      "german": "die Ergänzung",
+      "english": "supplement / addition",
+      "gender": "Feminin",
+      "level": "B2",
+      "examples": [
+        "Die Ergänzung des Textes machte ihn vollständiger.",
+        "Hast du noch eine Ergänzung dazu?"
+      ],
+      "synonyms": [
+        "die Zugabe",
+        "die Erweiterung"
+      ],
+      "antonyms": [
+        "die Kürzung",
+        "die Reduktion"
+      ]
+    },
+    {
+      "german": "ablehnen",
+      "english": "to reject / decline",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Sie lehnte das Angebot höflich ab.",
+        "Ich musste seinen Vorschlag ablehnen."
+      ],
+      "synonyms": [
+        "zurückweisen",
+        "verweigern"
+      ],
+      "antonyms": [
+        "annehmen",
+        "akzeptieren"
+      ]
+    },
+    {
+      "german": "der Verlust",
+      "english": "loss",
+      "gender": "Maskulin",
+      "level": "B2",
+      "examples": [
+        "Der Verlust des Fotos war schmerzlich.",
+        "Er verarbeitete den Verlust lange."
+      ],
+      "synonyms": [
+        "das Verschwinden",
+        "die Einbuße"
+      ],
+      "antonyms": [
+        "der Gewinn",
+        "der Vorteil"
+      ]
+    },
+    {
+      "german": "organisieren",
+      "english": "to organize / arrange",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Er hat die Veranstaltung gut organisiert.",
+        "Wir müssen den Umzug organisieren."
+      ],
+      "synonyms": [
+        "planen",
+        "arrangieren"
+      ],
+      "antonyms": [
+        "zerstören",
+        "verwüsten"
+      ]
+    },
+    {
+      "german": "die Verantwortung",
+      "english": "responsibility",
+      "gender": "Feminin",
+      "level": "B2",
+      "examples": [
+        "Eltern tragen Verantwortung für ihre Kinder.",
+        "Ich übernehme die Verantwortung für den Fehler."
+      ],
+      "synonyms": [
+        "die Pflicht",
+        "die Zuständigkeit"
+      ],
+      "antonyms": [
+        "die Verantwortungslosigkeit",
+        "die Pflichtlosigkeit"
+      ]
+    },
+    {
+      "german": "beeinflussen",
+      "english": "to influence",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Werbung kann das Kaufverhalten beeinflussen.",
+        "Seine Meinung beeinflusst meine Entscheidung."
+      ],
+      "synonyms": [
+        "prägen",
+        "steuern"
+      ],
+      "antonyms": [
+        "uninspiriert lassen",
+        "unbeeinträchtigt lassen"
+      ]
+    },
+    {
+      "german": "zunehmend",
+      "english": "increasingly",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Die Aufgabe wurde zunehmend schwieriger.",
+        "Er interessiert sich zunehmend für Kunst."
+      ],
+      "synonyms": [
+        "immer mehr",
+        "fortschreitend"
+      ],
+      "antonyms": [
+        "abnehmend",
+        "weniger"
+      ]
+    },
+    {
+      "german": "deutlich",
+      "english": "clear / noticeably",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Die Unterschiede sind deutlich sichtbar.",
+        "Ich spüre einen deutlichen Unterschied."
+      ],
+      "synonyms": [
+        "klar",
+        "eindeutig"
+      ],
+      "antonyms": [
+        "verschwommen",
+        "undeutlich"
+      ]
+    },
+    {
+      "german": "die Beachtung",
+      "english": "attention / regard",
+      "gender": "Feminin",
+      "level": "B2",
+      "examples": [
+        "Deine Meinung verdient Beachtung.",
+        "Die neue Regel fand große Beachtung."
+      ],
+      "synonyms": [
+        "die Aufmerksamkeit",
+        "die Rücksicht"
+      ],
+      "antonyms": [
+        "die Ignoranz",
+        "die Missachtung"
+      ]
+    },
+    {
+      "german": "vermitteln",
+      "english": "to convey / mediate",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Der Lehrer vermittelt den Schülern neues Wissen.",
+        "Er versuchte, zwischen den Parteien zu vermitteln."
+      ],
+      "synonyms": [
+        "weitergeben",
+        "übermitteln"
+      ],
+      "antonyms": [
+        "zurückhalten",
+        "verheimlichen"
+      ]
+    },
+    {
+      "german": "die Wahrnehmung",
+      "english": "perception / awareness",
+      "gender": "Feminin",
+      "level": "B2",
+      "examples": [
+        "Die Wahrnehmung der Wirklichkeit kann subjektiv sein.",
+        "Eine bewusste Wahrnehmung hilft beim Lernen."
+      ],
+      "synonyms": [
+        "die Erkenntnis",
+        "das Bewusstsein"
+      ],
+      "antonyms": [
+        "die Ignoranz",
+        "die Blindheit"
+      ]
+    },
+    {
+      "german": "die Bedingung",
+      "english": "condition / requirement",
+      "gender": "Feminin",
+      "level": "B2",
+      "examples": [
+        "Unter dieser Bedingung bin ich einverstanden.",
+        "Die Bedingung für die Aufnahme ist ein Zertifikat."
+      ],
+      "synonyms": [
+        "die Voraussetzung",
+        "die Voraussetzung"
+      ],
+      "antonyms": [
+        "die Ausnahme",
+        "die Alternative"
+      ]
+    },
+    {
+      "german": "dürfen",
+      "english": "may / to be allowed to",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Hier darf man nicht parken.",
+        "Du darfst mitkommen, wenn du willst."
+      ],
+      "synonyms": [
+        "erlaubt sein",
+        "können (im Sinne von Erlaubnis)"
+      ],
+      "antonyms": [
+        "verboten sein",
+        "nicht dürfen"
+      ]
+    },
+    {
+      "german": "bevorstehen",
+      "english": "to lie ahead / to be imminent",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Eine schwierige Prüfung steht bevor.",
+        "Wir wissen nicht, was uns in Zukunft bevorsteht."
+      ],
+      "synonyms": [
+        "nahe bevorliegen",
+        "zukünftig sein"
+      ],
+      "antonyms": [
+        "vorbei sein",
+        "abgeschlossen sein"
+      ]
+    },
+    {
+      "german": "die Gesellschaft",
+      "english": "society / company (group)",
+      "gender": "Feminin",
+      "level": "B2",
+      "examples": [
+        "Die Gesellschaft verändert sich ständig.",
+        "In guter Gesellschaft fühlt man sich wohl."
+      ],
+      "synonyms": [
+        "die Gemeinschaft",
+        "die Bevölkerung"
+      ],
+      "antonyms": [
+        "die Einsamkeit",
+        "die Isolation"
+      ]
+    },
+    {
+      "german": "darlegen",
+      "english": "to explain / lay out / present",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Er legte seine Sichtweise klar dar.",
+        "Bitte legen Sie Ihre Gründe dar."
+      ],
+      "synonyms": [
+        "erklären",
+        "darstellen"
+      ],
+      "antonyms": [
+        "verschweigen",
+        "verbergen"
+      ]
+    },
+    {
+      "german": "zweifellos",
+      "english": "undoubtedly / unquestionably",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Er ist zweifellos sehr talentiert.",
+        "Das war zweifellos die beste Entscheidung."
+      ],
+      "synonyms": [
+        "ohne Zweifel",
+        "definitiv"
+      ],
+      "antonyms": [
+        "zweifelhaft",
+        "unsicher"
+      ]
+    },
+    {
+      "german": "die Darstellung",
+      "english": "representation / depiction / portrayal",
+      "gender": "Feminin",
+      "level": "B2",
+      "examples": [
+        "Die Darstellung im Film war realistisch.",
+        "Die Studie zeigt eine klare Darstellung der Ergebnisse."
+      ],
+      "synonyms": [
+        "die Präsentation",
+        "die Schilderung"
+      ],
+      "antonyms": [
+        "die Verfälschung",
+        "die Verzerrung"
+      ]
+    },
+    {
+      "german": "erforderlich",
+      "english": "required / necessary",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Ein Visum ist erforderlich.",
+        "Das Dokument ist erforderlich für die Anmeldung."
+      ],
+      "synonyms": [
+        "notwendig",
+        "nötig"
+      ],
+      "antonyms": [
+        "überflüssig",
+        "unnötig"
+      ]
+    },
+    {
+      "german": "greifen",
+      "english": "to grasp / to grab / to take hold",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Er griff nach dem Buch.",
+        "Man griff zu drastischen Maßnahmen."
+      ],
+      "synonyms": [
+        "ergreifen",
+        "nehmen"
+      ],
+      "antonyms": [
+        "loslassen",
+        "freigeben"
+      ]
+    },
+    {
+      "german": "die Nutzung",
+      "english": "use / utilization",
+      "gender": "Feminin",
+      "level": "B2",
+      "examples": [
+        "Die Nutzung des Computers ist erlaubt.",
+        "Die häufige Nutzung kann schädlich sein."
+      ],
+      "synonyms": [
+        "der Gebrauch",
+        "die Verwendung"
+      ],
+      "antonyms": [
+        "die Vernachlässigung",
+        "die Nichtbenutzung"
+      ]
+    },
+    {
+      "german": "ermitteln",
+      "english": "to determine / to investigate",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Die Polizei ermittelte den Täter.",
+        "Wissenschaftler ermitteln neue Daten."
+      ],
+      "synonyms": [
+        "feststellen",
+        "untersuchen"
+      ],
+      "antonyms": [
+        "ignorieren",
+        "verheimlichen"
+      ]
+    },
+    {
+      "german": "die Ursache",
+      "english": "cause / reason",
+      "gender": "Feminin",
+      "level": "B2",
+      "examples": [
+        "Die Ursache für das Problem ist unklar.",
+        "Man fand die Ursache des Fehlers."
+      ],
+      "synonyms": [
+        "der Grund",
+        "der Anlass"
+      ],
+      "antonyms": [
+        "die Folge",
+        "die Konsequenz"
+      ]
+    },
+    {
+      "german": "bewirken",
+      "english": "to cause / bring about / effect",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Die neue Regelung bewirkt Veränderungen.",
+        "Sein Verhalten bewirkte Zweifel."
+      ],
+      "synonyms": [
+        "verursachen",
+        "hervorrufen"
+      ],
+      "antonyms": [
+        "verhindern",
+        "stoppen"
+      ]
+    },
+    {
+      "german": "der Umfang",
+      "english": "extent / scope / range",
+      "gender": "Maskulin",
+      "level": "B2",
+      "examples": [
+        "Der Umfang des Projekts ist riesig.",
+        "Ich kenne den genauen Umfang nicht."
+      ],
+      "synonyms": [
+        "das Ausmaß",
+        "die Größe"
+      ],
+      "antonyms": [
+        "die Kleinheit",
+        "die Beschränkung"
+      ]
+    },
+    {
+      "german": "erreichen",
+      "english": "to reach / achieve / attain",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Wir haben unser Ziel erfolgreich erreicht.",
+        "Ich kann dich am Abend erreichen."
+      ],
+      "synonyms": [
+        "schaffen",
+        "gelangen"
+      ],
+      "antonyms": [
+        "verfehlen",
+        "versagen"
+      ]
+    },
+    {
+      "german": "die Distanz",
+      "english": "distance / gap",
+      "gender": "Feminin",
+      "level": "B2",
+      "examples": [
+        "Er hält immer eine gewisse Distanz.",
+        "Die Distanz zwischen den Städten ist groß."
+      ],
+      "synonyms": [
+        "der Abstand",
+        "die Entfernung"
+      ],
+      "antonyms": [
+        "die Nähe",
+        "die Vertraulichkeit"
+      ]
+    },
+    {
+      "german": "konkret",
+      "english": "concrete / specific",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Hast du ein konkretes Beispiel?",
+        "Wir brauchen einen konkreten Plan."
+      ],
+      "synonyms": [
+        "spezifisch",
+        "bestimmt"
+      ],
+      "antonyms": [
+        "allgemein",
+        "vage"
+      ]
+    },
+    {
+      "german": "erlauben",
+      "english": "to allow / permit",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Wir dürfen das Projekt starten — der Chef hat es erlaubt.",
+        "Das Gesetz erlaubt den Verkauf von Alkohol nach 18 Uhr."
+      ],
+      "synonyms": [
+        "gestatten",
+        "zulassen"
+      ],
+      "antonyms": [
+        "verbieten",
+        "verweigern"
+      ]
+    },
+    {
+      "german": "der Anteil",
+      "english": "share / proportion / part",
+      "gender": "Maskulin",
+      "level": "B2",
+      "examples": [
+        "Ein großer Anteil der Bevölkerung ist jung.",
+        "Mein Anteil an der Arbeit war klein."
+      ],
+      "synonyms": [
+        "der Teil",
+        "der Prozentsatz"
+      ],
+      "antonyms": [
+        "das Ganze",
+        "der Gesamtbetrag"
+      ]
+    },
+    {
+      "german": "betreffen",
+      "english": "to concern / affect",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Die Regel betrifft alle Teilnehmer.",
+        "Das Problem betrifft nur wenige Personen."
+      ],
+      "synonyms": [
+        "angehen",
+        "berühren"
+      ],
+      "antonyms": [
+        "ausgenommen sein",
+        "unberührt bleiben"
+      ]
+    },
+    {
+      "german": "die Gestaltung",
+      "english": "design / shaping / configuration",
+      "gender": "Feminin",
+      "level": "B2",
+      "examples": [
+        "Die Gestaltung der Website gefällt mir.",
+        "Er kümmert sich um die Gestaltung des Geschäfts."
+      ],
+      "synonyms": [
+        "das Design",
+        "die Formgebung"
+      ],
+      "antonyms": [
+        "die Vernachlässigung",
+        "die Unordnung"
+      ]
+    },
+    {
+      "german": "die Grundlage",
+      "english": "basis / foundation",
+      "gender": "Feminin",
+      "level": "B2",
+      "examples": [
+        "Die Grundlage für den Vertrag wurde geschaffen.",
+        "Diese Idee bildet die Grundlage unseres Projekts."
+      ],
+      "synonyms": [
+        "die Basis",
+        "das Fundament"
+      ],
+      "antonyms": [
+        "die Spitze",
+        "die Ausnahme"
+      ]
+    },
+    {
+      "german": "bedeutsam",
+      "english": "meaningful / significant / important",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Das war ein bedeutsamer Moment in meinem Leben.",
+        "Die Entscheidung ist bedeutsam für die Zukunft."
+      ],
+      "synonyms": [
+        "wichtig",
+        "bedeutend"
+      ],
+      "antonyms": [
+        "unbedeutend",
+        "belanglos"
+      ]
+    },
+    {
+      "german": "erörtern",
+      "english": "to discuss / debate / examine",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Wir sollten die Fragen gemeinsam erörtern.",
+        "Er erörterte die Vor- und Nachteile des Plans."
+      ],
+      "synonyms": [
+        "diskutieren",
+        "besprechen"
+      ],
+      "antonyms": [
+        "ignorieren",
+        "verschweigen"
+      ]
+    },
+    {
+      "german": "verdeutlichen",
+      "english": "to clarify / make clear",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Er konnte seine Meinung klar verdeutlichen.",
+        "Das Beispiel verdeutlicht das Problem."
+      ],
+      "synonyms": [
+        "verdeutlich machen",
+        "verdeutlichen"
+      ],
+      "antonyms": [
+        "vernebeln",
+        "verschleiern"
+      ]
+    },
+    {
+      "german": "die Bemühung",
+      "english": "effort / endeavour",
+      "gender": "Feminin",
+      "level": "B2",
+      "examples": [
+        "Ihre Bemühungen wurden belohnt.",
+        "Mit großer Bemühung schaffte er das Ziel."
+      ],
+      "synonyms": [
+        "die Anstrengung",
+        "der Einsatz"
+      ],
+      "antonyms": [
+        "die Nachlässigkeit",
+        "die Trägheit"
+      ]
+    },
+    {
+      "german": "das Verhältnis",
+      "english": "relationship / ratio / proportion",
+      "gender": "Neutrum",
+      "level": "B2",
+      "examples": [
+        "Sie haben ein gutes Verhältnis zueinander.",
+        "Das Verhältnis zwischen Arbeit und Freizeit stimmt."
+      ],
+      "synonyms": [
+        "die Beziehung",
+        "das Verhältnis"
+      ],
+      "antonyms": [
+        "die Distanz",
+        "die Entfremdung"
+      ]
+    },
+    {
+      "german": "gewinnen",
+      "english": "to win / gain / obtain",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Er gewann viel Vertrauen durch sein Verhalten.",
+        "Wir wollen den Vertrag gewinnen."
+      ],
+      "synonyms": [
+        "erreichen",
+        "erlangen"
+      ],
+      "antonyms": [
+        "verlieren",
+        "einbüßen"
+      ]
+    },
+    {
+      "german": "der Anteilnahme",
+      "english": "sympathy / compassion / participation",
+      "gender": "Feminin",
+      "level": "B2",
+      "examples": [
+        "Er zeigte Anteilnahme mit den Betroffenen.",
+        "Danke für Ihre Anteilnahme."
+      ],
+      "synonyms": [
+        "das Mitgefühl",
+        "die Empathie"
+      ],
+      "antonyms": [
+        "die Gleichgültigkeit",
+        "die Kälte"
+      ]
+    },
+    {
+      "german": "beispielsweise",
+      "english": "for example / for instance",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Es gibt viele Möglichkeiten, beispielsweise online zu lernen.",
+        "Man kann viele Länder besuchen, beispielsweise Deutschland oder Österreich."
+      ],
+      "synonyms": [
+        "zum Beispiel",
+        "etwa"
+      ],
+      "antonyms": []
+    },
+    {
+      "german": "die Öffentlichkeit",
+      "english": "the public / public sphere",
+      "gender": "Feminin",
+      "level": "B2",
+      "examples": [
+        "Das Thema wurde in der Öffentlichkeit diskutiert.",
+        "Die Entscheidung bleibt der Öffentlichkeit nicht verborgen."
+      ],
+      "synonyms": [
+        "die Allgemeinheit",
+        "die Gemeinschaft"
+      ],
+      "antonyms": [
+        "die Privatsphäre",
+        "das Privatleben"
+      ]
+    },
+    {
+      "german": "umgehen",
+      "english": "to bypass / evade / circumvent",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Er versuchte, das Problem geschickt zu umgehen.",
+        "Man kann diese Regel nicht umgehen."
+      ],
+      "synonyms": [
+        "übergehen",
+        "umfahren (im übertragenen Sinne)"
+      ],
+      "antonyms": [
+        "einhalten",
+        "befolgen"
+      ]
+    },
+    {
+      "german": "der Bestandteil",
+      "english": "component / part / element",
+      "gender": "Maskulin",
+      "level": "B2",
+      "examples": [
+        "Dieses Modul ist ein wichtiger Bestandteil des Systems.",
+        "Sprache ist ein wesentlicher Bestandteil der Kultur."
+      ],
+      "synonyms": [
+        "das Element",
+        "der Teil"
+      ],
+      "antonyms": [
+        "das Ganze",
+        "der Gesamtbestand"
+      ]
+    },
+    {
+      "german": "widersprechen",
+      "english": "to contradict / disagree",
+      "gender": "",
+      "level": "B2",
+      "examples": [
+        "Ich muss dir leider widersprechen.",
+        "Sein Verhalten widerspricht seinen Worten."
+      ],
+      "synonyms": [
+        "kontradizieren",
+        "ablehnen"
+      ],
+      "antonyms": [
+        "zustimmen",
+        "einwilligen"
+      ]
+    }
+  ]
+  
