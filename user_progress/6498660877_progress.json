@@ -1,12 +1,23 @@
 {
   "chat_id": "6498660877",
   "learned_words": {
-    "a1": [],
-    "a2": [],
-    "b1": []
+    "a1": [
+      "die Hilfe",
+      "das Tier"
+    ],
+    "a2": [
+      "probieren",
+      "gestern",
+      "gut",
+      "der Fuß"
+    ],
+    "b1": [
+      "natürlich",
+      "die Freundin"
+    ]
   },
-  "last_study_date": "처음",
-  "last_update_id": 966260443,
+  "last_study_date": "2025-12-10",
+  "last_update_id": 966260447,
   "welcome_sent": false,
   "last_welcome_date": ""
 }
