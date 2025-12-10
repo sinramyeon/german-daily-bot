@@ -1,6 +1,10 @@
 {
   "chat_id": "6452101406",
-  "learned_words": [],
+  "learned_words": {
+    "a1": [],
+    "a2": [],
+    "b1": []
+  },
   "last_study_date": "처음",
   "last_update_id": 0,
   "welcome_sent": false,
