@@ -468,11 +468,12 @@ func formatMessage(words []Word, sentence WiseSentences) string {
 	}
 
 	msg := `
-Tip: /learned [words] to mark learned\n\n
-/learn a1/a2/b1 to learn level specific words\n\n
-/stats for progress\n\n
+Tip: /learned [words] to mark learned
+/learn a1/a2/b1 to learn level specific words
+/stats for progress
 
-🇩🇪 *Today's German Study* 🇩🇪\n\n`
+🇩🇪 *Today's German Study* 🇩🇪
+`
 
 	for i, word := range words {
 		msg += fmt.Sprintf("(%s) *%d. %s*\n", word.Level, i+1, word.German)
