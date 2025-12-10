@@ -134,48 +134,97 @@ func handleLearnLevelCommand(botToken, chatID, text string) {
 	}
 
 	level := strings.ToLower(parts[1])
-	var wordsToAdd []string
+	var filename string
 
 	switch level {
 	case "a1":
-		wordsToAdd = loadWordsByLevel("vocabulary/a1_words.json")
+		filename = "vocabulary/a1_words.json"
 	case "a2":
-		wordsToAdd = loadWordsByLevel("vocabulary/a2_words.json")
+		filename = "vocabulary/a2_words.json"
 	case "b1":
-		wordsToAdd = loadWordsByLevel("vocabulary/b1_words.json")
+		filename = "vocabulary/b1_words.json"
 	default:
 		sendToTelegram(botToken, chatID, "❌ 지원하는 레벨: a1, a2, b1")
 		return
 	}
 
-	if len(wordsToAdd) == 0 {
+	// 해당 레벨 단어 로드
+	data, err := os.ReadFile(filename)
+	if err != nil {
 		sendToTelegram(botToken, chatID, "⚠️ 단어 파일을 찾을 수 없습니다.")
 		return
 	}
 
-	progress := loadUserProgress(chatID)
+	var allWords []Word
+	if err := json.Unmarshal(data, &allWords); err != nil {
+		sendToTelegram(botToken, chatID, "⚠️ 파일 파싱 오류")
+		return
+	}
 
-	// 중복 제거
+	// 유저 진행도 로드
+	progress := loadUserProgress(chatID)
 	learnedMap := make(map[string]bool)
 	for _, w := range progress.LearnedWords {
 		learnedMap[w] = true
 	}
 
-	newCount := 0
-	for _, w := range wordsToAdd {
-		if !learnedMap[w] {
-			progress.LearnedWords = append(progress.LearnedWords, w)
-			learnedMap[w] = true
-			newCount++
+	// 안 배운 단어만 필터링
+	var unlearned []Word
+	for _, word := range allWords {
+		if !learnedMap[word.German] {
+			unlearned = append(unlearned, word)
 		}
 	}
 
-	progress.LastStudy = time.Now().Format("2006-01-02")
-	saveUserProgress(progress)
+	if len(unlearned) == 0 {
+		msg := fmt.Sprintf("🎉 *%s 레벨 완료!*\n\n모든 단어를 학습했어요!", strings.ToUpper(level))
+		sendToTelegram(botToken, chatID, msg)
+		return
+	}
 
-	msg := fmt.Sprintf("🎉 *%s 레벨 완료!*\n✅ %d개 단어 추가\n📚 총 학습: *%d개*",
-		strings.ToUpper(level), newCount, len(progress.LearnedWords))
-	sendToTelegram(botToken, chatID, msg)
+	// 랜덤 셔플
+	rand.Seed(time.Now().UnixNano())
+	rand.Shuffle(len(unlearned), func(i, j int) {
+		unlearned[i], unlearned[j] = unlearned[j], unlearned[i]
+	})
+
+	// 최대 10개 선택
+	count := 10
+	if len(unlearned) < count {
+		count = len(unlearned)
+	}
+	selectedWords := unlearned[:count]
+
+	// 메시지 포맷
+	sentence := selectDailySentence()
+	message := formatLevelMessage(selectedWords, sentence, level)
+	sendToTelegram(botToken, chatID, message)
+}
+
+func formatLevelMessage(words []Word, sentence WiseSentences, level string) string {
+	msg := fmt.Sprintf("🇩🇪 *%s Level Study* 🇩🇪\n\n", strings.ToUpper(level))
+
+	for i, word := range words {
+		msg += fmt.Sprintf("*%d. %s*\n", i+1, word.German)
+		msg += fmt.Sprintf("📖 %s\n\n", word.English)
+		for _, ex := range word.Examples {
+			msg += fmt.Sprintf("💬 %s\n\n", ex)
+		}
+		if len(word.Synonyms) > 0 {
+			msg += fmt.Sprintf("🔄 Synonyms: %v\n\n", word.Synonyms)
+		}
+		if len(word.Antonyms) > 0 {
+			msg += fmt.Sprintf("🔀 Antonyms: %v\n\n", word.Antonyms)
+		}
+		msg += "\n---\n\n"
+	}
+
+	msg += "💡 *Wise Sentence*\n\n"
+	msg += fmt.Sprintf("🇩🇪 %s\n", sentence.German)
+	msg += fmt.Sprintf("🇬🇧 %s\n\n", sentence.English)
+	msg += "_/learned [words] to mark as learned_"
+
+	return msg
 }
 
 func handleStatsCommand(botToken, chatID string) {
