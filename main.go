@@ -164,6 +164,7 @@ func processUserCommands(botToken, chatID string) {
 	}
 
 	// 이 사용자의 메시지만 처리
+	maxUpdateID := progress.LastUpdateID
 	for _, update := range result.Result {
 		if fmt.Sprintf("%d", update.Message.Chat.ID) != chatID {
 			continue
@@ -172,22 +173,25 @@ func processUserCommands(botToken, chatID string) {
 		text := strings.TrimSpace(update.Message.Text)
 
 		if strings.HasPrefix(text, "/learn ") {
-			handleLearnLevelCommand(botToken, chatID, text)
+			handleLearnLevelCommand(botToken, chatID, text, update.UpdateID)
 		} else if strings.HasPrefix(text, "/learned ") {
-			handleLearnedCommand(botToken, chatID, text)
+			handleLearnedCommand(botToken, chatID, text, update.UpdateID)
 		} else if text == "/stats" {
 			handleStatsCommand(botToken, chatID)
 		}
 
-		// Update ID 갱신
-		if update.UpdateID > progress.LastUpdateID {
-			progress.LastUpdateID = update.UpdateID
+		// 최대 Update ID 추적
+		if update.UpdateID > maxUpdateID {
+			maxUpdateID = update.UpdateID
 		}
 	}
 
-	// 진행도 저장
-	if len(result.Result) > 0 {
+	// LastUpdateID만 업데이트 (다른 데이터는 각 핸들러에서 저장함)
+	if maxUpdateID > progress.LastUpdateID {
+		progress = loadUserProgress(chatID) // 최신 데이터 다시 로드
+		progress.LastUpdateID = maxUpdateID
 		saveUserProgress(progress)
+		fmt.Printf("✓ Updated LastUpdateID for %s: %d\n", chatID, maxUpdateID)
 	}
 }
 
@@ -234,7 +238,7 @@ func checkNewUsers(botToken string) {
 
 *2. /learned [단어들]*
    학습 완료한 단어를 기록합니다
-   예: /learned Hallo Tschüss Danke
+   예: /learned Hallo, Tschüss, Danke
 
 *3. /stats*
    현재 학습 진행 상황을 확인합니다
@@ -265,7 +269,7 @@ func isChatIDRegistered(chatID string) bool {
 	return false
 }
 
-func handleLearnedCommand(botToken, chatID, text string) {
+func handleLearnedCommand(botToken, chatID, text string, updateID int) {
 	// "/learned" 제거하고 나머지 전체 스트링 추출
 	raw := strings.TrimSpace(strings.TrimPrefix(text, "/learned"))
 	if raw == "" {
@@ -335,10 +339,14 @@ func handleLearnedCommand(botToken, chatID, text string) {
 	}
 
 	progress.LastStudy = time.Now().Format("2006-01-02")
+	progress.LastUpdateID = updateID // UpdateID도 함께 업데이트
 	saveUserProgress(progress)
 
 	totalNew := len(newWordsA1) + len(newWordsA2) + len(newWordsB1)
 	totalLearned := len(progress.LearnedWords.A1) + len(progress.LearnedWords.A2) + len(progress.LearnedWords.B1)
+
+	fmt.Printf("✓ User %s learned %d new words (A1:%d, A2:%d, B1:%d)\n",
+		chatID, totalNew, len(newWordsA1), len(newWordsA2), len(newWordsB1))
 
 	msg := fmt.Sprintf("✅ *%d개 단어*를 학습 완료로 기록했어요!\n\n", totalNew)
 
@@ -362,7 +370,7 @@ func handleLearnedCommand(botToken, chatID, text string) {
 	sendToTelegram(botToken, chatID, msg)
 }
 
-func handleLearnLevelCommand(botToken, chatID, text string) {
+func handleLearnLevelCommand(botToken, chatID, text string, updateID int) {
 	parts := strings.Fields(text)
 	if len(parts) < 2 {
 		sendToTelegram(botToken, chatID, "📝 *사용법*\n\n/learn a1\n/learn a2\n/learn b1\n\n레벨을 선택하세요!")
@@ -444,6 +452,10 @@ func handleLearnLevelCommand(botToken, chatID, text string) {
 		count = len(unlearned)
 	}
 	selectedWords := unlearned[:count]
+
+	// UpdateID 업데이트 및 저장
+	progress.LastUpdateID = updateID
+	saveUserProgress(progress)
 
 	// 메시지 포맷
 	sentence := selectDailySentence()
@@ -603,7 +615,15 @@ func saveUserProgress(progress UserProgress) {
 	progressFile := filepath.Join(userProgressDir, progress.ChatID+"_progress.json")
 
 	data, _ := json.MarshalIndent(progress, "", "  ")
-	os.WriteFile(progressFile, data, 0644)
+	if err := os.WriteFile(progressFile, data, 0644); err != nil {
+		fmt.Printf("❌ Error saving progress for %s: %v\n", progress.ChatID, err)
+	} else {
+		fmt.Printf("✓ Saved progress for %s (A1:%d, A2:%d, B1:%d)\n",
+			progress.ChatID,
+			len(progress.LearnedWords.A1),
+			len(progress.LearnedWords.A2),
+			len(progress.LearnedWords.B1))
+	}
 }
 
 // ---------------- chat_ids.json 관리 ----------------
@@ -652,7 +672,7 @@ func sendToTelegram(botToken, chatID, message string) {
 
 	resp, err := http.PostForm(apiURL, data)
 	if err != nil {
-		fmt.Printf("Error sending message to %s: %v\n", chatID, err)
+		fmt.Printf("❌ Error sending message to %s: %v\n", chatID, err)
 		return
 	}
 	defer resp.Body.Close()
