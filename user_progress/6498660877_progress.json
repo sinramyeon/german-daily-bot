@@ -9,7 +9,11 @@
       "die Limonade",
       "der Mann",
       "die Verspätung",
-      "das Feuer"
+      "das Feuer",
+      "die Notfall",
+      "die Haltestelle",
+      "das Dach",
+      "das Mädchen"
     ],
     "a2": [
       "probieren",
@@ -24,17 +28,28 @@
       "der Arzt",
       "wie",
       "die Stunde",
-      "die Nacht"
+      "die Nacht",
+      "bis",
+      "schmutzig",
+      "die Kirsche",
+      "oder",
+      "die Karotte",
+      "gewinnen",
+      "springen",
+      "die Größe",
+      "die Waschmaschine"
     ],
     "b1": [
       "natürlich",
       "die Freundin",
       "interessant",
-      "essen"
+      "essen",
+      "das Licht",
+      "die Mutter"
     ]
   },
   "last_study_date": "2025-12-10",
-  "last_update_id": 966260464,
+  "last_update_id": 966260469,
   "welcome_sent": false,
   "last_welcome_date": ""
 }
