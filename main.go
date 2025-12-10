@@ -467,7 +467,13 @@ func formatMessage(words []Word, sentence WiseSentences) string {
 		return "🎉 *축하합니다!*\n\n모든 단어를 학습하셨네요!\n\n💪 대단해요!"
 	}
 
-	msg := "🇩🇪 *Today's German Study* 🇩🇪\n\n"
+	msg := `
+Tip: /learned [words] to mark learned\n\n
+/learn a1/a2/b1 to learn level specific words\n\n
+/stats for progress\n\n
+
+🇩🇪 *Today's German Study* 🇩🇪\n\n`
+
 	for i, word := range words {
 		msg += fmt.Sprintf("(%s) *%d. %s*\n", word.Level, i+1, word.German)
 		msg += fmt.Sprintf("📖 %s\n\n", word.English)
@@ -485,9 +491,6 @@ func formatMessage(words []Word, sentence WiseSentences) string {
 	msg += "💡 *Wise Sentence of the Day*\n\n"
 	msg += fmt.Sprintf("🇩🇪 %s\n", sentence.German)
 	msg += fmt.Sprintf("🇬🇧 %s\n\n", sentence.English)
-	msg += "_Tip: /learned [words] to mark learned_\n"
-	msg += "_/learn a1/a2/b1 to skip level_\n"
-	msg += "_/stats for progress_"
 	return msg
 }
 
