@@ -83,8 +83,8 @@ func sendMondayWelcomeIfNeeded(botToken string) {
    예: /learn a1, /learn a2, /learn b1
 
 *2. /learned [단어들]*
-   학습 완료한 단어를 기록합니다
-   예: /learned Hallo Tschüss Danke
+   학습 완료한 단어를 기록합니다. 단어 그대로 복사하세요.
+   예: /learned Hallo, der Platz, Danke
 
 *3. /stats*
    현재 학습 진행 상황을 확인합니다
@@ -266,16 +266,24 @@ func isChatIDRegistered(chatID string) bool {
 }
 
 func handleLearnedCommand(botToken, chatID, text string) {
-	parts := strings.Fields(text)
-	if len(parts) < 2 {
-		sendToTelegram(botToken, chatID, "📝 *사용법*\n\n/learned Hallo Tschüss Danke\n\n학습한 단어들을 띄어쓰기로 구분해서 입력하세요.")
+	// "/learned" 제거하고 나머지 전체 스트링 추출
+	raw := strings.TrimSpace(strings.TrimPrefix(text, "/learned"))
+	if raw == "" {
+		sendToTelegram(botToken, chatID, "📝 *사용법*\n\n/learned Hallo, Tschüss, Danke\n\n쉼표(,)로 단어를 구분해서 입력하세요.")
 		return
 	}
 
-	words := parts[1:] // /learned 제외한 나머지
-	progress := loadUserProgress(chatID)
+	// 쉼표 기준 Split + 앞뒤 공백 제거
+	parts := strings.Split(raw, ",")
+	words := []string{}
+	for _, p := range parts {
+		trimmed := strings.TrimSpace(p)
+		if trimmed != "" {
+			words = append(words, trimmed)
+		}
+	}
 
-	// 단어를 레벨별로 분류하여 저장
+	progress := loadUserProgress(chatID)
 	levelMap := buildLevelMap()
 
 	newWordsA1 := []string{}
@@ -283,7 +291,6 @@ func handleLearnedCommand(botToken, chatID, text string) {
 	newWordsB1 := []string{}
 	unknownWords := []string{}
 
-	// 각 레벨별 중복 체크용 맵 생성
 	a1Map := make(map[string]bool)
 	a2Map := make(map[string]bool)
 	b1Map := make(map[string]bool)
@@ -298,7 +305,6 @@ func handleLearnedCommand(botToken, chatID, text string) {
 		b1Map[w] = true
 	}
 
-	// 입력된 단어를 레벨별로 분류하고 중복 체크
 	for _, word := range words {
 		level, exists := levelMap[word]
 		if !exists {
@@ -331,7 +337,6 @@ func handleLearnedCommand(botToken, chatID, text string) {
 	progress.LastStudy = time.Now().Format("2006-01-02")
 	saveUserProgress(progress)
 
-	// 응답 메시지 생성
 	totalNew := len(newWordsA1) + len(newWordsA2) + len(newWordsB1)
 	totalLearned := len(progress.LearnedWords.A1) + len(progress.LearnedWords.A2) + len(progress.LearnedWords.B1)
 
@@ -467,7 +472,7 @@ func formatLevelMessage(words []Word, sentence WiseSentences, level string) stri
 	msg += "💡 *Wise Sentence*\n\n"
 	msg += fmt.Sprintf("🇩🇪 %s\n", sentence.German)
 	msg += fmt.Sprintf("🇬🇧 %s\n\n", sentence.English)
-	msg += "_학습한 단어는 /learned [단어들]로 기록하세요_"
+	msg += "_학습한 단어는 /learned 단어, 단어로 기록하세요_"
 
 	return msg
 }
