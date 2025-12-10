@@ -178,6 +178,8 @@ func processUserCommands(botToken, chatID string) {
 			handleLearnedCommand(botToken, chatID, text, update.UpdateID)
 		} else if text == "/stats" {
 			handleStatsCommand(botToken, chatID)
+		} else if text == "/help" {
+			handleHelpCommand(botToken, chatID)
 		}
 
 		// 최대 Update ID 추적
@@ -460,7 +462,7 @@ func handleLearnLevelCommand(botToken, chatID, text string, updateID int) {
 	// 메시지 포맷
 	sentence := selectDailySentence()
 	message := formatLevelMessage(selectedWords, sentence, level)
-	sendToTelegram(botToken, chatID, message)
+	sendLongMessage(botToken, chatID, message)
 }
 
 func formatLevelMessage(words []Word, sentence WiseSentences, level string) string {
@@ -528,6 +530,60 @@ func handleStatsCommand(botToken, chatID string) {
 		progress.LastStudy)
 
 	sendToTelegram(botToken, chatID, msg)
+}
+
+func handleHelpCommand(botToken, chatID string) {
+	helpMsg := `🇩🇪 *German Study Bot 도움말* 🇩🇪
+
+안녕하세요! 독일어 학습 봇 사용법을 안내해드릴게요.
+
+*📚 주요 명령어*
+
+*1. /learn [레벨]*
+특정 레벨의 단어 10개를 학습합니다.
+• /learn a1 - 기초 단어 (A1 레벨)
+• /learn a2 - 초급 단어 (A2 레벨)
+• /learn a1 - 중급 단어 (B1 레벨)
+
+*2. /learned [단어들]*
+학습 완료한 단어를 기록합니다.
+쉼표(,)로 구분해서 입력하세요.
+
+예시:
+/learned Hallo, der Park, Danke
+
+💡 Tip: 단어를 정확히 복사하세요!
+(대소문자, 관사 포함)
+
+*3. /stats*
+현재 학습 진행 상황을 확인합니다.
+• 레벨별 진행도
+• 총 학습 완료 개수
+• 남은 단어 수
+
+*4. /help*
+이 도움말을 다시 봅니다.
+
+---
+
+*💡 학습 팁*
+
+1️⃣ 매일 꾸준히
+   /learn으로 새 단어를 배우세요
+
+2️⃣ 바로 기록
+   외운 단어는 /learned로 즉시 기록하세요
+
+3️⃣ 진행 확인
+   /stats로 성취감을 느껴보세요
+
+---
+
+궁금한 점이 있으시면 언제든지 /help를 입력하세요!
+
+Viel Erfolg! 🎓`
+
+	sendToTelegram(botToken, chatID, helpMsg)
 }
 
 func getPercentage(learned, total int) int {
@@ -678,4 +734,43 @@ func sendToTelegram(botToken, chatID, message string) {
 	defer resp.Body.Close()
 
 	fmt.Printf("✓ Sent message to %s\n", chatID)
+}
+
+// sendLongMessage splits long messages and sends them in parts
+func sendLongMessage(botToken, chatID, message string) {
+	const maxLength = 4000 // Telegram limit is 4096, use 4000 for safety
+
+	if len(message) <= maxLength {
+		sendToTelegram(botToken, chatID, message)
+		return
+	}
+
+	// Split by "---" separator (word boundaries)
+	parts := strings.Split(message, "---\n\n")
+
+	currentMsg := ""
+	for i, part := range parts {
+		// Add back the separator except for the last part
+		testMsg := currentMsg + part
+		if i < len(parts)-1 {
+			testMsg += "---\n\n"
+		}
+
+		if len(testMsg) > maxLength && currentMsg != "" {
+			// Send current message and start new one
+			sendToTelegram(botToken, chatID, currentMsg)
+			time.Sleep(200 * time.Millisecond) // Rate limiting
+			currentMsg = part
+			if i < len(parts)-1 {
+				currentMsg += "---\n\n"
+			}
+		} else {
+			currentMsg = testMsg
+		}
+	}
+
+	// Send remaining message
+	if currentMsg != "" {
+		sendToTelegram(botToken, chatID, currentMsg)
+	}
 }
