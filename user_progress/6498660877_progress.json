@@ -7,7 +7,9 @@
       "der Chef",
       "die Bibliothek",
       "die Limonade",
-      "der Mann"
+      "der Mann",
+      "die Verspätung",
+      "das Feuer"
     ],
     "a2": [
       "probieren",
@@ -17,16 +19,22 @@
       "das Eis",
       "was",
       "teuer",
-      "das Messer"
+      "das Messer",
+      "zu",
+      "der Arzt",
+      "wie",
+      "die Stunde",
+      "die Nacht"
     ],
     "b1": [
       "natürlich",
       "die Freundin",
-      "interessant"
+      "interessant",
+      "essen"
     ]
   },
   "last_study_date": "2025-12-10",
-  "last_update_id": 966260449,
+  "last_update_id": 966260453,
   "welcome_sent": false,
   "last_welcome_date": ""
 }
