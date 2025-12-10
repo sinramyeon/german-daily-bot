@@ -240,7 +240,7 @@ func checkNewUsers(botToken string) {
 
 *2. /learned [단어들]*
    학습 완료한 단어를 기록합니다
-   예: /learned Hallo, Tschüss, Danke
+   예: /learned Hallo, Der Supermarkt, Danke
 
 *3. /stats*
    현재 학습 진행 상황을 확인합니다
