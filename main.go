@@ -30,6 +30,7 @@ type LevelProgress struct {
 	A1 []string `json:"a1"`
 	A2 []string `json:"a2"`
 	B1 []string `json:"b1"`
+	B2 []string `json:"b2"`
 }
 
 type UserProgress struct {
@@ -80,7 +81,7 @@ func sendMondayWelcomeIfNeeded(botToken string) {
 
 *1. /learn [level]*
    특정 레벨의 단어 10개를 학습합니다
-   예: /learn a1, /learn a2, /learn b1
+   예: /learn a1, /learn a2, /learn b1, /learn b2
 
 *2. /learned [단어들]*
    학습 완료한 단어를 기록합니다. 단어 그대로 복사하세요.
@@ -237,6 +238,7 @@ func checkNewUsers(botToken string) {
    • /learn a1 - 기초 단어
    • /learn a2 - 초급 단어
    • /learn b1 - 중급 단어
+   • /learn b2 - 중고급 단어
 
 *2. /learned [단어들]*
    학습 완료한 단어를 기록합니다
@@ -295,11 +297,13 @@ func handleLearnedCommand(botToken, chatID, text string, updateID int) {
 	newWordsA1 := []string{}
 	newWordsA2 := []string{}
 	newWordsB1 := []string{}
+	newWordsB2 := []string{}
 	unknownWords := []string{}
 
 	a1Map := make(map[string]bool)
 	a2Map := make(map[string]bool)
 	b1Map := make(map[string]bool)
+	b2Map := make(map[string]bool)
 
 	for _, w := range progress.LearnedWords.A1 {
 		a1Map[w] = true
@@ -309,6 +313,9 @@ func handleLearnedCommand(botToken, chatID, text string, updateID int) {
 	}
 	for _, w := range progress.LearnedWords.B1 {
 		b1Map[w] = true
+	}
+	for _, w := range progress.LearnedWords.B2 {
+		b2Map[w] = true
 	}
 
 	for _, word := range words {
@@ -337,6 +344,12 @@ func handleLearnedCommand(botToken, chatID, text string, updateID int) {
 				b1Map[word] = true
 				newWordsB1 = append(newWordsB1, word)
 			}
+		case "B2":
+			if !b2Map[word] {
+				progress.LearnedWords.B2 = append(progress.LearnedWords.B2, word)
+				b2Map[word] = true
+				newWordsB2 = append(newWordsB2, word)
+			}
 		}
 	}
 
@@ -344,11 +357,12 @@ func handleLearnedCommand(botToken, chatID, text string, updateID int) {
 	progress.LastUpdateID = updateID // UpdateID도 함께 업데이트
 	saveUserProgress(progress)
 
-	totalNew := len(newWordsA1) + len(newWordsA2) + len(newWordsB1)
-	totalLearned := len(progress.LearnedWords.A1) + len(progress.LearnedWords.A2) + len(progress.LearnedWords.B1)
+	totalNew := len(newWordsA1) + len(newWordsA2) + len(newWordsB1) + len(newWordsB2)
+	totalLearned := len(progress.LearnedWords.A1) + len(progress.LearnedWords.A2) +
+		len(progress.LearnedWords.B1) + len(progress.LearnedWords.B2)
 
-	fmt.Printf("✓ User %s learned %d new words (A1:%d, A2:%d, B1:%d)\n",
-		chatID, totalNew, len(newWordsA1), len(newWordsA2), len(newWordsB1))
+	fmt.Printf("✓ User %s learned %d new words (A1:%d, A2:%d, B1:%d, B2:%d)\n",
+		chatID, totalNew, len(newWordsA1), len(newWordsA2), len(newWordsB1), len(newWordsB2))
 
 	msg := fmt.Sprintf("✅ *%d개 단어*를 학습 완료로 기록했어요!\n\n", totalNew)
 
@@ -360,6 +374,9 @@ func handleLearnedCommand(botToken, chatID, text string, updateID int) {
 	}
 	if len(newWordsB1) > 0 {
 		msg += fmt.Sprintf("🔵 *B1:* %s\n", strings.Join(newWordsB1, ", "))
+	}
+	if len(newWordsB2) > 0 {
+		msg += fmt.Sprintf("🔴 *B2:* %s\n", strings.Join(newWordsB2, ", "))
 	}
 
 	if len(unknownWords) > 0 {
@@ -375,7 +392,7 @@ func handleLearnedCommand(botToken, chatID, text string, updateID int) {
 func handleLearnLevelCommand(botToken, chatID, text string, updateID int) {
 	parts := strings.Fields(text)
 	if len(parts) < 2 {
-		sendToTelegram(botToken, chatID, "📝 *사용법*\n\n/learn a1\n/learn a2\n/learn b1\n\n레벨을 선택하세요!")
+		sendToTelegram(botToken, chatID, "📝 *사용법*\n\n/learn a1\n/learn a2\n/learn b1\n/learn b2\n\n레벨을 선택하세요!")
 		return
 	}
 
@@ -389,8 +406,10 @@ func handleLearnLevelCommand(botToken, chatID, text string, updateID int) {
 		filename = "vocabulary/a2_words.json"
 	case "b1":
 		filename = "vocabulary/b1_words.json"
+	case "b2":
+		filename = "vocabulary/b2_words.json"
 	default:
-		sendToTelegram(botToken, chatID, "❌ *지원하는 레벨*\n\na1, a2, b1")
+		sendToTelegram(botToken, chatID, "❌ *지원하는 레벨*\n\na1, a2, b1, b2")
 		return
 	}
 
@@ -423,6 +442,8 @@ func handleLearnLevelCommand(botToken, chatID, text string, updateID int) {
 		learnedList = progress.LearnedWords.A2
 	case "b1":
 		learnedList = progress.LearnedWords.B1
+	case "b2":
+		learnedList = progress.LearnedWords.B2
 	}
 
 	for _, w := range learnedList {
@@ -502,12 +523,15 @@ func handleStatsCommand(botToken, chatID string) {
 	a1Total := len(loadWordsByLevel("vocabulary/a1_words.json"))
 	a2Total := len(loadWordsByLevel("vocabulary/a2_words.json"))
 	b1Total := len(loadWordsByLevel("vocabulary/b1_words.json"))
-	totalWords := a1Total + a2Total + b1Total
+	b2Total := len(loadWordsByLevel("vocabulary/b2_words.json"))
+	totalWords := a1Total + a2Total + b1Total + b2Total
 
 	a1Learned := len(progress.LearnedWords.A1)
 	a2Learned := len(progress.LearnedWords.A2)
 	b1Learned := len(progress.LearnedWords.B1)
-	learned := a1Learned + a2Learned + b1Learned
+	b2Learned := len(progress.LearnedWords.B2)
+
+	learned := a1Learned + a2Learned + b1Learned + b2Learned
 
 	remaining := totalWords - learned
 	percentage := 0
@@ -523,7 +547,8 @@ func handleStatsCommand(botToken, chatID string) {
 		"📚 *레벨별 진행도*\n\n"+
 		"🟢 A1: %d/%d (%d%%)\n"+
 		"🟡 A2: %d/%d (%d%%)\n"+
-		"🔵 B1: %d/%d (%d%%)\n\n"+
+		"🔵 B1: %d/%d (%d%%)\n"+
+		"🔵 B2: %d/%d (%d%%)\n\n"+
 		"---\n\n"+
 		"📅 *마지막 학습:* %s\n\n"+
 		"계속 화이팅! 💪",
@@ -531,6 +556,7 @@ func handleStatsCommand(botToken, chatID string) {
 		a1Learned, a1Total, getPercentage(a1Learned, a1Total),
 		a2Learned, a2Total, getPercentage(a2Learned, a2Total),
 		b1Learned, b1Total, getPercentage(b1Learned, b1Total),
+		b2Learned, b2Total, getPercentage(b2Learned, b2Total),
 		progress.LastStudy)
 
 	sendToTelegram(botToken, chatID, msg)
@@ -547,7 +573,8 @@ func handleHelpCommand(botToken, chatID string) {
 특정 레벨의 단어 10개를 학습합니다.
 • /learn a1 - 기초 단어 (A1 레벨)
 • /learn a2 - 초급 단어 (A2 레벨)
-• /learn a1 - 중급 단어 (B1 레벨)
+• /learn b1 - 중급 단어 (B1 레벨)
+• /learn b2 - 중고급 단어 (B2 레벨)
 
 *2. /learned [단어들]*
 학습 완료한 단어를 기록합니다.
@@ -643,6 +670,14 @@ func buildLevelMap() map[string]string {
 		levelMap[w.German] = "B1"
 	}
 
+	// B2
+	b2Data, _ := os.ReadFile("vocabulary/b2_words.json")
+	var b2Words []Word
+	json.Unmarshal(b2Data, &b2Words)
+	for _, w := range b2Words {
+		levelMap[w.German] = "B2"
+	}
+
 	return levelMap
 }
 
@@ -664,6 +699,7 @@ func loadUserProgress(chatID string) UserProgress {
 			A1: []string{},
 			A2: []string{},
 			B1: []string{},
+			B2: []string{},
 		},
 		LastStudy:    "처음",
 		LastUpdateID: 0,
@@ -678,11 +714,12 @@ func saveUserProgress(progress UserProgress) {
 	if err := os.WriteFile(progressFile, data, 0644); err != nil {
 		fmt.Printf("❌ Error saving progress for %s: %v\n", progress.ChatID, err)
 	} else {
-		fmt.Printf("✓ Saved progress for %s (A1:%d, A2:%d, B1:%d)\n",
+		fmt.Printf("✓ Saved progress for %s (A1:%d, A2:%d, B1:%d, B2:%d)\n",
 			progress.ChatID,
 			len(progress.LearnedWords.A1),
 			len(progress.LearnedWords.A2),
-			len(progress.LearnedWords.B1))
+			len(progress.LearnedWords.B1),
+			len(progress.LearnedWords.B2))
 	}
 }
 
