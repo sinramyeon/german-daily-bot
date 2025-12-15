@@ -9690,5 +9690,4385 @@
     ],
     "synonyms": ["insgesamt", "im Großen und Ganzen"],
     "antonyms": []
+  },
+  {
+    "german": "die Bevölkerung",
+    "english": "population",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Bevölkerung der Stadt wächst stetig.",
+      "Die Bevölkerung wurde über die Änderungen informiert."
+    ],
+    "synonyms": ["die Einwohner", "die Bürger"],
+    "antonyms": ["die Leere", "die Entvölkerung"]
+  },
+  {
+    "german": "die Regierung",
+    "english": "government",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Regierung hat neue Maßnahmen beschlossen.",
+      "Er kritisierte die Politik der Regierung."
+    ],
+    "synonyms": ["die Administration", "das Kabinett"],
+    "antonyms": ["die Opposition", "das Volk"]
+  },
+  {
+    "german": "die Demokratie",
+    "english": "democracy",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Demokratie ist eine wichtige Regierungsform.",
+      "In einer Demokratie hat jeder eine Stimme."
+    ],
+    "synonyms": ["die Volksherrschaft", "der Rechtsstaat"],
+    "antonyms": ["die Diktatur", "die Autokratie"]
+  },
+  {
+    "german": "die Wahl",
+    "english": "election / choice",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die nächste Wahl findet im Herbst statt.",
+      "Die Wahl fiel auf den erfahrensten Kandidaten."
+    ],
+    "synonyms": ["die Abstimmung", "die Entscheidung"],
+    "antonyms": ["die Bestimmung", "der Zwang"]
+  },
+  {
+    "german": "die Partei",
+    "english": "political party",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Er ist Mitglied einer politischen Partei.",
+      "Die Partei gewann die meisten Stimmen."
+    ],
+    "synonyms": ["die Fraktion", "die Gruppierung"],
+    "antonyms": ["die Opposition", "der Einzelgänger"]
+  },
+  {
+    "german": "die Opposition",
+    "english": "opposition",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Opposition kritisierte den Vorschlag.",
+      "Sie gehört zur parlamentarischen Opposition."
+    ],
+    "synonyms": ["die Gegnerschaft", "der Widerstand"],
+    "antonyms": ["die Regierung", "die Koalition"]
+  },
+  {
+    "german": "die Verfassung",
+    "english": "constitution",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Verfassung garantiert Grundrechte.",
+      "Das Gesetz widerspricht der Verfassung."
+    ],
+    "synonyms": ["das Grundgesetz", "die Charta"],
+    "antonyms": ["die Willkür", "die Gesetzlosigkeit"]
+  },
+  {
+    "german": "das Gesetz",
+    "english": "law",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Das neue Gesetz tritt bald in Kraft.",
+      "Alle Bürger müssen das Gesetz einhalten."
+    ],
+    "synonyms": ["die Vorschrift", "die Regelung"],
+    "antonyms": ["die Gesetzlosigkeit", "die Anarchie"]
+  },
+  {
+    "german": "das Recht",
+    "english": "right / law",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Jeder hat das Recht auf freie Meinungsäußerung.",
+      "Er studiert Recht an der Universität."
+    ],
+    "synonyms": ["der Anspruch", "die Befugnis"],
+    "antonyms": ["die Pflicht", "das Unrecht"]
+  },
+  {
+    "german": "die Pflicht",
+    "english": "duty / obligation",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Es ist unsere Pflicht, anderen zu helfen.",
+      "Er erfüllt seine Pflichten gewissenhaft."
+    ],
+    "synonyms": ["die Verpflichtung", "die Aufgabe"],
+    "antonyms": ["das Recht", "die Freiheit"]
+  },
+  {
+    "german": "die Freiheit",
+    "english": "freedom / liberty",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Meinungsfreiheit ist ein hohes Gut.",
+      "Nach Jahren in Gefangenschaft genoss er die Freiheit."
+    ],
+    "synonyms": ["die Unabhängigkeit", "die Autonomie"],
+    "antonyms": ["die Gefangenschaft", "die Unterdrückung"]
+  },
+  {
+    "german": "die Gleichheit",
+    "english": "equality",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Gleichheit aller Menschen ist ein Grundrecht.",
+      "Sie kämpft für Geschlechtergleichheit."
+    ],
+    "synonyms": ["die Gleichberechtigung", "die Parität"],
+    "antonyms": ["die Ungleichheit", "die Diskriminierung"]
+  },
+  {
+    "german": "die Gerechtigkeit",
+    "english": "justice",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Sie setzt sich für soziale Gerechtigkeit ein.",
+      "Gerechtigkeit muss für alle gelten."
+    ],
+    "synonyms": ["die Fairness", "die Rechtschaffenheit"],
+    "antonyms": ["die Ungerechtigkeit", "das Unrecht"]
+  },
+  {
+    "german": "die Ungerechtigkeit",
+    "english": "injustice",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Ungerechtigkeit des Systems empörte sie.",
+      "Wir müssen gegen Ungerechtigkeit kämpfen."
+    ],
+    "synonyms": ["das Unrecht", "die Benachteiligung"],
+    "antonyms": ["die Gerechtigkeit", "die Fairness"]
+  },
+  {
+    "german": "die Macht",
+    "english": "power",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Macht liegt beim Volk.",
+      "Er strebte nach politischer Macht."
+    ],
+    "synonyms": ["die Gewalt", "der Einfluss"],
+    "antonyms": ["die Ohnmacht", "die Schwäche"]
+  },
+  {
+    "german": "der Einfluss",
+    "english": "influence",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Sein Einfluss auf die Entscheidung war groß.",
+      "Die Medien haben einen starken Einfluss."
+    ],
+    "synonyms": ["die Wirkung", "die Macht"],
+    "antonyms": ["die Bedeutungslosigkeit", "die Ohnmacht"]
+  },
+  {
+    "german": "der Bürger",
+    "english": "citizen",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Alle Bürger haben das Wahlrecht.",
+      "Er ist ein engagierter Bürger seiner Stadt."
+    ],
+    "synonyms": ["der Einwohner", "der Staatsbürger"],
+    "antonyms": ["der Ausländer", "der Fremde"]
+  },
+  {
+    "german": "die Bürgerin",
+    "english": "female citizen",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Sie ist eine aktive Bürgerin.",
+      "Jede Bürgerin hat Rechte und Pflichten."
+    ],
+    "synonyms": ["die Einwohnerin", "die Staatsbürgerin"],
+    "antonyms": ["die Ausländerin", "die Fremde"]
+  },
+  {
+    "german": "die Staatsangehörigkeit",
+    "english": "citizenship / nationality",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Er beantragte die deutsche Staatsangehörigkeit.",
+      "Die Staatsangehörigkeit steht im Pass."
+    ],
+    "synonyms": ["die Staatsbürgerschaft", "die Nationalität"],
+    "antonyms": ["die Staatenlosigkeit"]
+  },
+  {
+    "german": "die Integration",
+    "english": "integration",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Integration von Migranten ist wichtig.",
+      "Das Programm fördert die soziale Integration."
+    ],
+    "synonyms": ["die Eingliederung", "die Einbeziehung"],
+    "antonyms": ["die Ausgrenzung", "die Isolation"]
+  },
+  {
+    "german": "die Migration",
+    "english": "migration",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Migration hat viele Ursachen.",
+      "Das Land hat eine lange Geschichte der Migration."
+    ],
+    "synonyms": ["die Einwanderung", "die Auswanderung"],
+    "antonyms": ["die Sesshaftigkeit", "die Beständigkeit"]
+  },
+  {
+    "german": "der Flüchtling",
+    "english": "refugee",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Viele Flüchtlinge suchen Schutz in Europa.",
+      "Das Land nahm tausende Flüchtlinge auf."
+    ],
+    "synonyms": ["der Geflüchtete", "der Asylsuchende"],
+    "antonyms": ["der Einheimische", "der Sesshafter"]
+  },
+  {
+    "german": "das Asyl",
+    "english": "asylum",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Er beantragte politisches Asyl.",
+      "Das Recht auf Asyl ist ein Menschenrecht."
+    ],
+    "synonyms": ["der Schutz", "die Zuflucht"],
+    "antonyms": ["die Abschiebung", "die Ausweisung"]
+  },
+  {
+    "german": "die Abschiebung",
+    "english": "deportation",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Abschiebung wurde gerichtlich gestoppt.",
+      "Er fürchtete die Abschiebung in sein Heimatland."
+    ],
+    "synonyms": ["die Ausweisung", "die Deportation"],
+    "antonyms": ["die Aufnahme", "die Integration"]
+  },
+  {
+    "german": "die Diskriminierung",
+    "english": "discrimination",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Diskriminierung aufgrund der Herkunft ist verboten.",
+      "Sie kämpft gegen jede Form von Diskriminierung."
+    ],
+    "synonyms": ["die Benachteiligung", "die Ausgrenzung"],
+    "antonyms": ["die Gleichbehandlung", "die Inklusion"]
+  },
+  {
+    "german": "die Toleranz",
+    "english": "tolerance",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Toleranz gegenüber anderen Kulturen ist wichtig.",
+      "Er zeigte wenig Toleranz für abweichende Meinungen."
+    ],
+    "synonyms": ["die Duldsamkeit", "die Akzeptanz"],
+    "antonyms": ["die Intoleranz", "die Unduldsamkeit"]
+  },
+  {
+    "german": "das Vorurteil",
+    "english": "prejudice",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Vorurteile können zu Diskriminierung führen.",
+      "Er versuchte, seine Vorurteile abzubauen."
+    ],
+    "synonyms": ["die Voreingenommenheit", "das Klischee"],
+    "antonyms": ["die Offenheit", "die Unvoreingenommenheit"]
+  },
+  {
+    "german": "die Korruption",
+    "english": "corruption",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Korruption in der Regierung wurde aufgedeckt.",
+      "Korruption untergräbt das Vertrauen in den Staat."
+    ],
+    "synonyms": ["die Bestechung", "die Vetternwirtschaft"],
+    "antonyms": ["die Integrität", "die Ehrlichkeit"]
+  },
+  {
+    "german": "die Kriminalität",
+    "english": "crime / criminality",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Kriminalität in der Stadt ist gesunken.",
+      "Die Polizei bekämpft die organisierte Kriminalität."
+    ],
+    "synonyms": ["das Verbrechen", "die Straftaten"],
+    "antonyms": ["die Rechtschaffenheit", "die Gesetzestreue"]
+  },
+  {
+    "german": "der Konflikt",
+    "english": "conflict",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Konflikt zwischen den Nachbarn eskalierte.",
+      "Es kam zu einem bewaffneten Konflikt."
+    ],
+    "synonyms": ["der Streit", "die Auseinandersetzung"],
+    "antonyms": ["der Frieden", "die Harmonie"]
+  },
+  {
+    "german": "der Kompromiss",
+    "english": "compromise",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Sie fanden einen akzeptablen Kompromiss.",
+      "Ohne Kompromiss gibt es keine Einigung."
+    ],
+    "synonyms": ["der Ausgleich", "die Einigung"],
+    "antonyms": ["der Konflikt", "die Unnachgiebigkeit"]
+  },
+  {
+    "german": "die Verhandlung",
+    "english": "negotiation",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Verhandlungen dauerten mehrere Wochen.",
+      "Er führte Verhandlungen mit den Gewerkschaften."
+    ],
+    "synonyms": ["die Besprechung", "das Gespräch"],
+    "antonyms": ["der Abbruch", "die Verweigerung"]
+  },
+  {
+    "german": "der Vertrag",
+    "english": "contract / treaty",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Vertrag wurde von beiden Seiten unterzeichnet.",
+      "Sie kündigte den Vertrag fristgerecht."
+    ],
+    "synonyms": ["das Abkommen", "die Vereinbarung"],
+    "antonyms": ["die Kündigung", "der Bruch"]
+  },
+  {
+    "german": "das Abkommen",
+    "english": "agreement / accord",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Die Länder schlossen ein Handelsabkommen.",
+      "Das Abkommen wurde ratifiziert."
+    ],
+    "synonyms": ["der Vertrag", "die Vereinbarung"],
+    "antonyms": ["der Konflikt", "der Streit"]
+  },
+  {
+    "german": "die Einigung",
+    "english": "agreement / settlement",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Einigung wurde nach langen Verhandlungen erzielt.",
+      "Eine Einigung scheint in Sicht."
+    ],
+    "synonyms": ["der Kompromiss", "das Übereinkommen"],
+    "antonyms": ["die Uneinigkeit", "der Dissens"]
+  },
+  {
+    "german": "die Reform",
+    "english": "reform",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Bildungsreform war umstritten.",
+      "Er setzte sich für eine Steuerreform ein."
+    ],
+    "synonyms": ["die Änderung", "die Neuerung"],
+    "antonyms": ["der Stillstand", "die Beibehaltung"]
+  },
+  {
+    "german": "die Maßnahme",
+    "english": "measure / action",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Regierung ergriff strenge Maßnahmen.",
+      "Welche Maßnahmen sind geplant?"
+    ],
+    "synonyms": ["die Handlung", "die Aktion"],
+    "antonyms": ["die Untätigkeit", "die Passivität"]
+  },
+  {
+    "german": "die Debatte",
+    "english": "debate",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Debatte über das Gesetz war hitzig.",
+      "Er beteiligte sich aktiv an der Debatte."
+    ],
+    "synonyms": ["die Diskussion", "das Streitgespräch"],
+    "antonyms": ["die Einigkeit", "der Konsens"]
+  },
+  {
+    "german": "die Demonstration",
+    "english": "demonstration / protest",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Tausende Menschen nahmen an der Demonstration teil.",
+      "Die Demonstration verlief friedlich."
+    ],
+    "synonyms": ["der Protest", "die Kundgebung"],
+    "antonyms": ["die Zustimmung", "die Unterstützung"]
+  },
+  {
+    "german": "der Protest",
+    "english": "protest",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Protest gegen die Sparmaßnahmen war laut.",
+      "Sie organisierte einen Protest vor dem Rathaus."
+    ],
+    "synonyms": ["der Widerspruch", "die Demonstration"],
+    "antonyms": ["die Zustimmung", "die Akzeptanz"]
+  },
+  {
+    "german": "die Meinungsfreiheit",
+    "english": "freedom of speech",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Meinungsfreiheit ist ein Grundrecht.",
+      "In dieser Region ist die Meinungsfreiheit eingeschränkt."
+    ],
+    "synonyms": ["die Redefreiheit", "die freie Meinungsäußerung"],
+    "antonyms": ["die Zensur", "die Unterdrückung"]
+  },
+  {
+    "german": "die Pressefreiheit",
+    "english": "freedom of the press",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Pressefreiheit wird in vielen Ländern verletzt.",
+      "Eine freie Presse ist wichtig für die Demokratie."
+    ],
+    "synonyms": ["die Medienfreiheit"],
+    "antonyms": ["die Zensur", "die Medienkontrolle"]
+  },
+  {
+    "german": "die Menschenrechte",
+    "english": "human rights",
+    "gender": "Plural",
+    "level": "B2",
+    "examples": [
+      "Die Menschenrechte müssen überall geachtet werden.",
+      "Die Organisation setzt sich für Menschenrechte ein."
+    ],
+    "synonyms": ["die Grundrechte", "die Bürgerrechte"],
+    "antonyms": ["die Menschenrechtsverletzungen"]
+  },
+  {
+    "german": "wählen",
+    "english": "to vote / to elect / to choose",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Bürger wählen ihre Vertreter.",
+      "Sie wählte den schwierigeren Weg."
+    ],
+    "synonyms": ["abstimmen", "auswählen"],
+    "antonyms": ["ablehnen", "verweigern"]
+  },
+  {
+    "german": "regieren",
+    "english": "to govern / to rule",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Partei regiert seit zehn Jahren.",
+      "Er regierte das Land mit strenger Hand."
+    ],
+    "synonyms": ["herrschen", "lenken"],
+    "antonyms": ["gehorchen", "folgen"]
+  },
+  {
+    "german": "beschließen",
+    "english": "to decide / to resolve",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Parlament beschloss das neue Gesetz.",
+      "Wir beschlossen, früher abzureisen."
+    ],
+    "synonyms": ["entscheiden", "festlegen"],
+    "antonyms": ["ablehnen", "verwerfen"]
+  },
+  {
+    "german": "abstimmen",
+    "english": "to vote",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Mitglieder stimmten über den Antrag ab.",
+      "Morgen wird über das Gesetz abgestimmt."
+    ],
+    "synonyms": ["wählen", "votieren"],
+    "antonyms": ["sich enthalten", "verweigern"]
+  },
+  {
+    "german": "verbieten",
+    "english": "to forbid / to ban",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Rauchen ist hier verboten.",
+      "Die Regierung verbot die Demonstration."
+    ],
+    "synonyms": ["untersagen", "verhindern"],
+    "antonyms": ["erlauben", "gestatten"]
+  },
+  {
+    "german": "gestatten",
+    "english": "to permit / to allow",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Gestatten Sie mir eine Frage?",
+      "Das Gesetz gestattet Ausnahmen."
+    ],
+    "synonyms": ["erlauben", "zulassen"],
+    "antonyms": ["verbieten", "untersagen"]
+  },
+  {
+    "german": "protestieren",
+    "english": "to protest",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie protestierten gegen die Ungerechtigkeit.",
+      "Tausende Menschen protestierten auf den Straßen."
+    ],
+    "synonyms": ["demonstrieren", "sich wehren"],
+    "antonyms": ["zustimmen", "akzeptieren"]
+  },
+  {
+    "german": "fordern",
+    "english": "to demand / to require",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Arbeiter forderten höhere Löhne.",
+      "Die Situation fordert schnelles Handeln."
+    ],
+    "synonyms": ["verlangen", "beanspruchen"],
+    "antonyms": ["anbieten", "geben"]
+  },
+  {
+    "german": "vertreten",
+    "english": "to represent",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Der Anwalt vertritt seine Mandanten vor Gericht.",
+      "Sie vertritt eine klare Position."
+    ],
+    "synonyms": ["repräsentieren", "darstellen"],
+    "antonyms": ["ablehnen", "aufgeben"]
+  },
+  {
+    "german": "unterdrücken",
+    "english": "to suppress / to oppress",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Regime unterdrückte die Opposition.",
+      "Er versuchte, seine Gefühle zu unterdrücken."
+    ],
+    "synonyms": ["bekämpfen", "niederschlagen"],
+    "antonyms": ["befreien", "unterstützen"]
+  },
+  {
+    "german": "befreien",
+    "english": "to liberate / to free",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Soldaten befreiten die Gefangenen.",
+      "Sie wollte sich von alten Gewohnheiten befreien."
+    ],
+    "synonyms": ["freilassen", "erlösen"],
+    "antonyms": ["gefangen nehmen", "unterdrücken"]
+  },
+  {
+    "german": "integrieren",
+    "english": "to integrate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Ziel ist es, alle Gruppen zu integrieren.",
+      "Er integrierte sich schnell in die Gemeinschaft."
+    ],
+    "synonyms": ["eingliedern", "einbeziehen"],
+    "antonyms": ["ausgrenzen", "isolieren"]
+  },
+  {
+    "german": "ausgrenzen",
+    "english": "to exclude / to marginalize",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Niemand sollte wegen seiner Herkunft ausgegrenzt werden.",
+      "Die Gruppe wurde systematisch ausgegrenzt."
+    ],
+    "synonyms": ["ausschließen", "diskriminieren"],
+    "antonyms": ["integrieren", "einbeziehen"]
+  },
+  {
+    "german": "diskriminieren",
+    "english": "to discriminate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Es ist verboten, Menschen aufgrund ihrer Religion zu diskriminieren.",
+      "Sie wurde wegen ihres Geschlechts diskriminiert."
+    ],
+    "synonyms": ["benachteiligen", "ausgrenzen"],
+    "antonyms": ["gleichbehandeln", "respektieren"]
+  },
+  {
+    "german": "politisch",
+    "english": "political",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die politische Lage ist angespannt.",
+      "Er ist politisch sehr aktiv."
+    ],
+    "synonyms": ["staatspolitisch", "parteipolitisch"],
+    "antonyms": ["unpolitisch", "apolitisch"]
+  },
+  {
+    "german": "demokratisch",
+    "english": "democratic",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Eine demokratische Entscheidung ist wichtig.",
+      "Das Land hat eine demokratische Regierung."
+    ],
+    "synonyms": ["freiheitlich", "parlamentarisch"],
+    "antonyms": ["autoritär", "diktatorisch"]
+  },
+  {
+    "german": "staatlich",
+    "english": "state / governmental",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die staatliche Unterstützung war entscheidend.",
+      "Er besuchte eine staatliche Schule."
+    ],
+    "synonyms": ["öffentlich", "regierungsbezogen"],
+    "antonyms": ["privat", "nichtstaatlich"]
+  },
+  {
+    "german": "öffentlich",
+    "english": "public",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Verhandlung fand öffentlich statt.",
+      "Der öffentliche Verkehr ist gut ausgebaut."
+    ],
+    "synonyms": ["allgemein zugänglich", "staatlich"],
+    "antonyms": ["privat", "geheim"]
+  },
+  {
+    "german": "privat",
+    "english": "private",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das ist eine private Angelegenheit.",
+      "Sie arbeitet in einem privaten Unternehmen."
+    ],
+    "synonyms": ["persönlich", "nichtöffentlich"],
+    "antonyms": ["öffentlich", "staatlich"]
+  },
+  {
+    "german": "sozial",
+    "english": "social",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Soziale Gerechtigkeit ist ein wichtiges Thema.",
+      "Er engagiert sich für soziale Projekte."
+    ],
+    "synonyms": ["gesellschaftlich", "gemeinschaftlich"],
+    "antonyms": ["unsozial", "egoistisch"]
+  },
+  {
+    "german": "gerecht",
+    "english": "just / fair",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Eine gerechte Verteilung ist wichtig.",
+      "Das Urteil war gerecht."
+    ],
+    "synonyms": ["fair", "rechtmäßig"],
+    "antonyms": ["ungerecht", "unfair"]
+  },
+  {
+    "german": "ungerecht",
+    "english": "unjust / unfair",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Behandlung war ungerecht.",
+      "Er fand die Entscheidung ungerecht."
+    ],
+    "synonyms": ["unfair", "ungerechtfertigt"],
+    "antonyms": ["gerecht", "fair"]
+  },
+  {
+    "german": "korrupt",
+    "english": "corrupt",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Der korrupte Beamte wurde verhaftet.",
+      "Das System ist zutiefst korrupt."
+    ],
+    "synonyms": ["bestechlich", "käuflich"],
+    "antonyms": ["integer", "ehrlich"]
+  },
+  {
+    "german": "rechtmäßig",
+    "english": "lawful / legitimate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Entscheidung war rechtmäßig.",
+      "Er ist der rechtmäßige Erbe."
+    ],
+    "synonyms": ["legal", "legitim"],
+    "antonyms": ["unrechtmäßig", "illegal"]
+  },
+  {
+    "german": "verfassungswidrig",
+    "english": "unconstitutional",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Gesetz wurde als verfassungswidrig erklärt.",
+      "Verfassungswidrige Maßnahmen sind verboten."
+    ],
+    "synonyms": ["grundgesetzwidrig"],
+    "antonyms": ["verfassungskonform", "rechtmäßig"]
+  },
+  {
+    "german": "der Politiker",
+    "english": "politician",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Politiker hielt eine wichtige Rede.",
+      "Viele Politiker sind unpopulär."
+    ],
+    "synonyms": ["der Staatsmann", "der Abgeordnete"],
+    "antonyms": ["der Bürger", "der Privatmann"]
+  },
+  {
+    "german": "die Politikerin",
+    "english": "female politician",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Politikerin setzte sich für Frauenrechte ein.",
+      "Sie ist eine bekannte Politikerin."
+    ],
+    "synonyms": ["die Abgeordnete", "die Staatsfrau"],
+    "antonyms": ["die Privatperson"]
+  },
+  {
+    "german": "der Abgeordnete",
+    "english": "member of parliament / representative",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Abgeordnete stimmte gegen das Gesetz.",
+      "Die Abgeordneten debattierten stundenlang."
+    ],
+    "synonyms": ["der Parlamentarier", "der Volksvertreter"],
+    "antonyms": ["der Wähler", "der Bürger"]
+  },
+  {
+    "german": "der Minister",
+    "english": "minister",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Minister kündigte seinen Rücktritt an.",
+      "Sie wurde zur Ministerin ernannt."
+    ],
+    "synonyms": ["der Staatssekretär", "das Regierungsmitglied"],
+    "antonyms": ["der Bürger", "der Untergebene"]
+  },
+  {
+    "german": "der Präsident",
+    "english": "president",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Präsident hielt eine Ansprache.",
+      "Sie wurde zur Präsidentin gewählt."
+    ],
+    "synonyms": ["das Staatsoberhaupt", "der Vorsitzende"],
+    "antonyms": ["der Untergebene", "der Bürger"]
+  },
+  {
+    "german": "der Kanzler",
+    "english": "chancellor",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Kanzler führte die Koalitionsverhandlungen.",
+      "Sie ist die erste Kanzlerin des Landes."
+    ],
+    "synonyms": ["der Regierungschef", "der Ministerpräsident"],
+    "antonyms": ["der Oppositionsführer"]
+  },
+  {
+    "german": "das Parlament",
+    "english": "parliament",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Das Parlament debattierte über das Gesetz.",
+      "Das Gesetz wurde vom Parlament verabschiedet."
+    ],
+    "synonyms": ["die Volksvertretung", "der Bundestag"],
+    "antonyms": ["die Regierung", "die Exekutive"]
+  },
+  {
+    "german": "das Ministerium",
+    "english": "ministry",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Das Ministerium für Bildung kündigte Reformen an.",
+      "Sie arbeitet im Außenministerium."
+    ],
+    "synonyms": ["die Behörde", "das Amt"],
+    "antonyms": ["die Privatwirtschaft"]
+  },
+  {
+    "german": "die Behörde",
+    "english": "authority / agency",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Behörde erteilte die Genehmigung.",
+      "Er wendete sich an die zuständige Behörde."
+    ],
+    "synonyms": ["das Amt", "die Institution"],
+    "antonyms": ["der Privatsektor"]
+  },
+  {
+    "german": "die Institution",
+    "english": "institution",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Universität ist eine wichtige Institution.",
+      "Demokratische Institutionen müssen geschützt werden."
+    ],
+    "synonyms": ["die Einrichtung", "die Organisation"],
+    "antonyms": ["das Individuum", "die Privatperson"]
+  },
+  {
+    "german": "die Organisation",
+    "english": "organization",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Organisation setzt sich für Umweltschutz ein.",
+      "Er arbeitet für eine internationale Organisation."
+    ],
+    "synonyms": ["der Verband", "die Vereinigung"],
+    "antonyms": ["das Chaos", "die Unordnung"]
+  },
+  {
+    "german": "die Gewerkschaft",
+    "english": "trade union",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Gewerkschaft forderte höhere Löhne.",
+      "Er ist Mitglied der Gewerkschaft."
+    ],
+    "synonyms": ["der Arbeitnehmerverband", "die Arbeitervertretung"],
+    "antonyms": ["der Arbeitgeberverband"]
+  },
+  {
+    "german": "der Verband",
+    "english": "association / federation",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Verband vertritt die Interessen seiner Mitglieder.",
+      "Sie ist im Sportverband aktiv."
+    ],
+    "synonyms": ["die Vereinigung", "die Organisation"],
+    "antonyms": ["das Individuum"]
+  },
+  {
+    "german": "die Koalition",
+    "english": "coalition",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Parteien bildeten eine Koalition.",
+      "Die Koalition zerbrach nach zwei Jahren."
+    ],
+    "synonyms": ["das Bündnis", "die Allianz"],
+    "antonyms": ["die Opposition", "die Spaltung"]
+  },
+  {
+    "german": "das Bündnis",
+    "english": "alliance",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Die Länder schlossen ein militärisches Bündnis.",
+      "Das Bündnis wurde gestärkt."
+    ],
+    "synonyms": ["die Allianz", "die Koalition"],
+    "antonyms": ["die Feindschaft", "der Konflikt"]
+  },
+  {
+    "german": "die Außenpolitik",
+    "english": "foreign policy",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Außenpolitik des Landes ist umstritten.",
+      "Er ist Experte für Außenpolitik."
+    ],
+    "synonyms": ["die internationale Politik"],
+    "antonyms": ["die Innenpolitik"]
+  },
+  {
+    "german": "die Innenpolitik",
+    "english": "domestic policy",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Innenpolitik konzentriert sich auf Bildung.",
+      "Innenpolitische Themen dominierten die Debatte."
+    ],
+    "synonyms": ["die nationale Politik"],
+    "antonyms": ["die Außenpolitik"]
+  },
+  {
+    "german": "die Wirtschaftspolitik",
+    "english": "economic policy",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Wirtschaftspolitik beeinflusst das Wachstum.",
+      "Er kritisierte die Wirtschaftspolitik der Regierung."
+    ],
+    "synonyms": ["die Finanzpolitik", "die Fiskalpolitik"],
+    "antonyms": ["die Sozialpolitik"]
+  },
+  {
+    "german": "die Sozialpolitik",
+    "english": "social policy",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Sozialpolitik zielt auf Armutsbekämpfung ab.",
+      "Sozialpolitische Maßnahmen wurden eingeführt."
+    ],
+    "synonyms": ["die Wohlfahrtspolitik"],
+    "antonyms": ["die Wirtschaftspolitik"]
+  },
+  {
+    "german": "die Reise",
+    "english": "journey / trip",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Reise war lang aber angenehm.",
+      "Gute Reise!"
+    ],
+    "synonyms": ["die Fahrt", "der Trip"],
+    "antonyms": ["der Aufenthalt", "die Ankunft"]
+  },
+  {
+    "german": "verreisen",
+    "english": "to go on a trip",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir verreisen nächste Woche.",
+      "Sie verreist gerne im Sommer."
+    ],
+    "synonyms": ["reisen", "wegfahren"],
+    "antonyms": ["zu Hause bleiben"]
+  },
+  {
+    "german": "das Reiseziel",
+    "english": "destination",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Unser Reiseziel ist Italien.",
+      "Das Reiseziel war schnell erreicht."
+    ],
+    "synonyms": ["das Ziel", "der Bestimmungsort"],
+    "antonyms": ["der Ausgangspunkt"]
+  },
+  {
+    "german": "die Unterkunft",
+    "english": "accommodation",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Wir suchen eine günstige Unterkunft.",
+      "Die Unterkunft war sehr komfortabel."
+    ],
+    "synonyms": ["die Übernachtung", "das Quartier"],
+    "antonyms": []
+  },
+  {
+    "german": "unterkommen",
+    "english": "to find accommodation",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir kamen in einem Hotel unter.",
+      "Wo seid ihr untergekommen?"
+    ],
+    "synonyms": ["übernachten", "wohnen"],
+    "antonyms": []
+  },
+  {
+    "german": "buchen",
+    "english": "to book",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich habe einen Flug gebucht.",
+      "Das Hotel ist schon ausgebucht."
+    ],
+    "synonyms": ["reservieren", "bestellen"],
+    "antonyms": ["stornieren", "absagen"]
+  },
+  {
+    "german": "die Buchung",
+    "english": "booking / reservation",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Buchung wurde bestätigt.",
+      "Ich muss meine Buchung ändern."
+    ],
+    "synonyms": ["die Reservierung"],
+    "antonyms": ["die Stornierung"]
+  },
+  {
+    "german": "stornieren",
+    "english": "to cancel",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich musste den Flug stornieren.",
+      "Kann ich die Buchung kostenlos stornieren?"
+    ],
+    "synonyms": ["absagen", "rückgängig machen"],
+    "antonyms": ["buchen", "bestätigen"]
+  },
+  {
+    "german": "die Stornierung",
+    "english": "cancellation",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Stornierung ist kostenlos.",
+      "Bei Stornierung gibt es keine Rückerstattung."
+    ],
+    "synonyms": ["die Absage", "der Rücktritt"],
+    "antonyms": ["die Buchung"]
+  },
+  {
+    "german": "die Verspätung",
+    "english": "delay",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Der Zug hat eine Stunde Verspätung.",
+      "Wegen der Verspätung verpasste ich den Anschluss."
+    ],
+    "synonyms": ["die Verzögerung"],
+    "antonyms": ["die Pünktlichkeit"]
+  },
+  {
+    "german": "sich verspäten",
+    "english": "to be late",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Der Flug hat sich verspätet.",
+      "Entschuldigung, ich habe mich verspätet."
+    ],
+    "synonyms": ["zu spät kommen", "sich verzögern"],
+    "antonyms": ["pünktlich sein"]
+  },
+  {
+    "german": "pünktlich",
+    "english": "punctual / on time",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Der Zug kam pünktlich an.",
+      "Bitte seien Sie pünktlich."
+    ],
+    "synonyms": ["rechtzeitig", "termingerecht"],
+    "antonyms": ["verspätet", "unpünktlich"]
+  },
+  {
+    "german": "die Pünktlichkeit",
+    "english": "punctuality",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Pünktlichkeit ist ihm sehr wichtig.",
+      "Die deutsche Bahn ist nicht immer für Pünktlichkeit bekannt."
+    ],
+    "synonyms": ["die Termintreue"],
+    "antonyms": ["die Unpünktlichkeit"]
+  },
+  {
+    "german": "der Anschluss",
+    "english": "connection (transport)",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Ich habe den Anschluss verpasst.",
+      "Der Anschluss nach München ist um 15 Uhr."
+    ],
+    "synonyms": ["die Verbindung"],
+    "antonyms": []
+  },
+  {
+    "german": "umsteigen",
+    "english": "to change (trains/buses)",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie müssen in Frankfurt umsteigen.",
+      "Wie oft muss ich umsteigen?"
+    ],
+    "synonyms": ["wechseln"],
+    "antonyms": ["durchfahren"]
+  },
+  {
+    "german": "der Umstieg",
+    "english": "transfer / change",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Umstieg war stressig.",
+      "Ohne Umstieg kommt man schneller an."
+    ],
+    "synonyms": ["der Wechsel"],
+    "antonyms": ["die Direktverbindung"]
+  },
+  {
+    "german": "die Direktverbindung",
+    "english": "direct connection",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Gibt es eine Direktverbindung nach Berlin?",
+      "Die Direktverbindung ist schneller."
+    ],
+    "synonyms": ["die Direktfahrt"],
+    "antonyms": ["die Verbindung mit Umstieg"]
+  },
+  {
+    "german": "die Fahrkarte",
+    "english": "ticket (transport)",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Ich habe meine Fahrkarte vergessen.",
+      "Die Fahrkarte kostet 50 Euro."
+    ],
+    "synonyms": ["das Ticket", "der Fahrschein"],
+    "antonyms": []
+  },
+  {
+    "german": "der Fahrplan",
+    "english": "timetable / schedule",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Schau mal im Fahrplan nach.",
+      "Der Fahrplan hat sich geändert."
+    ],
+    "synonyms": ["der Zeitplan", "das Programm"],
+    "antonyms": []
+  },
+  {
+    "german": "das Gleis",
+    "english": "platform / track",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Der Zug fährt auf Gleis 5 ab.",
+      "Auf welchem Gleis kommt der ICE an?"
+    ],
+    "synonyms": ["der Bahnsteig"],
+    "antonyms": []
+  },
+  {
+    "german": "abfahren",
+    "english": "to depart",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Der Zug fährt um 10 Uhr ab.",
+      "Wann fahren wir ab?"
+    ],
+    "synonyms": ["losfahren", "aufbrechen"],
+    "antonyms": ["ankommen", "eintreffen"]
+  },
+  {
+    "german": "die Abfahrt",
+    "english": "departure",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Abfahrt ist um 8 Uhr.",
+      "Kurz vor der Abfahrt wurde es hektisch."
+    ],
+    "synonyms": ["der Aufbruch", "die Abreise"],
+    "antonyms": ["die Ankunft"]
+  },
+  {
+    "german": "ankommen",
+    "english": "to arrive",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir sind gut angekommen.",
+      "Wann kommt der Zug an?"
+    ],
+    "synonyms": ["eintreffen", "erreichen"],
+    "antonyms": ["abfahren", "abreisen"]
+  },
+  {
+    "german": "die Ankunft",
+    "english": "arrival",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Ankunft ist für 18 Uhr geplant.",
+      "Nach der Ankunft gingen wir ins Hotel."
+    ],
+    "synonyms": ["das Eintreffen"],
+    "antonyms": ["die Abfahrt", "die Abreise"]
+  },
+  {
+    "german": "landen",
+    "english": "to land",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Flugzeug ist sicher gelandet.",
+      "Wir landen in einer Stunde."
+    ],
+    "synonyms": ["aufsetzen", "ankommen"],
+    "antonyms": ["starten", "abheben"]
+  },
+  {
+    "german": "die Landung",
+    "english": "landing",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Landung war sanft.",
+      "Bitte schnallen Sie sich für die Landung an."
+    ],
+    "synonyms": ["das Aufsetzen"],
+    "antonyms": ["der Start", "der Abflug"]
+  },
+  {
+    "german": "starten",
+    "english": "to take off / to start",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Flugzeug startet in 30 Minuten.",
+      "Wann starten wir?"
+    ],
+    "synonyms": ["abheben", "beginnen"],
+    "antonyms": ["landen", "enden"]
+  },
+  {
+    "german": "der Abflug",
+    "english": "departure (flight)",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Abflug verzögert sich.",
+      "Zwei Stunden vor Abflug sollte man da sein."
+    ],
+    "synonyms": ["der Start"],
+    "antonyms": ["die Landung", "die Ankunft"]
+  },
+  {
+    "german": "einchecken",
+    "english": "to check in",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir müssen noch einchecken.",
+      "Online einchecken spart Zeit."
+    ],
+    "synonyms": ["sich anmelden"],
+    "antonyms": ["auschecken"]
+  },
+  {
+    "german": "auschecken",
+    "english": "to check out",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir checken morgen früh aus.",
+      "Bis wann muss man auschecken?"
+    ],
+    "synonyms": ["sich abmelden"],
+    "antonyms": ["einchecken"]
+  },
+  {
+    "german": "das Gepäck",
+    "english": "luggage / baggage",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Mein Gepäck ist verloren gegangen.",
+      "Wie viel Gepäck darf ich mitnehmen?"
+    ],
+    "synonyms": ["das Reisegepäck", "die Koffer"],
+    "antonyms": []
+  },
+  {
+    "german": "das Handgepäck",
+    "english": "hand luggage / carry-on",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Ich habe nur Handgepäck dabei.",
+      "Das Handgepäck muss unter den Sitz."
+    ],
+    "synonyms": ["das Kabinengepäck"],
+    "antonyms": ["das aufgegebene Gepäck"]
+  },
+  {
+    "german": "aufgeben",
+    "english": "to check (luggage)",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich muss meinen Koffer aufgeben.",
+      "Das Gepäck wurde am Schalter aufgegeben."
+    ],
+    "synonyms": ["einchecken"],
+    "antonyms": []
+  },
+  {
+    "german": "der Zoll",
+    "english": "customs",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Am Zoll wurde mein Koffer kontrolliert.",
+      "Haben Sie etwas zu verzollen?"
+    ],
+    "synonyms": ["die Zollkontrolle"],
+    "antonyms": []
+  },
+  {
+    "german": "verzollen",
+    "english": "to declare at customs",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Diese Waren muss man verzollen.",
+      "Haben Sie etwas zu verzollen?"
+    ],
+    "synonyms": ["anmelden"],
+    "antonyms": []
+  },
+  {
+    "german": "die Passkontrolle",
+    "english": "passport control",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Passkontrolle dauerte lange.",
+      "Nach der Passkontrolle gingen wir zum Gate."
+    ],
+    "synonyms": ["die Grenzkontrolle"],
+    "antonyms": []
+  },
+  {
+    "german": "das Visum",
+    "english": "visa",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Brauche ich ein Visum für die USA?",
+      "Das Visum wurde genehmigt."
+    ],
+    "synonyms": ["die Einreiseerlaubnis"],
+    "antonyms": []
+  },
+  {
+    "german": "die Einreise",
+    "english": "entry (into a country)",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Einreise war problemlos.",
+      "Bei der Einreise wird der Pass kontrolliert."
+    ],
+    "synonyms": ["das Einreisen"],
+    "antonyms": ["die Ausreise"]
+  },
+  {
+    "german": "die Ausreise",
+    "english": "departure (from a country)",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Ausreise verlief reibungslos.",
+      "Bei der Ausreise gab es keine Probleme."
+    ],
+    "synonyms": ["das Ausreisen"],
+    "antonyms": ["die Einreise"]
+  },
+  {
+    "german": "das Verkehrsmittel",
+    "english": "means of transport",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Welches Verkehrsmittel bevorzugen Sie?",
+      "Öffentliche Verkehrsmittel sind umweltfreundlicher."
+    ],
+    "synonyms": ["das Transportmittel", "das Fortbewegungsmittel"],
+    "antonyms": []
+  },
+  {
+    "german": "der Stau",
+    "english": "traffic jam",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Wir standen zwei Stunden im Stau.",
+      "Auf der Autobahn gibt es Stau."
+    ],
+    "synonyms": ["der Verkehrsstau", "die Stockung"],
+    "antonyms": ["der freie Verkehr"]
+  },
+  {
+    "german": "die Umleitung",
+    "english": "detour / diversion",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Wegen der Baustelle gibt es eine Umleitung.",
+      "Die Umleitung war schlecht ausgeschildert."
+    ],
+    "synonyms": ["der Umweg"],
+    "antonyms": ["der direkte Weg"]
+  },
+  {
+    "german": "überholen",
+    "english": "to overtake",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er überholte den LKW.",
+      "Hier ist Überholen verboten."
+    ],
+    "synonyms": ["vorbeifahren"],
+    "antonyms": []
+  },
+  {
+    "german": "bremsen",
+    "english": "to brake",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er musste plötzlich bremsen.",
+      "Bremsen Sie langsam ab."
+    ],
+    "synonyms": ["abbremsen", "verlangsamen"],
+    "antonyms": ["beschleunigen", "Gas geben"]
+  },
+  {
+    "german": "beschleunigen",
+    "english": "to accelerate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Auto beschleunigt schnell.",
+      "Er beschleunigte auf der Autobahn."
+    ],
+    "synonyms": ["schneller werden", "Gas geben"],
+    "antonyms": ["bremsen", "verlangsamen"]
+  },
+  {
+    "german": "tanken",
+    "english": "to refuel",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir müssen noch tanken.",
+      "Wo kann man hier tanken?"
+    ],
+    "synonyms": ["auftanken", "Benzin holen"],
+    "antonyms": []
+  },
+  {
+    "german": "die Tankstelle",
+    "english": "gas station",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die nächste Tankstelle ist in 5 km.",
+      "An der Tankstelle kaufte er einen Kaffee."
+    ],
+    "synonyms": ["die Zapfsäule"],
+    "antonyms": []
+  },
+  {
+    "german": "der Führerschein",
+    "english": "driver's license",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Hast du deinen Führerschein dabei?",
+      "Er machte mit 18 den Führerschein."
+    ],
+    "synonyms": ["die Fahrerlaubnis"],
+    "antonyms": []
+  },
+  {
+    "german": "mieten",
+    "english": "to rent",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir mieten ein Auto am Flughafen.",
+      "Die Wohnung ist gemietet."
+    ],
+    "synonyms": ["leihen", "anmieten"],
+    "antonyms": ["vermieten", "kaufen"]
+  },
+  {
+    "german": "die Mietwagen",
+    "english": "rental car",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Mietwagen steht am Flughafen bereit.",
+      "Wie viel kostet ein Mietwagen pro Tag?"
+    ],
+    "synonyms": ["das Leihauto"],
+    "antonyms": []
+  },
+  {
+    "german": "die Sehenswürdigkeit",
+    "english": "sight / attraction",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Das Brandenburger Tor ist eine bekannte Sehenswürdigkeit.",
+      "Wir besichtigten alle Sehenswürdigkeiten."
+    ],
+    "synonyms": ["die Attraktion", "das Highlight"],
+    "antonyms": []
+  },
+  {
+    "german": "besichtigen",
+    "english": "to visit / to tour",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir besichtigten das Schloss.",
+      "Die Stadt kann man gut zu Fuß besichtigen."
+    ],
+    "synonyms": ["ansehen", "besuchen"],
+    "antonyms": []
+  },
+  {
+    "german": "die Besichtigung",
+    "english": "tour / viewing",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Besichtigung des Museums dauerte zwei Stunden.",
+      "Eine Besichtigung ist nur mit Führung möglich."
+    ],
+    "synonyms": ["der Rundgang", "die Führung"],
+    "antonyms": []
+  },
+  {
+    "german": "die Führung",
+    "english": "guided tour",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Wir nahmen an einer Führung teil.",
+      "Die Führung war sehr informativ."
+    ],
+    "synonyms": ["der Rundgang", "die Tour"],
+    "antonyms": []
+  },
+  {
+    "german": "erkunden",
+    "english": "to explore",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir erkundeten die Altstadt.",
+      "Er erkundet gerne neue Orte."
+    ],
+    "synonyms": ["erforschen", "entdecken"],
+    "antonyms": []
+  },
+  {
+    "german": "die Erkundung",
+    "english": "exploration",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Erkundung der Insel war spannend.",
+      "Zur Erkundung der Gegend mieteten wir Fahrräder."
+    ],
+    "synonyms": ["die Erforschung", "die Entdeckung"],
+    "antonyms": []
+  },
+  {
+    "german": "der Ausflug",
+    "english": "excursion / trip",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Wir machten einen Ausflug ans Meer.",
+      "Der Ausflug war ein voller Erfolg."
+    ],
+    "synonyms": ["die Tour", "der Trip"],
+    "antonyms": []
+  },
+  {
+    "german": "die Rundreise",
+    "english": "tour / road trip",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Wir machten eine Rundreise durch Italien.",
+      "Die Rundreise dauerte drei Wochen."
+    ],
+    "synonyms": ["die Tour", "die Reise"],
+    "antonyms": []
+  },
+  {
+    "german": "die Kreuzfahrt",
+    "english": "cruise",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Sie machten eine Kreuzfahrt in der Karibik.",
+      "Die Kreuzfahrt war sehr luxuriös."
+    ],
+    "synonyms": ["die Schiffsreise"],
+    "antonyms": []
+  },
+  {
+    "german": "das Abenteuer",
+    "english": "adventure",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Die Reise war ein großes Abenteuer.",
+      "Er sucht immer neue Abenteuer."
+    ],
+    "synonyms": ["das Erlebnis", "das Wagnis"],
+    "antonyms": ["die Routine", "der Alltag"]
+  },
+  {
+    "german": "abenteuerlich",
+    "english": "adventurous",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Fahrt war ziemlich abenteuerlich.",
+      "Er ist ein abenteuerlicher Typ."
+    ],
+    "synonyms": ["waghalsig", "riskant"],
+    "antonyms": ["sicher", "langweilig"]
+  },
+  {
+    "german": "entspannen",
+    "english": "to relax",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Im Urlaub wollen wir uns entspannen.",
+      "Er entspannte am Strand."
+    ],
+    "synonyms": ["sich erholen", "ausruhen"],
+    "antonyms": ["sich anstrengen", "stressen"]
+  },
+  {
+    "german": "die Erholung",
+    "english": "relaxation / recovery",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Der Urlaub diente der Erholung.",
+      "Nach der Erholung fühlte er sich besser."
+    ],
+    "synonyms": ["die Entspannung", "die Ruhe"],
+    "antonyms": ["die Anstrengung", "der Stress"]
+  },
+  {
+    "german": "unvergesslich",
+    "english": "unforgettable",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Reise war unvergesslich.",
+      "Es war ein unvergessliches Erlebnis."
+    ],
+    "synonyms": ["einprägsam", "denkwürdig"],
+    "antonyms": ["vergesslich", "gewöhnlich"]
+  },
+  {
+    "german": "eindrucksvoll",
+    "english": "impressive",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Landschaft war eindrucksvoll.",
+      "Er hielt eine eindrucksvolle Rede."
+    ],
+    "synonyms": ["beeindruckend", "imposant"],
+    "antonyms": ["unscheinbar", "langweilig"]
+  },
+  {
+    "german": "atemberaubend",
+    "english": "breathtaking",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Aussicht war atemberaubend.",
+      "Die Schönheit der Natur war atemberaubend."
+    ],
+    "synonyms": ["überwältigend", "spektakulär"],
+    "antonyms": ["gewöhnlich", "langweilig"]
+  },
+  {
+    "german": "malerisch",
+    "english": "picturesque",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Dorf war sehr malerisch.",
+      "Die malerische Landschaft begeisterte uns."
+    ],
+    "synonyms": ["pittoresk", "idyllisch"],
+    "antonyms": ["hässlich", "trist"]
+  },
+  {
+    "german": "idyllisch",
+    "english": "idyllic",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir fanden einen idyllischen Platz zum Picknicken.",
+      "Das Hotel lag in idyllischer Umgebung."
+    ],
+    "synonyms": ["malerisch", "friedlich"],
+    "antonyms": ["hektisch", "chaotisch"]
+  },
+  {
+    "german": "touristisch",
+    "english": "touristy",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Gegend ist sehr touristisch.",
+      "Wir mieden die touristischen Orte."
+    ],
+    "synonyms": ["überlaufen"],
+    "antonyms": ["authentisch", "ursprünglich"]
+  },
+  {
+    "german": "abgelegen",
+    "english": "remote / secluded",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Hotel liegt etwas abgelegen.",
+      "Sie wohnen in einer abgelegenen Gegend."
+    ],
+    "synonyms": ["entlegen", "einsam"],
+    "antonyms": ["zentral", "gut erreichbar"]
+  },
+  {
+    "german": "erreichbar",
+    "english": "accessible / reachable",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Insel ist nur per Boot erreichbar.",
+      "Er ist telefonisch erreichbar."
+    ],
+    "synonyms": ["zugänglich"],
+    "antonyms": ["unerreichbar", "abgelegen"]
+  },
+  {
+    "german": "die Orientierung",
+    "english": "orientation",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "In der fremden Stadt verlor ich die Orientierung.",
+      "Die Karte hilft bei der Orientierung."
+    ],
+    "synonyms": ["die Ausrichtung"],
+    "antonyms": ["die Desorientierung"]
+  },
+  {
+    "german": "sich verirren",
+    "english": "to get lost",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir haben uns im Wald verirrt.",
+      "Er verirrte sich in der fremden Stadt."
+    ],
+    "synonyms": ["sich verlaufen", "vom Weg abkommen"],
+    "antonyms": ["den Weg finden"]
+  },
+  {
+    "german": "die Richtung",
+    "english": "direction",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "In welche Richtung müssen wir gehen?",
+      "Er ging in die falsche Richtung."
+    ],
+    "synonyms": ["der Weg", "die Route"],
+    "antonyms": []
+  },
+  {
+    "german": "navigieren",
+    "english": "to navigate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Navi hilft beim Navigieren.",
+      "Er navigierte geschickt durch den Verkehr."
+    ],
+    "synonyms": ["steuern", "lenken"],
+    "antonyms": []
+  },
+  {
+    "german": "die Wohnung",
+    "english": "apartment",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Ich suche eine neue Wohnung.",
+      "Die Wohnung hat drei Zimmer."
+    ],
+    "synonyms": ["das Appartement", "die Unterkunft"],
+    "antonyms": ["das Haus"]
+  },
+  {
+    "german": "die Immobilie",
+    "english": "property / real estate",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Immobilien sind teuer geworden.",
+      "Er investiert in Immobilien."
+    ],
+    "synonyms": ["das Grundstück", "die Liegenschaft"],
+    "antonyms": []
+  },
+  {
+    "german": "der Makler",
+    "english": "real estate agent",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Makler zeigte uns mehrere Wohnungen.",
+      "Sie arbeitet als Maklerin."
+    ],
+    "synonyms": ["der Immobilienmakler", "der Vermittler"],
+    "antonyms": []
+  },
+  {
+    "german": "die Kaution",
+    "english": "deposit",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Kaution beträgt drei Monatsmieten.",
+      "Die Kaution wurde zurückgezahlt."
+    ],
+    "synonyms": ["die Sicherheitsleistung"],
+    "antonyms": []
+  },
+  {
+    "german": "die Nebenkosten",
+    "english": "utility costs",
+    "gender": "Plural",
+    "level": "B2",
+    "examples": [
+      "Die Nebenkosten sind nicht inbegriffen.",
+      "Die Nebenkosten sind gestiegen."
+    ],
+    "synonyms": ["die Betriebskosten"],
+    "antonyms": []
+  },
+  {
+    "german": "einziehen",
+    "english": "to move in",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir ziehen nächste Woche ein.",
+      "Er ist gerade erst eingezogen."
+    ],
+    "synonyms": ["sich einrichten"],
+    "antonyms": ["ausziehen"]
+  },
+  {
+    "german": "ausziehen",
+    "english": "to move out",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er zieht aus der Wohnung aus.",
+      "Wann zieht ihr aus?"
+    ],
+    "synonyms": ["die Wohnung verlassen"],
+    "antonyms": ["einziehen"]
+  },
+  {
+    "german": "der Umzug",
+    "english": "move / relocation",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Umzug war anstrengend.",
+      "Wann ist der Umzug geplant?"
+    ],
+    "synonyms": ["der Wohnungswechsel"],
+    "antonyms": []
+  },
+  {
+    "german": "umziehen",
+    "english": "to move (house)",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir ziehen nach Berlin um.",
+      "Sie ist oft umgezogen."
+    ],
+    "synonyms": ["übersiedeln", "den Wohnsitz wechseln"],
+    "antonyms": ["bleiben"]
+  },
+  {
+    "german": "renovieren",
+    "english": "to renovate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir renovieren das Badezimmer.",
+      "Das Haus wurde komplett renoviert."
+    ],
+    "synonyms": ["sanieren", "modernisieren"],
+    "antonyms": ["verfallen lassen"]
+  },
+  {
+    "german": "die Renovierung",
+    "english": "renovation",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Renovierung dauerte drei Monate.",
+      "Die Renovierung war teuer."
+    ],
+    "synonyms": ["die Sanierung", "die Modernisierung"],
+    "antonyms": []
+  },
+  {
+    "german": "einrichten",
+    "english": "to furnish / to set up",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie richtete die Wohnung modern ein.",
+      "Das Zimmer ist geschmackvoll eingerichtet."
+    ],
+    "synonyms": ["möblieren", "gestalten"],
+    "antonyms": ["ausräumen"]
+  },
+  {
+    "german": "die Einrichtung",
+    "english": "furnishings / setup",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Einrichtung ist sehr modern.",
+      "Er kaufte neue Einrichtung für das Wohnzimmer."
+    ],
+    "synonyms": ["das Mobiliar", "die Ausstattung"],
+    "antonyms": []
+  },
+  {
+    "german": "möbliert",
+    "english": "furnished",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich suche eine möblierte Wohnung.",
+      "Das Zimmer ist voll möbliert."
+    ],
+    "synonyms": ["eingerichtet", "ausgestattet"],
+    "antonyms": ["unmöbliert"]
+  },
+  {
+    "german": "unmöbliert",
+    "english": "unfurnished",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Wohnung wird unmöbliert vermietet.",
+      "Unmöblierte Wohnungen sind günstiger."
+    ],
+    "synonyms": ["leer"],
+    "antonyms": ["möbliert"]
+  },
+  {
+    "german": "geräumig",
+    "english": "spacious",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Wohnung ist sehr geräumig.",
+      "Wir suchen etwas Geräumigeres."
+    ],
+    "synonyms": ["weitläufig", "groß"],
+    "antonyms": ["eng", "beengt"]
+  },
+  {
+    "german": "gemütlich",
+    "english": "cozy",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Wohnzimmer ist sehr gemütlich.",
+      "Mach es dir gemütlich."
+    ],
+    "synonyms": ["behaglich", "wohnlich"],
+    "antonyms": ["ungemütlich", "kalt"]
+  },
+  {
+    "german": "die Heizung",
+    "english": "heating",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Heizung funktioniert nicht.",
+      "Im Winter ist die Heizung unverzichtbar."
+    ],
+    "synonyms": ["das Heizsystem"],
+    "antonyms": ["die Klimaanlage"]
+  },
+  {
+    "german": "heizen",
+    "english": "to heat",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Im Winter heizen wir mit Gas.",
+      "Das Haus ist gut geheizt."
+    ],
+    "synonyms": ["erwärmen", "aufheizen"],
+    "antonyms": ["kühlen"]
+  },
+  {
+    "german": "die Klimaanlage",
+    "english": "air conditioning",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Klimaanlage ist kaputt.",
+      "Im Sommer ist die Klimaanlage wichtig."
+    ],
+    "synonyms": ["die Klimatisierung"],
+    "antonyms": ["die Heizung"]
+  },
+  {
+    "german": "lüften",
+    "english": "to air / to ventilate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Bitte lüften Sie regelmäßig.",
+      "Morgens lüfte ich immer das Schlafzimmer."
+    ],
+    "synonyms": ["belüften", "Frischluft reinlassen"],
+    "antonyms": []
+  },
+  {
+    "german": "der Stromausfall",
+    "english": "power outage",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Wegen des Sturms gab es einen Stromausfall.",
+      "Der Stromausfall dauerte drei Stunden."
+    ],
+    "synonyms": ["der Blackout"],
+    "antonyms": []
+  },
+  {
+    "german": "der Wasserhahn",
+    "english": "faucet / tap",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Wasserhahn tropft.",
+      "Dreh den Wasserhahn zu!"
+    ],
+    "synonyms": ["der Hahn"],
+    "antonyms": []
+  },
+  {
+    "german": "tropfen",
+    "english": "to drip",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Der Wasserhahn tropft.",
+      "Wasser tropfte von der Decke."
+    ],
+    "synonyms": ["tröpfeln"],
+    "antonyms": []
+  },
+  {
+    "german": "verstopft",
+    "english": "clogged",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Waschbecken ist verstopft.",
+      "Die verstopfte Toilette muss repariert werden."
+    ],
+    "synonyms": ["blockiert"],
+    "antonyms": ["frei", "durchlässig"]
+  },
+  {
+    "german": "reparieren",
+    "english": "to repair",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Der Handwerker repariert die Heizung.",
+      "Kannst du das reparieren?"
+    ],
+    "synonyms": ["instand setzen", "ausbessern"],
+    "antonyms": ["beschädigen", "kaputt machen"]
+  },
+  {
+    "german": "die Reparatur",
+    "english": "repair",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Reparatur war teuer.",
+      "Er kümmert sich um die Reparatur."
+    ],
+    "synonyms": ["die Instandsetzung", "die Ausbesserung"],
+    "antonyms": ["die Beschädigung"]
+  },
+  {
+    "german": "der Handwerker",
+    "english": "craftsman / tradesman",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Handwerker kommt morgen.",
+      "Gute Handwerker sind schwer zu finden."
+    ],
+    "synonyms": ["der Facharbeiter"],
+    "antonyms": []
+  },
+  {
+    "german": "der Hausmeister",
+    "english": "caretaker / janitor",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Hausmeister kümmert sich um das Gebäude.",
+      "Fragen Sie den Hausmeister."
+    ],
+    "synonyms": ["der Hauswart"],
+    "antonyms": []
+  },
+  {
+    "german": "die Hausverwaltung",
+    "english": "property management",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Hausverwaltung ist zuständig.",
+      "Wenden Sie sich an die Hausverwaltung."
+    ],
+    "synonyms": ["die Verwaltung"],
+    "antonyms": []
+  },
+  {
+    "german": "der Nachbar",
+    "english": "neighbor",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Unsere Nachbarn sind sehr nett.",
+      "Der Nachbar beschwerte sich über den Lärm."
+    ],
+    "synonyms": ["der Anwohner"],
+    "antonyms": []
+  },
+  {
+    "german": "die Nachbarschaft",
+    "english": "neighborhood",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Nachbarschaft ist sehr ruhig.",
+      "Wir pflegen eine gute Nachbarschaft."
+    ],
+    "synonyms": ["die Umgebung", "das Viertel"],
+    "antonyms": []
+  },
+  {
+    "german": "der Lärm",
+    "english": "noise",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Lärm ist unerträglich.",
+      "Bitte mach weniger Lärm."
+    ],
+    "synonyms": ["der Krach", "das Getöse"],
+    "antonyms": ["die Ruhe", "die Stille"]
+  },
+  {
+    "german": "laut",
+    "english": "loud / noisy",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Musik ist zu laut.",
+      "Er sprach mit lauter Stimme."
+    ],
+    "synonyms": ["lärmend", "geräuschvoll"],
+    "antonyms": ["leise", "still"]
+  },
+  {
+    "german": "leise",
+    "english": "quiet",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sei bitte leise!",
+      "Er sprach mit leiser Stimme."
+    ],
+    "synonyms": ["ruhig", "still"],
+    "antonyms": ["laut", "lärmend"]
+  },
+  {
+    "german": "sich beschweren",
+    "english": "to complain",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er beschwerte sich über den Lärm.",
+      "Wo kann ich mich beschweren?"
+    ],
+    "synonyms": ["reklamieren", "protestieren"],
+    "antonyms": ["loben", "akzeptieren"]
+  },
+  {
+    "german": "die Beschwerde",
+    "english": "complaint",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Ich möchte eine Beschwerde einreichen.",
+      "Die Beschwerde wurde bearbeitet."
+    ],
+    "synonyms": ["die Reklamation", "der Protest"],
+    "antonyms": ["das Lob"]
+  },
+  {
+    "german": "die Hausordnung",
+    "english": "house rules",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Hausordnung muss eingehalten werden.",
+      "Laut Hausordnung ist Grillen verboten."
+    ],
+    "synonyms": ["die Regelungen"],
+    "antonyms": []
+  },
+  {
+    "german": "das Treppenhaus",
+    "english": "stairwell",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Das Treppenhaus muss sauber gehalten werden.",
+      "Ich traf ihn im Treppenhaus."
+    ],
+    "synonyms": ["der Treppenflur"],
+    "antonyms": []
+  },
+  {
+    "german": "der Aufzug",
+    "english": "elevator",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Aufzug ist außer Betrieb.",
+      "Nehmen wir den Aufzug?"
+    ],
+    "synonyms": ["der Fahrstuhl", "der Lift"],
+    "antonyms": ["die Treppe"]
+  },
+  {
+    "german": "der Keller",
+    "english": "basement / cellar",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Im Keller lagern wir alte Sachen.",
+      "Der Keller ist feucht."
+    ],
+    "synonyms": ["das Untergeschoss"],
+    "antonyms": ["der Dachboden"]
+  },
+  {
+    "german": "der Dachboden",
+    "english": "attic",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Auf dem Dachboden fand ich alte Fotos.",
+      "Der Dachboden wurde ausgebaut."
+    ],
+    "synonyms": ["der Speicher", "das Dachgeschoss"],
+    "antonyms": ["der Keller"]
+  },
+  {
+    "german": "der Balkon",
+    "english": "balcony",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Wir frühstücken auf dem Balkon.",
+      "Die Wohnung hat einen großen Balkon."
+    ],
+    "synonyms": ["die Loggia"],
+    "antonyms": []
+  },
+  {
+    "german": "die Terrasse",
+    "english": "terrace / patio",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Im Sommer essen wir auf der Terrasse.",
+      "Die Terrasse ist nach Süden ausgerichtet."
+    ],
+    "synonyms": ["die Veranda"],
+    "antonyms": []
+  },
+  {
+    "german": "der Garten",
+    "english": "garden",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Wir haben einen schönen Garten.",
+      "Im Garten wachsen Tomaten."
+    ],
+    "synonyms": ["die Grünfläche"],
+    "antonyms": []
+  },
+  {
+    "german": "der Rasen",
+    "english": "lawn",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Rasen muss gemäht werden.",
+      "Betreten des Rasens verboten."
+    ],
+    "synonyms": ["die Grasfläche", "das Gras"],
+    "antonyms": []
+  },
+  {
+    "german": "mähen",
+    "english": "to mow",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er mäht jeden Samstag den Rasen.",
+      "Der Rasen muss dringend gemäht werden."
+    ],
+    "synonyms": ["schneiden"],
+    "antonyms": []
+  },
+  {
+    "german": "gießen",
+    "english": "to water (plants)",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Vergiss nicht, die Blumen zu gießen.",
+      "Im Sommer muss man täglich gießen."
+    ],
+    "synonyms": ["bewässern", "wässern"],
+    "antonyms": []
+  },
+  {
+    "german": "der Haushalt",
+    "english": "household",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Sie führt den Haushalt.",
+      "Die Kosten für den Haushalt sind gestiegen."
+    ],
+    "synonyms": ["die Haushaltsführung"],
+    "antonyms": []
+  },
+  {
+    "german": "haushalten",
+    "english": "to manage / to economize",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir müssen mit dem Geld haushalten.",
+      "Er kann gut mit Ressourcen haushalten."
+    ],
+    "synonyms": ["sparsam sein", "wirtschaften"],
+    "antonyms": ["verschwenden"]
+  },
+  {
+    "german": "aufräumen",
+    "english": "to tidy up",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich muss mein Zimmer aufräumen.",
+      "Nach der Party räumten wir auf."
+    ],
+    "synonyms": ["ordnen", "in Ordnung bringen"],
+    "antonyms": ["unordentlich machen"]
+  },
+  {
+    "german": "sauber machen",
+    "english": "to clean",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich mache jeden Samstag sauber.",
+      "Das Bad muss sauber gemacht werden."
+    ],
+    "synonyms": ["reinigen", "putzen"],
+    "antonyms": ["verschmutzen"]
+  },
+  {
+    "german": "staubsaugen",
+    "english": "to vacuum",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich muss noch staubsaugen.",
+      "Er staubsaugt das Wohnzimmer."
+    ],
+    "synonyms": ["saugen"],
+    "antonyms": []
+  },
+  {
+    "german": "wischen",
+    "english": "to mop / to wipe",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie wischt den Boden.",
+      "Wisch bitte den Tisch ab."
+    ],
+    "synonyms": ["putzen", "reinigen"],
+    "antonyms": []
+  },
+  {
+    "german": "bügeln",
+    "english": "to iron",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er bügelt seine Hemden selbst.",
+      "Ich hasse bügeln."
+    ],
+    "synonyms": ["glätten"],
+    "antonyms": []
+  },
+  {
+    "german": "die Wäsche",
+    "english": "laundry",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Ich muss noch die Wäsche waschen.",
+      "Die Wäsche hängt auf der Leine."
+    ],
+    "synonyms": ["das Waschgut"],
+    "antonyms": []
+  },
+  {
+    "german": "waschen",
+    "english": "to wash",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich wasche heute die Wäsche.",
+      "Das muss man mit der Hand waschen."
+    ],
+    "synonyms": ["reinigen", "säubern"],
+    "antonyms": ["verschmutzen"]
+  },
+  {
+    "german": "trocknen",
+    "english": "to dry",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Wäsche trocknet auf dem Balkon.",
+      "Trockne dir die Haare."
+    ],
+    "synonyms": ["abtrocknen"],
+    "antonyms": ["befeuchten", "nass machen"]
+  },
+  {
+    "german": "der Müll",
+    "english": "garbage / trash",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Bring bitte den Müll raus.",
+      "Der Müll wird montags abgeholt."
+    ],
+    "synonyms": ["der Abfall", "der Unrat"],
+    "antonyms": []
+  },
+  {
+    "german": "die Mülltrennung",
+    "english": "waste separation",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Mülltrennung ist in Deutschland Pflicht.",
+      "Durch Mülltrennung wird Recycling ermöglicht."
+    ],
+    "synonyms": ["die Abfalltrennung"],
+    "antonyms": []
+  },
+  {
+    "german": "entsorgen",
+    "english": "to dispose of",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wie entsorgt man Batterien richtig?",
+      "Der alte Kühlschrank muss entsorgt werden."
+    ],
+    "synonyms": ["wegwerfen", "beseitigen"],
+    "antonyms": ["aufbewahren"]
+  },
+  {
+    "german": "der Vorrat",
+    "english": "supply / stock",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Wir haben genug Vorräte.",
+      "Der Vorrat reicht für eine Woche."
+    ],
+    "synonyms": ["der Bestand", "die Reserve"],
+    "antonyms": ["der Mangel"]
+  },
+  {
+    "german": "bevorraten",
+    "english": "to stock up",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir sollten uns mit Lebensmitteln bevorraten.",
+      "Das Lager ist gut bevorratet."
+    ],
+    "synonyms": ["einlagern", "horten"],
+    "antonyms": ["aufbrauchen"]
+  },
+  {
+    "german": "aufbewahren",
+    "english": "to store / to keep",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wo bewahrst du die Schlüssel auf?",
+      "Lebensmittel sollte man kühl aufbewahren."
+    ],
+    "synonyms": ["lagern", "verwahren"],
+    "antonyms": ["wegwerfen", "entsorgen"]
+  },
+  {
+    "german": "die Aufbewahrung",
+    "english": "storage",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Aufbewahrung im Kühlschrank ist wichtig.",
+      "Für die Aufbewahrung nutze ich Boxen."
+    ],
+    "synonyms": ["die Lagerung", "die Verwahrung"],
+    "antonyms": []
+  },
+  {
+    "german": "sparsam",
+    "english": "economical / thrifty",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie ist sehr sparsam mit Geld.",
+      "Ein sparsamer Umgang mit Energie ist wichtig."
+    ],
+    "synonyms": ["wirtschaftlich", "genügsam"],
+    "antonyms": ["verschwenderisch"]
+  },
+  {
+    "german": "verschwenderisch",
+    "english": "wasteful",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er geht verschwenderisch mit Geld um.",
+      "Das ist verschwenderisch."
+    ],
+    "synonyms": ["großzügig", "übertrieben"],
+    "antonyms": ["sparsam", "wirtschaftlich"]
+  },
+  {
+    "german": "die Kultur",
+    "english": "culture",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die deutsche Kultur ist vielfältig.",
+      "Kultur spielt eine wichtige Rolle."
+    ],
+    "synonyms": ["die Zivilisation", "das Kulturleben"],
+    "antonyms": ["die Barbarei"]
+  },
+  {
+    "german": "kulturell",
+    "english": "cultural",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Es gibt kulturelle Unterschiede.",
+      "Das kulturelle Angebot ist groß."
+    ],
+    "synonyms": ["künstlerisch", "geistig"],
+    "antonyms": []
+  },
+  {
+    "german": "die Kunst",
+    "english": "art",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Moderne Kunst ist oft abstrakt.",
+      "Kunst liegt im Auge des Betrachters."
+    ],
+    "synonyms": ["das Kunstwerk", "die Kreation"],
+    "antonyms": []
+  },
+  {
+    "german": "künstlerisch",
+    "english": "artistic",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er hat künstlerisches Talent.",
+      "Die künstlerische Gestaltung ist beeindruckend."
+    ],
+    "synonyms": ["kreativ", "schöpferisch"],
+    "antonyms": ["unkreativ"]
+  },
+  {
+    "german": "der Künstler",
+    "english": "artist",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Künstler stellte seine Werke aus.",
+      "Sie ist eine bekannte Künstlerin."
+    ],
+    "synonyms": ["der Maler", "der Schöpfer"],
+    "antonyms": []
+  },
+  {
+    "german": "das Kunstwerk",
+    "english": "work of art",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Das Kunstwerk wurde für Millionen verkauft.",
+      "Sie schuf ein beeindruckendes Kunstwerk."
+    ],
+    "synonyms": ["die Kreation", "das Meisterwerk"],
+    "antonyms": []
+  },
+  {
+    "german": "das Meisterwerk",
+    "english": "masterpiece",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Die Mona Lisa ist ein Meisterwerk.",
+      "Er schuf sein Meisterwerk mit 30 Jahren."
+    ],
+    "synonyms": ["das Kunstwerk", "das Hauptwerk"],
+    "antonyms": []
+  },
+  {
+    "german": "das Gemälde",
+    "english": "painting",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Das Gemälde hängt im Museum.",
+      "Er kaufte ein wertvolles Gemälde."
+    ],
+    "synonyms": ["das Bild", "das Ölgemälde"],
+    "antonyms": []
+  },
+  {
+    "german": "malen",
+    "english": "to paint",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie malt gerne Landschaften.",
+      "Das Bild wurde im 18. Jahrhundert gemalt."
+    ],
+    "synonyms": ["zeichnen", "pinseln"],
+    "antonyms": []
+  },
+  {
+    "german": "zeichnen",
+    "english": "to draw",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er zeichnet sehr gut.",
+      "Sie zeichnete ein Porträt."
+    ],
+    "synonyms": ["skizzieren", "malen"],
+    "antonyms": []
+  },
+  {
+    "german": "die Skulptur",
+    "english": "sculpture",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Skulptur ist aus Marmor.",
+      "Im Park stehen viele Skulpturen."
+    ],
+    "synonyms": ["die Plastik", "das Standbild"],
+    "antonyms": []
+  },
+  {
+    "german": "die Ausstellung",
+    "english": "exhibition",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Ausstellung war sehr interessant.",
+      "Er besucht regelmäßig Ausstellungen."
+    ],
+    "synonyms": ["die Schau", "die Präsentation"],
+    "antonyms": []
+  },
+  {
+    "german": "ausstellen",
+    "english": "to exhibit",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Seine Werke werden im Museum ausgestellt.",
+      "Sie stellte zum ersten Mal aus."
+    ],
+    "synonyms": ["zeigen", "präsentieren"],
+    "antonyms": ["verstecken"]
+  },
+  {
+    "german": "das Museum",
+    "english": "museum",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Das Museum ist montags geschlossen.",
+      "Berlin hat viele interessante Museen."
+    ],
+    "synonyms": ["die Galerie", "die Sammlung"],
+    "antonyms": []
+  },
+  {
+    "german": "die Galerie",
+    "english": "gallery",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "In der Galerie werden moderne Kunstwerke gezeigt.",
+      "Sie eröffnete eine eigene Galerie."
+    ],
+    "synonyms": ["der Ausstellungsraum", "das Museum"],
+    "antonyms": []
+  },
+  {
+    "german": "die Literatur",
+    "english": "literature",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Er studiert deutsche Literatur.",
+      "Die klassische Literatur interessiert mich."
+    ],
+    "synonyms": ["die Dichtung", "das Schrifttum"],
+    "antonyms": []
+  },
+  {
+    "german": "literarisch",
+    "english": "literary",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das ist ein literarisches Meisterwerk.",
+      "Er hat literarische Ambitionen."
+    ],
+    "synonyms": ["schriftstellerisch", "dichterisch"],
+    "antonyms": []
+  },
+  {
+    "german": "der Roman",
+    "english": "novel",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Sie schrieb einen erfolgreichen Roman.",
+      "Der Roman wurde verfilmt."
+    ],
+    "synonyms": ["das Buch", "die Erzählung"],
+    "antonyms": []
+  },
+  {
+    "german": "das Gedicht",
+    "english": "poem",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Er schrieb ein Gedicht für sie.",
+      "Das Gedicht ist von Goethe."
+    ],
+    "synonyms": ["die Lyrik", "der Vers"],
+    "antonyms": []
+  },
+  {
+    "german": "dichten",
+    "english": "to write poetry",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er dichtet in seiner Freizeit.",
+      "Schiller dichtete viele berühmte Werke."
+    ],
+    "synonyms": ["verfassen", "schreiben"],
+    "antonyms": []
+  },
+  {
+    "german": "der Dichter",
+    "english": "poet",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Goethe war ein berühmter Dichter.",
+      "Sie ist eine moderne Dichterin."
+    ],
+    "synonyms": ["der Poet", "der Lyriker"],
+    "antonyms": []
+  },
+  {
+    "german": "der Autor",
+    "english": "author",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Autor signierte sein Buch.",
+      "Sie ist eine erfolgreiche Autorin."
+    ],
+    "synonyms": ["der Schriftsteller", "der Verfasser"],
+    "antonyms": ["der Leser"]
+  },
+  {
+    "german": "der Schriftsteller",
+    "english": "writer",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Er arbeitet als Schriftsteller.",
+      "Die Schriftstellerin gewann einen Preis."
+    ],
+    "synonyms": ["der Autor", "der Verfasser"],
+    "antonyms": []
+  },
+  {
+    "german": "das Theater",
+    "english": "theater",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Wir gehen heute Abend ins Theater.",
+      "Das Theater zeigt ein neues Stück."
+    ],
+    "synonyms": ["die Bühne", "das Schauspielhaus"],
+    "antonyms": []
+  },
+  {
+    "german": "das Theaterstück",
+    "english": "play",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Das Theaterstück wurde gefeiert.",
+      "Shakespeare schrieb viele Theaterstücke."
+    ],
+    "synonyms": ["das Drama", "die Aufführung"],
+    "antonyms": []
+  },
+  {
+    "german": "die Aufführung",
+    "english": "performance",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Aufführung beginnt um 20 Uhr.",
+      "Es war eine großartige Aufführung."
+    ],
+    "synonyms": ["die Vorstellung", "die Darbietung"],
+    "antonyms": []
+  },
+  {
+    "german": "aufführen",
+    "english": "to perform",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Stück wird morgen aufgeführt.",
+      "Das Orchester führt Beethoven auf."
+    ],
+    "synonyms": ["darbieten", "präsentieren"],
+    "antonyms": []
+  },
+  {
+    "german": "der Schauspieler",
+    "english": "actor",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Schauspieler spielte hervorragend.",
+      "Sie ist eine bekannte Schauspielerin."
+    ],
+    "synonyms": ["der Darsteller", "der Mime"],
+    "antonyms": ["der Zuschauer"]
+  },
+  {
+    "german": "die Rolle",
+    "english": "role",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Er spielte die Hauptrolle.",
+      "Die Rolle war schwierig."
+    ],
+    "synonyms": ["der Part", "die Figur"],
+    "antonyms": []
+  },
+  {
+    "german": "die Bühne",
+    "english": "stage",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Schauspieler betraten die Bühne.",
+      "Auf der Bühne standen nur wenige Requisiten."
+    ],
+    "synonyms": ["das Podium", "die Plattform"],
+    "antonyms": ["der Zuschauerraum"]
+  },
+  {
+    "german": "das Publikum",
+    "english": "audience",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Das Publikum applaudierte begeistert.",
+      "Das Publikum war kritisch."
+    ],
+    "synonyms": ["die Zuschauer", "das Auditorium"],
+    "antonyms": ["die Darsteller"]
+  },
+  {
+    "german": "applaudieren",
+    "english": "to applaud",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Publikum applaudierte minutenlang.",
+      "Sie appludierten stehend."
+    ],
+    "synonyms": ["klatschen", "Beifall spenden"],
+    "antonyms": ["buhen", "pfeifen"]
+  },
+  {
+    "german": "der Applaus",
+    "english": "applause",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Applaus war überwältigend.",
+      "Es gab tosenden Applaus."
+    ],
+    "synonyms": ["der Beifall", "das Klatschen"],
+    "antonyms": ["das Buhen"]
+  },
+  {
+    "german": "die Oper",
+    "english": "opera",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Wir gehen in die Oper.",
+      "Die Oper von Mozart ist berühmt."
+    ],
+    "synonyms": ["das Musiktheater"],
+    "antonyms": []
+  },
+  {
+    "german": "das Ballett",
+    "english": "ballet",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Sie tanzt im Ballett.",
+      "Wir sahen ein wunderschönes Ballett."
+    ],
+    "synonyms": ["der Tanz"],
+    "antonyms": []
+  },
+  {
+    "german": "das Orchester",
+    "english": "orchestra",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Das Orchester spielte Beethoven.",
+      "Er ist Violinist im Orchester."
+    ],
+    "synonyms": ["das Ensemble", "die Kapelle"],
+    "antonyms": []
+  },
+  {
+    "german": "der Dirigent",
+    "english": "conductor",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Dirigent hob den Taktstock.",
+      "Sie ist eine berühmte Dirigentin."
+    ],
+    "synonyms": ["der Kapellmeister"],
+    "antonyms": []
+  },
+  {
+    "german": "dirigieren",
+    "english": "to conduct",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er dirigiert das Orchester.",
+      "Das Konzert wird von einem Gastdirigenten dirigiert."
+    ],
+    "synonyms": ["leiten", "führen"],
+    "antonyms": []
+  },
+  {
+    "german": "das Konzert",
+    "english": "concert",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Das Konzert war ausverkauft.",
+      "Wir gehen morgen ins Konzert."
+    ],
+    "synonyms": ["die Aufführung", "die Vorstellung"],
+    "antonyms": []
+  },
+  {
+    "german": "die Komposition",
+    "english": "composition",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Komposition ist von Bach.",
+      "Er studiert Komposition."
+    ],
+    "synonyms": ["das Werk", "das Stück"],
+    "antonyms": []
+  },
+  {
+    "german": "komponieren",
+    "english": "to compose",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Mozart komponierte über 600 Werke.",
+      "Sie komponiert moderne Musik."
+    ],
+    "synonyms": ["schreiben", "verfassen"],
+    "antonyms": []
+  },
+  {
+    "german": "der Komponist",
+    "english": "composer",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Beethoven war ein großer Komponist.",
+      "Sie ist eine zeitgenössische Komponistin."
+    ],
+    "synonyms": ["der Tonsetzer"],
+    "antonyms": []
+  },
+  {
+    "german": "die Melodie",
+    "english": "melody",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Melodie ist eingängig.",
+      "Ich kann mir die Melodie nicht merken."
+    ],
+    "synonyms": ["die Weise", "der Ton"],
+    "antonyms": []
+  },
+  {
+    "german": "der Rhythmus",
+    "english": "rhythm",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Rhythmus ist mitreißend.",
+      "Er hat ein gutes Gefühl für Rhythmus."
+    ],
+    "synonyms": ["der Takt", "das Tempo"],
+    "antonyms": []
+  },
+  {
+    "german": "der Ton",
+    "english": "tone / sound",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Ton macht die Musik.",
+      "Die Töne waren klar und rein."
+    ],
+    "synonyms": ["der Klang", "der Laut"],
+    "antonyms": ["die Stille"]
+  },
+  {
+    "german": "der Klang",
+    "english": "sound",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Klang der Violine war wunderschön.",
+      "Mir gefällt der Klang dieser Sprache."
+    ],
+    "synonyms": ["der Ton", "das Geräusch"],
+    "antonyms": ["die Stille"]
+  },
+  {
+    "german": "klingen",
+    "english": "to sound",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das klingt interessant.",
+      "Die Musik klingt schön."
+    ],
+    "synonyms": ["tönen", "lauten"],
+    "antonyms": []
+  },
+  {
+    "german": "das Instrument",
+    "english": "instrument",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Welches Instrument spielst du?",
+      "Er beherrscht mehrere Instrumente."
+    ],
+    "synonyms": ["das Musikinstrument"],
+    "antonyms": []
+  },
+  {
+    "german": "der Film",
+    "english": "film / movie",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Film war spannend.",
+      "Sie dreht gerade einen neuen Film."
+    ],
+    "synonyms": ["der Streifen", "das Kino"],
+    "antonyms": []
+  },
+  {
+    "german": "drehen",
+    "english": "to film / to shoot",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Der Film wurde in Berlin gedreht.",
+      "Sie drehen eine neue Serie."
+    ],
+    "synonyms": ["filmen", "aufnehmen"],
+    "antonyms": []
+  },
+  {
+    "german": "der Regisseur",
+    "english": "director",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Regisseur gewann einen Oscar.",
+      "Sie ist eine bekannte Regisseurin."
+    ],
+    "synonyms": ["der Filmemacher"],
+    "antonyms": []
+  },
+  {
+    "german": "die Regie",
+    "english": "direction",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Regie führte Steven Spielberg.",
+      "Unter seiner Regie wurde der Film ein Erfolg."
+    ],
+    "synonyms": ["die Filmregie"],
+    "antonyms": []
+  },
+  {
+    "german": "die Szene",
+    "english": "scene",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Szene war sehr emotional.",
+      "Diese Szene ist berühmt."
+    ],
+    "synonyms": ["die Sequenz", "der Abschnitt"],
+    "antonyms": []
+  },
+  {
+    "german": "die Handlung",
+    "english": "plot / action",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Handlung des Films ist komplex.",
+      "Die Handlung spielt im 19. Jahrhundert."
+    ],
+    "synonyms": ["die Geschichte", "der Plot"],
+    "antonyms": []
+  },
+  {
+    "german": "fiktiv",
+    "english": "fictional",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Geschichte ist fiktiv.",
+      "Es handelt sich um fiktive Charaktere."
+    ],
+    "synonyms": ["erfunden", "ausgedacht"],
+    "antonyms": ["real", "wahr"]
+  },
+  {
+    "german": "die Fiktion",
+    "english": "fiction",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Grenze zwischen Fiktion und Realität verschwimmt.",
+      "Science-Fiction ist ein beliebtes Genre."
+    ],
+    "synonyms": ["die Erfindung", "die Dichtung"],
+    "antonyms": ["die Realität", "die Wahrheit"]
+  },
+  {
+    "german": "die Fantasie",
+    "english": "imagination / fantasy",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Er hat eine lebhafte Fantasie.",
+      "Das Buch regt die Fantasie an."
+    ],
+    "synonyms": ["die Einbildungskraft", "die Vorstellungskraft"],
+    "antonyms": ["die Realität"]
+  },
+  {
+    "german": "kreativ",
+    "english": "creative",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie ist ein kreativer Mensch.",
+      "Kreative Lösungen sind gefragt."
+    ],
+    "synonyms": ["schöpferisch", "einfallsreich"],
+    "antonyms": ["unkreativ", "einfallslos"]
+  },
+  {
+    "german": "die Kreativität",
+    "english": "creativity",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Seine Kreativität kennt keine Grenzen.",
+      "Kreativität ist wichtig im Beruf."
+    ],
+    "synonyms": ["die Schöpferkraft", "der Einfallsreichtum"],
+    "antonyms": ["die Einfallslosigkeit"]
+  },
+  {
+    "german": "inspirieren",
+    "english": "to inspire",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Natur inspiriert sie.",
+      "Der Film hat mich inspiriert."
+    ],
+    "synonyms": ["anregen", "beflügeln"],
+    "antonyms": ["entmutigen"]
+  },
+  {
+    "german": "die Inspiration",
+    "english": "inspiration",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Woher nimmst du deine Inspiration?",
+      "Das Buch war eine große Inspiration."
+    ],
+    "synonyms": ["die Eingebung", "die Idee"],
+    "antonyms": []
+  },
+  {
+    "german": "interpretieren",
+    "english": "to interpret",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Kunstwerk kann unterschiedlich interpretiert werden.",
+      "Wie interpretierst du das?"
+    ],
+    "synonyms": ["deuten", "auslegen"],
+    "antonyms": []
+  },
+  {
+    "german": "die Interpretation",
+    "english": "interpretation",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Seine Interpretation war überzeugend.",
+      "Es gibt verschiedene Interpretationen."
+    ],
+    "synonyms": ["die Deutung", "die Auslegung"],
+    "antonyms": []
+  },
+  {
+    "german": "das Genre",
+    "english": "genre",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Welches Genre bevorzugst du?",
+      "Horror ist ein beliebtes Genre."
+    ],
+    "synonyms": ["die Gattung", "die Kategorie"],
+    "antonyms": []
+  },
+  {
+    "german": "klassisch",
+    "english": "classical / classic",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er hört gerne klassische Musik.",
+      "Das ist ein klassischer Fehler."
+    ],
+    "synonyms": ["traditionell", "zeitlos"],
+    "antonyms": ["modern", "zeitgenössisch"]
+  },
+  {
+    "german": "zeitgenössisch",
+    "english": "contemporary",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Zeitgenössische Kunst ist oft abstrakt.",
+      "Er ist ein zeitgenössischer Autor."
+    ],
+    "synonyms": ["modern", "gegenwärtig"],
+    "antonyms": ["klassisch", "historisch"]
+  },
+  {
+    "german": "abstrakt",
+    "english": "abstract",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Gemälde ist sehr abstrakt.",
+      "Das ist ein abstrakter Begriff."
+    ],
+    "synonyms": ["ungegenständlich", "theoretisch"],
+    "antonyms": ["konkret", "gegenständlich"]
+  },
+  {
+    "german": "ästhetisch",
+    "english": "aesthetic",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Design ist ästhetisch ansprechend.",
+      "Er hat einen ästhetischen Geschmack."
+    ],
+    "synonyms": ["schön", "geschmackvoll"],
+    "antonyms": ["hässlich", "unästhetisch"]
+  },
+  {
+    "german": "die Ästhetik",
+    "english": "aesthetics",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Ästhetik des Films ist beeindruckend.",
+      "Er studiert Ästhetik."
+    ],
+    "synonyms": ["die Schönheit", "die Stilistik"],
+    "antonyms": []
+  },
+  {
+    "german": "die Eigenschaft",
+    "english": "characteristic / quality",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Ehrlichkeit ist eine gute Eigenschaft.",
+      "Welche Eigenschaften schätzen Sie?"
+    ],
+    "synonyms": ["das Merkmal", "die Qualität"],
+    "antonyms": []
+  },
+  {
+    "german": "der Charakter",
+    "english": "character",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Er hat einen starken Charakter.",
+      "Der Charakter der Figur ist komplex."
+    ],
+    "synonyms": ["die Persönlichkeit", "das Wesen"],
+    "antonyms": []
+  },
+  {
+    "german": "die Persönlichkeit",
+    "english": "personality",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Sie hat eine starke Persönlichkeit.",
+      "Er ist eine interessante Persönlichkeit."
+    ],
+    "synonyms": ["der Charakter", "das Wesen"],
+    "antonyms": []
+  },
+  {
+    "german": "das Temperament",
+    "english": "temperament",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Sie hat ein feuriges Temperament.",
+      "Sein Temperament ist ruhig."
+    ],
+    "synonyms": ["die Wesensart", "das Naturell"],
+    "antonyms": []
+  },
+  {
+    "german": "temperamentvoll",
+    "english": "temperamental / spirited",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie ist eine temperamentvolle Frau.",
+      "Die Musik war temperamentvoll."
+    ],
+    "synonyms": ["lebhaft", "leidenschaftlich"],
+    "antonyms": ["ruhig", "gelassen"]
+  },
+  {
+    "german": "sensibel",
+    "english": "sensitive",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er ist ein sensibler Mensch.",
+      "Das ist ein sensibles Thema."
+    ],
+    "synonyms": ["empfindsam", "feinfühlig"],
+    "antonyms": ["unsensibel", "gefühllos"]
+  },
+  {
+    "german": "die Sensibilität",
+    "english": "sensitivity",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Seine Sensibilität ist bewundernswert.",
+      "Die Sensibilität für das Thema wächst."
+    ],
+    "synonyms": ["die Empfindsamkeit", "das Feingefühl"],
+    "antonyms": ["die Gefühllosigkeit"]
+  },
+  {
+    "german": "empfindlich",
+    "english": "sensitive / touchy",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie ist sehr empfindlich.",
+      "Das Gerät ist empfindlich."
+    ],
+    "synonyms": ["sensibel", "reizbar"],
+    "antonyms": ["robust", "unempfindlich"]
+  },
+  {
+    "german": "verletzlich",
+    "english": "vulnerable",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er zeigte seine verletzliche Seite.",
+      "Kinder sind besonders verletzlich."
+    ],
+    "synonyms": ["verwundbar", "empfindlich"],
+    "antonyms": ["stark", "unverwundbar"]
+  },
+  {
+    "german": "die Verletzlichkeit",
+    "english": "vulnerability",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Seine Verletzlichkeit machte ihn menschlich.",
+      "Die Verletzlichkeit zuzugeben erfordert Mut."
+    ],
+    "synonyms": ["die Verwundbarkeit"],
+    "antonyms": ["die Stärke"]
+  },
+  {
+    "german": "selbstständig",
+    "english": "independent",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie ist sehr selbstständig.",
+      "Kinder werden immer selbstständiger."
+    ],
+    "synonyms": ["unabhängig", "eigenständig"],
+    "antonyms": ["abhängig", "unselbstständig"]
+  },
+  {
+    "german": "die Selbstständigkeit",
+    "english": "independence",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Selbstständigkeit der Kinder fördern.",
+      "Er wagte den Schritt in die Selbstständigkeit."
+    ],
+    "synonyms": ["die Unabhängigkeit", "die Eigenständigkeit"],
+    "antonyms": ["die Abhängigkeit"]
+  },
+  {
+    "german": "verantwortungsbewusst",
+    "english": "responsible",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er ist ein verantwortungsbewusster Mitarbeiter.",
+      "Verantwortungsbewusstes Handeln ist wichtig."
+    ],
+    "synonyms": ["pflichtbewusst", "zuverlässig"],
+    "antonyms": ["verantwortungslos"]
+  },
+  {
+    "german": "verantwortungslos",
+    "english": "irresponsible",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das war verantwortungslos.",
+      "Sein verantwortungsloses Verhalten hatte Folgen."
+    ],
+    "synonyms": ["unverantwortlich", "leichtsinnig"],
+    "antonyms": ["verantwortungsbewusst"]
+  },
+  {
+    "german": "zuverlässig",
+    "english": "reliable",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er ist absolut zuverlässig.",
+      "Das Auto ist sehr zuverlässig."
+    ],
+    "synonyms": ["verlässlich", "vertrauenswürdig"],
+    "antonyms": ["unzuverlässig"]
+  },
+  {
+    "german": "unzuverlässig",
+    "english": "unreliable",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er ist leider sehr unzuverlässig.",
+      "Die Verbindung ist unzuverlässig."
+    ],
+    "synonyms": ["unverlässlich", "wankelmütig"],
+    "antonyms": ["zuverlässig"]
+  },
+  {
+    "german": "ehrlich",
+    "english": "honest",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sei ehrlich zu mir!",
+      "Er ist ein ehrlicher Mensch."
+    ],
+    "synonyms": ["aufrichtig", "wahrhaftig"],
+    "antonyms": ["unehrlich", "verlogen"]
+  },
+  {
+    "german": "unehrlich",
+    "english": "dishonest",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das war unehrlich von dir.",
+      "Unehrliche Menschen haben es schwer."
+    ],
+    "synonyms": ["verlogen", "falsch"],
+    "antonyms": ["ehrlich", "aufrichtig"]
+  },
+  {
+    "german": "aufrichtig",
+    "english": "sincere",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Mein aufrichtiges Beileid.",
+      "Er entschuldigte sich aufrichtig."
+    ],
+    "synonyms": ["ehrlich", "wahrhaftig"],
+    "antonyms": ["unaufrichtig", "heuchlerisch"]
+  },
+  {
+    "german": "großzügig",
+    "english": "generous",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie ist sehr großzügig.",
+      "Das war ein großzügiges Geschenk."
+    ],
+    "synonyms": ["freigebig", "generös"],
+    "antonyms": ["geizig", "knauserig"]
+  },
+  {
+    "german": "die Großzügigkeit",
+    "english": "generosity",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Seine Großzügigkeit war bemerkenswert.",
+      "Danke für Ihre Großzügigkeit."
+    ],
+    "synonyms": ["die Freigebigkeit", "die Generosität"],
+    "antonyms": ["der Geiz"]
+  },
+  {
+    "german": "geizig",
+    "english": "stingy / greedy",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er ist ziemlich geizig.",
+      "Sei nicht so geizig!"
+    ],
+    "synonyms": ["knauserig", "sparsam"],
+    "antonyms": ["großzügig", "freigebig"]
+  },
+  {
+    "german": "der Geiz",
+    "english": "stinginess / greed",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Geiz ist keine Tugend.",
+      "Sein Geiz ist bekannt."
+    ],
+    "synonyms": ["die Knauserigkeit"],
+    "antonyms": ["die Großzügigkeit"]
+  },
+  {
+    "german": "bescheiden",
+    "english": "modest",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er blieb immer bescheiden.",
+      "Sie lebt in bescheidenen Verhältnissen."
+    ],
+    "synonyms": ["zurückhaltend", "demütig"],
+    "antonyms": ["arrogant", "überheblich"]
+  },
+  {
+    "german": "die Bescheidenheit",
+    "english": "modesty",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Bescheidenheit ist eine Tugend.",
+      "Trotz seines Erfolgs zeigte er Bescheidenheit."
+    ],
+    "synonyms": ["die Demut", "die Zurückhaltung"],
+    "antonyms": ["die Arroganz"]
+  },
+  {
+    "german": "arrogant",
+    "english": "arrogant",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er wirkt manchmal arrogant.",
+      "Sein arrogantes Verhalten störte viele."
+    ],
+    "synonyms": ["überheblich", "hochnäsig"],
+    "antonyms": ["bescheiden", "demütig"]
+  },
+  {
+    "german": "die Arroganz",
+    "english": "arrogance",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Seine Arroganz war unerträglich.",
+      "Arroganz kommt nicht gut an."
+    ],
+    "synonyms": ["die Überheblichkeit", "der Hochmut"],
+    "antonyms": ["die Bescheidenheit"]
+  },
+  {
+    "german": "egoistisch",
+    "english": "selfish",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das war egoistisch von dir.",
+      "Er denkt nur egoistisch."
+    ],
+    "synonyms": ["selbstsüchtig", "eigennützig"],
+    "antonyms": ["selbstlos", "altruistisch"]
+  },
+  {
+    "german": "selbstlos",
+    "english": "selfless",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ihre selbstlose Hilfe war beeindruckend.",
+      "Er handelte völlig selbstlos."
+    ],
+    "synonyms": ["uneigennützig", "altruistisch"],
+    "antonyms": ["egoistisch", "selbstsüchtig"]
+  },
+  {
+    "german": "stur",
+    "english": "stubborn",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er ist manchmal sehr stur.",
+      "Sei nicht so stur!"
+    ],
+    "synonyms": ["starrköpfig", "hartnäckig"],
+    "antonyms": ["nachgiebig", "flexibel"]
+  },
+  {
+    "german": "die Sturheit",
+    "english": "stubbornness",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Seine Sturheit ist bekannt.",
+      "Die Sturheit half ihm manchmal."
+    ],
+    "synonyms": ["die Hartnäckigkeit", "der Starrsinn"],
+    "antonyms": ["die Nachgiebigkeit"]
+  },
+  {
+    "german": "hartnäckig",
+    "english": "persistent / stubborn",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie ist sehr hartnäckig.",
+      "Hartnäckige Arbeit zahlt sich aus."
+    ],
+    "synonyms": ["beharrlich", "ausdauernd"],
+    "antonyms": ["nachgiebig", "aufgebend"]
+  },
+  {
+    "german": "die Hartnäckigkeit",
+    "english": "persistence",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Seine Hartnäckigkeit führte zum Erfolg.",
+      "Hartnäckigkeit ist manchmal wichtig."
+    ],
+    "synonyms": ["die Beharrlichkeit", "die Ausdauer"],
+    "antonyms": ["die Nachgiebigkeit"]
+  },
+  {
+    "german": "flexibel",
+    "english": "flexible",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er ist zeitlich flexibel.",
+      "Man muss flexibel sein."
+    ],
+    "synonyms": ["anpassungsfähig", "beweglich"],
+    "antonyms": ["starr", "unflexibel"]
+  },
+  {
+    "german": "die Flexibilität",
+    "english": "flexibility",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Flexibilität ist im Job wichtig.",
+      "Die Flexibilität der Arbeitszeiten ist ein Vorteil."
+    ],
+    "synonyms": ["die Anpassungsfähigkeit"],
+    "antonyms": ["die Starrheit"]
+  },
+  {
+    "german": "offen",
+    "english": "open",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie ist ein offener Mensch.",
+      "Er war offen für neue Ideen."
+    ],
+    "synonyms": ["aufgeschlossen", "zugänglich"],
+    "antonyms": ["verschlossen", "reserviert"]
+  },
+  {
+    "german": "die Offenheit",
+    "english": "openness",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Seine Offenheit war erfrischend.",
+      "Die Offenheit fördert den Dialog."
+    ],
+    "synonyms": ["die Aufgeschlossenheit"],
+    "antonyms": ["die Verschlossenheit"]
+  },
+  {
+    "german": "verschlossen",
+    "english": "reserved / closed off",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er ist eher verschlossen.",
+      "Sie wirkt verschlossen."
+    ],
+    "synonyms": ["zurückhaltend", "introvertiert"],
+    "antonyms": ["offen", "aufgeschlossen"]
+  },
+  {
+    "german": "schüchtern",
+    "english": "shy",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Als Kind war sie sehr schüchtern.",
+      "Er lächelte schüchtern."
+    ],
+    "synonyms": ["zurückhaltend", "befangen"],
+    "antonyms": ["selbstbewusst", "extrovertiert"]
+  },
+  {
+    "german": "die Schüchternheit",
+    "english": "shyness",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Seine Schüchternheit überwand er mit der Zeit.",
+      "Schüchternheit kann hinderlich sein."
+    ],
+    "synonyms": ["die Zurückhaltung", "die Befangenheit"],
+    "antonyms": ["das Selbstbewusstsein"]
+  },
+  {
+    "german": "gesellig",
+    "english": "sociable",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie ist ein geselliger Mensch.",
+      "Er verbringt gerne gesellige Abende."
+    ],
+    "synonyms": ["kontaktfreudig", "umgänglich"],
+    "antonyms": ["ungesellig", "zurückgezogen"]
+  },
+  {
+    "german": "kontaktfreudig",
+    "english": "outgoing",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er ist sehr kontaktfreudig.",
+      "Kontaktfreudige Menschen haben es leichter."
+    ],
+    "synonyms": ["gesellig", "aufgeschlossen"],
+    "antonyms": ["schüchtern", "zurückgezogen"]
+  },
+  {
+    "german": "einfühlsam",
+    "english": "empathetic",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie ist sehr einfühlsam.",
+      "Ein einfühlsamer Umgang ist wichtig."
+    ],
+    "synonyms": ["empathisch", "mitfühlend"],
+    "antonyms": ["gefühllos", "kalt"]
+  },
+  {
+    "german": "die Empathie",
+    "english": "empathy",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Empathie ist eine wichtige Eigenschaft.",
+      "Er zeigt wenig Empathie."
+    ],
+    "synonyms": ["das Einfühlungsvermögen", "das Mitgefühl"],
+    "antonyms": ["die Gefühllosigkeit"]
+  },
+  {
+    "german": "taktvoll",
+    "english": "tactful",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie reagierte taktvoll.",
+      "Ein taktvolles Verhalten ist angebracht."
+    ],
+    "synonyms": ["diplomatisch", "feinfühlig"],
+    "antonyms": ["taktlos"]
+  },
+  {
+    "german": "taktlos",
+    "english": "tactless",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das war eine taktlose Bemerkung.",
+      "Er ist manchmal taktlos."
+    ],
+    "synonyms": ["unsensibel", "rücksichtslos"],
+    "antonyms": ["taktvoll", "diplomatisch"]
+  },
+  {
+    "german": "optimistisch",
+    "english": "optimistic",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie ist immer optimistisch.",
+      "Er blickt optimistisch in die Zukunft."
+    ],
+    "synonyms": ["positiv", "hoffnungsvoll"],
+    "antonyms": ["pessimistisch"]
+  },
+  {
+    "german": "der Optimismus",
+    "english": "optimism",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Sein Optimismus ist ansteckend.",
+      "Optimismus hilft in schweren Zeiten."
+    ],
+    "synonyms": ["die Zuversicht", "die Hoffnung"],
+    "antonyms": ["der Pessimismus"]
+  },
+  {
+    "german": "pessimistisch",
+    "english": "pessimistic",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er ist ziemlich pessimistisch.",
+      "Eine pessimistische Einstellung hilft nicht."
+    ],
+    "synonyms": ["negativ", "schwarzseherisch"],
+    "antonyms": ["optimistisch"]
+  },
+  {
+    "german": "der Pessimismus",
+    "english": "pessimism",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Pessimismus bringt nichts.",
+      "Sein Pessimismus war unbegründet."
+    ],
+    "synonyms": ["die Schwarzseherei"],
+    "antonyms": ["der Optimismus"]
+  },
+  {
+    "german": "ehrgeizig",
+    "english": "ambitious",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie ist sehr ehrgeizig.",
+      "Ehrgeizige Ziele zu haben ist gut."
+    ],
+    "synonyms": ["ambitioniert", "strebsam"],
+    "antonyms": ["unmotiviert", "antriebslos"]
+  },
+  {
+    "german": "der Ehrgeiz",
+    "english": "ambition",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Sein Ehrgeiz trieb ihn an.",
+      "Ehrgeiz kann positiv und negativ sein."
+    ],
+    "synonyms": ["die Ambition", "der Tatendrang"],
+    "antonyms": ["die Antriebslosigkeit"]
+  },
+  {
+    "german": "faul",
+    "english": "lazy",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er ist heute faul.",
+      "Sei nicht so faul!"
+    ],
+    "synonyms": ["träge", "bequem"],
+    "antonyms": ["fleißig", "arbeitsam"]
+  },
+  {
+    "german": "die Faulheit",
+    "english": "laziness",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Faulheit führt zu nichts.",
+      "Seine Faulheit ist bekannt."
+    ],
+    "synonyms": ["die Trägheit", "die Bequemlichkeit"],
+    "antonyms": ["der Fleiß"]
+  },
+  {
+    "german": "fleißig",
+    "english": "diligent / hardworking",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie ist eine fleißige Schülerin.",
+      "Er arbeitet sehr fleißig."
+    ],
+    "synonyms": ["arbeitsam", "emsig"],
+    "antonyms": ["faul", "träge"]
+  },
+  {
+    "german": "der Fleiß",
+    "english": "diligence",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Ohne Fleiß kein Preis.",
+      "Ihr Fleiß wurde belohnt."
+    ],
+    "synonyms": ["die Arbeitsamkeit", "die Emsigkeit"],
+    "antonyms": ["die Faulheit"]
+  },
+  {
+    "german": "ordentlich",
+    "english": "tidy / neat",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sein Zimmer ist immer ordentlich.",
+      "Sie arbeitet sehr ordentlich."
+    ],
+    "synonyms": ["aufgeräumt", "sorgfältig"],
+    "antonyms": ["unordentlich", "chaotisch"]
+  },
+  {
+    "german": "chaotisch",
+    "english": "chaotic",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Situation war chaotisch.",
+      "Er ist ein chaotischer Mensch."
+    ],
+    "synonyms": ["unordentlich", "durcheinander"],
+    "antonyms": ["ordentlich", "strukturiert"]
+  },
+  {
+    "german": "perfektionistisch",
+    "english": "perfectionist",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie ist sehr perfektionistisch.",
+      "Perfektionistisches Verhalten kann stressen."
+    ],
+    "synonyms": ["pingelig", "genau"],
+    "antonyms": ["nachlässig"]
+  },
+  {
+    "german": "der Perfektionismus",
+    "english": "perfectionism",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Sein Perfektionismus kann anstrengend sein.",
+      "Perfektionismus hat Vor- und Nachteile."
+    ],
+    "synonyms": ["die Genauigkeit"],
+    "antonyms": ["die Nachlässigkeit"]
+  },
+  {
+    "german": "geduldig",
+    "english": "patient",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie ist sehr geduldig mit Kindern.",
+      "Sei geduldig, das braucht Zeit."
+    ],
+    "synonyms": ["langmütig", "ausdauernd"],
+    "antonyms": ["ungeduldig"]
+  },
+  {
+    "german": "ungeduldig",
+    "english": "impatient",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er wird schnell ungeduldig.",
+      "Sei nicht so ungeduldig!"
+    ],
+    "synonyms": ["rastlos", "hektisch"],
+    "antonyms": ["geduldig"]
+  },
+  {
+    "german": "die Ungeduld",
+    "english": "impatience",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Seine Ungeduld war spürbar.",
+      "Ungeduld führt oft zu Fehlern."
+    ],
+    "synonyms": ["die Rastlosigkeit"],
+    "antonyms": ["die Geduld"]
+  },
+  {
+    "german": "mutig",
+    "english": "brave / courageous",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das war sehr mutig von dir.",
+      "Sie ist eine mutige Frau."
+    ],
+    "synonyms": ["tapfer", "couragiert"],
+    "antonyms": ["feige", "ängstlich"]
+  },
+  {
+    "german": "der Mut",
+    "english": "courage",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Dafür brauchte sie viel Mut.",
+      "Er fasste Mut und sprach sie an."
+    ],
+    "synonyms": ["die Tapferkeit", "die Courage"],
+    "antonyms": ["die Feigheit", "die Angst"]
+  },
+  {
+    "german": "feige",
+    "english": "cowardly",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das war feige von ihm.",
+      "Er ist zu feige, die Wahrheit zu sagen."
+    ],
+    "synonyms": ["ängstlich", "mutlos"],
+    "antonyms": ["mutig", "tapfer"]
+  },
+  {
+    "german": "die Feigheit",
+    "english": "cowardice",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Seine Feigheit enttäuschte alle.",
+      "Feigheit ist keine Lösung."
+    ],
+    "synonyms": ["die Angst", "die Mutlosigkeit"],
+    "antonyms": ["der Mut", "die Tapferkeit"]
   }
 ]
