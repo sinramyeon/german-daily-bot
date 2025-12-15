@@ -14070,5 +14070,4145 @@
     ],
     "synonyms": ["die Angst", "die Mutlosigkeit"],
     "antonyms": ["der Mut", "die Tapferkeit"]
+  },
+  {
+    "german": "die Besprechung",
+    "english": "meeting",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Besprechung dauerte zwei Stunden.",
+      "Wir haben eine Besprechung um 10 Uhr."
+    ],
+    "synonyms": ["das Meeting", "die Sitzung"],
+    "antonyms": []
+  },
+  {
+    "german": "besprechen",
+    "english": "to discuss",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir müssen das noch besprechen.",
+      "Das Thema wurde ausführlich besprochen."
+    ],
+    "synonyms": ["diskutieren", "erörtern"],
+    "antonyms": []
+  },
+  {
+    "german": "die Tagesordnung",
+    "english": "agenda",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Was steht auf der Tagesordnung?",
+      "Die Tagesordnung wurde verteilt."
+    ],
+    "synonyms": ["die Agenda", "das Programm"],
+    "antonyms": []
+  },
+  {
+    "german": "das Protokoll",
+    "english": "minutes / protocol",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Wer führt das Protokoll?",
+      "Das Protokoll wurde versendet."
+    ],
+    "synonyms": ["die Niederschrift", "die Mitschrift"],
+    "antonyms": []
+  },
+  {
+    "german": "protokollieren",
+    "english": "to take minutes",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er protokollierte die Besprechung.",
+      "Alles wurde genau protokolliert."
+    ],
+    "synonyms": ["aufzeichnen", "dokumentieren"],
+    "antonyms": []
+  },
+  {
+    "german": "die Präsentation",
+    "english": "presentation",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Präsentation war überzeugend.",
+      "Er hielt eine Präsentation vor dem Vorstand."
+    ],
+    "synonyms": ["der Vortrag", "die Vorstellung"],
+    "antonyms": []
+  },
+  {
+    "german": "präsentieren",
+    "english": "to present",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie präsentierte die Ergebnisse.",
+      "Das neue Produkt wird morgen präsentiert."
+    ],
+    "synonyms": ["vorstellen", "vorführen"],
+    "antonyms": []
+  },
+  {
+    "german": "der Vorschlag",
+    "english": "proposal / suggestion",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Ich habe einen Vorschlag.",
+      "Der Vorschlag wurde angenommen."
+    ],
+    "synonyms": ["die Empfehlung", "der Antrag"],
+    "antonyms": ["die Ablehnung"]
+  },
+  {
+    "german": "vorschlagen",
+    "english": "to suggest / to propose",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich schlage vor, dass wir morgen beginnen.",
+      "Er wurde für die Stelle vorgeschlagen."
+    ],
+    "synonyms": ["empfehlen", "anregen"],
+    "antonyms": ["ablehnen"]
+  },
+  {
+    "german": "ablehnen",
+    "english": "to reject / to decline",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Angebot wurde abgelehnt.",
+      "Er lehnte die Einladung ab."
+    ],
+    "synonyms": ["zurückweisen", "verweigern"],
+    "antonyms": ["annehmen", "akzeptieren"]
+  },
+  {
+    "german": "die Ablehnung",
+    "english": "rejection",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Ablehnung war enttäuschend.",
+      "Er erhielt eine Ablehnung auf seine Bewerbung."
+    ],
+    "synonyms": ["die Zurückweisung", "die Absage"],
+    "antonyms": ["die Annahme", "die Zusage"]
+  },
+  {
+    "german": "zustimmen",
+    "english": "to agree / to approve",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich stimme Ihnen zu.",
+      "Der Plan wurde einstimmig zugestimmt."
+    ],
+    "synonyms": ["einwilligen", "beipflichten"],
+    "antonyms": ["ablehnen", "widersprechen"]
+  },
+  {
+    "german": "die Zustimmung",
+    "english": "approval / consent",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Ich brauche Ihre Zustimmung.",
+      "Die Zustimmung wurde erteilt."
+    ],
+    "synonyms": ["die Einwilligung", "die Genehmigung"],
+    "antonyms": ["die Ablehnung"]
+  },
+  {
+    "german": "vereinbaren",
+    "english": "to arrange / to agree on",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir haben einen Termin vereinbart.",
+      "Die Bedingungen wurden vereinbart."
+    ],
+    "synonyms": ["abmachen", "festlegen"],
+    "antonyms": ["absagen"]
+  },
+  {
+    "german": "die Vereinbarung",
+    "english": "agreement / arrangement",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Vereinbarung wurde unterschrieben.",
+      "Wir trafen eine Vereinbarung."
+    ],
+    "synonyms": ["die Abmachung", "der Vertrag"],
+    "antonyms": []
+  },
+  {
+    "german": "verhandeln",
+    "english": "to negotiate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie verhandelten über den Preis.",
+      "Der Vertrag wird noch verhandelt."
+    ],
+    "synonyms": ["aushandeln", "diskutieren"],
+    "antonyms": []
+  },
+  {
+    "german": "die Verhandlung",
+    "english": "negotiation",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Verhandlungen waren schwierig.",
+      "Nach langen Verhandlungen einigten sie sich."
+    ],
+    "synonyms": ["das Gespräch", "die Besprechung"],
+    "antonyms": []
+  },
+  {
+    "german": "der Kompromiss",
+    "english": "compromise",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Wir müssen einen Kompromiss finden.",
+      "Der Kompromiss war für beide Seiten akzeptabel."
+    ],
+    "synonyms": ["die Einigung", "der Mittelweg"],
+    "antonyms": ["der Konflikt"]
+  },
+  {
+    "german": "sich einigen",
+    "english": "to agree / to come to an agreement",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir haben uns geeinigt.",
+      "Sie konnten sich nicht einigen."
+    ],
+    "synonyms": ["übereinkommen", "einen Konsens finden"],
+    "antonyms": ["sich streiten"]
+  },
+  {
+    "german": "die Einigung",
+    "english": "agreement",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Einigung war ein Erfolg.",
+      "Eine Einigung scheint möglich."
+    ],
+    "synonyms": ["der Kompromiss", "die Übereinkunft"],
+    "antonyms": ["der Streit"]
+  },
+  {
+    "german": "der Konflikt",
+    "english": "conflict",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Es gibt einen Konflikt im Team.",
+      "Der Konflikt konnte gelöst werden."
+    ],
+    "synonyms": ["der Streit", "die Auseinandersetzung"],
+    "antonyms": ["die Einigung", "der Frieden"]
+  },
+  {
+    "german": "lösen",
+    "english": "to solve / to resolve",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir müssen das Problem lösen.",
+      "Der Konflikt wurde gelöst."
+    ],
+    "synonyms": ["beheben", "beseitigen"],
+    "antonyms": ["verursachen"]
+  },
+  {
+    "german": "die Lösung",
+    "english": "solution",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Wir suchen eine Lösung.",
+      "Die Lösung war einfach."
+    ],
+    "synonyms": ["der Ausweg", "die Antwort"],
+    "antonyms": ["das Problem"]
+  },
+  {
+    "german": "die Herausforderung",
+    "english": "challenge",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Das ist eine große Herausforderung.",
+      "Er stellte sich der Herausforderung."
+    ],
+    "synonyms": ["die Aufgabe", "die Hürde"],
+    "antonyms": []
+  },
+  {
+    "german": "herausfordern",
+    "english": "to challenge",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Aufgabe fordert mich heraus.",
+      "Er wurde zum Duell herausgefordert."
+    ],
+    "synonyms": ["fordern", "provozieren"],
+    "antonyms": []
+  },
+  {
+    "german": "bewältigen",
+    "english": "to cope with / to manage",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er bewältigte die Krise gut.",
+      "Die Aufgabe ist kaum zu bewältigen."
+    ],
+    "synonyms": ["meistern", "überwinden"],
+    "antonyms": ["scheitern an"]
+  },
+  {
+    "german": "die Bewältigung",
+    "english": "coping / managing",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Bewältigung der Krise war schwierig.",
+      "Strategien zur Bewältigung von Stress."
+    ],
+    "synonyms": ["die Überwindung", "die Meisterung"],
+    "antonyms": []
+  },
+  {
+    "german": "umsetzen",
+    "english": "to implement",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Der Plan muss umgesetzt werden.",
+      "Die Idee wurde erfolgreich umgesetzt."
+    ],
+    "synonyms": ["realisieren", "verwirklichen"],
+    "antonyms": []
+  },
+  {
+    "german": "die Umsetzung",
+    "english": "implementation",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Umsetzung dauerte Monate.",
+      "Die praktische Umsetzung ist wichtig."
+    ],
+    "synonyms": ["die Realisierung", "die Durchführung"],
+    "antonyms": []
+  },
+  {
+    "german": "koordinieren",
+    "english": "to coordinate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie koordiniert das Projekt.",
+      "Die Aufgaben wurden gut koordiniert."
+    ],
+    "synonyms": ["abstimmen", "organisieren"],
+    "antonyms": []
+  },
+  {
+    "german": "die Koordination",
+    "english": "coordination",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Koordination ist entscheidend.",
+      "Es fehlt an Koordination."
+    ],
+    "synonyms": ["die Abstimmung", "die Organisation"],
+    "antonyms": ["das Chaos"]
+  },
+  {
+    "german": "delegieren",
+    "english": "to delegate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er delegiert Aufgaben an sein Team.",
+      "Man muss lernen zu delegieren."
+    ],
+    "synonyms": ["übertragen", "abgeben"],
+    "antonyms": ["selbst erledigen"]
+  },
+  {
+    "german": "die Delegation",
+    "english": "delegation",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Delegation von Aufgaben ist wichtig.",
+      "Eine Delegation aus Japan besuchte die Firma."
+    ],
+    "synonyms": ["die Übertragung", "die Abordnung"],
+    "antonyms": []
+  },
+  {
+    "german": "priorisieren",
+    "english": "to prioritize",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir müssen die Aufgaben priorisieren.",
+      "Welche Projekte werden priorisiert?"
+    ],
+    "synonyms": ["Prioritäten setzen"],
+    "antonyms": []
+  },
+  {
+    "german": "die Priorität",
+    "english": "priority",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Das hat oberste Priorität.",
+      "Setzen Sie Ihre Prioritäten."
+    ],
+    "synonyms": ["der Vorrang", "die Dringlichkeit"],
+    "antonyms": []
+  },
+  {
+    "german": "die Frist",
+    "english": "deadline",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Frist läuft morgen ab.",
+      "Können wir die Frist verlängern?"
+    ],
+    "synonyms": ["der Termin", "die Deadline"],
+    "antonyms": []
+  },
+  {
+    "german": "fristgerecht",
+    "english": "on time / within the deadline",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Projekt wurde fristgerecht abgeschlossen.",
+      "Bitte liefern Sie fristgerecht."
+    ],
+    "synonyms": ["termingerecht", "pünktlich"],
+    "antonyms": ["verspätet"]
+  },
+  {
+    "german": "verzögern",
+    "english": "to delay",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Projekt wurde verzögert.",
+      "Wir dürfen nicht länger verzögern."
+    ],
+    "synonyms": ["aufschieben", "hinausschieben"],
+    "antonyms": ["beschleunigen"]
+  },
+  {
+    "german": "die Verzögerung",
+    "english": "delay",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Es gab eine Verzögerung.",
+      "Die Verzögerung kostet uns Geld."
+    ],
+    "synonyms": ["die Verspätung", "der Aufschub"],
+    "antonyms": ["die Beschleunigung"]
+  },
+  {
+    "german": "überwachen",
+    "english": "to monitor / to supervise",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er überwacht die Produktion.",
+      "Die Qualität wird ständig überwacht."
+    ],
+    "synonyms": ["kontrollieren", "beobachten"],
+    "antonyms": ["ignorieren"]
+  },
+  {
+    "german": "die Überwachung",
+    "english": "monitoring / surveillance",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Überwachung ist notwendig.",
+      "Datenschutz und Überwachung sind wichtige Themen."
+    ],
+    "synonyms": ["die Kontrolle", "die Beobachtung"],
+    "antonyms": []
+  },
+  {
+    "german": "auswerten",
+    "english": "to evaluate / to analyze",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Daten werden ausgewertet.",
+      "Wir müssen die Ergebnisse auswerten."
+    ],
+    "synonyms": ["analysieren", "bewerten"],
+    "antonyms": []
+  },
+  {
+    "german": "die Auswertung",
+    "english": "evaluation / analysis",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Auswertung dauert noch.",
+      "Die Auswertung ergab interessante Ergebnisse."
+    ],
+    "synonyms": ["die Analyse", "die Bewertung"],
+    "antonyms": []
+  },
+  {
+    "german": "optimieren",
+    "english": "to optimize",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir müssen den Prozess optimieren.",
+      "Die Website wurde optimiert."
+    ],
+    "synonyms": ["verbessern", "perfektionieren"],
+    "antonyms": ["verschlechtern"]
+  },
+  {
+    "german": "die Optimierung",
+    "english": "optimization",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Optimierung brachte gute Ergebnisse.",
+      "An der Optimierung wird gearbeitet."
+    ],
+    "synonyms": ["die Verbesserung"],
+    "antonyms": ["die Verschlechterung"]
+  },
+  {
+    "german": "rationalisieren",
+    "english": "to rationalize / to streamline",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Produktion wurde rationalisiert.",
+      "Wir müssen Abläufe rationalisieren."
+    ],
+    "synonyms": ["effizienter gestalten", "optimieren"],
+    "antonyms": []
+  },
+  {
+    "german": "die Rationalisierung",
+    "english": "rationalization",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Rationalisierung führte zu Entlassungen.",
+      "Rationalisierung ist oft notwendig."
+    ],
+    "synonyms": ["die Effizienzsteigerung"],
+    "antonyms": []
+  },
+  {
+    "german": "wirtschaftlich",
+    "english": "economic / economical",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die wirtschaftliche Lage ist stabil.",
+      "Das ist wirtschaftlich sinnvoll."
+    ],
+    "synonyms": ["ökonomisch", "rentabel"],
+    "antonyms": ["unwirtschaftlich"]
+  },
+  {
+    "german": "unwirtschaftlich",
+    "english": "uneconomical",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Verfahren ist unwirtschaftlich.",
+      "Unwirtschaftliche Prozesse müssen geändert werden."
+    ],
+    "synonyms": ["ineffizient", "kostspielig"],
+    "antonyms": ["wirtschaftlich", "rentabel"]
+  },
+  {
+    "german": "der Gewinn",
+    "english": "profit",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Gewinn stieg um 10%.",
+      "Das Unternehmen macht Gewinn."
+    ],
+    "synonyms": ["der Profit", "der Ertrag"],
+    "antonyms": ["der Verlust"]
+  },
+  {
+    "german": "der Verlust",
+    "english": "loss",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Das Unternehmen machte Verlust.",
+      "Der Verlust war höher als erwartet."
+    ],
+    "synonyms": ["das Defizit", "der Schaden"],
+    "antonyms": ["der Gewinn"]
+  },
+  {
+    "german": "der Umsatz",
+    "english": "revenue / turnover",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Umsatz ist gestiegen.",
+      "Wir haben den Umsatz verdoppelt."
+    ],
+    "synonyms": ["die Einnahmen", "der Erlös"],
+    "antonyms": []
+  },
+  {
+    "german": "das Budget",
+    "english": "budget",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Das Budget ist begrenzt.",
+      "Wir müssen das Budget einhalten."
+    ],
+    "synonyms": ["der Etat", "der Finanzplan"],
+    "antonyms": []
+  },
+  {
+    "german": "budgetieren",
+    "english": "to budget",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Kosten wurden budgetiert.",
+      "Wir müssen das Projekt neu budgetieren."
+    ],
+    "synonyms": ["einplanen", "kalkulieren"],
+    "antonyms": []
+  },
+  {
+    "german": "kalkulieren",
+    "english": "to calculate / to estimate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Kosten wurden sorgfältig kalkuliert.",
+      "Er hat falsch kalkuliert."
+    ],
+    "synonyms": ["berechnen", "schätzen"],
+    "antonyms": []
+  },
+  {
+    "german": "die Kalkulation",
+    "english": "calculation",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Kalkulation war fehlerhaft.",
+      "Ich überprüfe die Kalkulation."
+    ],
+    "synonyms": ["die Berechnung", "die Kostenrechnung"],
+    "antonyms": []
+  },
+  {
+    "german": "die Bilanz",
+    "english": "balance sheet / outcome",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Bilanz ist positiv.",
+      "Am Ende des Jahres wird die Bilanz erstellt."
+    ],
+    "synonyms": ["das Ergebnis", "die Abrechnung"],
+    "antonyms": []
+  },
+  {
+    "german": "bilanzieren",
+    "english": "to take stock / to balance",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Unternehmen bilanziert zum Jahresende.",
+      "Die Ergebnisse wurden bilanziert."
+    ],
+    "synonyms": ["abrechnen", "zusammenfassen"],
+    "antonyms": []
+  },
+  {
+    "german": "die Buchhaltung",
+    "english": "accounting",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Buchhaltung ist sehr genau.",
+      "Er arbeitet in der Buchhaltung."
+    ],
+    "synonyms": ["das Rechnungswesen"],
+    "antonyms": []
+  },
+  {
+    "german": "der Buchhalter",
+    "english": "accountant",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Buchhalter prüft die Rechnungen.",
+      "Sie ist Buchhalterin."
+    ],
+    "synonyms": ["der Rechnungsführer"],
+    "antonyms": []
+  },
+  {
+    "german": "die Rechnung",
+    "english": "invoice / bill",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Rechnung wurde bezahlt.",
+      "Können Sie mir die Rechnung schicken?"
+    ],
+    "synonyms": ["die Faktura", "der Beleg"],
+    "antonyms": []
+  },
+  {
+    "german": "die Quittung",
+    "english": "receipt",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Kann ich eine Quittung bekommen?",
+      "Bewahren Sie die Quittung auf."
+    ],
+    "synonyms": ["der Beleg", "der Kassenbon"],
+    "antonyms": []
+  },
+  {
+    "german": "überweisen",
+    "english": "to transfer (money)",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich überweise das Geld morgen.",
+      "Der Betrag wurde überwiesen."
+    ],
+    "synonyms": ["transferieren"],
+    "antonyms": ["abheben"]
+  },
+  {
+    "german": "die Überweisung",
+    "english": "bank transfer",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Überweisung ist eingegangen.",
+      "Bitte per Überweisung zahlen."
+    ],
+    "synonyms": ["der Transfer"],
+    "antonyms": ["die Baranzahlung"]
+  },
+  {
+    "german": "bar",
+    "english": "cash",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Zahlen Sie bar oder mit Karte?",
+      "Er zahlte bar."
+    ],
+    "synonyms": ["in bar"],
+    "antonyms": ["bargeldlos"]
+  },
+  {
+    "german": "bargeldlos",
+    "english": "cashless",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Bargeldloses Zahlen wird immer beliebter.",
+      "In einigen Ländern ist bargeldloses Zahlen Standard."
+    ],
+    "synonyms": ["elektronisch"],
+    "antonyms": ["bar"]
+  },
+  {
+    "german": "die Gesellschaft",
+    "english": "society",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Gesellschaft verändert sich.",
+      "Wir leben in einer modernen Gesellschaft."
+    ],
+    "synonyms": ["die Gemeinschaft", "das Gemeinwesen"],
+    "antonyms": ["das Individuum"]
+  },
+  {
+    "german": "gesellschaftlich",
+    "english": "social / societal",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das ist ein gesellschaftliches Problem.",
+      "Gesellschaftliche Veränderungen brauchen Zeit."
+    ],
+    "synonyms": ["sozial", "gemeinschaftlich"],
+    "antonyms": ["individuell"]
+  },
+  {
+    "german": "die Schicht",
+    "english": "social class / layer",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Er kommt aus einer anderen sozialen Schicht.",
+      "Die Mittelschicht schrumpft."
+    ],
+    "synonyms": ["die Klasse", "die Ebene"],
+    "antonyms": []
+  },
+  {
+    "german": "die Ungleichheit",
+    "english": "inequality",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Ungleichheit wächst.",
+      "Soziale Ungleichheit ist ein Problem."
+    ],
+    "synonyms": ["die Disparität", "das Ungleichgewicht"],
+    "antonyms": ["die Gleichheit"]
+  },
+  {
+    "german": "die Gleichheit",
+    "english": "equality",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Gleichheit vor dem Gesetz ist wichtig.",
+      "Die Gleichheit der Geschlechter wird angestrebt."
+    ],
+    "synonyms": ["die Gleichberechtigung"],
+    "antonyms": ["die Ungleichheit"]
+  },
+  {
+    "german": "die Gleichberechtigung",
+    "english": "equal rights",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Gleichberechtigung ist ein Grundrecht.",
+      "Der Kampf für Gleichberechtigung geht weiter."
+    ],
+    "synonyms": ["die Gleichstellung"],
+    "antonyms": ["die Diskriminierung"]
+  },
+  {
+    "german": "diskriminieren",
+    "english": "to discriminate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Niemand darf diskriminiert werden.",
+      "Er wurde wegen seiner Herkunft diskriminiert."
+    ],
+    "synonyms": ["benachteiligen", "ausgrenzen"],
+    "antonyms": ["gleichbehandeln"]
+  },
+  {
+    "german": "die Diskriminierung",
+    "english": "discrimination",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Diskriminierung ist verboten.",
+      "Sie kämpft gegen Diskriminierung."
+    ],
+    "synonyms": ["die Benachteiligung", "die Ausgrenzung"],
+    "antonyms": ["die Gleichbehandlung"]
+  },
+  {
+    "german": "das Vorurteil",
+    "english": "prejudice",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Vorurteile abbauen ist wichtig.",
+      "Er hat viele Vorurteile."
+    ],
+    "synonyms": ["die Voreingenommenheit"],
+    "antonyms": ["die Offenheit"]
+  },
+  {
+    "german": "vorurteilsfrei",
+    "english": "unprejudiced",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Man sollte vorurteilsfrei sein.",
+      "Eine vorurteilsfreie Beurteilung ist schwer."
+    ],
+    "synonyms": ["unvoreingenommen", "neutral"],
+    "antonyms": ["voreingenommen"]
+  },
+  {
+    "german": "die Toleranz",
+    "english": "tolerance",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Toleranz ist eine wichtige Tugend.",
+      "Die Gesellschaft braucht mehr Toleranz."
+    ],
+    "synonyms": ["die Duldsamkeit", "die Offenheit"],
+    "antonyms": ["die Intoleranz"]
+  },
+  {
+    "german": "tolerant",
+    "english": "tolerant",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie ist sehr tolerant.",
+      "Eine tolerante Gesellschaft ist friedlicher."
+    ],
+    "synonyms": ["duldsam", "aufgeschlossen"],
+    "antonyms": ["intolerant"]
+  },
+  {
+    "german": "intolerant",
+    "english": "intolerant",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er ist intolerant gegenüber anderen Meinungen.",
+      "Intolerantes Verhalten ist nicht akzeptabel."
+    ],
+    "synonyms": ["unduldsam", "engstirnig"],
+    "antonyms": ["tolerant"]
+  },
+  {
+    "german": "die Armut",
+    "english": "poverty",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Armut ist ein weltweites Problem.",
+      "Er wuchs in Armut auf."
+    ],
+    "synonyms": ["die Not", "der Mangel"],
+    "antonyms": ["der Reichtum", "der Wohlstand"]
+  },
+  {
+    "german": "arm",
+    "english": "poor",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Viele Menschen sind arm.",
+      "Das arme Land braucht Hilfe."
+    ],
+    "synonyms": ["mittellos", "bedürftig"],
+    "antonyms": ["reich", "wohlhabend"]
+  },
+  {
+    "german": "der Reichtum",
+    "english": "wealth",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Reichtum macht nicht glücklich.",
+      "Der Reichtum ist ungleich verteilt."
+    ],
+    "synonyms": ["der Wohlstand", "das Vermögen"],
+    "antonyms": ["die Armut"]
+  },
+  {
+    "german": "reich",
+    "english": "rich",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er ist sehr reich.",
+      "Die reichen Länder sollten helfen."
+    ],
+    "synonyms": ["wohlhabend", "vermögend"],
+    "antonyms": ["arm"]
+  },
+  {
+    "german": "wohlhabend",
+    "english": "wealthy",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie kommt aus einer wohlhabenden Familie.",
+      "Das Land ist wohlhabend."
+    ],
+    "synonyms": ["reich", "begütert"],
+    "antonyms": ["arm", "bedürftig"]
+  },
+  {
+    "german": "die Obdachlosigkeit",
+    "english": "homelessness",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Obdachlosigkeit nimmt zu.",
+      "Programme gegen Obdachlosigkeit sind wichtig."
+    ],
+    "synonyms": ["die Wohnungslosigkeit"],
+    "antonyms": []
+  },
+  {
+    "german": "obdachlos",
+    "english": "homeless",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Viele Menschen sind obdachlos.",
+      "Er wurde obdachlos."
+    ],
+    "synonyms": ["wohnungslos"],
+    "antonyms": []
+  },
+  {
+    "german": "die Arbeitslosigkeit",
+    "english": "unemployment",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Arbeitslosigkeit ist gesunken.",
+      "Arbeitslosigkeit führt oft zu Armut."
+    ],
+    "synonyms": ["die Erwerbslosigkeit"],
+    "antonyms": ["die Beschäftigung"]
+  },
+  {
+    "german": "arbeitslos",
+    "english": "unemployed",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er ist seit einem Jahr arbeitslos.",
+      "Arbeitslose Menschen brauchen Unterstützung."
+    ],
+    "synonyms": ["erwerbslos", "ohne Arbeit"],
+    "antonyms": ["beschäftigt", "angestellt"]
+  },
+  {
+    "german": "die Kriminalität",
+    "english": "crime",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Kriminalität ist gestiegen.",
+      "Kriminalität hat viele Ursachen."
+    ],
+    "synonyms": ["das Verbrechen"],
+    "antonyms": []
+  },
+  {
+    "german": "die Gewalt",
+    "english": "violence",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Gewalt ist keine Lösung.",
+      "Häusliche Gewalt ist ein ernstes Problem."
+    ],
+    "synonyms": ["die Brutalität", "die Aggression"],
+    "antonyms": ["der Frieden", "die Gewaltlosigkeit"]
+  },
+  {
+    "german": "gewalttätig",
+    "english": "violent",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er wurde gewalttätig.",
+      "Gewalttätige Proteste brachen aus."
+    ],
+    "synonyms": ["brutal", "aggressiv"],
+    "antonyms": ["friedlich", "gewaltlos"]
+  },
+  {
+    "german": "friedlich",
+    "english": "peaceful",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Demonstration war friedlich.",
+      "Er ist ein friedlicher Mensch."
+    ],
+    "synonyms": ["gewaltlos", "ruhig"],
+    "antonyms": ["gewalttätig", "aggressiv"]
+  },
+  {
+    "german": "der Frieden",
+    "english": "peace",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Alle wünschen sich Frieden.",
+      "Der Frieden wurde geschlossen."
+    ],
+    "synonyms": ["die Ruhe", "die Harmonie"],
+    "antonyms": ["der Krieg", "der Konflikt"]
+  },
+  {
+    "german": "der Krieg",
+    "english": "war",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Krieg bringt nur Leid.",
+      "Der Krieg dauerte fünf Jahre."
+    ],
+    "synonyms": ["der Konflikt", "die Schlacht"],
+    "antonyms": ["der Frieden"]
+  },
+  {
+    "german": "die Flucht",
+    "english": "escape / flight",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Flucht war gefährlich.",
+      "Millionen Menschen sind auf der Flucht."
+    ],
+    "synonyms": ["das Fliehen", "die Emigration"],
+    "antonyms": []
+  },
+  {
+    "german": "fliehen",
+    "english": "to flee",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie flohen vor dem Krieg.",
+      "Er ist aus dem Land geflohen."
+    ],
+    "synonyms": ["flüchten", "entkommen"],
+    "antonyms": ["bleiben"]
+  },
+  {
+    "german": "der Flüchtling",
+    "english": "refugee",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Flüchtling suchte Schutz.",
+      "Flüchtlinge brauchen Unterstützung."
+    ],
+    "synonyms": ["der Geflüchtete", "der Asylsuchende"],
+    "antonyms": []
+  },
+  {
+    "german": "das Asyl",
+    "english": "asylum",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Er beantragte Asyl.",
+      "Das Recht auf Asyl ist wichtig."
+    ],
+    "synonyms": ["der Schutz", "die Zuflucht"],
+    "antonyms": []
+  },
+  {
+    "german": "integrieren",
+    "english": "to integrate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Flüchtlinge sollen integriert werden.",
+      "Sie hat sich gut integriert."
+    ],
+    "synonyms": ["eingliedern", "aufnehmen"],
+    "antonyms": ["ausgrenzen"]
+  },
+  {
+    "german": "die Integration",
+    "english": "integration",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Integration braucht Zeit.",
+      "Die Integration ist erfolgreich."
+    ],
+    "synonyms": ["die Eingliederung"],
+    "antonyms": ["die Ausgrenzung"]
+  },
+  {
+    "german": "ausgrenzen",
+    "english": "to exclude",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Niemand sollte ausgegrenzt werden.",
+      "Er wurde von der Gruppe ausgegrenzt."
+    ],
+    "synonyms": ["ausschließen", "isolieren"],
+    "antonyms": ["integrieren", "einbeziehen"]
+  },
+  {
+    "german": "die Ausgrenzung",
+    "english": "exclusion",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Ausgrenzung führt zu Problemen.",
+      "Soziale Ausgrenzung ist schmerzhaft."
+    ],
+    "synonyms": ["der Ausschluss", "die Isolation"],
+    "antonyms": ["die Integration"]
+  },
+  {
+    "german": "die Minderheit",
+    "english": "minority",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Minderheiten müssen geschützt werden.",
+      "Er gehört einer ethnischen Minderheit an."
+    ],
+    "synonyms": ["die Minorität"],
+    "antonyms": ["die Mehrheit"]
+  },
+  {
+    "german": "die Mehrheit",
+    "english": "majority",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Mehrheit stimmte dafür.",
+      "Die Mehrheit der Bevölkerung ist dagegen."
+    ],
+    "synonyms": ["die Majorität"],
+    "antonyms": ["die Minderheit"]
+  },
+  {
+    "german": "die Herkunft",
+    "english": "origin",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Seine Herkunft ist unbekannt.",
+      "Unabhängig von der Herkunft."
+    ],
+    "synonyms": ["die Abstammung", "der Ursprung"],
+    "antonyms": []
+  },
+  {
+    "german": "die Identität",
+    "english": "identity",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Identität wurde überprüft.",
+      "Kulturelle Identität ist wichtig."
+    ],
+    "synonyms": ["das Selbst", "die Persönlichkeit"],
+    "antonyms": []
+  },
+  {
+    "german": "die Vielfalt",
+    "english": "diversity",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Kulturelle Vielfalt bereichert.",
+      "Die Vielfalt der Meinungen ist wichtig."
+    ],
+    "synonyms": ["die Diversität", "die Verschiedenheit"],
+    "antonyms": ["die Einheitlichkeit"]
+  },
+  {
+    "german": "vielfältig",
+    "english": "diverse",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Angebot ist vielfältig.",
+      "Eine vielfältige Gesellschaft ist bunt."
+    ],
+    "synonyms": ["divers", "mannigfaltig"],
+    "antonyms": ["einheitlich", "eintönig"]
+  },
+  {
+    "german": "die Tradition",
+    "english": "tradition",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Tradition wird gepflegt.",
+      "Es ist eine alte Tradition."
+    ],
+    "synonyms": ["der Brauch", "die Sitte"],
+    "antonyms": ["die Moderne"]
+  },
+  {
+    "german": "traditionell",
+    "english": "traditional",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das ist ein traditionelles Gericht.",
+      "Sie leben sehr traditionell."
+    ],
+    "synonyms": ["herkömmlich", "althergebracht"],
+    "antonyms": ["modern", "neu"]
+  },
+  {
+    "german": "modern",
+    "english": "modern",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Wohnung ist modern eingerichtet.",
+      "Moderne Technologie erleichtert das Leben."
+    ],
+    "synonyms": ["zeitgemäß", "aktuell"],
+    "antonyms": ["traditionell", "altmodisch"]
+  },
+  {
+    "german": "der Wandel",
+    "english": "change / transformation",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der gesellschaftliche Wandel ist spürbar.",
+      "Der Klimawandel ist eine große Herausforderung."
+    ],
+    "synonyms": ["die Veränderung", "der Umbruch"],
+    "antonyms": ["die Stabilität"]
+  },
+  {
+    "german": "sich wandeln",
+    "english": "to change / to transform",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Gesellschaft wandelt sich.",
+      "Seine Meinung hat sich gewandelt."
+    ],
+    "synonyms": ["sich verändern", "sich entwickeln"],
+    "antonyms": ["gleichbleiben"]
+  },
+  {
+    "german": "die Entwicklung",
+    "english": "development",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Entwicklung ist positiv.",
+      "Er verfolgt die Entwicklung aufmerksam."
+    ],
+    "synonyms": ["der Fortschritt", "das Wachstum"],
+    "antonyms": ["der Rückschritt", "die Stagnation"]
+  },
+  {
+    "german": "sich entwickeln",
+    "english": "to develop",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Kind entwickelt sich gut.",
+      "Die Situation hat sich entwickelt."
+    ],
+    "synonyms": ["wachsen", "fortschreiten"],
+    "antonyms": ["stagnieren", "zurückgehen"]
+  },
+  {
+    "german": "der Fortschritt",
+    "english": "progress",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der technische Fortschritt ist enorm.",
+      "Es gibt Fortschritte bei der Behandlung."
+    ],
+    "synonyms": ["die Entwicklung", "der Vorschritt"],
+    "antonyms": ["der Rückschritt"]
+  },
+  {
+    "german": "fortschrittlich",
+    "english": "progressive",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das ist eine fortschrittliche Idee.",
+      "Die Firma ist sehr fortschrittlich."
+    ],
+    "synonyms": ["modern", "innovativ"],
+    "antonyms": ["rückständig", "konservativ"]
+  },
+  {
+    "german": "konservativ",
+    "english": "conservative",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er hat konservative Ansichten.",
+      "Die Partei ist konservativ."
+    ],
+    "synonyms": ["traditionell", "bewahrend"],
+    "antonyms": ["progressiv", "liberal"]
+  },
+  {
+    "german": "liberal",
+    "english": "liberal",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie hat liberale Ansichten.",
+      "Eine liberale Gesellschaft erlaubt Vielfalt."
+    ],
+    "synonyms": ["freiheitlich", "aufgeklärt"],
+    "antonyms": ["konservativ", "autoritär"]
+  },
+  {
+    "german": "radikal",
+    "english": "radical",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das ist eine radikale Änderung.",
+      "Radikale Ansichten sind gefährlich."
+    ],
+    "synonyms": ["extrem", "grundlegend"],
+    "antonyms": ["moderat", "gemäßigt"]
+  },
+  {
+    "german": "gemäßigt",
+    "english": "moderate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er vertritt gemäßigte Ansichten.",
+      "Das Klima ist gemäßigt."
+    ],
+    "synonyms": ["moderat", "maßvoll"],
+    "antonyms": ["extrem", "radikal"]
+  },
+  {
+    "german": "extrem",
+    "english": "extreme",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das ist eine extreme Position.",
+      "Die Temperaturen sind extrem."
+    ],
+    "synonyms": ["übermäßig", "übertrieben"],
+    "antonyms": ["gemäßigt", "moderat"]
+  },
+  {
+    "german": "der Extremismus",
+    "english": "extremism",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Extremismus ist gefährlich.",
+      "Der Kampf gegen Extremismus ist wichtig."
+    ],
+    "synonyms": ["der Radikalismus"],
+    "antonyms": []
+  },
+  {
+    "german": "das Engagement",
+    "english": "commitment / involvement",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Sein Engagement ist bewundernswert.",
+      "Soziales Engagement ist wichtig."
+    ],
+    "synonyms": ["der Einsatz", "das Eintreten"],
+    "antonyms": ["die Gleichgültigkeit"]
+  },
+  {
+    "german": "sich engagieren",
+    "english": "to get involved",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie engagiert sich ehrenamtlich.",
+      "Er engagiert sich für den Umweltschutz."
+    ],
+    "synonyms": ["sich einsetzen", "aktiv werden"],
+    "antonyms": ["passiv bleiben"]
+  },
+  {
+    "german": "engagiert",
+    "english": "committed / engaged",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie ist sehr engagiert.",
+      "Ein engagierter Mitarbeiter."
+    ],
+    "synonyms": ["aktiv", "einsatzbereit"],
+    "antonyms": ["passiv", "gleichgültig"]
+  },
+  {
+    "german": "ehrenamtlich",
+    "english": "voluntary",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er arbeitet ehrenamtlich.",
+      "Ehrenamtliche Helfer werden gesucht."
+    ],
+    "synonyms": ["freiwillig", "unentgeltlich"],
+    "antonyms": ["bezahlt", "hauptberuflich"]
+  },
+  {
+    "german": "das Ehrenamt",
+    "english": "voluntary work",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Das Ehrenamt ist wichtig für die Gesellschaft.",
+      "Er übt ein Ehrenamt aus."
+    ],
+    "synonyms": ["die Freiwilligenarbeit"],
+    "antonyms": ["die Erwerbstätigkeit"]
+  },
+  {
+    "german": "die Solidarität",
+    "english": "solidarity",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Solidarität ist in Krisenzeiten wichtig.",
+      "Sie zeigten Solidarität mit den Opfern."
+    ],
+    "synonyms": ["der Zusammenhalt", "die Verbundenheit"],
+    "antonyms": ["der Egoismus"]
+  },
+  {
+    "german": "solidarisch",
+    "english": "in solidarity",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir sind solidarisch.",
+      "Sie handeln solidarisch."
+    ],
+    "synonyms": ["zusammenhaltend", "unterstützend"],
+    "antonyms": ["egoistisch"]
+  },
+  {
+    "german": "die Vergangenheit",
+    "english": "past",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Vergangenheit kann man nicht ändern.",
+      "Er spricht nicht gerne über seine Vergangenheit."
+    ],
+    "synonyms": ["das Früher", "die Geschichte"],
+    "antonyms": ["die Zukunft", "die Gegenwart"]
+  },
+  {
+    "german": "vergangen",
+    "english": "past / last",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Vergangene Woche war ich krank.",
+      "Das ist vergangen."
+    ],
+    "synonyms": ["letzte", "vorbei"],
+    "antonyms": ["kommend", "zukünftig"]
+  },
+  {
+    "german": "die Gegenwart",
+    "english": "present",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Lebe in der Gegenwart.",
+      "Die Gegenwart ist wichtiger als die Vergangenheit."
+    ],
+    "synonyms": ["das Jetzt", "die Jetztzeit"],
+    "antonyms": ["die Vergangenheit", "die Zukunft"]
+  },
+  {
+    "german": "gegenwärtig",
+    "english": "current / present",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die gegenwärtige Situation ist schwierig.",
+      "Gegenwärtig arbeite ich an einem Projekt."
+    ],
+    "synonyms": ["derzeitig", "momentan"],
+    "antonyms": ["vergangen", "zukünftig"]
+  },
+  {
+    "german": "die Zukunft",
+    "english": "future",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Zukunft ist ungewiss.",
+      "Er plant für die Zukunft."
+    ],
+    "synonyms": ["das Morgen", "die kommende Zeit"],
+    "antonyms": ["die Vergangenheit"]
+  },
+  {
+    "german": "zukünftig",
+    "english": "future",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Zukünftige Generationen werden betroffen sein.",
+      "Der zukünftige Chef wurde vorgestellt."
+    ],
+    "synonyms": ["kommend", "künftig"],
+    "antonyms": ["vergangen", "ehemalig"]
+  },
+  {
+    "german": "künftig",
+    "english": "in future / from now on",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Künftig werde ich pünktlicher sein.",
+      "Die künftige Entwicklung ist unklar."
+    ],
+    "synonyms": ["zukünftig", "in Zukunft"],
+    "antonyms": ["bisher", "früher"]
+  },
+  {
+    "german": "vorläufig",
+    "english": "temporary / provisional",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das ist eine vorläufige Lösung.",
+      "Vorläufig bleibt alles beim Alten."
+    ],
+    "synonyms": ["provisorisch", "einstweilen"],
+    "antonyms": ["endgültig", "dauerhaft"]
+  },
+  {
+    "german": "endgültig",
+    "english": "final / definitive",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Entscheidung ist endgültig.",
+      "Er hat endgültig abgesagt."
+    ],
+    "synonyms": ["definitiv", "unwiderruflich"],
+    "antonyms": ["vorläufig", "vorübergehend"]
+  },
+  {
+    "german": "dauerhaft",
+    "english": "permanent / lasting",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Eine dauerhafte Lösung ist nötig.",
+      "Der Schaden ist dauerhaft."
+    ],
+    "synonyms": ["permanent", "langfristig"],
+    "antonyms": ["vorübergehend", "temporär"]
+  },
+  {
+    "german": "vorübergehend",
+    "english": "temporary",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das ist nur vorübergehend.",
+      "Die Straße ist vorübergehend gesperrt."
+    ],
+    "synonyms": ["zeitweise", "temporär"],
+    "antonyms": ["dauerhaft", "permanent"]
+  },
+  {
+    "german": "allmählich",
+    "english": "gradual",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Situation verbessert sich allmählich.",
+      "Allmählich gewöhnte er sich daran."
+    ],
+    "synonyms": ["nach und nach", "langsam"],
+    "antonyms": ["plötzlich", "sofort"]
+  },
+  {
+    "german": "schrittweise",
+    "english": "step by step",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Änderungen werden schrittweise eingeführt.",
+      "Schrittweise lernte er die Sprache."
+    ],
+    "synonyms": ["nach und nach", "graduell"],
+    "antonyms": ["auf einmal"]
+  },
+  {
+    "german": "plötzlich",
+    "english": "suddenly",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Plötzlich fing es an zu regnen.",
+      "Er erschien plötzlich."
+    ],
+    "synonyms": ["unvermittelt", "unerwartet"],
+    "antonyms": ["allmählich", "langsam"]
+  },
+  {
+    "german": "unerwartet",
+    "english": "unexpected",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Nachricht kam unerwartet.",
+      "Ein unerwartetes Ereignis."
+    ],
+    "synonyms": ["überraschend", "plötzlich"],
+    "antonyms": ["erwartet", "vorhersehbar"]
+  },
+  {
+    "german": "vorhersehbar",
+    "english": "predictable",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Ergebnis war vorhersehbar.",
+      "Sein Verhalten ist vorhersehbar."
+    ],
+    "synonyms": ["absehbar", "berechenbar"],
+    "antonyms": ["unvorhersehbar", "überraschend"]
+  },
+  {
+    "german": "unvorhersehbar",
+    "english": "unpredictable",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Folgen sind unvorhersehbar.",
+      "Das Wetter ist unvorhersehbar."
+    ],
+    "synonyms": ["unberechenbar"],
+    "antonyms": ["vorhersehbar", "absehbar"]
+  },
+  {
+    "german": "unvermeidlich",
+    "english": "inevitable",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Der Konflikt war unvermeidlich.",
+      "Fehler sind unvermeidlich."
+    ],
+    "synonyms": ["unausweichlich", "zwangsläufig"],
+    "antonyms": ["vermeidbar"]
+  },
+  {
+    "german": "vermeidbar",
+    "english": "avoidable",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Der Unfall war vermeidbar.",
+      "Viele Fehler sind vermeidbar."
+    ],
+    "synonyms": ["abwendbar"],
+    "antonyms": ["unvermeidlich"]
+  },
+  {
+    "german": "vermeiden",
+    "english": "to avoid",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich möchte Stress vermeiden.",
+      "Fehler sollten vermieden werden."
+    ],
+    "synonyms": ["umgehen", "aus dem Weg gehen"],
+    "antonyms": ["riskieren", "provozieren"]
+  },
+  {
+    "german": "der Verlauf",
+    "english": "course / progress",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Verlauf der Krankheit ist typisch.",
+      "Im Verlauf des Tages..."
+    ],
+    "synonyms": ["der Gang", "der Ablauf"],
+    "antonyms": []
+  },
+  {
+    "german": "verlaufen",
+    "english": "to proceed / to go",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Besprechung verlief gut.",
+      "Wie ist die Prüfung verlaufen?"
+    ],
+    "synonyms": ["ablaufen", "vonstatten gehen"],
+    "antonyms": []
+  },
+  {
+    "german": "der Ablauf",
+    "english": "procedure / course",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Ablauf wurde erklärt.",
+      "Wie ist der Ablauf?"
+    ],
+    "synonyms": ["der Verlauf", "das Programm"],
+    "antonyms": []
+  },
+  {
+    "german": "ablaufen",
+    "english": "to expire / to proceed",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Der Pass ist abgelaufen.",
+      "Alles lief nach Plan ab."
+    ],
+    "synonyms": ["enden", "verlaufen"],
+    "antonyms": ["beginnen"]
+  },
+  {
+    "german": "der Vorgang",
+    "english": "process / procedure",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Vorgang ist kompliziert.",
+      "Der Vorgang wurde dokumentiert."
+    ],
+    "synonyms": ["der Prozess", "das Verfahren"],
+    "antonyms": []
+  },
+  {
+    "german": "der Prozess",
+    "english": "process",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Prozess dauert lange.",
+      "Es ist ein langer Prozess."
+    ],
+    "synonyms": ["der Vorgang", "das Verfahren"],
+    "antonyms": []
+  },
+  {
+    "german": "das Verfahren",
+    "english": "procedure / process",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Das Verfahren wurde geändert.",
+      "Ein neues Verfahren wird eingeführt."
+    ],
+    "synonyms": ["die Methode", "der Prozess"],
+    "antonyms": []
+  },
+  {
+    "german": "die Phase",
+    "english": "phase",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die erste Phase ist abgeschlossen.",
+      "Er durchläuft eine schwierige Phase."
+    ],
+    "synonyms": ["der Abschnitt", "die Etappe"],
+    "antonyms": []
+  },
+  {
+    "german": "das Stadium",
+    "english": "stage",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Die Krankheit ist in einem frühen Stadium.",
+      "Das Projekt befindet sich im Endstadium."
+    ],
+    "synonyms": ["die Phase", "die Stufe"],
+    "antonyms": []
+  },
+  {
+    "german": "der Zeitraum",
+    "english": "period",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "In diesem Zeitraum passierte viel.",
+      "Der Zeitraum beträgt drei Monate."
+    ],
+    "synonyms": ["die Zeitspanne", "die Periode"],
+    "antonyms": []
+  },
+  {
+    "german": "die Zeitspanne",
+    "english": "time span",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Zeitspanne ist kurz.",
+      "Innerhalb dieser Zeitspanne..."
+    ],
+    "synonyms": ["der Zeitraum", "die Periode"],
+    "antonyms": []
+  },
+  {
+    "german": "der Zeitpunkt",
+    "english": "point in time",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Zeitpunkt ist günstig.",
+      "Zu diesem Zeitpunkt wusste niemand..."
+    ],
+    "synonyms": ["der Moment", "der Augenblick"],
+    "antonyms": []
+  },
+  {
+    "german": "der Moment",
+    "english": "moment",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Warte einen Moment.",
+      "In dem Moment klingelte das Telefon."
+    ],
+    "synonyms": ["der Augenblick", "die Sekunde"],
+    "antonyms": ["die Ewigkeit"]
+  },
+  {
+    "german": "momentan",
+    "english": "at the moment / currently",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Momentan habe ich keine Zeit.",
+      "Die momentane Lage ist stabil."
+    ],
+    "synonyms": ["derzeit", "gegenwärtig"],
+    "antonyms": []
+  },
+  {
+    "german": "der Augenblick",
+    "english": "moment",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Einen Augenblick bitte.",
+      "In diesem Augenblick..."
+    ],
+    "synonyms": ["der Moment", "die Sekunde"],
+    "antonyms": []
+  },
+  {
+    "german": "augenblicklich",
+    "english": "immediate / current",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er reagierte augenblicklich.",
+      "Die augenblickliche Situation erfordert Handeln."
+    ],
+    "synonyms": ["sofortig", "momentan"],
+    "antonyms": ["später"]
+  },
+  {
+    "german": "sofortig",
+    "english": "immediate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Eine sofortige Antwort ist nötig.",
+      "Die sofortige Wirkung war sichtbar."
+    ],
+    "synonyms": ["unverzüglich", "augenblicklich"],
+    "antonyms": ["verzögert"]
+  },
+  {
+    "german": "unverzüglich",
+    "english": "immediately",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Handeln Sie unverzüglich!",
+      "Die Maßnahme muss unverzüglich erfolgen."
+    ],
+    "synonyms": ["sofort", "umgehend"],
+    "antonyms": ["später", "verzögert"]
+  },
+  {
+    "german": "umgehend",
+    "english": "promptly / immediately",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Bitte antworten Sie umgehend.",
+      "Die Reparatur erfolgt umgehend."
+    ],
+    "synonyms": ["sofort", "unverzüglich"],
+    "antonyms": ["verzögert"]
+  },
+  {
+    "german": "rechtzeitig",
+    "english": "in time / timely",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er kam rechtzeitig an.",
+      "Rechtzeitige Planung ist wichtig."
+    ],
+    "synonyms": ["pünktlich", "zeitgerecht"],
+    "antonyms": ["verspätet", "zu spät"]
+  },
+  {
+    "german": "frühzeitig",
+    "english": "early",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Frühzeitige Vorsorge ist wichtig.",
+      "Er erkannte das Problem frühzeitig."
+    ],
+    "synonyms": ["früh", "zeitig"],
+    "antonyms": ["spät", "verspätet"]
+  },
+  {
+    "german": "nachträglich",
+    "english": "subsequently / belated",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Nachträglich alles Gute!",
+      "Die Änderung erfolgte nachträglich."
+    ],
+    "synonyms": ["im Nachhinein", "hinterher"],
+    "antonyms": ["vorher", "im Voraus"]
+  },
+  {
+    "german": "im Voraus",
+    "english": "in advance",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Bitte zahlen Sie im Voraus.",
+      "Danke im Voraus!"
+    ],
+    "synonyms": ["vorab", "vorher"],
+    "antonyms": ["nachträglich"]
+  },
+  {
+    "german": "vorab",
+    "english": "in advance / beforehand",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Vorab möchte ich sagen...",
+      "Die Information wurde vorab geschickt."
+    ],
+    "synonyms": ["im Voraus", "vorher"],
+    "antonyms": ["nachher", "hinterher"]
+  },
+  {
+    "german": "inzwischen",
+    "english": "meanwhile / in the meantime",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Inzwischen ist viel passiert.",
+      "Was hast du inzwischen gemacht?"
+    ],
+    "synonyms": ["mittlerweile", "zwischenzeitlich"],
+    "antonyms": []
+  },
+  {
+    "german": "mittlerweile",
+    "english": "meanwhile / by now",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Mittlerweile hat sich viel geändert.",
+      "Er ist mittlerweile 30 Jahre alt."
+    ],
+    "synonyms": ["inzwischen", "jetzt"],
+    "antonyms": []
+  },
+  {
+    "german": "bisherig",
+    "english": "previous / so far",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die bisherigen Ergebnisse sind positiv.",
+      "Der bisherige Chef geht in Rente."
+    ],
+    "synonyms": ["früher", "vorherig"],
+    "antonyms": ["künftig", "zukünftig"]
+  },
+  {
+    "german": "bislang",
+    "english": "so far / until now",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Bislang gab es keine Probleme.",
+      "Das ist bislang nicht geschehen."
+    ],
+    "synonyms": ["bisher", "bis jetzt"],
+    "antonyms": []
+  },
+  {
+    "german": "fortan",
+    "english": "from now on",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Fortan wird alles anders sein.",
+      "Er lebte fortan allein."
+    ],
+    "synonyms": ["von nun an", "künftig"],
+    "antonyms": ["bisher"]
+  },
+  {
+    "german": "hinfort",
+    "english": "henceforth",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Hinfort werde ich vorsichtiger sein.",
+      "Diese Regel gilt hinfort."
+    ],
+    "synonyms": ["fortan", "von nun an"],
+    "antonyms": ["bisher"]
+  },
+  {
+    "german": "währenddessen",
+    "english": "meanwhile / in the meantime",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er kochte, währenddessen räumte sie auf.",
+      "Währenddessen passierte nichts."
+    ],
+    "synonyms": ["unterdessen", "inzwischen"],
+    "antonyms": []
+  },
+  {
+    "german": "unterdessen",
+    "english": "meanwhile",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Unterdessen warteten wir.",
+      "Er schlief, unterdessen arbeitete sie."
+    ],
+    "synonyms": ["währenddessen", "inzwischen"],
+    "antonyms": []
+  },
+  {
+    "german": "seither",
+    "english": "since then",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Seither hat sich viel verändert.",
+      "Er lebt seither in Berlin."
+    ],
+    "synonyms": ["seitdem", "seit dieser Zeit"],
+    "antonyms": []
+  },
+  {
+    "german": "seitdem",
+    "english": "since then",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Seitdem sprechen sie nicht mehr.",
+      "Er war nie wieder dort seitdem."
+    ],
+    "synonyms": ["seither", "seit dieser Zeit"],
+    "antonyms": []
+  },
+  {
+    "german": "daraufhin",
+    "english": "thereupon / as a result",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Daraufhin verließ er den Raum.",
+      "Daraufhin wurde eine Untersuchung eingeleitet."
+    ],
+    "synonyms": ["danach", "infolgedessen"],
+    "antonyms": []
+  },
+  {
+    "german": "anschließend",
+    "english": "afterwards / subsequently",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Anschließend gingen wir essen.",
+      "Die Diskussion fand anschließend statt."
+    ],
+    "synonyms": ["danach", "im Anschluss"],
+    "antonyms": ["vorher"]
+  },
+  {
+    "german": "die Logik",
+    "english": "logic",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Das folgt einer gewissen Logik.",
+      "Die Logik seines Arguments ist fehlerhaft."
+    ],
+    "synonyms": ["die Vernunft", "die Folgerichtigkeit"],
+    "antonyms": ["die Unlogik"]
+  },
+  {
+    "german": "logisch",
+    "english": "logical",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das ist logisch.",
+      "Seine Schlussfolgerung war logisch."
+    ],
+    "synonyms": ["folgerichtig", "vernünftig"],
+    "antonyms": ["unlogisch", "irrational"]
+  },
+  {
+    "german": "unlogisch",
+    "english": "illogical",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Argument ist unlogisch.",
+      "Sein Verhalten erscheint unlogisch."
+    ],
+    "synonyms": ["irrational", "widersprüchlich"],
+    "antonyms": ["logisch"]
+  },
+  {
+    "german": "der Gedanke",
+    "english": "thought",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Ein interessanter Gedanke.",
+      "Der Gedanke kam mir plötzlich."
+    ],
+    "synonyms": ["die Idee", "die Überlegung"],
+    "antonyms": []
+  },
+  {
+    "german": "nachdenken",
+    "english": "to think / to reflect",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich muss darüber nachdenken.",
+      "Er dachte lange nach."
+    ],
+    "synonyms": ["überlegen", "reflektieren"],
+    "antonyms": ["handeln"]
+  },
+  {
+    "german": "das Nachdenken",
+    "english": "reflection",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Nach langem Nachdenken entschied sie sich.",
+      "Das regt zum Nachdenken an."
+    ],
+    "synonyms": ["die Überlegung", "die Reflexion"],
+    "antonyms": []
+  },
+  {
+    "german": "überlegen",
+    "english": "to consider / to think",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich überlege, ob ich kommen soll.",
+      "Hast du dir das gut überlegt?"
+    ],
+    "synonyms": ["nachdenken", "erwägen"],
+    "antonyms": ["spontan handeln"]
+  },
+  {
+    "german": "die Überlegung",
+    "english": "consideration",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Nach reiflicher Überlegung...",
+      "Diese Überlegung ist wichtig."
+    ],
+    "synonyms": ["der Gedanke", "die Erwägung"],
+    "antonyms": []
+  },
+  {
+    "german": "erwägen",
+    "english": "to consider",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir erwägen einen Umzug.",
+      "Diese Option wurde erwogen."
+    ],
+    "synonyms": ["in Betracht ziehen", "überlegen"],
+    "antonyms": ["ausschließen"]
+  },
+  {
+    "german": "die Erwägung",
+    "english": "consideration",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Das sollte in Erwägung gezogen werden.",
+      "Verschiedene Erwägungen spielen eine Rolle."
+    ],
+    "synonyms": ["die Überlegung", "die Abwägung"],
+    "antonyms": []
+  },
+  {
+    "german": "abwägen",
+    "english": "to weigh up",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Man muss die Vor- und Nachteile abwägen.",
+      "Er wägte seine Optionen ab."
+    ],
+    "synonyms": ["erwägen", "gegenüberstellen"],
+    "antonyms": []
+  },
+  {
+    "german": "die Abwägung",
+    "english": "weighing up",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Abwägung fiel schwer.",
+      "Eine sorgfältige Abwägung ist nötig."
+    ],
+    "synonyms": ["die Erwägung"],
+    "antonyms": []
+  },
+  {
+    "german": "schlussfolgern",
+    "english": "to conclude",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Daraus kann man schlussfolgern, dass...",
+      "Er schlussfolgerte richtig."
+    ],
+    "synonyms": ["folgern", "ableiten"],
+    "antonyms": []
+  },
+  {
+    "german": "die Schlussfolgerung",
+    "english": "conclusion",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Schlussfolgerung ist logisch.",
+      "Zu welcher Schlussfolgerung kommen Sie?"
+    ],
+    "synonyms": ["der Schluss", "die Folgerung"],
+    "antonyms": ["die Prämisse"]
+  },
+  {
+    "german": "folgern",
+    "english": "to conclude / to infer",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Was lässt sich daraus folgern?",
+      "Er folgerte daraus, dass..."
+    ],
+    "synonyms": ["schlussfolgern", "ableiten"],
+    "antonyms": []
+  },
+  {
+    "german": "ableiten",
+    "english": "to derive / to deduce",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das lässt sich aus den Daten ableiten.",
+      "Er leitete eine Regel ab."
+    ],
+    "synonyms": ["herleiten", "folgern"],
+    "antonyms": []
+  },
+  {
+    "german": "die Ableitung",
+    "english": "derivation",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Ableitung ist korrekt.",
+      "Die Ableitung des Wortes ist interessant."
+    ],
+    "synonyms": ["die Herleitung"],
+    "antonyms": []
+  },
+  {
+    "german": "voraussetzen",
+    "english": "to assume / to presuppose",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich setze voraus, dass Sie informiert sind.",
+      "Das setzt Erfahrung voraus."
+    ],
+    "synonyms": ["annehmen", "ausgehen von"],
+    "antonyms": []
+  },
+  {
+    "german": "die Voraussetzung",
+    "english": "requirement / prerequisite",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Welche Voraussetzungen sind nötig?",
+      "Unter der Voraussetzung, dass..."
+    ],
+    "synonyms": ["die Bedingung", "die Anforderung"],
+    "antonyms": []
+  },
+  {
+    "german": "annehmen",
+    "english": "to assume / to accept",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich nehme an, dass er kommt.",
+      "Er nahm das Angebot an."
+    ],
+    "synonyms": ["vermuten", "akzeptieren"],
+    "antonyms": ["ablehnen"]
+  },
+  {
+    "german": "die Annahme",
+    "english": "assumption",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Diese Annahme ist falsch.",
+      "Die Annahme erwies sich als richtig."
+    ],
+    "synonyms": ["die Vermutung", "die Hypothese"],
+    "antonyms": ["die Gewissheit"]
+  },
+  {
+    "german": "vermuten",
+    "english": "to suspect / to assume",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich vermute, dass er recht hat.",
+      "Es wird vermutet, dass..."
+    ],
+    "synonyms": ["annehmen", "mutmaßen"],
+    "antonyms": ["wissen"]
+  },
+  {
+    "german": "die Vermutung",
+    "english": "assumption / suspicion",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Meine Vermutung hat sich bestätigt.",
+      "Es ist nur eine Vermutung."
+    ],
+    "synonyms": ["die Annahme", "die Mutmaßung"],
+    "antonyms": ["die Gewissheit"]
+  },
+  {
+    "german": "vermutlich",
+    "english": "probably / presumably",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er kommt vermutlich später.",
+      "Vermutlich hat er recht."
+    ],
+    "synonyms": ["wahrscheinlich", "mutmaßlich"],
+    "antonyms": ["sicher", "gewiss"]
+  },
+  {
+    "german": "wahrscheinlich",
+    "english": "probably",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das ist wahrscheinlich richtig.",
+      "Wahrscheinlich regnet es morgen."
+    ],
+    "synonyms": ["vermutlich", "voraussichtlich"],
+    "antonyms": ["unwahrscheinlich"]
+  },
+  {
+    "german": "die Wahrscheinlichkeit",
+    "english": "probability",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Wahrscheinlichkeit ist hoch.",
+      "Mit hoher Wahrscheinlichkeit..."
+    ],
+    "synonyms": ["die Chance", "die Möglichkeit"],
+    "antonyms": ["die Unwahrscheinlichkeit"]
+  },
+  {
+    "german": "unwahrscheinlich",
+    "english": "unlikely",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das ist sehr unwahrscheinlich.",
+      "Ein unwahrscheinliches Szenario."
+    ],
+    "synonyms": ["unglaubwürdig"],
+    "antonyms": ["wahrscheinlich"]
+  },
+  {
+    "german": "möglicherweise",
+    "english": "possibly",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Möglicherweise hat er recht.",
+      "Er kommt möglicherweise nicht."
+    ],
+    "synonyms": ["vielleicht", "eventuell"],
+    "antonyms": ["sicher", "bestimmt"]
+  },
+  {
+    "german": "gewiss",
+    "english": "certain",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich bin mir dessen gewiss.",
+      "Das ist gewiss richtig."
+    ],
+    "synonyms": ["sicher", "bestimmt"],
+    "antonyms": ["unsicher", "ungewiss"]
+  },
+  {
+    "german": "die Gewissheit",
+    "english": "certainty",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Ich brauche Gewissheit.",
+      "Mit Gewissheit kann ich sagen..."
+    ],
+    "synonyms": ["die Sicherheit", "die Überzeugung"],
+    "antonyms": ["die Ungewissheit"]
+  },
+  {
+    "german": "ungewiss",
+    "english": "uncertain",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Zukunft ist ungewiss.",
+      "Der Ausgang ist noch ungewiss."
+    ],
+    "synonyms": ["unsicher", "unklar"],
+    "antonyms": ["gewiss", "sicher"]
+  },
+  {
+    "german": "die Ungewissheit",
+    "english": "uncertainty",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Ungewissheit ist schwer zu ertragen.",
+      "Er lebte in Ungewissheit."
+    ],
+    "synonyms": ["die Unsicherheit"],
+    "antonyms": ["die Gewissheit"]
+  },
+  {
+    "german": "zweifeln",
+    "english": "to doubt",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich zweifle an seiner Ehrlichkeit.",
+      "Daran ist nicht zu zweifeln."
+    ],
+    "synonyms": ["bezweifeln", "misstrauen"],
+    "antonyms": ["vertrauen", "glauben"]
+  },
+  {
+    "german": "der Zweifel",
+    "english": "doubt",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Ich habe Zweifel.",
+      "Es gibt keinen Zweifel daran."
+    ],
+    "synonyms": ["die Skepsis", "das Bedenken"],
+    "antonyms": ["die Gewissheit", "das Vertrauen"]
+  },
+  {
+    "german": "zweifelhaft",
+    "english": "doubtful",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Quelle ist zweifelhaft.",
+      "Es ist zweifelhaft, ob..."
+    ],
+    "synonyms": ["fraglich", "unsicher"],
+    "antonyms": ["sicher", "gewiss"]
+  },
+  {
+    "german": "bezweifeln",
+    "english": "to doubt",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich bezweifle, dass er kommt.",
+      "Seine Aussage wurde bezweifelt."
+    ],
+    "synonyms": ["anzweifeln", "in Frage stellen"],
+    "antonyms": ["glauben"]
+  },
+  {
+    "german": "hinterfragen",
+    "english": "to question",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Man sollte alles kritisch hinterfragen.",
+      "Die Entscheidung wurde hinterfragt."
+    ],
+    "synonyms": ["in Frage stellen", "anzweifeln"],
+    "antonyms": ["akzeptieren"]
+  },
+  {
+    "german": "in Frage stellen",
+    "english": "to question / to challenge",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Theorie wurde in Frage gestellt.",
+      "Er stellte die Entscheidung in Frage."
+    ],
+    "synonyms": ["bezweifeln", "hinterfragen"],
+    "antonyms": ["bestätigen"]
+  },
+  {
+    "german": "überprüfen",
+    "english": "to check / to verify",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich muss das überprüfen.",
+      "Die Fakten wurden überprüft."
+    ],
+    "synonyms": ["kontrollieren", "verifizieren"],
+    "antonyms": []
+  },
+  {
+    "german": "die Überprüfung",
+    "english": "verification / check",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Überprüfung ergab keine Fehler.",
+      "Eine gründliche Überprüfung ist nötig."
+    ],
+    "synonyms": ["die Kontrolle", "die Prüfung"],
+    "antonyms": []
+  },
+  {
+    "german": "nachweisen",
+    "english": "to prove / to demonstrate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er konnte seine Unschuld nachweisen.",
+      "Das muss nachgewiesen werden."
+    ],
+    "synonyms": ["beweisen", "belegen"],
+    "antonyms": ["widerlegen"]
+  },
+  {
+    "german": "der Nachweis",
+    "english": "proof / evidence",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Er erbrachte den Nachweis.",
+      "Ohne Nachweis ist keine Aussage möglich."
+    ],
+    "synonyms": ["der Beweis", "der Beleg"],
+    "antonyms": []
+  },
+  {
+    "german": "belegen",
+    "english": "to prove / to support",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Studie belegt die These.",
+      "Das ist wissenschaftlich belegt."
+    ],
+    "synonyms": ["beweisen", "nachweisen"],
+    "antonyms": ["widerlegen"]
+  },
+  {
+    "german": "der Beleg",
+    "english": "proof / receipt",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Haben Sie einen Beleg dafür?",
+      "Bewahren Sie den Beleg auf."
+    ],
+    "synonyms": ["der Nachweis", "die Quittung"],
+    "antonyms": []
+  },
+  {
+    "german": "widersprechen",
+    "english": "to contradict",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich muss Ihnen widersprechen.",
+      "Das widerspricht den Tatsachen."
+    ],
+    "synonyms": ["entgegnen", "dementieren"],
+    "antonyms": ["zustimmen"]
+  },
+  {
+    "german": "der Widerspruch",
+    "english": "contradiction",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Das ist ein Widerspruch.",
+      "Er legte Widerspruch ein."
+    ],
+    "synonyms": ["die Inkonsequenz", "der Gegensatz"],
+    "antonyms": ["die Übereinstimmung"]
+  },
+  {
+    "german": "widersprüchlich",
+    "english": "contradictory",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Aussagen sind widersprüchlich.",
+      "Das ist widersprüchlich."
+    ],
+    "synonyms": ["inkonsistent", "gegensätzlich"],
+    "antonyms": ["konsistent", "stimmig"]
+  },
+  {
+    "german": "eindeutig",
+    "english": "clear / unambiguous",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Antwort ist eindeutig.",
+      "Er hat sich eindeutig ausgedrückt."
+    ],
+    "synonyms": ["klar", "unmissverständlich"],
+    "antonyms": ["mehrdeutig", "unklar"]
+  },
+  {
+    "german": "mehrdeutig",
+    "english": "ambiguous",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Formulierung ist mehrdeutig.",
+      "Seine Aussage war mehrdeutig."
+    ],
+    "synonyms": ["zweideutig", "unklar"],
+    "antonyms": ["eindeutig"]
+  },
+  {
+    "german": "offensichtlich",
+    "english": "obvious",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das ist offensichtlich falsch.",
+      "Offensichtlich hat er gelogen."
+    ],
+    "synonyms": ["augenscheinlich", "sichtbar"],
+    "antonyms": ["verborgen", "unklar"]
+  },
+  {
+    "german": "vermeintlich",
+    "english": "supposed / alleged",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Der vermeintliche Täter wurde freigesprochen.",
+      "Die vermeintliche Lösung war falsch."
+    ],
+    "synonyms": ["angeblich", "scheinbar"],
+    "antonyms": ["tatsächlich", "wirklich"]
+  },
+  {
+    "german": "tatsächlich",
+    "english": "actually / indeed",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er hat es tatsächlich geschafft.",
+      "Ist das tatsächlich wahr?"
+    ],
+    "synonyms": ["wirklich", "in der Tat"],
+    "antonyms": ["angeblich", "vermeintlich"]
+  },
+  {
+    "german": "die Menge",
+    "english": "quantity / amount",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Menge reicht nicht aus.",
+      "Eine große Menge Wasser wird benötigt."
+    ],
+    "synonyms": ["die Anzahl", "das Quantum"],
+    "antonyms": []
+  },
+  {
+    "german": "die Anzahl",
+    "english": "number",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Anzahl der Teilnehmer steigt.",
+      "Eine begrenzte Anzahl ist verfügbar."
+    ],
+    "synonyms": ["die Zahl", "die Menge"],
+    "antonyms": []
+  },
+  {
+    "german": "zahlreich",
+    "english": "numerous",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Zahlreiche Gäste kamen zur Feier.",
+      "Es gibt zahlreiche Beispiele."
+    ],
+    "synonyms": ["viele", "reichlich"],
+    "antonyms": ["wenig", "vereinzelt"]
+  },
+  {
+    "german": "reichlich",
+    "english": "plenty / ample",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Es gab reichlich zu essen.",
+      "Er hatte reichlich Zeit."
+    ],
+    "synonyms": ["genügend", "ausreichend"],
+    "antonyms": ["knapp", "wenig"]
+  },
+  {
+    "german": "ausreichend",
+    "english": "sufficient",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das ist nicht ausreichend.",
+      "Ausreichend Schlaf ist wichtig."
+    ],
+    "synonyms": ["genügend", "hinreichend"],
+    "antonyms": ["unzureichend"]
+  },
+  {
+    "german": "unzureichend",
+    "english": "insufficient",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Mittel sind unzureichend.",
+      "Die Vorbereitung war unzureichend."
+    ],
+    "synonyms": ["ungenügend", "mangelhaft"],
+    "antonyms": ["ausreichend"]
+  },
+  {
+    "german": "übermäßig",
+    "english": "excessive",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Übermäßiger Konsum ist schädlich.",
+      "Er trinkt übermäßig viel Kaffee."
+    ],
+    "synonyms": ["übertrieben", "zu viel"],
+    "antonyms": ["mäßig", "angemessen"]
+  },
+  {
+    "german": "mäßig",
+    "english": "moderate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Der Erfolg war nur mäßig.",
+      "Er trinkt Alkohol nur mäßig."
+    ],
+    "synonyms": ["gemäßigt", "mittelmäßig"],
+    "antonyms": ["übermäßig", "extrem"]
+  },
+  {
+    "german": "erheblich",
+    "english": "considerable",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Der Unterschied ist erheblich.",
+      "Es gab erhebliche Fortschritte."
+    ],
+    "synonyms": ["beträchtlich", "bedeutend"],
+    "antonyms": ["gering", "unbedeutend"]
+  },
+  {
+    "german": "beträchtlich",
+    "english": "considerable",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Kosten sind beträchtlich.",
+      "Ein beträchtlicher Teil wurde gespendet."
+    ],
+    "synonyms": ["erheblich", "bedeutend"],
+    "antonyms": ["gering", "unbedeutend"]
+  },
+  {
+    "german": "geringfügig",
+    "english": "minor / slight",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Der Unterschied ist geringfügig.",
+      "Es gab nur geringfügige Änderungen."
+    ],
+    "synonyms": ["unbedeutend", "minimal"],
+    "antonyms": ["erheblich", "beträchtlich"]
+  },
+  {
+    "german": "minimal",
+    "english": "minimal",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Der Aufwand ist minimal.",
+      "Die Unterschiede sind minimal."
+    ],
+    "synonyms": ["gering", "niedrig"],
+    "antonyms": ["maximal", "groß"]
+  },
+  {
+    "german": "maximal",
+    "english": "maximum",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die maximale Kapazität ist erreicht.",
+      "Maximal 10 Personen sind erlaubt."
+    ],
+    "synonyms": ["höchstens", "höchst"],
+    "antonyms": ["minimal"]
+  },
+  {
+    "german": "durchschnittlich",
+    "english": "average",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Einkommen ist durchschnittlich.",
+      "Durchschnittlich werden 5 Stunden benötigt."
+    ],
+    "synonyms": ["mittelmäßig", "gewöhnlich"],
+    "antonyms": ["überdurchschnittlich", "außergewöhnlich"]
+  },
+  {
+    "german": "der Durchschnitt",
+    "english": "average",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Durchschnitt liegt bei 50%.",
+      "Im Durchschnitt verdienen sie mehr."
+    ],
+    "synonyms": ["der Mittelwert"],
+    "antonyms": []
+  },
+  {
+    "german": "überdurchschnittlich",
+    "english": "above average",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Seine Leistungen sind überdurchschnittlich.",
+      "Das Gehalt ist überdurchschnittlich hoch."
+    ],
+    "synonyms": ["herausragend", "außergewöhnlich"],
+    "antonyms": ["unterdurchschnittlich"]
+  },
+  {
+    "german": "unterdurchschnittlich",
+    "english": "below average",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Ergebnisse sind unterdurchschnittlich.",
+      "Sein Wachstum ist unterdurchschnittlich."
+    ],
+    "synonyms": ["unter dem Durchschnitt"],
+    "antonyms": ["überdurchschnittlich"]
+  },
+  {
+    "german": "ungefähr",
+    "english": "approximately",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Es kostet ungefähr 50 Euro.",
+      "Ungefähr 100 Leute waren da."
+    ],
+    "synonyms": ["etwa", "circa"],
+    "antonyms": ["genau", "exakt"]
+  },
+  {
+    "german": "etwa",
+    "english": "about / approximately",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Es dauert etwa eine Stunde.",
+      "Etwa die Hälfte war anwesend."
+    ],
+    "synonyms": ["ungefähr", "circa"],
+    "antonyms": ["genau"]
+  },
+  {
+    "german": "circa",
+    "english": "approximately",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Gebäude ist circa 100 Jahre alt.",
+      "Circa 500 Menschen nahmen teil."
+    ],
+    "synonyms": ["ungefähr", "etwa"],
+    "antonyms": ["genau"]
+  },
+  {
+    "german": "genau",
+    "english": "exact / precisely",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das weiß ich nicht genau.",
+      "Genau das meine ich."
+    ],
+    "synonyms": ["exakt", "präzise"],
+    "antonyms": ["ungefähr"]
+  },
+  {
+    "german": "exakt",
+    "english": "exact",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Messung muss exakt sein.",
+      "Exakt so ist es passiert."
+    ],
+    "synonyms": ["genau", "präzise"],
+    "antonyms": ["ungefähr", "ungenau"]
+  },
+  {
+    "german": "präzise",
+    "english": "precise",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Angaben sind präzise.",
+      "Er drückte sich präzise aus."
+    ],
+    "synonyms": ["genau", "exakt"],
+    "antonyms": ["unpräzise", "vage"]
+  },
+  {
+    "german": "die Präzision",
+    "english": "precision",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Präzision der Maschine ist beeindruckend.",
+      "Er arbeitet mit großer Präzision."
+    ],
+    "synonyms": ["die Genauigkeit", "die Exaktheit"],
+    "antonyms": ["die Ungenauigkeit"]
+  },
+  {
+    "german": "annähernd",
+    "english": "approximately",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Annähernd 90% stimmten zu.",
+      "Das kommt annähernd hin."
+    ],
+    "synonyms": ["ungefähr", "nahezu"],
+    "antonyms": ["genau"]
+  },
+  {
+    "german": "nahezu",
+    "english": "almost / nearly",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Arbeit ist nahezu abgeschlossen.",
+      "Nahezu alle waren anwesend."
+    ],
+    "synonyms": ["fast", "beinahe"],
+    "antonyms": []
+  },
+  {
+    "german": "beinahe",
+    "english": "almost",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich hätte es beinahe vergessen.",
+      "Beinahe wäre er gestürzt."
+    ],
+    "synonyms": ["fast", "nahezu"],
+    "antonyms": []
+  },
+  {
+    "german": "kaum",
+    "english": "hardly / barely",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich kann es kaum glauben.",
+      "Er hat kaum geschlafen."
+    ],
+    "synonyms": ["fast nicht", "schwerlich"],
+    "antonyms": ["sehr", "viel"]
+  },
+  {
+    "german": "keineswegs",
+    "english": "by no means",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das ist keineswegs sicher.",
+      "Er ist keineswegs dumm."
+    ],
+    "synonyms": ["überhaupt nicht", "auf keinen Fall"],
+    "antonyms": ["durchaus", "allerdings"]
+  },
+  {
+    "german": "durchaus",
+    "english": "certainly / quite",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das ist durchaus möglich.",
+      "Er ist durchaus kompetent."
+    ],
+    "synonyms": ["gewiss", "sicherlich"],
+    "antonyms": ["keineswegs"]
+  },
+  {
+    "german": "äußerst",
+    "english": "extremely",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das ist äußerst wichtig.",
+      "Er war äußerst zufrieden."
+    ],
+    "synonyms": ["sehr", "überaus"],
+    "antonyms": ["kaum", "wenig"]
+  },
+  {
+    "german": "überaus",
+    "english": "exceedingly",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er war überaus freundlich.",
+      "Das Essen war überaus lecker."
+    ],
+    "synonyms": ["äußerst", "sehr"],
+    "antonyms": ["wenig"]
+  },
+  {
+    "german": "höchst",
+    "english": "highly",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das ist höchst unwahrscheinlich.",
+      "Er ist höchst kompetent."
+    ],
+    "synonyms": ["äußerst", "sehr"],
+    "antonyms": ["kaum"]
+  },
+  {
+    "german": "zutiefst",
+    "english": "deeply",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich bin zutiefst betroffen.",
+      "Er war zutiefst enttäuscht."
+    ],
+    "synonyms": ["tief", "sehr"],
+    "antonyms": ["oberflächlich"]
+  },
+  {
+    "german": "verhältnismäßig",
+    "english": "relatively",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das ist verhältnismäßig günstig.",
+      "Die Strafe war verhältnismäßig."
+    ],
+    "synonyms": ["relativ", "vergleichsweise"],
+    "antonyms": ["unverhältnismäßig"]
+  },
+  {
+    "german": "vergleichsweise",
+    "english": "comparatively",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Preise sind vergleichsweise niedrig.",
+      "Er ist vergleichsweise jung."
+    ],
+    "synonyms": ["relativ", "verhältnismäßig"],
+    "antonyms": []
+  },
+  {
+    "german": "unverhältnismäßig",
+    "english": "disproportionate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Reaktion war unverhältnismäßig.",
+      "Der Aufwand ist unverhältnismäßig hoch."
+    ],
+    "synonyms": ["übertrieben"],
+    "antonyms": ["verhältnismäßig", "angemessen"]
+  },
+  {
+    "german": "angemessen",
+    "english": "appropriate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das ist eine angemessene Reaktion.",
+      "Der Preis ist angemessen."
+    ],
+    "synonyms": ["passend", "geeignet"],
+    "antonyms": ["unangemessen"]
+  },
+  {
+    "german": "unangemessen",
+    "english": "inappropriate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sein Verhalten war unangemessen.",
+      "Das ist unangemessen."
+    ],
+    "synonyms": ["unpassend", "ungeeignet"],
+    "antonyms": ["angemessen"]
+  },
+  {
+    "german": "entsprechend",
+    "english": "accordingly / corresponding",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er wurde entsprechend bezahlt.",
+      "Die entsprechenden Maßnahmen wurden ergriffen."
+    ],
+    "synonyms": ["dementsprechend", "gemäß"],
+    "antonyms": []
+  },
+  {
+    "german": "zunehmend",
+    "english": "increasingly",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Problem wird zunehmend größer.",
+      "Sie ist zunehmend besorgt."
+    ],
+    "synonyms": ["immer mehr", "steigend"],
+    "antonyms": ["abnehmend"]
+  },
+  {
+    "german": "abnehmend",
+    "english": "decreasing",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Mit abnehmendem Interesse.",
+      "Die Zahlen sind abnehmend."
+    ],
+    "synonyms": ["sinkend", "rückläufig"],
+    "antonyms": ["zunehmend"]
+  },
+  {
+    "german": "steigen",
+    "english": "to rise / to increase",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Preise steigen.",
+      "Die Temperatur ist gestiegen."
+    ],
+    "synonyms": ["zunehmen", "ansteigen"],
+    "antonyms": ["sinken", "fallen"]
+  },
+  {
+    "german": "sinken",
+    "english": "to fall / to decrease",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Arbeitslosenquote sinkt.",
+      "Die Temperaturen sind gesunken."
+    ],
+    "synonyms": ["fallen", "abnehmen"],
+    "antonyms": ["steigen"]
+  },
+  {
+    "german": "zunehmen",
+    "english": "to increase",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Der Druck nimmt zu.",
+      "Sie hat zugenommen."
+    ],
+    "synonyms": ["steigen", "wachsen"],
+    "antonyms": ["abnehmen"]
+  },
+  {
+    "german": "abnehmen",
+    "english": "to decrease",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Interesse nimmt ab.",
+      "Er hat stark abgenommen."
+    ],
+    "synonyms": ["sinken", "nachlassen"],
+    "antonyms": ["zunehmen"]
+  },
+  {
+    "german": "verdoppeln",
+    "english": "to double",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Der Umsatz hat sich verdoppelt.",
+      "Wir müssen unsere Anstrengungen verdoppeln."
+    ],
+    "synonyms": ["doppeln"],
+    "antonyms": ["halbieren"]
+  },
+  {
+    "german": "halbieren",
+    "english": "to halve",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Kosten wurden halbiert.",
+      "Halbiere den Apfel."
+    ],
+    "synonyms": ["in zwei Teile teilen"],
+    "antonyms": ["verdoppeln"]
+  },
+  {
+    "german": "der Anteil",
+    "english": "share / proportion",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Anteil der Frauen ist gestiegen.",
+      "Jeder bekommt seinen Anteil."
+    ],
+    "synonyms": ["der Teil", "die Quote"],
+    "antonyms": []
+  },
+  {
+    "german": "anteilig",
+    "english": "proportional",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Kosten werden anteilig aufgeteilt.",
+      "Er erhält eine anteilige Vergütung."
+    ],
+    "synonyms": ["proportional", "verhältnismäßig"],
+    "antonyms": []
+  },
+  {
+    "german": "der Prozentsatz",
+    "english": "percentage",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Prozentsatz ist hoch.",
+      "Ein kleiner Prozentsatz der Bevölkerung..."
+    ],
+    "synonyms": ["die Quote", "der Anteil"],
+    "antonyms": []
+  },
+  {
+    "german": "die Quote",
+    "english": "rate / quota",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Erfolgsquote ist hoch.",
+      "Die Quote wurde eingeführt."
+    ],
+    "synonyms": ["der Anteil", "der Prozentsatz"],
+    "antonyms": []
+  },
+  {
+    "german": "die Beziehung",
+    "english": "relationship",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Sie haben eine gute Beziehung.",
+      "Die Beziehung zwischen den Ländern ist angespannt."
+    ],
+    "synonyms": ["das Verhältnis", "die Verbindung"],
+    "antonyms": []
+  },
+  {
+    "german": "das Verhältnis",
+    "english": "relationship / ratio",
+    "gender": "Neutrum",
+    "level": "B2",
+    "examples": [
+      "Das Verhältnis zwischen ihnen ist gut.",
+      "Das Verhältnis von Preis zu Leistung stimmt."
+    ],
+    "synonyms": ["die Beziehung", "die Relation"],
+    "antonyms": []
+  },
+  {
+    "german": "die Verbindung",
+    "english": "connection",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Es gibt eine Verbindung zwischen den Ereignissen.",
+      "Die Verbindung zum Internet ist schlecht."
+    ],
+    "synonyms": ["der Zusammenhang", "die Beziehung"],
+    "antonyms": ["die Trennung"]
+  },
+  {
+    "german": "verbinden",
+    "english": "to connect",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Brücke verbindet die zwei Städte.",
+      "Was verbindet Sie mit diesem Ort?"
+    ],
+    "synonyms": ["verknüpfen", "zusammenfügen"],
+    "antonyms": ["trennen"]
+  },
+  {
+    "german": "verknüpfen",
+    "english": "to link",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Themen sind eng miteinander verknüpft.",
+      "Er verknüpfte die Informationen."
+    ],
+    "synonyms": ["verbinden", "zusammenführen"],
+    "antonyms": ["trennen"]
+  },
+  {
+    "german": "die Verknüpfung",
+    "english": "link",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Verknüpfung ist offensichtlich.",
+      "Klicken Sie auf die Verknüpfung."
+    ],
+    "synonyms": ["die Verbindung", "der Link"],
+    "antonyms": []
+  },
+  {
+    "german": "trennen",
+    "english": "to separate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie haben sich getrennt.",
+      "Trenne das Eigelb vom Eiweiß."
+    ],
+    "synonyms": ["teilen", "scheiden"],
+    "antonyms": ["verbinden", "vereinen"]
+  },
+  {
+    "german": "die Trennung",
+    "english": "separation",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Trennung war schmerzhaft.",
+      "Nach der Trennung ging es ihr besser."
+    ],
+    "synonyms": ["die Scheidung", "die Spaltung"],
+    "antonyms": ["die Vereinigung"]
+  },
+  {
+    "german": "vereinen",
+    "english": "to unite",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Musik vereint Menschen.",
+      "Deutschland wurde 1990 vereint."
+    ],
+    "synonyms": ["verbinden", "zusammenführen"],
+    "antonyms": ["trennen", "spalten"]
+  },
+  {
+    "german": "die Vereinigung",
+    "english": "union / unification",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Vereinigung Deutschlands war historisch.",
+      "Er ist Mitglied einer Vereinigung."
+    ],
+    "synonyms": ["die Union", "der Zusammenschluss"],
+    "antonyms": ["die Trennung"]
+  },
+  {
+    "german": "zusammenarbeiten",
+    "english": "to cooperate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wir arbeiten eng zusammen.",
+      "Die Firmen arbeiten an dem Projekt zusammen."
+    ],
+    "synonyms": ["kooperieren", "kollaborieren"],
+    "antonyms": ["konkurrieren"]
+  },
+  {
+    "german": "die Zusammenarbeit",
+    "english": "cooperation",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Zusammenarbeit war erfolgreich.",
+      "Danke für die gute Zusammenarbeit."
+    ],
+    "synonyms": ["die Kooperation", "die Kollaboration"],
+    "antonyms": ["die Konkurrenz"]
+  },
+  {
+    "german": "kooperieren",
+    "english": "to cooperate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Länder kooperieren im Kampf gegen den Terror.",
+      "Die Firmen kooperieren."
+    ],
+    "synonyms": ["zusammenarbeiten"],
+    "antonyms": ["konkurrieren"]
+  },
+  {
+    "german": "die Kooperation",
+    "english": "cooperation",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Kooperation wurde verlängert.",
+      "Internationale Kooperation ist wichtig."
+    ],
+    "synonyms": ["die Zusammenarbeit"],
+    "antonyms": ["die Konkurrenz"]
+  },
+  {
+    "german": "konkurrieren",
+    "english": "to compete",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Firmen konkurrieren um Kunden.",
+      "Sie konkurrieren um den ersten Platz."
+    ],
+    "synonyms": ["wetteifern", "rivalisieren"],
+    "antonyms": ["kooperieren"]
+  },
+  {
+    "german": "die Konkurrenz",
+    "english": "competition",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Konkurrenz ist stark.",
+      "Die Konkurrenz schläft nicht."
+    ],
+    "synonyms": ["der Wettbewerb", "die Rivalität"],
+    "antonyms": ["die Kooperation"]
+  },
+  {
+    "german": "der Wettbewerb",
+    "english": "competition",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der Wettbewerb ist hart.",
+      "Sie nahm am Wettbewerb teil."
+    ],
+    "synonyms": ["die Konkurrenz", "der Wettkampf"],
+    "antonyms": ["die Zusammenarbeit"]
+  },
+  {
+    "german": "wettbewerbsfähig",
+    "english": "competitive",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Preise sind wettbewerbsfähig.",
+      "Das Unternehmen muss wettbewerbsfähig bleiben."
+    ],
+    "synonyms": ["konkurrenzfähig"],
+    "antonyms": []
+  },
+  {
+    "german": "unterstützen",
+    "english": "to support",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich unterstütze dich.",
+      "Das Projekt wird vom Staat unterstützt."
+    ],
+    "synonyms": ["helfen", "fördern"],
+    "antonyms": ["behindern"]
+  },
+  {
+    "german": "die Unterstützung",
+    "english": "support",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Danke für Ihre Unterstützung.",
+      "Er braucht finanzielle Unterstützung."
+    ],
+    "synonyms": ["die Hilfe", "die Förderung"],
+    "antonyms": ["die Behinderung"]
+  },
+  {
+    "german": "beeinflussen",
+    "english": "to influence",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das Wetter beeinflusst die Stimmung.",
+      "Er lässt sich nicht beeinflussen."
+    ],
+    "synonyms": ["einwirken auf", "prägen"],
+    "antonyms": []
+  },
+  {
+    "german": "der Einfluss",
+    "english": "influence",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Er hat großen Einfluss.",
+      "Der Einfluss der Medien ist enorm."
+    ],
+    "synonyms": ["die Wirkung", "die Macht"],
+    "antonyms": []
+  },
+  {
+    "german": "einflussreich",
+    "english": "influential",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er ist ein einflussreicher Mann.",
+      "Eine einflussreiche Person."
+    ],
+    "synonyms": ["mächtig", "bedeutend"],
+    "antonyms": ["unbedeutend"]
+  },
+  {
+    "german": "einwirken",
+    "english": "to affect / to act upon",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das wirkt auf die Gesundheit ein.",
+      "Er versuchte auf sie einzuwirken."
+    ],
+    "synonyms": ["beeinflussen", "wirken"],
+    "antonyms": []
+  },
+  {
+    "german": "die Einwirkung",
+    "english": "influence / effect",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Einwirkung der Sonne auf die Haut.",
+      "Ohne äußere Einwirkung."
+    ],
+    "synonyms": ["der Einfluss", "die Wirkung"],
+    "antonyms": []
+  },
+  {
+    "german": "wechselseitig",
+    "english": "mutual / reciprocal",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die wechselseitige Abhängigkeit ist groß.",
+      "Wechselseitiger Respekt ist wichtig."
+    ],
+    "synonyms": ["gegenseitig", "beiderseitig"],
+    "antonyms": ["einseitig"]
+  },
+  {
+    "german": "gegenseitig",
+    "english": "mutual",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Gegenseitiger Respekt ist wichtig.",
+      "Sie helfen sich gegenseitig."
+    ],
+    "synonyms": ["wechselseitig", "beiderseitig"],
+    "antonyms": ["einseitig"]
+  },
+  {
+    "german": "einseitig",
+    "english": "one-sided",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Berichterstattung war einseitig.",
+      "Eine einseitige Entscheidung."
+    ],
+    "synonyms": ["parteiisch", "unausgewogen"],
+    "antonyms": ["gegenseitig", "ausgewogen"]
+  },
+  {
+    "german": "interagieren",
+    "english": "to interact",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Die Kinder interagieren miteinander.",
+      "Wie interagieren die Systeme?"
+    ],
+    "synonyms": ["zusammenwirken"],
+    "antonyms": []
+  },
+  {
+    "german": "die Interaktion",
+    "english": "interaction",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Interaktion war positiv.",
+      "Soziale Interaktion ist wichtig."
+    ],
+    "synonyms": ["das Zusammenwirken", "der Austausch"],
+    "antonyms": []
+  },
+  {
+    "german": "austauschen",
+    "english": "to exchange",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie tauschten Ideen aus.",
+      "Wir sollten uns austauschen."
+    ],
+    "synonyms": ["wechseln", "teilen"],
+    "antonyms": []
+  },
+  {
+    "german": "der Austausch",
+    "english": "exchange",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Der kulturelle Austausch war bereichernd.",
+      "Ein Austausch von Informationen."
+    ],
+    "synonyms": ["der Wechsel", "das Teilen"],
+    "antonyms": []
+  },
+  {
+    "german": "teilen",
+    "english": "to share",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Sie teilten das Essen.",
+      "Ich teile deine Meinung."
+    ],
+    "synonyms": ["aufteilen", "verteilen"],
+    "antonyms": ["behalten"]
+  },
+  {
+    "german": "einbeziehen",
+    "english": "to include",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Alle sollten einbezogen werden.",
+      "Er wurde in die Planung einbezogen."
+    ],
+    "synonyms": ["berücksichtigen", "miteinschließen"],
+    "antonyms": ["ausschließen"]
+  },
+  {
+    "german": "die Einbeziehung",
+    "english": "inclusion",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Einbeziehung aller Beteiligten ist wichtig.",
+      "Unter Einbeziehung der neuen Daten..."
+    ],
+    "synonyms": ["die Berücksichtigung"],
+    "antonyms": ["der Ausschluss"]
+  },
+  {
+    "german": "berücksichtigen",
+    "english": "to consider",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Man muss alle Faktoren berücksichtigen.",
+      "Das wurde nicht berücksichtigt."
+    ],
+    "synonyms": ["beachten", "in Betracht ziehen"],
+    "antonyms": ["ignorieren"]
+  },
+  {
+    "german": "die Berücksichtigung",
+    "english": "consideration",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Unter Berücksichtigung aller Umstände...",
+      "Die Berücksichtigung der Kosten ist wichtig."
+    ],
+    "synonyms": ["die Beachtung"],
+    "antonyms": ["die Vernachlässigung"]
+  },
+  {
+    "german": "vernachlässigen",
+    "english": "to neglect",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er vernachlässigte seine Pflichten.",
+      "Das Thema wurde vernachlässigt."
+    ],
+    "synonyms": ["missachten", "übergehen"],
+    "antonyms": ["berücksichtigen"]
+  },
+  {
+    "german": "die Vernachlässigung",
+    "english": "neglect",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Vernachlässigung der Kinder ist strafbar.",
+      "Eine Vernachlässigung der Pflichten."
+    ],
+    "synonyms": ["die Missachtung"],
+    "antonyms": ["die Fürsorge"]
+  },
+  {
+    "german": "sich beteiligen",
+    "english": "to participate",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er beteiligt sich am Projekt.",
+      "Alle können sich beteiligen."
+    ],
+    "synonyms": ["teilnehmen", "mitmachen"],
+    "antonyms": ["sich heraushalten"]
+  },
+  {
+    "german": "die Beteiligung",
+    "english": "participation",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Beteiligung war hoch.",
+      "Danke für Ihre Beteiligung."
+    ],
+    "synonyms": ["die Teilnahme", "die Mitwirkung"],
+    "antonyms": ["die Abwesenheit"]
+  },
+  {
+    "german": "mitwirken",
+    "english": "to participate / to contribute",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er wirkte am Projekt mit.",
+      "Viele Faktoren wirken mit."
+    ],
+    "synonyms": ["teilnehmen", "beitragen"],
+    "antonyms": []
+  },
+  {
+    "german": "die Mitwirkung",
+    "english": "participation / cooperation",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Danke für Ihre Mitwirkung.",
+      "Unter Mitwirkung aller Abteilungen."
+    ],
+    "synonyms": ["die Beteiligung", "die Teilnahme"],
+    "antonyms": []
+  },
+  {
+    "german": "beitragen",
+    "english": "to contribute",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Jeder kann etwas beitragen.",
+      "Das hat zum Erfolg beigetragen."
+    ],
+    "synonyms": ["mitwirken", "beisteuern"],
+    "antonyms": []
+  },
+  {
+    "german": "der Beitrag",
+    "english": "contribution",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Danke für Ihren Beitrag.",
+      "Er leistete einen wichtigen Beitrag."
+    ],
+    "synonyms": ["die Leistung", "der Anteil"],
+    "antonyms": []
+  },
+  {
+    "german": "reagieren",
+    "english": "to react",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Wie hat er reagiert?",
+      "Sie reagierte schnell."
+    ],
+    "synonyms": ["antworten", "erwidern"],
+    "antonyms": ["ignorieren"]
+  },
+  {
+    "german": "die Reaktion",
+    "english": "reaction",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Reaktion war positiv.",
+      "Eine unerwartete Reaktion."
+    ],
+    "synonyms": ["die Antwort", "die Erwiderung"],
+    "antonyms": []
+  },
+  {
+    "german": "erwidern",
+    "english": "to reply / to return",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er erwiderte den Gruß.",
+      "Sie erwiderte seine Gefühle nicht."
+    ],
+    "synonyms": ["antworten", "entgegnen"],
+    "antonyms": ["ignorieren"]
+  },
+  {
+    "german": "die Erwiderung",
+    "english": "reply",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Seine Erwiderung war scharf.",
+      "Ohne eine Erwiderung zu bekommen."
+    ],
+    "synonyms": ["die Antwort", "die Entgegnung"],
+    "antonyms": []
+  },
+  {
+    "german": "respektieren",
+    "english": "to respect",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Ich respektiere deine Meinung.",
+      "Man muss die Regeln respektieren."
+    ],
+    "synonyms": ["achten", "anerkennen"],
+    "antonyms": ["missachten"]
+  },
+  {
+    "german": "der Respekt",
+    "english": "respect",
+    "gender": "Maskulin",
+    "level": "B2",
+    "examples": [
+      "Er hat großen Respekt vor ihr.",
+      "Respekt zu verdienen ist wichtig."
+    ],
+    "synonyms": ["die Achtung", "die Anerkennung"],
+    "antonyms": ["die Missachtung"]
+  },
+  {
+    "german": "respektvoll",
+    "english": "respectful",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er war sehr respektvoll.",
+      "Ein respektvoller Umgang ist wichtig."
+    ],
+    "synonyms": ["achtungsvoll", "höflich"],
+    "antonyms": ["respektlos"]
+  },
+  {
+    "german": "respektlos",
+    "english": "disrespectful",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Das war respektlos.",
+      "Respektloses Verhalten wird nicht toleriert."
+    ],
+    "synonyms": ["unhöflich", "unverschämt"],
+    "antonyms": ["respektvoll"]
+  },
+  {
+    "german": "missachten",
+    "english": "to disregard",
+    "gender": "",
+    "level": "B2",
+    "examples": [
+      "Er missachtete die Regeln.",
+      "Seine Warnungen wurden missachtet."
+    ],
+    "synonyms": ["ignorieren", "übergehen"],
+    "antonyms": ["respektieren", "beachten"]
+  },
+  {
+    "german": "die Missachtung",
+    "english": "disregard",
+    "gender": "Feminin",
+    "level": "B2",
+    "examples": [
+      "Die Missachtung der Vorschriften ist strafbar.",
+      "Aus Missachtung seiner Gefühle."
+    ],
+    "synonyms": ["die Vernachlässigung", "die Nichtbeachtung"],
+    "antonyms": ["die Beachtung", "der Respekt"]
   }
 ]
