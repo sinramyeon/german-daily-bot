@@ -3,10 +3,11 @@
   "learned_words": {
     "a1": [],
     "a2": [],
-    "b1": []
+    "b1": [],
+    "b2": null
   },
   "last_study_date": "처음",
   "last_update_id": 966260460,
   "welcome_sent": false,
-  "last_welcome_date": "2025-12-15"
+  "last_welcome_date": "2025-12-22"
 }
